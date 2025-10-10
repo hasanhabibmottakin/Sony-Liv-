@@ -22,9 +22,10 @@ jobs:
         env:
           PLAYLIST_URL: ${{ secrets.URL }}
         run: |
-          import requests, json, re
+          python3 <<'PYCODE'
+          import requests, json, re, os
 
-          url = "${{ secrets.URL }}"
+          url = os.getenv("PLAYLIST_URL")
           print(f"Fetching playlist from: {url}")
 
           r = requests.get(url)
@@ -47,9 +48,13 @@ jobs:
                           "title": match.group(6).strip()
                       }
               elif line.startswith('http'):
-                  url, ua = line.split('|User-Agent=')
-                  current["url"] = url.strip()
-                  current["user_agent"] = ua.strip()
+                  if '|User-Agent=' in line:
+                      url, ua = line.split('|User-Agent=')
+                      current["url"] = url.strip()
+                      current["user_agent"] = ua.strip()
+                  else:
+                      current["url"] = line.strip()
+                      current["user_agent"] = "Unknown"
                   channels.append(current)
                   current = {}
 
@@ -59,19 +64,22 @@ jobs:
               "channels": channels
           }
 
-       
+          # Save api.json
           with open("api.json", "w") as f:
               json.dump(data, f, indent=2)
 
-          
+          # Save simplified playlist.json
           playlist = [{"id": c["id"], "name": c["title"], "url": c["url"]} for c in channels]
           with open("playlist.json", "w") as f:
               json.dump(playlist, f, indent=2)
+
+          print("Generated api.json and playlist.json successfully.")
+          PYCODE
 
       - name:  Commit and Push Changes
         run: |
           git config --global user.email "actions@github.com"
           git config --global user.name "GitHub Actions Bot"
           git add api.json playlist.json
-          git commit -m "Auto update Sony playlist $(date)"
+          git diff --cached --quiet || git commit -m "Auto update Sony playlist $(date)"
           git push
