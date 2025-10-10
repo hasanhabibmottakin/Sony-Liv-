@@ -1,13 +1,16 @@
-name: 🔁 Auto Update Sony Playlist
+name: 🔁 Auto Update Sony Events
 
 on:
   schedule:
-    - cron: "*/2 * * * *"  # Every 2 minutes
+    - cron: "*/2 * * * *"  # Run every 2 minutes
   workflow_dispatch:
 
 jobs:
   update-playlist:
     runs-on: ubuntu-latest
+
+    permissions:
+      contents: write  # ✅ Needed to allow push
 
     steps:
       - name: 🧩 Checkout repository
@@ -23,15 +26,15 @@ jobs:
           python3 -m pip install --upgrade pip
           pip install requests
 
-      - name: 📥 Fetch and Generate JSON
+      - name: 📥 Fetch and Generate Files
         env:
           PLAYLIST_URL: ${{ secrets.URL }}
         run: |
-          cat > fetch_script.py <<'PYCODE'
-          import requests, json, re, os
+          cat > sony_update.py <<'PYCODE'
+          import requests, re, json, os
 
           url = os.getenv("PLAYLIST_URL")
-          print(f"📡 Fetching playlist from: {url}")
+          print(f"📡 Fetching Sony Playlist from: {url}")
 
           try:
               r = requests.get(url)
@@ -58,8 +61,8 @@ jobs:
                       }
               elif line.startswith('http'):
                   if '|User-Agent=' in line:
-                      url, ua = line.split('|User-Agent=')
-                      current["url"] = url.strip()
+                      link, ua = line.split('|User-Agent=')
+                      current["url"] = link.strip()
                       current["user_agent"] = ua.strip()
                   else:
                       current["url"] = line.strip()
@@ -67,28 +70,441 @@ jobs:
                   channels.append(current)
                   current = {}
 
-          data = {
+          # ---- Generate playlist.m3u ----
+          m3u_lines = ["#EXTM3U", f"#UPDATED: {r.headers.get('Date', 'Unknown')}"]
+          for c in channels:
+              m3u_lines.append(f'#EXTINF:-1 tvg-id="{c["id"]}" tvg-name="{c["name"]}" tvg-logo="{c["logo"]}" tvg-language="{c["language"]}" group-title="{c["category"]}",{c["title"]}')
+              m3u_lines.append(f'{c["url"]}|User-Agent={c["user_agent"]}')
+          with open("playlist.m3u", "w", encoding="utf-8") as f:
+              f.write("\n".join(m3u_lines))
+
+          # ---- Generate sony_event.json ----
+          json_data = {
               "api_made_by": "bd coder boy",
               "updated": r.headers.get("Date", "Unknown"),
-              "channels": channels
+              "total_events": len(channels),
+              "events": channels
           }
+          with open("sony_event.json", "w", encoding="utf-8") as f:
+              json.dump(json_data, f, indent=2)
 
-          with open("api.json", "w") as f:
-              json.dump(data, f, indent=2)
-
-          playlist = [{"id": c["id"], "name": c["title"], "url": c["url"]} for c in channels]
-          with open("playlist.json", "w") as f:
-              json.dump(playlist, f, indent=2)
-
-          print(f"✅ Generated api.json and playlist.json ({len(channels)} channels)")
+          print(f"✅ Updated playlist.m3u and sony_event.json ({len(channels)} events)")
           PYCODE
 
-          python3 fetch_script.py
+          python3 sony_update.py
 
       - name: 💾 Commit and Push Changes
         run: |
           git config --global user.email "actions@github.com"
           git config --global user.name "GitHub Actions Bot"
-          git add api.json playlist.json
-          git diff --cached --quiet || git commit -m "Auto update Sony playlist $(date)"
+          git add playlist.m3u sony_event.json
+          git diff --cached --quiet || git commit -m "Auto update Sony events $(date)"
+          git push
+name: 🔁 Auto Update Sony Events
+
+on:
+  schedule:
+    - cron: "*/2 * * * *"  # Run every 2 minutes
+  workflow_dispatch:
+
+jobs:
+  update-playlist:
+    runs-on: ubuntu-latest
+
+    permissions:
+      contents: write  # ✅ Needed to allow push
+
+    steps:
+      - name: 🧩 Checkout repository
+        uses: actions/checkout@v4
+
+      - name: 🧰 Setup Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.x'
+
+      - name: 📦 Install dependencies
+        run: |
+          python3 -m pip install --upgrade pip
+          pip install requests
+
+      - name: 📥 Fetch and Generate Files
+        env:
+          PLAYLIST_URL: ${{ secrets.URL }}
+        run: |
+          cat > sony_update.py <<'PYCODE'
+          import requests, re, json, os
+
+          url = os.getenv("PLAYLIST_URL")
+          print(f"📡 Fetching Sony Playlist from: {url}")
+
+          try:
+              r = requests.get(url)
+              r.raise_for_status()
+          except Exception as e:
+              print(f"❌ Failed to fetch playlist: {e}")
+              exit(1)
+
+          content = r.text.strip().splitlines()
+          channels = []
+          current = {}
+
+          for line in content:
+              if line.startswith('#EXTINF:'):
+                  match = re.search(r'tvg-id="([^"]*)" tvg-name="([^"]*)" tvg-logo="([^"]*)" tvg-language="([^"]*)" group-title="([^"]*)",(.*)', line)
+                  if match:
+                      current = {
+                          "id": match.group(1),
+                          "name": match.group(2),
+                          "logo": match.group(3),
+                          "language": match.group(4),
+                          "category": match.group(5),
+                          "title": match.group(6).strip()
+                      }
+              elif line.startswith('http'):
+                  if '|User-Agent=' in line:
+                      link, ua = line.split('|User-Agent=')
+                      current["url"] = link.strip()
+                      current["user_agent"] = ua.strip()
+                  else:
+                      current["url"] = line.strip()
+                      current["user_agent"] = "Unknown"
+                  channels.append(current)
+                  current = {}
+
+          # ---- Generate playlist.m3u ----
+          m3u_lines = ["#EXTM3U", f"#UPDATED: {r.headers.get('Date', 'Unknown')}"]
+          for c in channels:
+              m3u_lines.append(f'#EXTINF:-1 tvg-id="{c["id"]}" tvg-name="{c["name"]}" tvg-logo="{c["logo"]}" tvg-language="{c["language"]}" group-title="{c["category"]}",{c["title"]}')
+              m3u_lines.append(f'{c["url"]}|User-Agent={c["user_agent"]}')
+          with open("playlist.m3u", "w", encoding="utf-8") as f:
+              f.write("\n".join(m3u_lines))
+
+          # ---- Generate sony_event.json ----
+          json_data = {
+              "api_made_by": "bd coder boy",
+              "updated": r.headers.get("Date", "Unknown"),
+              "total_events": len(channels),
+              "events": channels
+          }
+          with open("sony_event.json", "w", encoding="utf-8") as f:
+              json.dump(json_data, f, indent=2)
+
+          print(f"✅ Updated playlist.m3u and sony_event.json ({len(channels)} events)")
+          PYCODE
+
+          python3 sony_update.py
+
+      - name: 💾 Commit and Push Changes
+        run: |
+          git config --global user.email "actions@github.com"
+          git config --global user.name "GitHub Actions Bot"
+          git add playlist.m3u sony_event.json
+          git diff --cached --quiet || git commit -m "Auto update Sony events $(date)"
+          git push
+name: 🔁 Auto Update Sony Events
+
+on:
+  schedule:
+    - cron: "*/2 * * * *"  # Run every 2 minutes
+  workflow_dispatch:
+
+jobs:
+  update-playlist:
+    runs-on: ubuntu-latest
+
+    permissions:
+      contents: write  # ✅ Needed to allow push
+
+    steps:
+      - name: 🧩 Checkout repository
+        uses: actions/checkout@v4
+
+      - name: 🧰 Setup Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.x'
+
+      - name: 📦 Install dependencies
+        run: |
+          python3 -m pip install --upgrade pip
+          pip install requests
+
+      - name: 📥 Fetch and Generate Files
+        env:
+          PLAYLIST_URL: ${{ secrets.URL }}
+        run: |
+          cat > sony_update.py <<'PYCODE'
+          import requests, re, json, os
+
+          url = os.getenv("PLAYLIST_URL")
+          print(f"📡 Fetching Sony Playlist from: {url}")
+
+          try:
+              r = requests.get(url)
+              r.raise_for_status()
+          except Exception as e:
+              print(f"❌ Failed to fetch playlist: {e}")
+              exit(1)
+
+          content = r.text.strip().splitlines()
+          channels = []
+          current = {}
+
+          for line in content:
+              if line.startswith('#EXTINF:'):
+                  match = re.search(r'tvg-id="([^"]*)" tvg-name="([^"]*)" tvg-logo="([^"]*)" tvg-language="([^"]*)" group-title="([^"]*)",(.*)', line)
+                  if match:
+                      current = {
+                          "id": match.group(1),
+                          "name": match.group(2),
+                          "logo": match.group(3),
+                          "language": match.group(4),
+                          "category": match.group(5),
+                          "title": match.group(6).strip()
+                      }
+              elif line.startswith('http'):
+                  if '|User-Agent=' in line:
+                      link, ua = line.split('|User-Agent=')
+                      current["url"] = link.strip()
+                      current["user_agent"] = ua.strip()
+                  else:
+                      current["url"] = line.strip()
+                      current["user_agent"] = "Unknown"
+                  channels.append(current)
+                  current = {}
+
+          # ---- Generate playlist.m3u ----
+          m3u_lines = ["#EXTM3U", f"#UPDATED: {r.headers.get('Date', 'Unknown')}"]
+          for c in channels:
+              m3u_lines.append(f'#EXTINF:-1 tvg-id="{c["id"]}" tvg-name="{c["name"]}" tvg-logo="{c["logo"]}" tvg-language="{c["language"]}" group-title="{c["category"]}",{c["title"]}')
+              m3u_lines.append(f'{c["url"]}|User-Agent={c["user_agent"]}')
+          with open("playlist.m3u", "w", encoding="utf-8") as f:
+              f.write("\n".join(m3u_lines))
+
+          # ---- Generate sony_event.json ----
+          json_data = {
+              "api_made_by": "bd coder boy",
+              "updated": r.headers.get("Date", "Unknown"),
+              "total_events": len(channels),
+              "events": channels
+          }
+          with open("sony_event.json", "w", encoding="utf-8") as f:
+              json.dump(json_data, f, indent=2)
+
+          print(f"✅ Updated playlist.m3u and sony_event.json ({len(channels)} events)")
+          PYCODE
+
+          python3 sony_update.py
+
+      - name: 💾 Commit and Push Changes
+        run: |
+          git config --global user.email "actions@github.com"
+          git config --global user.name "GitHub Actions Bot"
+          git add playlist.m3u sony_event.json
+          git diff --cached --quiet || git commit -m "Auto update Sony events $(date)"
+          git push
+name: 🔁 Auto Update Sony Events
+
+on:
+  schedule:
+    - cron: "*/2 * * * *"  # Run every 2 minutes
+  workflow_dispatch:
+
+jobs:
+  update-playlist:
+    runs-on: ubuntu-latest
+
+    permissions:
+      contents: write  # ✅ Needed to allow push
+
+    steps:
+      - name: 🧩 Checkout repository
+        uses: actions/checkout@v4
+
+      - name: 🧰 Setup Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.x'
+
+      - name: 📦 Install dependencies
+        run: |
+          python3 -m pip install --upgrade pip
+          pip install requests
+
+      - name: 📥 Fetch and Generate Files
+        env:
+          PLAYLIST_URL: ${{ secrets.URL }}
+        run: |
+          cat > sony_update.py <<'PYCODE'
+          import requests, re, json, os
+
+          url = os.getenv("PLAYLIST_URL")
+          print(f"📡 Fetching Sony Playlist from: {url}")
+
+          try:
+              r = requests.get(url)
+              r.raise_for_status()
+          except Exception as e:
+              print(f"❌ Failed to fetch playlist: {e}")
+              exit(1)
+
+          content = r.text.strip().splitlines()
+          channels = []
+          current = {}
+
+          for line in content:
+              if line.startswith('#EXTINF:'):
+                  match = re.search(r'tvg-id="([^"]*)" tvg-name="([^"]*)" tvg-logo="([^"]*)" tvg-language="([^"]*)" group-title="([^"]*)",(.*)', line)
+                  if match:
+                      current = {
+                          "id": match.group(1),
+                          "name": match.group(2),
+                          "logo": match.group(3),
+                          "language": match.group(4),
+                          "category": match.group(5),
+                          "title": match.group(6).strip()
+                      }
+              elif line.startswith('http'):
+                  if '|User-Agent=' in line:
+                      link, ua = line.split('|User-Agent=')
+                      current["url"] = link.strip()
+                      current["user_agent"] = ua.strip()
+                  else:
+                      current["url"] = line.strip()
+                      current["user_agent"] = "Unknown"
+                  channels.append(current)
+                  current = {}
+
+          # ---- Generate playlist.m3u ----
+          m3u_lines = ["#EXTM3U", f"#UPDATED: {r.headers.get('Date', 'Unknown')}"]
+          for c in channels:
+              m3u_lines.append(f'#EXTINF:-1 tvg-id="{c["id"]}" tvg-name="{c["name"]}" tvg-logo="{c["logo"]}" tvg-language="{c["language"]}" group-title="{c["category"]}",{c["title"]}')
+              m3u_lines.append(f'{c["url"]}|User-Agent={c["user_agent"]}')
+          with open("playlist.m3u", "w", encoding="utf-8") as f:
+              f.write("\n".join(m3u_lines))
+
+          # ---- Generate sony_event.json ----
+          json_data = {
+              "api_made_by": "bd coder boy",
+              "updated": r.headers.get("Date", "Unknown"),
+              "total_events": len(channels),
+              "events": channels
+          }
+          with open("sony_event.json", "w", encoding="utf-8") as f:
+              json.dump(json_data, f, indent=2)
+
+          print(f"✅ Updated playlist.m3u and sony_event.json ({len(channels)} events)")
+          PYCODE
+
+          python3 sony_update.py
+
+      - name: 💾 Commit and Push Changes
+        run: |
+          git config --global user.email "actions@github.com"
+          git config --global user.name "GitHub Actions Bot"
+          git add playlist.m3u sony_event.json
+          git diff --cached --quiet || git commit -m "Auto update Sony events $(date)"
+          git push
+name: 🔁 Auto Update Sony Events
+
+on:
+  schedule:
+    - cron: "*/2 * * * *"  # Run every 2 minutes
+  workflow_dispatch:
+
+jobs:
+  update-playlist:
+    runs-on: ubuntu-latest
+
+    permissions:
+      contents: write  # ✅ Needed to allow push
+
+    steps:
+      - name: 🧩 Checkout repository
+        uses: actions/checkout@v4
+
+      - name: 🧰 Setup Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.x'
+
+      - name: 📦 Install dependencies
+        run: |
+          python3 -m pip install --upgrade pip
+          pip install requests
+
+      - name: 📥 Fetch and Generate Files
+        env:
+          PLAYLIST_URL: ${{ secrets.URL }}
+        run: |
+          cat > sony_update.py <<'PYCODE'
+          import requests, re, json, os
+
+          url = os.getenv("PLAYLIST_URL")
+          print(f"📡 Fetching Sony Playlist from: {url}")
+
+          try:
+              r = requests.get(url)
+              r.raise_for_status()
+          except Exception as e:
+              print(f"❌ Failed to fetch playlist: {e}")
+              exit(1)
+
+          content = r.text.strip().splitlines()
+          channels = []
+          current = {}
+
+          for line in content:
+              if line.startswith('#EXTINF:'):
+                  match = re.search(r'tvg-id="([^"]*)" tvg-name="([^"]*)" tvg-logo="([^"]*)" tvg-language="([^"]*)" group-title="([^"]*)",(.*)', line)
+                  if match:
+                      current = {
+                          "id": match.group(1),
+                          "name": match.group(2),
+                          "logo": match.group(3),
+                          "language": match.group(4),
+                          "category": match.group(5),
+                          "title": match.group(6).strip()
+                      }
+              elif line.startswith('http'):
+                  if '|User-Agent=' in line:
+                      link, ua = line.split('|User-Agent=')
+                      current["url"] = link.strip()
+                      current["user_agent"] = ua.strip()
+                  else:
+                      current["url"] = line.strip()
+                      current["user_agent"] = "Unknown"
+                  channels.append(current)
+                  current = {}
+
+          # ---- Generate playlist.m3u ----
+          m3u_lines = ["#EXTM3U", f"#UPDATED: {r.headers.get('Date', 'Unknown')}"]
+          for c in channels:
+              m3u_lines.append(f'#EXTINF:-1 tvg-id="{c["id"]}" tvg-name="{c["name"]}" tvg-logo="{c["logo"]}" tvg-language="{c["language"]}" group-title="{c["category"]}",{c["title"]}')
+              m3u_lines.append(f'{c["url"]}|User-Agent={c["user_agent"]}')
+          with open("playlist.m3u", "w", encoding="utf-8") as f:
+              f.write("\n".join(m3u_lines))
+
+          # ---- Generate sony_event.json ----
+          json_data = {
+              "api_made_by": "bd coder boy",
+              "updated": r.headers.get("Date", "Unknown"),
+              "total_events": len(channels),
+              "events": channels
+          }
+          with open("sony_event.json", "w", encoding="utf-8") as f:
+              json.dump(json_data, f, indent=2)
+
+          print(f"✅ Updated playlist.m3u and sony_event.json ({len(channels)} events)")
+          PYCODE
+
+          python3 sony_update.py
+
+      - name: 💾 Commit and Push Changes
+        run: |
+          git config --global user.email "actions@github.com"
+          git config --global user.name "GitHub Actions Bot"
+          git add playlist.m3u sony_event.json
+          git diff --cached --quiet || git commit -m "Auto update Sony events $(date)"
           git push
