@@ -1,6 +1,6 @@
 {
   "api_made_by": "bd coder boy",
-  "updated": "Fri, 10 Oct 2025 20:44:13 GMT",
+  "updated": "Fri, 10 Oct 2025 20:53:26 GMT",
   "total_events": 8,
   "events": [
     {
@@ -11,7 +11,7 @@
       "category": "Football",
       "title": "ENG | France vs Azerbaijan - MD 7 - 11 Oct 2025",
       "url": "https://sonymtmnew.akamaized.net/hls/live/2105079/DAI41ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1760168404~acl=/*~id=9936452107c34a9bb9b9c6a7e7325540-1760125203520~hmac=8dd9fa3a133162912c9bd97e1e8dadc94d64bf7c283943123ac7a259fb8aaf88",
-      "user_agent": "com.sonyliv/6.22.4 (Android 11; en_GB; Y Series; Build/RTO9.231122.002)"
+      "user_agent": "com.sonyliv/6.22.4 (Android 9; en_GB; CPH2015; Build/PPR1.180610.011)"
     },
     {
       "id": "1090492014",
@@ -21,7 +21,7 @@
       "category": "Football",
       "title": "ENG | Germany vs Luxembourg - MD 7 - 11 Oct 2025",
       "url": "https://sonymtmnew.akamaized.net/hls/live/2094589/DAI37ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1760168404~acl=/*~id=9936452107c34a9bb9b9c6a7e7325540-1760125203520~hmac=8dd9fa3a133162912c9bd97e1e8dadc94d64bf7c283943123ac7a259fb8aaf88",
-      "user_agent": "com.sonyliv/6.22.4 (Android 13; en_GB; CPH2325; Build/TP1A.220905.001)"
+      "user_agent": "com.sonyliv/6.22.4 (Android 13; en_GB; 2201116PI; Build/TKQ1.221114.001)"
     },
     {
       "id": "1090492070",
@@ -31,7 +31,7 @@
       "category": "Cricket",
       "title": "ENG | India's Asia Cup Glory 24x7",
       "url": "https://sonymtmnew.akamaized.net/hls/live/2022315/DAI11ME-AC24X7/master_lrh.m3u8?hdnea=exp=1760168404~acl=/*~id=9936452107c34a9bb9b9c6a7e7325540-1760125203520~hmac=8dd9fa3a133162912c9bd97e1e8dadc94d64bf7c283943123ac7a259fb8aaf88",
-      "user_agent": "com.sonyliv/6.22.4 (Android 9; en_GB; SM-G998B; Build/SP1A.210812.016)"
+      "user_agent": "com.sonyliv/6.22.4 (Android 15; en_GB; POCO M2 Pro; Build/BP1A.250901.009.D1)"
     },
     {
       "id": "1090491998",
@@ -41,7 +41,7 @@
       "category": "Football",
       "title": "ENG | Belgium vs North Macedonia - MD 7 - 11 Oct 2025",
       "url": "https://sonymtmnew.akamaized.net/hls/live/2037141/DAI21ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1760168404~acl=/*~id=9936452107c34a9bb9b9c6a7e7325540-1760125203520~hmac=8dd9fa3a133162912c9bd97e1e8dadc94d64bf7c283943123ac7a259fb8aaf88",
-      "user_agent": "com.sonyliv/6.22.4 (Android 8; en_GB; vivo 1820; Build/O11019)"
+      "user_agent": "com.sonyliv/6.22.4 (Android 8; en_GB; vivo 1816; Build/O11019)"
     },
     {
       "id": "1090492015",
@@ -51,7 +51,7 @@
       "category": "Football",
       "title": "ENG | Iceland vs Ukraine - MD 7 - 11 Oct 2025",
       "url": "https://sonymtmnew.akamaized.net/hls/live/2022315/DAI39ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1760168404~acl=/*~id=9936452107c34a9bb9b9c6a7e7325540-1760125203520~hmac=8dd9fa3a133162912c9bd97e1e8dadc94d64bf7c283943123ac7a259fb8aaf88",
-      "user_agent": "com.sonyliv/6.22.4 (Android 14; en_GB; CPH2461; Build/TP1A.220905.001)"
+      "user_agent": "com.sonyliv/6.22.4 (Android 11; en_GB; vivo 1904; Build/RP1A.200720.012)"
     },
     {
       "id": "1090492016",
@@ -61,7 +61,7 @@
       "category": "Football",
       "title": "ENG | Kosovo vs Slovenia - MD 7 - 11 Oct 2025",
       "url": "https://sonymtmnew.akamaized.net/hls/live/2022318/DAI40ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1760168404~acl=/*~id=9936452107c34a9bb9b9c6a7e7325540-1760125203520~hmac=8dd9fa3a133162912c9bd97e1e8dadc94d64bf7c283943123ac7a259fb8aaf88",
-      "user_agent": "com.sonyliv/6.22.4 (Android 9; en_GB; MIBOX4; Build/PI)"
+      "user_agent": "com.sonyliv/6.22.4 (Android 11; en_GB; 220333QBI; Build/RKQ1.211001.001)"
     },
     {
       "id": "1090492017",
@@ -71,7 +71,7 @@
       "category": "Football",
       "title": "ENG | Northern Ireland vs Slovakia - MD 7 - 11 Oct 2025",
       "url": "https://sonymtmnew.akamaized.net/hls/live/2022317/DAI42ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1760168404~acl=/*~id=9936452107c34a9bb9b9c6a7e7325540-1760125203520~hmac=8dd9fa3a133162912c9bd97e1e8dadc94d64bf7c283943123ac7a259fb8aaf88",
-      "user_agent": "com.sonyliv/6.22.4 (Android 14; en_GB; R3G; Build/UKR1.250114)"
+      "user_agent": "com.sonyliv/6.22.4 (Android 11; en_GB; DIX51R4KU; Build/RTK2.230523.045)"
     },
     {
       "id": "1090492018",
@@ -81,7 +81,7 @@
       "category": "Football",
       "title": "ENG | Sweden vs Switzerland - MD 7 - 11 Oct 2025",
       "url": "https://sonymtmnew.akamaized.net/hls/live/2018457/DAI43ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1760168404~acl=/*~id=9936452107c34a9bb9b9c6a7e7325540-1760125203520~hmac=8dd9fa3a133162912c9bd97e1e8dadc94d64bf7c283943123ac7a259fb8aaf88",
-      "user_agent": "com.sonyliv/6.22.4 (Android 11; en_GB; BRAVIA VU31; Build/RTK2.220814.001)"
+      "user_agent": "com.sonyliv/6.22.4 (Android 15; en_GB; RMX3842; Build/AP3A.240617.008)"
     }
   ]
 }
