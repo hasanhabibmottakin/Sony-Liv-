@@ -1,6 +1,6 @@
 {
   "api_made_by": "bd coder boy",
-  "updated": "Fri, 10 Oct 2025 17:43:32 GMT",
+  "updated": "Fri, 10 Oct 2025 17:53:04 GMT",
   "total_events": 2,
   "events": [
     {
@@ -11,7 +11,7 @@
       "category": "Game show",
       "title": "HIN | Kaun Banega Crorepati - Season 17",
       "url": "https://sonymtmnew.akamaized.net/hls/live/2022321/DAI17ME-KBC/master_lrh-800300010.m3u8?hdnea=exp=1760151609~acl=/*~id=d4955fab7bfb4e31ae58e455a3272832-1760108408374~hmac=392e2a396f06409ec6148c2721a682deab0e37f43d30688fe23dc02ca29b9bd4",
-      "user_agent": "com.sonyliv/6.22.4 (Android 11; en_GB; Smart TV; Build/AR2101)"
+      "user_agent": "com.sonyliv/6.22.4 (Android 9; en_GB; AFTMV00; Build/PS7704.5024N)"
     },
     {
       "id": "1090492070",
@@ -21,7 +21,7 @@
       "category": "Cricket",
       "title": "ENG | India's Asia Cup Glory 24x7",
       "url": "https://sonymtmnew.akamaized.net/hls/live/2022315/DAI11ME-AC24X7/master_lrh.m3u8?hdnea=exp=1760151609~acl=/*~id=d4955fab7bfb4e31ae58e455a3272832-1760108408374~hmac=392e2a396f06409ec6148c2721a682deab0e37f43d30688fe23dc02ca29b9bd4",
-      "user_agent": "com.sonyliv/6.22.4 (Android 14; en_GB; 22111317PI; Build/UKQ1.231003.002)"
+      "user_agent": "com.sonyliv/6.22.4 (Android 15; en_GB; V2439; Build/AP3A.240905.015.A2_V000L1)"
     }
   ]
 }
