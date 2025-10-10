@@ -1,0 +1,77 @@
+name: 🔁 Auto Update Sony Playlist
+
+on:
+  schedule:
+    - cron: "*/2 * * * *"  
+  workflow_dispatch:
+
+jobs:
+  update-playlist:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name:  Checkout repository
+        uses: actions/checkout@v4
+
+      - name:  Setup Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.x'
+
+      - name:  Fetch and Generate JSON
+        env:
+          PLAYLIST_URL: ${{ secrets.URL }}
+        run: |
+          import requests, json, re
+
+          url = "${{ secrets.URL }}"
+          print(f"Fetching playlist from: {url}")
+
+          r = requests.get(url)
+          r.raise_for_status()
+          content = r.text.strip().splitlines()
+
+          channels = []
+          current = {}
+
+          for line in content:
+              if line.startswith('#EXTINF:'):
+                  match = re.search(r'tvg-id="([^"]*)" tvg-name="([^"]*)" tvg-logo="([^"]*)" tvg-language="([^"]*)" group-title="([^"]*)",(.*)', line)
+                  if match:
+                      current = {
+                          "id": match.group(1),
+                          "name": match.group(2),
+                          "logo": match.group(3),
+                          "language": match.group(4),
+                          "category": match.group(5),
+                          "title": match.group(6).strip()
+                      }
+              elif line.startswith('http'):
+                  url, ua = line.split('|User-Agent=')
+                  current["url"] = url.strip()
+                  current["user_agent"] = ua.strip()
+                  channels.append(current)
+                  current = {}
+
+          data = {
+              "api_made_by": "bd coder boy",
+              "updated": r.headers.get("Date", "Unknown"),
+              "channels": channels
+          }
+
+       
+          with open("api.json", "w") as f:
+              json.dump(data, f, indent=2)
+
+          
+          playlist = [{"id": c["id"], "name": c["title"], "url": c["url"]} for c in channels]
+          with open("playlist.json", "w") as f:
+              json.dump(playlist, f, indent=2)
+
+      - name:  Commit and Push Changes
+        run: |
+          git config --global user.email "actions@github.com"
+          git config --global user.name "GitHub Actions Bot"
+          git add api.json playlist.json
+          git commit -m "Auto update Sony playlist $(date)"
+          git push
