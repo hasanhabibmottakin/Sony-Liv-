@@ -2,7 +2,7 @@ name: 🔁 Auto Update Sony Playlist
 
 on:
   schedule:
-    - cron: "*/2 * * * *"  
+    - cron: "*/2 * * * *"  # Every 2 minutes
   workflow_dispatch:
 
 jobs:
@@ -10,15 +10,20 @@ jobs:
     runs-on: ubuntu-latest
 
     steps:
-      - name:  Checkout repository
+      - name: 🧩 Checkout repository
         uses: actions/checkout@v4
 
-      - name:  Setup Python
+      - name: 🧰 Setup Python
         uses: actions/setup-python@v5
         with:
           python-version: '3.x'
 
-      - name:  Fetch and Generate JSON
+      - name: 📦 Install dependencies
+        run: |
+          python3 -m pip install --upgrade pip
+          pip install requests
+
+      - name: 📥 Fetch and Generate JSON
         env:
           PLAYLIST_URL: ${{ secrets.URL }}
         run: |
@@ -64,19 +69,17 @@ jobs:
               "channels": channels
           }
 
-          # Save api.json
           with open("api.json", "w") as f:
               json.dump(data, f, indent=2)
 
-          # Save simplified playlist.json
           playlist = [{"id": c["id"], "name": c["title"], "url": c["url"]} for c in channels]
           with open("playlist.json", "w") as f:
               json.dump(playlist, f, indent=2)
 
-          print("Generated api.json and playlist.json successfully.")
+          print(f"✅ Generated api.json and playlist.json ({len(channels)} channels)")
           PYCODE
 
-      - name:  Commit and Push Changes
+      - name: 💾 Commit and Push Changes
         run: |
           git config --global user.email "actions@github.com"
           git config --global user.name "GitHub Actions Bot"
