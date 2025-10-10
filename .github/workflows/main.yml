@@ -27,16 +27,20 @@ jobs:
         env:
           PLAYLIST_URL: ${{ secrets.URL }}
         run: |
-          python3 <<'PYCODE'
+          cat > fetch_script.py <<'PYCODE'
           import requests, json, re, os
 
           url = os.getenv("PLAYLIST_URL")
-          print(f"Fetching playlist from: {url}")
+          print(f"📡 Fetching playlist from: {url}")
 
-          r = requests.get(url)
-          r.raise_for_status()
+          try:
+              r = requests.get(url)
+              r.raise_for_status()
+          except Exception as e:
+              print(f"❌ Failed to fetch playlist: {e}")
+              exit(1)
+
           content = r.text.strip().splitlines()
-
           channels = []
           current = {}
 
@@ -78,6 +82,8 @@ jobs:
 
           print(f"✅ Generated api.json and playlist.json ({len(channels)} channels)")
           PYCODE
+
+          python3 fetch_script.py
 
       - name: 💾 Commit and Push Changes
         run: |
