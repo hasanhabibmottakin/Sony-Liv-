@@ -1,6 +1,6 @@
 {
   "api_made_by": "bd coder boy",
-  "updated": "Sat, 11 Oct 2025 13:31:49 GMT",
+  "updated": "Sat, 11 Oct 2025 13:43:03 GMT",
   "total_events": 4,
   "events": [
     {
@@ -11,27 +11,7 @@
       "category": "Cricket",
       "title": "ENG | India's Asia Cup Glory 24x7",
       "url": "https://sonymtmnew.akamaized.net/hls/live/2022315/DAI11ME-AC24X7/master_lrh.m3u8?hdnea=exp=1760217605~acl=/*~id=d674e989922744019772f8103fa91608-1760174403790~hmac=dab6c1d8566fd8f80fb2e4d4594aecce60e5ff39429aff98e68dba32c7a3317d",
-      "user_agent": "com.sonyliv/6.22.4 (Android 11; en_GB; SYLVOX  2K Google TV; Build/RTK4.241026.020)"
-    },
-    {
-      "id": "1090492068",
-      "name": "Extreme E 2025",
-      "logo": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000010040/1760014223501839_Extreme_E_and_Extreme_H_WC25_day3_9oct_landscape_thumb.jpg",
-      "language": "English",
-      "category": "Racing",
-      "title": "ENG | Day 3 - Extreme H World Cup - 11 Oct 2025",
-      "url": "https://sonymtmnew.akamaized.net/hls/live/2022322/DAI18ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1760217605~acl=/*~id=d674e989922744019772f8103fa91608-1760174403790~hmac=dab6c1d8566fd8f80fb2e4d4594aecce60e5ff39429aff98e68dba32c7a3317d",
-      "user_agent": "com.sonyliv/6.22.4 (Android 11; en_GB; DIX51R4KU; Build/RTK2.230523.045)"
-    },
-    {
-      "id": "1090492075",
-      "name": "European Qualifiers For 2026 FIFA World Cup",
-      "logo": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000009844/1759541222127830_EQ2526_Latvia_vs_Andorra_3oct_landscape_thumb.jpg",
-      "language": "English",
-      "category": "Football",
-      "title": "ENG | Latvia vs Andorra - MD 7 - 11 Oct 2025",
-      "url": "https://sonymtmnew.akamaized.net/hls/live/2022319/DAI15ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1760217605~acl=/*~id=d674e989922744019772f8103fa91608-1760174403790~hmac=dab6c1d8566fd8f80fb2e4d4594aecce60e5ff39429aff98e68dba32c7a3317d",
-      "user_agent": "com.sonyliv/6.22.4 (Android 11; en_GB; AI PONT; Build/RTM6.230109.082)"
+      "user_agent": "com.sonyliv/6.22.4 (Android 8; en_GB; vivo 1807; Build/OPM1.171019.026)"
     },
     {
       "id": "1090492069",
@@ -42,6 +22,26 @@
       "title": "ENG | Day 10 - 11 Oct 2025",
       "url": "https://sonymtmnew.akamaized.net/hls/live/2037139/DAI19ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1760217605~acl=/*~id=d674e989922744019772f8103fa91608-1760174403790~hmac=dab6c1d8566fd8f80fb2e4d4594aecce60e5ff39429aff98e68dba32c7a3317d",
       "user_agent": "com.sonyliv/6.22.4 (Android 11; en_GB; MiTV-MOSR1; Build/RTT8.210119.001)"
+    },
+    {
+      "id": "1090492068",
+      "name": "Extreme E 2025",
+      "logo": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000010040/1760014223501839_Extreme_E_and_Extreme_H_WC25_day3_9oct_landscape_thumb.jpg",
+      "language": "English",
+      "category": "Racing",
+      "title": "ENG | Day 3 - Extreme H World Cup - 11 Oct 2025",
+      "url": "https://sonymtmnew.akamaized.net/hls/live/2022322/DAI18ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1760217605~acl=/*~id=d674e989922744019772f8103fa91608-1760174403790~hmac=dab6c1d8566fd8f80fb2e4d4594aecce60e5ff39429aff98e68dba32c7a3317d",
+      "user_agent": "com.sonyliv/6.22.4 (Android 13; en_GB; SM-M326B; Build/TP1A.220624.014)"
+    },
+    {
+      "id": "1090492075",
+      "name": "European Qualifiers For 2026 FIFA World Cup",
+      "logo": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000009844/1759541222127830_EQ2526_Latvia_vs_Andorra_3oct_landscape_thumb.jpg",
+      "language": "English",
+      "category": "Football",
+      "title": "ENG | Latvia vs Andorra - MD 7 - 11 Oct 2025",
+      "url": "https://sonymtmnew.akamaized.net/hls/live/2022319/DAI15ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1760217605~acl=/*~id=d674e989922744019772f8103fa91608-1760174403790~hmac=dab6c1d8566fd8f80fb2e4d4594aecce60e5ff39429aff98e68dba32c7a3317d",
+      "user_agent": "com.sonyliv/6.22.4 (Android 10; en_GB; MiTV-MOOQ3; Build/QTG3.200305.006)"
     }
   ]
 }
