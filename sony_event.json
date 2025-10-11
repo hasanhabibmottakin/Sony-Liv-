@@ -1,17 +1,17 @@
 {
   "api_made_by": "bd coder boy",
-  "updated": "Sat, 11 Oct 2025 15:53:30 GMT",
-  "total_events": 5,
+  "updated": "Sat, 11 Oct 2025 16:13:30 GMT",
+  "total_events": 6,
   "events": [
     {
-      "id": "1090485196",
-      "name": "Super Dancer",
-      "logo": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000010119/1760149043306421_SuperDancer_Finale_10oct_simulcast_Landscape_Thumb.jpg",
+      "id": "1090491643",
+      "name": "India's Got Talent",
+      "logo": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000009943/1759813037535349_IGTS11_simulcast_7OCT_Landscape_Thumb_re1.jpg",
       "language": "Hindi",
-      "category": "Reality, Dance, Kids",
-      "title": "HIN | Super Dancer",
-      "url": "https://sonymtmnew.akamaized.net/hls/live/2094590/DAI25ME-SDC/master_lrh-800300010.m3u8?hdnea=exp=1760234408~acl=/*~id=4996ab1591c24673a8ada5fba5d1a50d-1760191206931~hmac=9d0c7ef27858c0429c96cb4fe1dbc746ecc768787f5e674e6194183ae22d62d8",
-      "user_agent": "com.sonyliv/6.22.4 (Android 15; en_GB; V2312; Build/AP3A.240905.015.A2_MOD1)"
+      "category": "Reality",
+      "title": "HIN | India\u2019s Got Talent",
+      "url": "https://sonymtmnew.akamaized.net/hls/live/2037142/DAI22ME-IGT/master_lrh-800300010.m3u8?hdnea=exp=1760234408~acl=/*~id=4996ab1591c24673a8ada5fba5d1a50d-1760191206931~hmac=9d0c7ef27858c0429c96cb4fe1dbc746ecc768787f5e674e6194183ae22d62d8",
+      "user_agent": "com.sonyliv/6.22.4 (Android 9; en_GB; HiSmartTV A4; Build/PTMR.190127.037)"
     },
     {
       "id": "1090492070",
@@ -21,27 +21,17 @@
       "category": "Cricket",
       "title": "ENG | India's Asia Cup Glory 24x7",
       "url": "https://sonymtmnew.akamaized.net/hls/live/2022315/DAI11ME-AC24X7/master_lrh.m3u8?hdnea=exp=1760234408~acl=/*~id=4996ab1591c24673a8ada5fba5d1a50d-1760191206931~hmac=9d0c7ef27858c0429c96cb4fe1dbc746ecc768787f5e674e6194183ae22d62d8",
-      "user_agent": "com.sonyliv/6.22.4 (Android 9; en_GB; Android TV S1; Build/PPR1.180610.011)"
+      "user_agent": "com.sonyliv/6.22.4 (Android 11; en_GB; Smart TV; Build/RP1A.201005.006)"
     },
     {
-      "id": "1090492069",
-      "name": "Archery Premier League 2025",
-      "logo": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000010123/1760158127102773_APL25_day10_10oct_landscape_thumb.jpg",
-      "language": "English",
-      "category": "Archery",
-      "title": "ENG | Day 10 - 11 Oct 2025",
-      "url": "https://sonymtmnew.akamaized.net/hls/live/2037139/DAI19ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1760234408~acl=/*~id=4996ab1591c24673a8ada5fba5d1a50d-1760191206931~hmac=9d0c7ef27858c0429c96cb4fe1dbc746ecc768787f5e674e6194183ae22d62d8",
-      "user_agent": "com.sonyliv/6.22.4 (Android 11; en_GB; vivo 1901; Build/RP1A.200720.012)"
-    },
-    {
-      "id": "1090492076",
-      "name": "European Qualifiers For 2026 FIFA World Cup",
-      "logo": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000009844/1759541363237830_EQ2526_Hungary_vs_Armenia_3oct_landscape_thumb.jpg",
-      "language": "English",
-      "category": "Football",
-      "title": "ENG | Hungary vs Armenia - MD 7 - 11 Oct 2025",
-      "url": "https://sonymtmnew.akamaized.net/hls/live/2037141/DAI21ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1760234408~acl=/*~id=4996ab1591c24673a8ada5fba5d1a50d-1760191206931~hmac=9d0c7ef27858c0429c96cb4fe1dbc746ecc768787f5e674e6194183ae22d62d8",
-      "user_agent": "com.sonyliv/6.22.4 (Android 15; en_GB; V2437; Build/AP3A.240905.015.A2_CS_V000L1)"
+      "id": "1090485196",
+      "name": "Super Dancer",
+      "logo": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000010119/1760149043306421_SuperDancer_Finale_10oct_simulcast_Landscape_Thumb.jpg",
+      "language": "Hindi",
+      "category": "Reality, Dance, Kids",
+      "title": "HIN | Super Dancer",
+      "url": "https://sonymtmnew.akamaized.net/hls/live/2094590/DAI25ME-SDC/master_lrh-800300010.m3u8?hdnea=exp=1760234408~acl=/*~id=4996ab1591c24673a8ada5fba5d1a50d-1760191206931~hmac=9d0c7ef27858c0429c96cb4fe1dbc746ecc768787f5e674e6194183ae22d62d8",
+      "user_agent": "com.sonyliv/6.22.4 (Android 9; en_GB; MIBOX4; Build/PI)"
     },
     {
       "id": "1090492077",
@@ -51,7 +41,27 @@
       "category": "Football",
       "title": "ENG | Norway vs Israel - MD 7 - 11 Oct 2025",
       "url": "https://sonymtmnew.akamaized.net/hls/live/2105079/DAI41ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1760234408~acl=/*~id=4996ab1591c24673a8ada5fba5d1a50d-1760191206931~hmac=9d0c7ef27858c0429c96cb4fe1dbc746ecc768787f5e674e6194183ae22d62d8",
-      "user_agent": "com.sonyliv/6.22.4 (Android 9; en_GB; MiTV-AXSO0; Build/PI)"
+      "user_agent": "com.sonyliv/6.22.4 (Android 9; en_GB; AFTMV00; Build/PS7704.5024N)"
+    },
+    {
+      "id": "1090492076",
+      "name": "European Qualifiers For 2026 FIFA World Cup",
+      "logo": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000009844/1759541363237830_EQ2526_Hungary_vs_Armenia_3oct_landscape_thumb.jpg",
+      "language": "English",
+      "category": "Football",
+      "title": "ENG | Hungary vs Armenia - MD 7 - 11 Oct 2025",
+      "url": "https://sonymtmnew.akamaized.net/hls/live/2037141/DAI21ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1760234408~acl=/*~id=4996ab1591c24673a8ada5fba5d1a50d-1760191206931~hmac=9d0c7ef27858c0429c96cb4fe1dbc746ecc768787f5e674e6194183ae22d62d8",
+      "user_agent": "com.sonyliv/6.22.4 (Android 11; en_GB; V2054; Build/RP1A.200720.012)"
+    },
+    {
+      "id": "1090492069",
+      "name": "Archery Premier League 2025",
+      "logo": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000010123/1760158127102773_APL25_day10_10oct_landscape_thumb.jpg",
+      "language": "English",
+      "category": "Archery",
+      "title": "ENG | Day 10 - 11 Oct 2025",
+      "url": "https://sonymtmnew.akamaized.net/hls/live/2037139/DAI19ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1760234408~acl=/*~id=4996ab1591c24673a8ada5fba5d1a50d-1760191206931~hmac=9d0c7ef27858c0429c96cb4fe1dbc746ecc768787f5e674e6194183ae22d62d8",
+      "user_agent": "com.sonyliv/6.22.4 (Android 11; en_GB; SMART TV; Build/RP1A.200720.011)"
     }
   ]
 }
