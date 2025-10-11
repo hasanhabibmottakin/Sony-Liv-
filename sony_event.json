@@ -1,6 +1,6 @@
 {
   "api_made_by": "bd coder boy",
-  "updated": "Sat, 11 Oct 2025 16:53:18 GMT",
+  "updated": "Sat, 11 Oct 2025 17:09:45 GMT",
   "total_events": 4,
   "events": [
     {
@@ -11,7 +11,7 @@
       "category": "Reality",
       "title": "HIN | India\u2019s Got Talent",
       "url": "https://sonymtmnew.akamaized.net/hls/live/2037142/DAI22ME-IGT/master_lrh-800300010.m3u8?hdnea=exp=1760234408~acl=/*~id=4996ab1591c24673a8ada5fba5d1a50d-1760191206931~hmac=9d0c7ef27858c0429c96cb4fe1dbc746ecc768787f5e674e6194183ae22d62d8",
-      "user_agent": "com.sonyliv/6.22.4 (Android 6; en_GB; ASUS_Z01QD; Build/V417IR)"
+      "user_agent": "com.sonyliv/6.22.4 (Android 8; en_GB; vivo 1816; Build/O11019)"
     },
     {
       "id": "1090492070",
@@ -21,7 +21,7 @@
       "category": "Cricket",
       "title": "ENG | India's Asia Cup Glory 24x7",
       "url": "https://sonymtmnew.akamaized.net/hls/live/2022315/DAI11ME-AC24X7/master_lrh.m3u8?hdnea=exp=1760234408~acl=/*~id=4996ab1591c24673a8ada5fba5d1a50d-1760191206931~hmac=9d0c7ef27858c0429c96cb4fe1dbc746ecc768787f5e674e6194183ae22d62d8",
-      "user_agent": "com.sonyliv/6.22.4 (Android 13; en_GB; 2201116PI; Build/TKQ1.221114.001)"
+      "user_agent": "com.sonyliv/6.22.4 (Android 13; en_GB; RMX3241; Build/TP1A.220905.001)"
     },
     {
       "id": "1090492077",
@@ -31,7 +31,7 @@
       "category": "Football",
       "title": "ENG | Norway vs Israel - MD 7 - 11 Oct 2025",
       "url": "https://sonymtmnew.akamaized.net/hls/live/2105079/DAI41ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1760234408~acl=/*~id=4996ab1591c24673a8ada5fba5d1a50d-1760191206931~hmac=9d0c7ef27858c0429c96cb4fe1dbc746ecc768787f5e674e6194183ae22d62d8",
-      "user_agent": "com.sonyliv/6.22.4 (Android 11; en_GB; MiTV-AXFR2; Build/RTT0.210630.002)"
+      "user_agent": "com.sonyliv/6.22.4 (Android 15; en_GB; V2403; Build/AP3A.240905.015.A2)"
     },
     {
       "id": "1090492076",
@@ -41,7 +41,7 @@
       "category": "Football",
       "title": "ENG | Hungary vs Armenia - MD 7 - 11 Oct 2025",
       "url": "https://sonymtmnew.akamaized.net/hls/live/2037141/DAI21ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1760234408~acl=/*~id=4996ab1591c24673a8ada5fba5d1a50d-1760191206931~hmac=9d0c7ef27858c0429c96cb4fe1dbc746ecc768787f5e674e6194183ae22d62d8",
-      "user_agent": "com.sonyliv/6.22.4 (Android 13; en_GB; V2050; Build/TP1A.220624.014)"
+      "user_agent": "com.sonyliv/6.22.4 (Android 15; en_GB; V2202; Build/AP3A.240905.015.A2_IN)"
     }
   ]
 }
