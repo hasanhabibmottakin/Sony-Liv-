@@ -1,8 +1,18 @@
 {
   "api_made_by": "bd coder boy",
-  "updated": "Sat, 11 Oct 2025 14:10:18 GMT",
+  "updated": "Sat, 11 Oct 2025 14:28:40 GMT",
   "total_events": 4,
   "events": [
+    {
+      "id": "1090485196",
+      "name": "Super Dancer",
+      "logo": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000010119/1760149043306421_SuperDancer_Finale_10oct_simulcast_Landscape_Thumb.jpg",
+      "language": "Hindi",
+      "category": "Reality, Dance, Kids",
+      "title": "HIN | Super Dancer",
+      "url": "https://sonymtmnew.akamaized.net/hls/live/2094590/DAI25ME-SDC/master_lrh-800300010.m3u8?hdnea=exp=1760234408~acl=/*~id=4996ab1591c24673a8ada5fba5d1a50d-1760191206931~hmac=9d0c7ef27858c0429c96cb4fe1dbc746ecc768787f5e674e6194183ae22d62d8",
+      "user_agent": "com.sonyliv/6.22.4 (Android 11; en_GB; Smart TV; Build/RTT2.220118.001)"
+    },
     {
       "id": "1090492070",
       "name": "Asia Cup 2025",
@@ -10,8 +20,8 @@
       "language": "English",
       "category": "Cricket",
       "title": "ENG | India's Asia Cup Glory 24x7",
-      "url": "https://sonymtmnew.akamaized.net/hls/live/2022315/DAI11ME-AC24X7/master_lrh.m3u8?hdnea=exp=1760217605~acl=/*~id=d674e989922744019772f8103fa91608-1760174403790~hmac=dab6c1d8566fd8f80fb2e4d4594aecce60e5ff39429aff98e68dba32c7a3317d",
-      "user_agent": "com.sonyliv/6.22.4 (Android 15; en_GB; V2427; Build/AP3A.240905.015.A2_NN_V000L1)"
+      "url": "https://sonymtmnew.akamaized.net/hls/live/2022315/DAI11ME-AC24X7/master_lrh.m3u8?hdnea=exp=1760234408~acl=/*~id=4996ab1591c24673a8ada5fba5d1a50d-1760191206931~hmac=9d0c7ef27858c0429c96cb4fe1dbc746ecc768787f5e674e6194183ae22d62d8",
+      "user_agent": "com.sonyliv/6.22.4 (Android 14; en_GB; MiTV-MZTU0; Build/UKN1.240806.017)"
     },
     {
       "id": "1090492069",
@@ -20,18 +30,8 @@
       "language": "English",
       "category": "Archery",
       "title": "ENG | Day 10 - 11 Oct 2025",
-      "url": "https://sonymtmnew.akamaized.net/hls/live/2037139/DAI19ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1760217605~acl=/*~id=d674e989922744019772f8103fa91608-1760174403790~hmac=dab6c1d8566fd8f80fb2e4d4594aecce60e5ff39429aff98e68dba32c7a3317d",
-      "user_agent": "com.sonyliv/6.22.4 (Android 15; en_GB; CPH2617; Build/AP3A.240617.008)"
-    },
-    {
-      "id": "1090492068",
-      "name": "Extreme E 2025",
-      "logo": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000010040/1760014223501839_Extreme_E_and_Extreme_H_WC25_day3_9oct_landscape_thumb.jpg",
-      "language": "English",
-      "category": "Racing",
-      "title": "ENG | Day 3 - Extreme H World Cup - 11 Oct 2025",
-      "url": "https://sonymtmnew.akamaized.net/hls/live/2022322/DAI18ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1760217605~acl=/*~id=d674e989922744019772f8103fa91608-1760174403790~hmac=dab6c1d8566fd8f80fb2e4d4594aecce60e5ff39429aff98e68dba32c7a3317d",
-      "user_agent": "com.sonyliv/6.22.4 (Android 11; en_GB; ATV R2; Build/RTT7.220308.001)"
+      "url": "https://sonymtmnew.akamaized.net/hls/live/2037139/DAI19ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1760234408~acl=/*~id=4996ab1591c24673a8ada5fba5d1a50d-1760191206931~hmac=9d0c7ef27858c0429c96cb4fe1dbc746ecc768787f5e674e6194183ae22d62d8",
+      "user_agent": "com.sonyliv/6.22.4 (Android 9; en_GB; BeyondTV; Build/PPR1.180610.011)"
     },
     {
       "id": "1090492075",
@@ -40,8 +40,8 @@
       "language": "English",
       "category": "Football",
       "title": "ENG | Latvia vs Andorra - MD 7 - 11 Oct 2025",
-      "url": "https://sonymtmnew.akamaized.net/hls/live/2022319/DAI15ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1760217605~acl=/*~id=d674e989922744019772f8103fa91608-1760174403790~hmac=dab6c1d8566fd8f80fb2e4d4594aecce60e5ff39429aff98e68dba32c7a3317d",
-      "user_agent": "com.sonyliv/6.22.4 (Android 14; en_GB; SMART_TV; Build/UP1A.231105.003.A1)"
+      "url": "https://sonymtmnew.akamaized.net/hls/live/2022319/DAI15ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1760234408~acl=/*~id=4996ab1591c24673a8ada5fba5d1a50d-1760191206931~hmac=9d0c7ef27858c0429c96cb4fe1dbc746ecc768787f5e674e6194183ae22d62d8",
+      "user_agent": "com.sonyliv/6.22.4 (Android 11; en_GB; BRAVIA VU31; Build/RTK2.220814.001)"
     }
   ]
 }
