@@ -1,6 +1,6 @@
 {
   "api_made_by": "bd coder boy",
-  "updated": "Sat, 11 Oct 2025 18:35:09 GMT",
+  "updated": "Sat, 11 Oct 2025 18:45:21 GMT",
   "total_events": 6,
   "events": [
     {
@@ -11,7 +11,7 @@
       "category": "Football",
       "title": "ENG | Portugal vs Republic of Ireland - MD 7 - 12 Oct 2025",
       "url": "https://sonymtmnew.akamaized.net/hls/live/2022318/DAI40ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1760234408~acl=/*~id=4996ab1591c24673a8ada5fba5d1a50d-1760191206931~hmac=9d0c7ef27858c0429c96cb4fe1dbc746ecc768787f5e674e6194183ae22d62d8",
-      "user_agent": "com.sonyliv/6.22.4 (Android 9; en_GB; MIBOX4; Build/PI)"
+      "user_agent": "com.sonyliv/6.22.4 (Android 9; en_GB; N.H352.818; Build/PPR1.180610.011)"
     },
     {
       "id": "1090492082",
@@ -21,7 +21,7 @@
       "category": "Football",
       "title": "ENG | Spain vs Georgia - MD 7 - 12 Oct 2025",
       "url": "https://sonymtmnew.akamaized.net/hls/live/2018457/DAI43ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1760234408~acl=/*~id=4996ab1591c24673a8ada5fba5d1a50d-1760191206931~hmac=9d0c7ef27858c0429c96cb4fe1dbc746ecc768787f5e674e6194183ae22d62d8",
-      "user_agent": "com.sonyliv/6.22.4 (Android 13; en_GB; RMX3624; Build/TP1A.220624.014)"
+      "user_agent": "com.sonyliv/6.22.4 (Android 9; en_GB; mt9255l; Build/PPR2.180905.006.A1)"
     },
     {
       "id": "1090492070",
@@ -31,7 +31,7 @@
       "category": "Cricket",
       "title": "ENG | India's Asia Cup Glory 24x7",
       "url": "https://sonymtmnew.akamaized.net/hls/live/2022315/DAI11ME-AC24X7/master_lrh.m3u8?hdnea=exp=1760234408~acl=/*~id=4996ab1591c24673a8ada5fba5d1a50d-1760191206931~hmac=9d0c7ef27858c0429c96cb4fe1dbc746ecc768787f5e674e6194183ae22d62d8",
-      "user_agent": "com.sonyliv/6.22.4 (Android 9; en_GB; MiTV-AXSO0; Build/PI)"
+      "user_agent": "com.sonyliv/6.22.4 (Android 15; en_GB; V2416; Build/AP3A.240905.015.A2)"
     },
     {
       "id": "1090492079",
@@ -41,7 +41,7 @@
       "category": "Football",
       "title": "ENG | Estonia vs Italy - MD 7 - 12 Oct 2025",
       "url": "https://sonymtmnew.akamaized.net/hls/live/2022315/DAI39ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1760234408~acl=/*~id=4996ab1591c24673a8ada5fba5d1a50d-1760191206931~hmac=9d0c7ef27858c0429c96cb4fe1dbc746ecc768787f5e674e6194183ae22d62d8",
-      "user_agent": "com.sonyliv/6.22.4 (Android 9; en_GB; MiTV-AXSO0; Build/PI)"
+      "user_agent": "com.sonyliv/6.22.4 (Android 15; en_GB; V2416; Build/AP3A.240905.015.A2)"
     },
     {
       "id": "1090492078",
@@ -51,7 +51,7 @@
       "category": "Football",
       "title": "ENG | Bulgaria vs Turkiye - MD 7 - 12 Oct 2025",
       "url": "https://sonymtmnew.akamaized.net/hls/live/2094589/DAI37ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1760234408~acl=/*~id=4996ab1591c24673a8ada5fba5d1a50d-1760191206931~hmac=9d0c7ef27858c0429c96cb4fe1dbc746ecc768787f5e674e6194183ae22d62d8",
-      "user_agent": "com.sonyliv/6.22.4 (Android 12; en_GB; SM-G781B; Build/SP1A.210812.016)"
+      "user_agent": "com.sonyliv/6.22.4 (Android 9; en_GB; MiTV4I; Build/PI)"
     },
     {
       "id": "1090492081",
@@ -61,7 +61,7 @@
       "category": "Football",
       "title": "ENG | Serbia vs Albania - MD 7 - 12 Oct 2025",
       "url": "https://sonymtmnew.akamaized.net/hls/live/2022317/DAI42ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1760234408~acl=/*~id=4996ab1591c24673a8ada5fba5d1a50d-1760191206931~hmac=9d0c7ef27858c0429c96cb4fe1dbc746ecc768787f5e674e6194183ae22d62d8",
-      "user_agent": "com.sonyliv/6.22.4 (Android 12; en_GB; SM-G781B; Build/SP1A.210812.016)"
+      "user_agent": "com.sonyliv/6.22.4 (Android 14; en_GB; SM-M045F; Build/UP1A.231005.007)"
     }
   ]
 }
