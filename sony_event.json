@@ -1,6 +1,6 @@
 {
   "api_made_by": "bd coder boy",
-  "updated": "Sun, 12 Oct 2025 19:24:23 GMT",
+  "updated": "Sun, 12 Oct 2025 19:34:39 GMT",
   "total_events": 5,
   "events": [
     {
@@ -11,7 +11,7 @@
       "category": "Football",
       "title": "ENG | Croatia vs Gibraltar - MD 8 - 13 Oct 2025",
       "url": "https://sonymtmnew.akamaized.net/hls/live/2022315/DAI39ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1760335209~acl=/*~id=a2f063c312b94adea27988763040e65b-1760292007052~hmac=8ef02e02197872413b9b7ba4dc3a8870c6aabafd833faa8b8e29e40c4033ea89",
-      "user_agent": "com.sonyliv/6.22.4 (Android 13; en_GB; M2101K7BI; Build/TP1A.220624.014)"
+      "user_agent": "com.sonyliv/6.22.4 (Android 9; en_GB; MIBOX4; Build/PI)"
     },
     {
       "id": "1090492070",
@@ -21,7 +21,7 @@
       "category": "Cricket",
       "title": "ENG | India's Asia Cup Glory 24x7",
       "url": "https://sonymtmnew.akamaized.net/hls/live/2022315/DAI11ME-AC24X7/master_lrh.m3u8?hdnea=exp=1760335209~acl=/*~id=a2f063c312b94adea27988763040e65b-1760292007052~hmac=8ef02e02197872413b9b7ba4dc3a8870c6aabafd833faa8b8e29e40c4033ea89",
-      "user_agent": "com.sonyliv/6.22.4 (Android 8; en_GB; vivo 1816; Build/O11019)"
+      "user_agent": "com.sonyliv/6.22.4 (Android 12; en_GB; Redmi Note 9 Pro Max; Build/SKQ1.211019.001)"
     },
     {
       "id": "1090492146",
@@ -31,7 +31,7 @@
       "category": "Football",
       "title": "ENG | Denmark vs Greece - MD 8 - 13 Oct 2025",
       "url": "https://sonymtmnew.akamaized.net/hls/live/2022318/DAI40ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1760335209~acl=/*~id=a2f063c312b94adea27988763040e65b-1760292007052~hmac=8ef02e02197872413b9b7ba4dc3a8870c6aabafd833faa8b8e29e40c4033ea89",
-      "user_agent": "com.sonyliv/6.22.4 (Android 15; en_GB; CPH2617; Build/AP3A.240617.008)"
+      "user_agent": "com.sonyliv/6.22.4 (Android 11; en_GB; MiTV-AXFR1; Build/RTT0.210630.002)"
     },
     {
       "id": "1090492147",
@@ -41,7 +41,7 @@
       "category": "Football",
       "title": "ENG | Lithuania vs Poland - MD 8 - 13 Oct 2025",
       "url": "https://sonymtmnew.akamaized.net/hls/live/2022317/DAI42ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1760335209~acl=/*~id=a2f063c312b94adea27988763040e65b-1760292007052~hmac=8ef02e02197872413b9b7ba4dc3a8870c6aabafd833faa8b8e29e40c4033ea89",
-      "user_agent": "com.sonyliv/6.22.4 (Android 15; en_GB; V2202; Build/AP3A.240905.015.A2_IN)"
+      "user_agent": "com.sonyliv/6.22.4 (Android 15; en_GB; V2427; Build/AP3A.240905.015.A2_NN_V000L1)"
     },
     {
       "id": "1090492148",
@@ -51,7 +51,7 @@
       "category": "Football",
       "title": "ENG | Romania vs Austria - MD 8 - 13 Oct 2025",
       "url": "https://sonymtmnew.akamaized.net/hls/live/2018457/DAI43ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1760335209~acl=/*~id=a2f063c312b94adea27988763040e65b-1760292007052~hmac=8ef02e02197872413b9b7ba4dc3a8870c6aabafd833faa8b8e29e40c4033ea89",
-      "user_agent": "com.sonyliv/6.22.4 (Android 10; en_GB; KM9PRO; Build/QT)"
+      "user_agent": "com.sonyliv/6.22.4 (Android 13; en_GB; CPH2325; Build/TP1A.220905.001)"
     }
   ]
 }
