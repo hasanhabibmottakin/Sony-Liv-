@@ -1,6 +1,6 @@
 {
   "api_made_by": "bd coder boy",
-  "updated": "Sun, 12 Oct 2025 06:41:01 GMT",
+  "updated": "Sun, 12 Oct 2025 06:53:18 GMT",
   "total_events": 2,
   "events": [
     {
@@ -10,8 +10,8 @@
       "language": "English",
       "category": "Cricket",
       "title": "ENG | India's Asia Cup Glory 24x7",
-      "url": "https://sonymtmnew.akamaized.net/hls/live/2022315/DAI11ME-AC24X7/master_lrh.m3u8?hdnea=exp=1760276404~acl=/*~id=8967656be4fe4f4b8a06113bcf915523-1760233202607~hmac=c2d29833b04a8e390246e5204c9a9af2e829578e48255c0bff84b38530f4da47",
-      "user_agent": "com.sonyliv/6.22.4 (Android 15; en_GB; V2312; Build/AP3A.240905.015.A2_MOD1)"
+      "url": "https://sonymtmnew.akamaized.net/hls/live/2022315/DAI11ME-AC24X7/master_lrh.m3u8?hdnea=exp=1760289004~acl=/*~id=8ce410f58e364de99abd07391358c5d5-1760245802608~hmac=b18dcaa737a7951a5b3814e510a135cee9468e011e3418aa034839fd048e131e",
+      "user_agent": "com.sonyliv/6.22.4 (Android 10; en_GB; ANTBOX-6; Build/QP1A.191105.004)"
     },
     {
       "id": "1090492134",
@@ -20,8 +20,8 @@
       "language": "English",
       "category": "Tennis",
       "title": "ENG | Goransson/Michelsen vs Krawietz/Puetz - Final - 12 Oct 2025",
-      "url": "https://sonymtmnew.akamaized.net/hls/live/2037143/DAI23ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1760276404~acl=/*~id=8967656be4fe4f4b8a06113bcf915523-1760233202607~hmac=c2d29833b04a8e390246e5204c9a9af2e829578e48255c0bff84b38530f4da47",
-      "user_agent": "com.sonyliv/6.22.4 (Android 14; en_GB; 22111317PI; Build/UKQ1.231003.002)"
+      "url": "https://sonymtmnew.akamaized.net/hls/live/2037143/DAI23ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1760289004~acl=/*~id=8ce410f58e364de99abd07391358c5d5-1760245802608~hmac=b18dcaa737a7951a5b3814e510a135cee9468e011e3418aa034839fd048e131e",
+      "user_agent": "com.sonyliv/6.22.4 (Android 14; en_GB; moto g35 5G; Build/UOA34.216-230)"
     }
   ]
 }
