@@ -1,18 +1,8 @@
 {
   "api_made_by": "bd coder boy",
-  "updated": "Sun, 12 Oct 2025 20:53:17 GMT",
-  "total_events": 5,
+  "updated": "Sun, 12 Oct 2025 21:10:45 GMT",
+  "total_events": 1,
   "events": [
-    {
-      "id": "1090492145",
-      "name": "European Qualifiers For 2026 FIFA World Cup",
-      "logo": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000009847/1759544693314839_EQ2526_MD8_Croatia_vs_Gibraltar_3oct_landscape_thumb.jpg",
-      "language": "English",
-      "category": "Football",
-      "title": "ENG | Croatia vs Gibraltar - MD 8 - 13 Oct 2025",
-      "url": "https://sonymtmnew.akamaized.net/hls/live/2022315/DAI39ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1760335209~acl=/*~id=a2f063c312b94adea27988763040e65b-1760292007052~hmac=8ef02e02197872413b9b7ba4dc3a8870c6aabafd833faa8b8e29e40c4033ea89",
-      "user_agent": "com.sonyliv/6.22.4 (Android 9; en_GB; mt9255l; Build/PPR2.180905.006.A1)"
-    },
     {
       "id": "1090492070",
       "name": "Asia Cup 2025",
@@ -21,37 +11,7 @@
       "category": "Cricket",
       "title": "ENG | India's Asia Cup Glory 24x7",
       "url": "https://sonymtmnew.akamaized.net/hls/live/2022315/DAI11ME-AC24X7/master_lrh.m3u8?hdnea=exp=1760335209~acl=/*~id=a2f063c312b94adea27988763040e65b-1760292007052~hmac=8ef02e02197872413b9b7ba4dc3a8870c6aabafd833faa8b8e29e40c4033ea89",
-      "user_agent": "com.sonyliv/6.22.4 (Android 11; en_GB; 2K NSTV; Build/RTM8.240401.091)"
-    },
-    {
-      "id": "1090492146",
-      "name": "European Qualifiers For 2026 FIFA World Cup",
-      "logo": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000009847/1759544815795839_EQ2526_MD8_Denmark_vs_Greece_3oct_landscape_thumb.jpg",
-      "language": "English",
-      "category": "Football",
-      "title": "ENG | Denmark vs Greece - MD 8 - 13 Oct 2025",
-      "url": "https://sonymtmnew.akamaized.net/hls/live/2022318/DAI40ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1760335209~acl=/*~id=a2f063c312b94adea27988763040e65b-1760292007052~hmac=8ef02e02197872413b9b7ba4dc3a8870c6aabafd833faa8b8e29e40c4033ea89",
-      "user_agent": "com.sonyliv/6.22.4 (Android 13; en_GB; CPH2285; Build/TP1A.220905.001)"
-    },
-    {
-      "id": "1090492147",
-      "name": "European Qualifiers For 2026 FIFA World Cup",
-      "logo": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000009847/1759544929992839_EQ2526_MD8_Lithuania_vs_Poland_3oct_landscape_thumb.jpg",
-      "language": "English",
-      "category": "Football",
-      "title": "ENG | Lithuania vs Poland - MD 8 - 13 Oct 2025",
-      "url": "https://sonymtmnew.akamaized.net/hls/live/2022317/DAI42ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1760335209~acl=/*~id=a2f063c312b94adea27988763040e65b-1760292007052~hmac=8ef02e02197872413b9b7ba4dc3a8870c6aabafd833faa8b8e29e40c4033ea89",
-      "user_agent": "com.sonyliv/6.22.4 (Android 13; en_GB; RMX3241; Build/TP1A.220905.001)"
-    },
-    {
-      "id": "1090492148",
-      "name": "European Qualifiers For 2026 FIFA World Cup",
-      "logo": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000009847/1759545046973839_EQ2526_MD8_Romania_vs_Austria_3oct_landscape_thumb.jpg",
-      "language": "English",
-      "category": "Football",
-      "title": "ENG | Romania vs Austria - MD 8 - 13 Oct 2025",
-      "url": "https://sonymtmnew.akamaized.net/hls/live/2018457/DAI43ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1760335209~acl=/*~id=a2f063c312b94adea27988763040e65b-1760292007052~hmac=8ef02e02197872413b9b7ba4dc3a8870c6aabafd833faa8b8e29e40c4033ea89",
-      "user_agent": "com.sonyliv/6.22.4 (Android 15; en_GB; V2312; Build/AP3A.240905.015.A2_MOD1)"
+      "user_agent": "com.sonyliv/6.22.4 (Android 11; en_GB; Mi A3; Build/RKQ1.200903.002)"
     }
   ]
 }
