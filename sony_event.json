@@ -1,6 +1,6 @@
 {
   "api_made_by": "bd coder boy",
-  "updated": "Sun, 12 Oct 2025 17:35:23 GMT",
+  "updated": "Sun, 12 Oct 2025 17:43:26 GMT",
   "total_events": 6,
   "events": [
     {
@@ -11,7 +11,7 @@
       "category": "Reality",
       "title": "HIN | India\u2019s Got Talent",
       "url": "https://sonymtmnew.akamaized.net/hls/live/2037142/DAI22ME-IGT/master_lrh-800300010.m3u8?hdnea=exp=1760318405~acl=/*~id=61758d1818334c269d046b7f7d818986-1760275202904~hmac=8db7855ede265a34688a3bda47057a5bdd3dbd1f8fbe8f81698e17dae6f236b6",
-      "user_agent": "com.sonyliv/6.22.4 (Android 12; en_GB; DVM4KA01; Build/STTC.230104.002)"
+      "user_agent": "com.sonyliv/6.22.4 (Android 9; en_GB; SMART_TV; Build/PPR1.180610.011)"
     },
     {
       "id": "1090492143",
@@ -31,7 +31,7 @@
       "category": "Cricket",
       "title": "ENG | India's Asia Cup Glory 24x7",
       "url": "https://sonymtmnew.akamaized.net/hls/live/2022315/DAI11ME-AC24X7/master_lrh.m3u8?hdnea=exp=1760318405~acl=/*~id=61758d1818334c269d046b7f7d818986-1760275202904~hmac=8db7855ede265a34688a3bda47057a5bdd3dbd1f8fbe8f81698e17dae6f236b6",
-      "user_agent": "com.sonyliv/6.22.4 (Android 13; en_GB; RMX3241; Build/TP1A.220905.001)"
+      "user_agent": "com.sonyliv/6.22.4 (Android 11; en_GB; SmartTV 4K FFM; Build/RTT2.220118.001)"
     },
     {
       "id": "1090492144",
@@ -41,7 +41,7 @@
       "category": "Football",
       "title": "ENG | Scotland vs Belarus - MD 8 - 12 Oct 2025",
       "url": "https://sonymtmnew.akamaized.net/hls/live/2094589/DAI37ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1760318405~acl=/*~id=61758d1818334c269d046b7f7d818986-1760275202904~hmac=8db7855ede265a34688a3bda47057a5bdd3dbd1f8fbe8f81698e17dae6f236b6",
-      "user_agent": "com.sonyliv/6.22.4 (Android 11; en_GB; SMART TV; Build/RP1A.200720.011)"
+      "user_agent": "com.sonyliv/6.22.4 (Android 15; en_GB; V2416; Build/AP3A.240905.015.A2)"
     },
     {
       "id": "1090492137",
@@ -51,7 +51,7 @@
       "category": "Football",
       "title": "ENG | Faroe Islands vs Czechia - MD 8 - 12 Oct 2025",
       "url": "https://sonymtmnew.akamaized.net/hls/live/2037141/DAI21ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1760318405~acl=/*~id=61758d1818334c269d046b7f7d818986-1760275202904~hmac=8db7855ede265a34688a3bda47057a5bdd3dbd1f8fbe8f81698e17dae6f236b6",
-      "user_agent": "com.sonyliv/6.22.4 (Android 11; en_GB; vivo 1901; Build/RP1A.200720.012)"
+      "user_agent": "com.sonyliv/6.22.4 (Android 15; en_GB; CPH2683; Build/AP3A.240617.008)"
     },
     {
       "id": "1090492174",
@@ -61,7 +61,7 @@
       "category": "Football",
       "title": "ENG | Malta vs Bosnia and Herzegovia - 12 Oct 2025",
       "url": "https://sonymtmnew.akamaized.net/hls/live/2037140/DAI20ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1760318405~acl=/*~id=61758d1818334c269d046b7f7d818986-1760275202904~hmac=8db7855ede265a34688a3bda47057a5bdd3dbd1f8fbe8f81698e17dae6f236b6",
-      "user_agent": "com.sonyliv/6.22.4 (Android 7; en_GB; AFTTIFF55; Build/NS6711)"
+      "user_agent": "com.sonyliv/6.22.4 (Android 11; en_GB; Smart TV; Build/RP1A.200622.001)"
     }
   ]
 }
