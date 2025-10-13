@@ -1,28 +1,8 @@
 {
   "api_made_by": "bd coder boy",
-  "updated": "Mon, 13 Oct 2025 20:53:01 GMT",
-  "total_events": 9,
+  "updated": "Mon, 13 Oct 2025 21:11:13 GMT",
+  "total_events": 2,
   "events": [
-    {
-      "id": "1090492219",
-      "name": "European Qualifiers For 2026 FIFA World Cup",
-      "logo": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000009847/1759545170537839_EQ2526_MD8_Iceland_vs_France_3oct_landscape_thumb.jpg",
-      "language": "English",
-      "category": "Football",
-      "title": "ENG | Iceland vs France - MD 8 - 14 Oct 2025",
-      "url": "https://sonymtmnew.akamaized.net/hls/live/2022319/DAI15ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1760410810~acl=/*~id=ae142034d6bc43f888dbc29b05754c1b-1760367607453~hmac=6f01b7aa351b5bd359735e546693f90b822675277eedca52f46c35685752d34e",
-      "user_agent": "com.sonyliv/6.22.4 (Android 12; en_GB; SM-G781B; Build/SP1A.210812.016)"
-    },
-    {
-      "id": "1090492222",
-      "name": "European Qualifiers For 2026 FIFA World Cup",
-      "logo": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000009847/1759545437379839_EQ2526_MD8_Northern_Ireland_vs_Germany_3oct_landscape_thumb.jpg",
-      "language": "English",
-      "category": "Football",
-      "title": "ENG | Northern Ireland vs Germany - MD 8 - 14 Oct 2025",
-      "url": "https://sonymtmnew.akamaized.net/hls/live/2105079/DAI41ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1760410810~acl=/*~id=ae142034d6bc43f888dbc29b05754c1b-1760367607453~hmac=6f01b7aa351b5bd359735e546693f90b822675277eedca52f46c35685752d34e",
-      "user_agent": "com.sonyliv/6.22.4 (Android 10; en_GB; ANTBOX-6; Build/QP1A.191105.004)"
-    },
     {
       "id": "1090492070",
       "name": "Asia Cup 2025",
@@ -31,7 +11,7 @@
       "category": "Cricket",
       "title": "ENG | India's Asia Cup Glory 24x7",
       "url": "https://sonymtmnew.akamaized.net/hls/live/2022315/DAI11ME-AC24X7/master_lrh.m3u8?hdnea=exp=1760410810~acl=/*~id=ae142034d6bc43f888dbc29b05754c1b-1760367607453~hmac=6f01b7aa351b5bd359735e546693f90b822675277eedca52f46c35685752d34e",
-      "user_agent": "com.sonyliv/6.22.4 (Android 14; en_GB; R3G; Build/UKR1.250114)"
+      "user_agent": "com.sonyliv/6.22.4 (Android 15; en_GB; 23129RN51H; Build/AP3A.240905.015.A2)"
     },
     {
       "id": "1090492227",
@@ -41,57 +21,7 @@
       "category": "Football",
       "title": "ENG | Wales vs Belgium - MD 8 - 14 Oct 2025",
       "url": "https://sonymtmnew.akamaized.net/hls/live/2018457/DAI43ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1760410810~acl=/*~id=ae142034d6bc43f888dbc29b05754c1b-1760367607453~hmac=6f01b7aa351b5bd359735e546693f90b822675277eedca52f46c35685752d34e",
-      "user_agent": "com.sonyliv/6.22.4 (Android 8; en_GB; vivo 1816; Build/O11019)"
-    },
-    {
-      "id": "1090492224",
-      "name": "European Qualifiers For 2026 FIFA World Cup",
-      "logo": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000009847/1759545646742839_EQ2526_MD8_Slovenia_vs_Switzerland_3oct_landscape_thumb.jpg",
-      "language": "English",
-      "category": "Football",
-      "title": "ENG | Slovenia vs Switzerland - MD 8 - 14 Oct 2025",
-      "url": "https://sonymtmnew.akamaized.net/hls/live/2022315/DAI39ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1760410810~acl=/*~id=ae142034d6bc43f888dbc29b05754c1b-1760367607453~hmac=6f01b7aa351b5bd359735e546693f90b822675277eedca52f46c35685752d34e",
-      "user_agent": "com.sonyliv/6.22.4 (Android 13; en_GB; IV2201; Build/TP1A.220905.001)"
-    },
-    {
-      "id": "1090492226",
-      "name": "European Qualifiers For 2026 FIFA World Cup",
-      "logo": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000009848/1759545890120583_EQ2526_MD8_Ukraine_vs_Azerbaijan_3oct_landscape_thumb.jpg",
-      "language": "English",
-      "category": "Football",
-      "title": "ENG | Ukraine vs Azerbaijan - MD 8 - 14 Oct 2025",
-      "url": "https://sonymtmnew.akamaized.net/hls/live/2022317/DAI42ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1760410810~acl=/*~id=ae142034d6bc43f888dbc29b05754c1b-1760367607453~hmac=6f01b7aa351b5bd359735e546693f90b822675277eedca52f46c35685752d34e",
-      "user_agent": "com.sonyliv/6.22.4 (Android 14; en_GB; SM-M156B; Build/UP1A.231005.007)"
-    },
-    {
-      "id": "1090492225",
-      "name": "European Qualifiers For 2026 FIFA World Cup",
-      "logo": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000009848/1759545775038583_EQ2526_MD8_Sweden_vs_Kosovo_3oct_landscape_thumb.jpg",
-      "language": "English",
-      "category": "Football",
-      "title": "ENG | Sweden vs Kosovo - MD 8 - 14 Oct 2025",
-      "url": "https://sonymtmnew.akamaized.net/hls/live/2022318/DAI40ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1760410810~acl=/*~id=ae142034d6bc43f888dbc29b05754c1b-1760367607453~hmac=6f01b7aa351b5bd359735e546693f90b822675277eedca52f46c35685752d34e",
-      "user_agent": "com.sonyliv/6.22.4 (Android 7; en_GB; SMART_TV; Build/NRD90M)"
-    },
-    {
-      "id": "1090492223",
-      "name": "European Qualifiers For 2026 FIFA World Cup",
-      "logo": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000009847/1759545546895839_EQ2526_MD8_Slovakia_vs_Luxembourg_3oct_landscape_thumb.jpg",
-      "language": "English",
-      "category": "Football",
-      "title": "ENG | Slovakia vs Luxembourg - MD 8 - 14 Oct 2025",
-      "url": "https://sonymtmnew.akamaized.net/hls/live/2094589/DAI37ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1760410810~acl=/*~id=ae142034d6bc43f888dbc29b05754c1b-1760367607453~hmac=6f01b7aa351b5bd359735e546693f90b822675277eedca52f46c35685752d34e",
-      "user_agent": "com.sonyliv/6.22.4 (Android 7; en_GB; SMART_TV; Build/NRD90M)"
-    },
-    {
-      "id": "1090492221",
-      "name": "European Qualifiers For 2026 FIFA World Cup",
-      "logo": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000009847/1759545302859839_EQ2526_MD8_North_Macedonia_vs_Kazakhstan_3oct_landscape_thumb.jpg",
-      "language": "English",
-      "category": "Football",
-      "title": "ENG | North Macedonia vs Kazakhstan - MD 8 - 14 Oct 2025",
-      "url": "https://sonymtmnew.akamaized.net/hls/live/2037141/DAI21ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1760410810~acl=/*~id=ae142034d6bc43f888dbc29b05754c1b-1760367607453~hmac=6f01b7aa351b5bd359735e546693f90b822675277eedca52f46c35685752d34e",
-      "user_agent": "com.sonyliv/6.22.4 (Android 14; en_GB; 23076RN4BI; Build/UKQ1.230917.001)"
+      "user_agent": "com.sonyliv/6.22.4 (Android 9; en_GB; AFTMV00; Build/PS7704.5024N)"
     }
   ]
 }
