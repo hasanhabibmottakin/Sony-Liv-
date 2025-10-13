@@ -1,6 +1,6 @@
 {
   "api_made_by": "bd coder boy",
-  "updated": "Mon, 13 Oct 2025 19:10:07 GMT",
+  "updated": "Mon, 13 Oct 2025 19:22:38 GMT",
   "total_events": 10,
   "events": [
     {
@@ -11,7 +11,7 @@
       "category": "Football",
       "title": "ENG | Iceland vs France - MD 8 - 14 Oct 2025",
       "url": "https://sonymtmnew.akamaized.net/hls/live/2022319/DAI15ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1760410810~acl=/*~id=ae142034d6bc43f888dbc29b05754c1b-1760367607453~hmac=6f01b7aa351b5bd359735e546693f90b822675277eedca52f46c35685752d34e",
-      "user_agent": "com.sonyliv/6.22.4 (Android 13; en_GB; M2103K19I; Build/TP1A.220624.014)"
+      "user_agent": "com.sonyliv/6.22.4 (Android 14; en_GB; SM-M156B; Build/UP1A.231005.007)"
     },
     {
       "id": "1090492222",
@@ -21,7 +21,7 @@
       "category": "Football",
       "title": "ENG | Northern Ireland vs Germany - MD 8 - 14 Oct 2025",
       "url": "https://sonymtmnew.akamaized.net/hls/live/2105079/DAI41ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1760410810~acl=/*~id=ae142034d6bc43f888dbc29b05754c1b-1760367607453~hmac=6f01b7aa351b5bd359735e546693f90b822675277eedca52f46c35685752d34e",
-      "user_agent": "com.sonyliv/6.22.4 (Android 9; en_GB; ATV R1; Build/PTT1.190822.001)"
+      "user_agent": "com.sonyliv/6.22.4 (Android 11; en_GB; MiTV-MOOR2; Build/RTM5.220609.003)"
     },
     {
       "id": "1090491950",
@@ -31,7 +31,7 @@
       "category": "Game show",
       "title": "HIN | E46. Kaun Banega Crorepati - Season 17",
       "url": "https://sonymtmnew.akamaized.net/hls/live/2043696/DAI26ME-KBC/master_lrh-800300010.m3u8?hdnea=exp=1760410810~acl=/*~id=ae142034d6bc43f888dbc29b05754c1b-1760367607453~hmac=6f01b7aa351b5bd359735e546693f90b822675277eedca52f46c35685752d34e",
-      "user_agent": "com.sonyliv/6.22.4 (Android 13; en_GB; V2050; Build/TP1A.220624.014)"
+      "user_agent": "com.sonyliv/6.22.4 (Android 10; en_GB; MBOX; Build/NHG47K)"
     },
     {
       "id": "1090492070",
@@ -41,7 +41,7 @@
       "category": "Cricket",
       "title": "ENG | India's Asia Cup Glory 24x7",
       "url": "https://sonymtmnew.akamaized.net/hls/live/2022315/DAI11ME-AC24X7/master_lrh.m3u8?hdnea=exp=1760410810~acl=/*~id=ae142034d6bc43f888dbc29b05754c1b-1760367607453~hmac=6f01b7aa351b5bd359735e546693f90b822675277eedca52f46c35685752d34e",
-      "user_agent": "com.sonyliv/6.22.4 (Android 14; en_GB; V2126; Build/UP1A.231005.007)"
+      "user_agent": "com.sonyliv/6.22.4 (Android 7; en_GB; AOSP on r33a6; Build/NHG47L)"
     },
     {
       "id": "1090492227",
@@ -51,7 +51,7 @@
       "category": "Football",
       "title": "ENG | Wales vs Belgium - MD 8 - 14 Oct 2025",
       "url": "https://sonymtmnew.akamaized.net/hls/live/2018457/DAI43ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1760410810~acl=/*~id=ae142034d6bc43f888dbc29b05754c1b-1760367607453~hmac=6f01b7aa351b5bd359735e546693f90b822675277eedca52f46c35685752d34e",
-      "user_agent": "com.sonyliv/6.22.4 (Android 12; en_GB; SM-A125F; Build/SP1A.210812.016)"
+      "user_agent": "com.sonyliv/6.22.4 (Android 11; en_GB; SYLVOX  2K Google TV; Build/RTK4.241026.020)"
     },
     {
       "id": "1090492224",
@@ -61,7 +61,7 @@
       "category": "Football",
       "title": "ENG | Slovenia vs Switzerland - MD 8 - 14 Oct 2025",
       "url": "https://sonymtmnew.akamaized.net/hls/live/2022315/DAI39ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1760410810~acl=/*~id=ae142034d6bc43f888dbc29b05754c1b-1760367607453~hmac=6f01b7aa351b5bd359735e546693f90b822675277eedca52f46c35685752d34e",
-      "user_agent": "com.sonyliv/6.22.4 (Android 11; en_GB; SMART TV; Build/RP1A.200720.011)"
+      "user_agent": "com.sonyliv/6.22.4 (Android 11; en_GB; 220333QBI; Build/RKQ1.211001.001)"
     },
     {
       "id": "1090492226",
@@ -71,7 +71,7 @@
       "category": "Football",
       "title": "ENG | Ukraine vs Azerbaijan - MD 8 - 14 Oct 2025",
       "url": "https://sonymtmnew.akamaized.net/hls/live/2022317/DAI42ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1760410810~acl=/*~id=ae142034d6bc43f888dbc29b05754c1b-1760367607453~hmac=6f01b7aa351b5bd359735e546693f90b822675277eedca52f46c35685752d34e",
-      "user_agent": "com.sonyliv/6.22.4 (Android 12; en_GB; Projector; Build/O11019)"
+      "user_agent": "com.sonyliv/6.22.4 (Android 11; en_GB; SmartTV 4K FFM; Build/RTT2.220118.001)"
     },
     {
       "id": "1090492225",
@@ -81,7 +81,7 @@
       "category": "Football",
       "title": "ENG | Sweden vs Kosovo - MD 8 - 14 Oct 2025",
       "url": "https://sonymtmnew.akamaized.net/hls/live/2022318/DAI40ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1760410810~acl=/*~id=ae142034d6bc43f888dbc29b05754c1b-1760367607453~hmac=6f01b7aa351b5bd359735e546693f90b822675277eedca52f46c35685752d34e",
-      "user_agent": "com.sonyliv/6.22.4 (Android 11; en_GB; Haier MatrixTV BE; Build/RTM8.240401.155)"
+      "user_agent": "com.sonyliv/6.22.4 (Android 6; en_GB; H96 PRO+; Build/MHC19J)"
     },
     {
       "id": "1090492223",
@@ -91,7 +91,7 @@
       "category": "Football",
       "title": "ENG | Slovakia vs Luxembourg - MD 8 - 14 Oct 2025",
       "url": "https://sonymtmnew.akamaized.net/hls/live/2094589/DAI37ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1760410810~acl=/*~id=ae142034d6bc43f888dbc29b05754c1b-1760367607453~hmac=6f01b7aa351b5bd359735e546693f90b822675277eedca52f46c35685752d34e",
-      "user_agent": "com.sonyliv/6.22.4 (Android 10; en_GB; MBOX; Build/QP1A.191105.004)"
+      "user_agent": "com.sonyliv/6.22.4 (Android 12; en_GB; Redmi Note 9 Pro Max; Build/SKQ1.211019.001)"
     },
     {
       "id": "1090492221",
@@ -101,7 +101,7 @@
       "category": "Football",
       "title": "ENG | North Macedonia vs Kazakhstan - MD 8 - 14 Oct 2025",
       "url": "https://sonymtmnew.akamaized.net/hls/live/2037141/DAI21ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1760410810~acl=/*~id=ae142034d6bc43f888dbc29b05754c1b-1760367607453~hmac=6f01b7aa351b5bd359735e546693f90b822675277eedca52f46c35685752d34e",
-      "user_agent": "com.sonyliv/6.22.4 (Android 14; en_GB; Smart_TV; Build/PPR1.180610.011)"
+      "user_agent": "com.sonyliv/6.22.4 (Android 6; en_GB; ASUS_Z01QD; Build/V417IR)"
     }
   ]
 }
