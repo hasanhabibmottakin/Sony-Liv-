@@ -1,6 +1,6 @@
 {
   "api_made_by": "bd coder boy",
-  "updated": "Mon, 13 Oct 2025 16:40:46 GMT",
+  "updated": "Mon, 13 Oct 2025 16:53:59 GMT",
   "total_events": 3,
   "events": [
     {
@@ -11,7 +11,7 @@
       "category": "Game show",
       "title": "HIN | E46. Kaun Banega Crorepati - Season 17",
       "url": "https://sonymtmnew.akamaized.net/hls/live/2043696/DAI26ME-KBC/master_lrh-800300010.m3u8?hdnea=exp=1760410810~acl=/*~id=ae142034d6bc43f888dbc29b05754c1b-1760367607453~hmac=6f01b7aa351b5bd359735e546693f90b822675277eedca52f46c35685752d34e",
-      "user_agent": "com.sonyliv/6.22.4 (Android 13; en_GB; M2101K7BI; Build/TP1A.220624.014)"
+      "user_agent": "com.sonyliv/6.22.4 (Android 15; en_GB; V2404; Build/AP3A.240905.015.A2)"
     },
     {
       "id": "1090492070",
@@ -21,7 +21,7 @@
       "category": "Cricket",
       "title": "ENG | India's Asia Cup Glory 24x7",
       "url": "https://sonymtmnew.akamaized.net/hls/live/2022315/DAI11ME-AC24X7/master_lrh.m3u8?hdnea=exp=1760410810~acl=/*~id=ae142034d6bc43f888dbc29b05754c1b-1760367607453~hmac=6f01b7aa351b5bd359735e546693f90b822675277eedca52f46c35685752d34e",
-      "user_agent": "com.sonyliv/6.22.4 (Android 10; en_GB; MiTV-MOOQ1; Build/QTG3.200305.006)"
+      "user_agent": "com.sonyliv/6.22.4 (Android 9; en_GB; hi352t; Build/PPR1.180610.011)"
     },
     {
       "id": "1090492217",
@@ -31,7 +31,7 @@
       "category": "Football",
       "title": "ENG | Montenegro vs Liechtenstein - 13 Oct 2025",
       "url": "https://sonymtmnew.akamaized.net/hls/live/2037140/DAI20ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1760410810~acl=/*~id=ae142034d6bc43f888dbc29b05754c1b-1760367607453~hmac=6f01b7aa351b5bd359735e546693f90b822675277eedca52f46c35685752d34e",
-      "user_agent": "com.sonyliv/6.22.4 (Android 14; en_GB; SM-M156B; Build/UP1A.231005.007)"
+      "user_agent": "com.sonyliv/6.22.4 (Android 11; en_GB; CPH2239; Build/RP1A.200720.011)"
     }
   ]
 }
