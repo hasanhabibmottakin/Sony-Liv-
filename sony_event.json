@@ -1,6 +1,6 @@
 {
   "api_made_by": "bd coder boy",
-  "updated": "Tue, 14 Oct 2025 17:12:28 GMT",
+  "updated": "Tue, 14 Oct 2025 17:29:12 GMT",
   "total_events": 5,
   "events": [
     {
@@ -11,7 +11,7 @@
       "category": "Cricket",
       "title": "ENG | India's Asia Cup Glory 24x7",
       "url": "https://sonymtmnew.akamaized.net/hls/live/2022315/DAI11ME-AC24X7/master_lrh.m3u8?hdnea=exp=1760491515~acl=/*~id=16127843236677834574709650317011~hmac=e894024682cabc2732ce7728d864fd75c0121259f3c24423354c5e7fe721ab2d",
-      "user_agent": "com.sonyliv/6.22.4 (Android 10; en_GB; MiTV-MOOQ1; Build/QTG3.200305.006)"
+      "user_agent": "com.sonyliv/6.22.4 (Android 14; en_GB; 22071219AI; Build/UP1A.231005.007)"
     },
     {
       "id": "1090491950",
@@ -21,7 +21,7 @@
       "category": "Game show",
       "title": "HIN | E47. Kaun Banega Crorepati - Season 17",
       "url": "https://sonymtmnew.akamaized.net/hls/live/2043696/DAI26ME-KBC/master_lrh-800300010.m3u8?hdnea=exp=1760491515~acl=/*~id=16127843236677834574709650317011~hmac=e894024682cabc2732ce7728d864fd75c0121259f3c24423354c5e7fe721ab2d",
-      "user_agent": "com.sonyliv/6.22.4 (Android 15; en_GB; V2427; Build/AP3A.240905.015.A2_NN_V000L1)"
+      "user_agent": "com.sonyliv/6.22.4 (Android 15; en_GB; POCO M2 Pro; Build/BP1A.250901.009.D1)"
     },
     {
       "id": "1090492228",
@@ -31,7 +31,7 @@
       "category": "Football",
       "title": "ENG | Estonia vs Moldova - MD 8 - 14 Oct 2025",
       "url": "https://sonymtmnew.akamaized.net/hls/live/2022319/DAI15ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1760491515~acl=/*~id=16127843236677834574709650317011~hmac=e894024682cabc2732ce7728d864fd75c0121259f3c24423354c5e7fe721ab2d",
-      "user_agent": "com.sonyliv/6.22.4 (Android 10; en_GB; MiTV-MOOQ3; Build/QTG3.200305.006)"
+      "user_agent": "com.sonyliv/6.22.4 (Android 15; en_GB; V2403; Build/AP3A.240905.015.A2)"
     },
     {
       "id": "1090492274",
@@ -41,7 +41,7 @@
       "category": "Football",
       "title": "ENG | Albania vs Jordan - 14 Oct 2025",
       "url": "https://sonymtmnew.akamaized.net/hls/live/2105080/DAI24ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1760491515~acl=/*~id=16127843236677834574709650317011~hmac=e894024682cabc2732ce7728d864fd75c0121259f3c24423354c5e7fe721ab2d",
-      "user_agent": "com.sonyliv/6.22.4 (Android 11; en_GB; BeyondTV; Build/PPR1.180610.011)"
+      "user_agent": "com.sonyliv/6.22.4 (Android 9; en_GB; AFTSS; Build/PS7704.5024N)"
     },
     {
       "id": "1090492271",
@@ -51,7 +51,7 @@
       "category": "Football",
       "title": "ENG | Norway vs New Zealand - 14 Oct 2025",
       "url": "https://sonymtmnew.akamaized.net/hls/live/2037140/DAI20ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1760491515~acl=/*~id=16127843236677834574709650317011~hmac=e894024682cabc2732ce7728d864fd75c0121259f3c24423354c5e7fe721ab2d",
-      "user_agent": "com.sonyliv/6.22.4 (Android 13; en_GB; RMX3242; Build/TP1A.220905.001)"
+      "user_agent": "com.sonyliv/6.22.4 (Android 9; en_GB; Android TV S1; Build/PPR1.180610.011)"
     }
   ]
 }
