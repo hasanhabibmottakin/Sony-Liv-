@@ -1,6 +1,6 @@
 {
   "api_made_by": "bd coder boy",
-  "updated": "Tue, 14 Oct 2025 04:15:47 GMT",
+  "updated": "Tue, 14 Oct 2025 04:46:46 GMT",
   "total_events": 1,
   "events": [
     {
@@ -11,7 +11,7 @@
       "category": "Cricket",
       "title": "ENG | India's Asia Cup Glory 24x7",
       "url": "https://sonymtmnew.akamaized.net/hls/live/2022315/DAI11ME-AC24X7/master_lrh.m3u8?hdnea=exp=1760410810~acl=/*~id=ae142034d6bc43f888dbc29b05754c1b-1760367607453~hmac=6f01b7aa351b5bd359735e546693f90b822675277eedca52f46c35685752d34e",
-      "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36&Referer=https://www.sonyliv.com/&Origin=https://www.sonyliv.com"
+      "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36&Referer=https://www.sonyliv.com/&Origin=https://www.sonyliv.com&cookie=hdnea=exp=1760410810~acl=/*~id=ae142034d6bc43f888dbc29b05754c1b-1760367607453~hmac=6f01b7aa351b5bd359735e546693f90b822675277eedca52f46c35685752d34e"
     }
   ]
 }
