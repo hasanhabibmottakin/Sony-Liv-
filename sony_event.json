@@ -1,6 +1,6 @@
 {
   "api_made_by": "bd coder boy",
-  "updated": "Tue, 14 Oct 2025 19:26:18 GMT",
+  "updated": "Tue, 14 Oct 2025 19:36:10 GMT",
   "total_events": 8,
   "events": [
     {
@@ -11,7 +11,7 @@
       "category": "Football",
       "title": "ENG | Portugal vs Hungary - MD 8 - 15 Oct 2025",
       "url": "https://sonymtmnew.akamaized.net/hls/live/2022315/DAI39ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1760491515~acl=/*~id=16127843236677834574709650317011~hmac=e894024682cabc2732ce7728d864fd75c0121259f3c24423354c5e7fe721ab2d",
-      "user_agent": "com.sonyliv/6.22.4 (Android 15; en_GB; RMX3853; Build/UKQ1.231108.001)"
+      "user_agent": "com.sonyliv/6.22.4 (Android 9; en_GB; ATV R1; Build/PTT1.190822.001)"
     },
     {
       "id": "1090492280",
@@ -21,7 +21,7 @@
       "category": "Football",
       "title": "ENG | Latvia vs England - MD 8 - 15 Oct 2025",
       "url": "https://sonymtmnew.akamaized.net/hls/live/2094589/DAI37ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1760491515~acl=/*~id=16127843236677834574709650317011~hmac=e894024682cabc2732ce7728d864fd75c0121259f3c24423354c5e7fe721ab2d",
-      "user_agent": "com.sonyliv/6.22.4 (Android 14; en_GB; CPH2461; Build/TP1A.220905.001)"
+      "user_agent": "com.sonyliv/6.22.4 (Android 13; en_GB; AndroidTV; Build/D9 PRO 5G)"
     },
     {
       "id": "1090492283",
@@ -31,7 +31,7 @@
       "category": "Football",
       "title": "ENG | Spain vs Bulgaria - MD 8 - 15 Oct 2025",
       "url": "https://sonymtmnew.akamaized.net/hls/live/2022317/DAI42ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1760491515~acl=/*~id=16127843236677834574709650317011~hmac=e894024682cabc2732ce7728d864fd75c0121259f3c24423354c5e7fe721ab2d",
-      "user_agent": "com.sonyliv/6.22.4 (Android 11; en_GB; Smart TV; Build/RP1A.201005.006)"
+      "user_agent": "com.sonyliv/6.22.4 (Android 10; en_GB; MBOX; Build/QP1A.191105.004)"
     },
     {
       "id": "1090492070",
@@ -41,7 +41,7 @@
       "category": "Cricket",
       "title": "ENG | India's Asia Cup Glory 24x7",
       "url": "https://sonymtmnew.akamaized.net/hls/live/2022315/DAI11ME-AC24X7/master_lrh.m3u8?hdnea=exp=1760491515~acl=/*~id=16127843236677834574709650317011~hmac=e894024682cabc2732ce7728d864fd75c0121259f3c24423354c5e7fe721ab2d",
-      "user_agent": "com.sonyliv/6.22.4 (Android 14; en_GB; SM-T225; Build/UP1A.231005.007)"
+      "user_agent": "com.sonyliv/6.22.4 (Android 6; en_GB; H96 PRO+; Build/MHC19J)"
     },
     {
       "id": "1090492279",
@@ -51,7 +51,7 @@
       "category": "Football",
       "title": "ENG | Italy vs Israel - MD 8 - 15 Oct 2025",
       "url": "https://sonymtmnew.akamaized.net/hls/live/2105079/DAI41ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1760491515~acl=/*~id=16127843236677834574709650317011~hmac=e894024682cabc2732ce7728d864fd75c0121259f3c24423354c5e7fe721ab2d",
-      "user_agent": "com.sonyliv/6.22.4 (Android 14; en_GB; MiTV-MZTU0; Build/UKN1.240806.017)"
+      "user_agent": "com.sonyliv/6.22.4 (Android 15; en_GB; CPH2527; Build/UKQ1.230924.001)"
     },
     {
       "id": "1090492278",
@@ -61,7 +61,7 @@
       "category": "Football",
       "title": "ENG | Andorra vs Serbia - MD 8 - 15 Oct 2025",
       "url": "https://sonymtmnew.akamaized.net/hls/live/2037141/DAI21ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1760491515~acl=/*~id=16127843236677834574709650317011~hmac=e894024682cabc2732ce7728d864fd75c0121259f3c24423354c5e7fe721ab2d",
-      "user_agent": "com.sonyliv/6.22.4 (Android 13; en_GB; SM-A226B; Build/TP1A.220624.014)"
+      "user_agent": "com.sonyliv/6.22.4 (Android 11; en_GB; 2K NSTV; Build/RTM8.240401.091)"
     },
     {
       "id": "1090492284",
@@ -71,7 +71,7 @@
       "category": "Football",
       "title": "ENG | Turkiye vs Georgia - MD 8 - 15 Oct 2025",
       "url": "https://sonymtmnew.akamaized.net/hls/live/2018457/DAI43ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1760491515~acl=/*~id=16127843236677834574709650317011~hmac=e894024682cabc2732ce7728d864fd75c0121259f3c24423354c5e7fe721ab2d",
-      "user_agent": "com.sonyliv/6.22.4 (Android 11; en_GB; SW-22AE NF; Build/RTT2.220103.001)"
+      "user_agent": "com.sonyliv/6.22.4 (Android 13; en_GB; SM-A325F; Build/TP1A.220624.014)"
     },
     {
       "id": "1090492282",
@@ -81,7 +81,7 @@
       "category": "Football",
       "title": "ENG | Republic of Ireland vs Armenia - MD 8 - 15 Oct 2025",
       "url": "https://sonymtmnew.akamaized.net/hls/live/2022318/DAI40ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1760491515~acl=/*~id=16127843236677834574709650317011~hmac=e894024682cabc2732ce7728d864fd75c0121259f3c24423354c5e7fe721ab2d",
-      "user_agent": "com.sonyliv/6.22.4 (Android 9; en_GB; mt9255lek; Build/PPR2.180905.006.A1)"
+      "user_agent": "com.sonyliv/6.22.4 (Android 14; en_GB; 23076RN4BI; Build/UKQ1.230917.001)"
     }
   ]
 }
