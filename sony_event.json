@@ -1,6 +1,6 @@
 {
   "api_made_by": "bd coder boy",
-  "updated": "Thu, 16 Oct 2025 13:51:43 GMT",
+  "updated": "Thu, 16 Oct 2025 14:13:53 GMT",
   "total_events": 2,
   "events": [
     {
@@ -11,7 +11,7 @@
       "category": "Cricket",
       "title": "ENG | India's Asia Cup Glory 24x7",
       "url": "https://sonymtmnew.akamaized.net/hls/live/2022315/DAI11ME-AC24X7/master_lrh.m3u8?hdnea=exp=1760639403~acl=/*~id=36089149024274682809768442291355~hmac=eae08798437fd0248e26f6a81177bde75ff25ed8b163fe3921938d6f21827405",
-      "user_agent": "com.sonyliv/6.22.4 (Android 12; en_GB; SM-A125F; Build/SP1A.210812.016)"
+      "user_agent": "com.sonyliv/6.22.4 (Android 9; en_GB; Android TV S1; Build/PPR1.180610.011)"
     },
     {
       "id": "1090492387",
@@ -21,7 +21,7 @@
       "category": "Shows",
       "title": "HIN | Taarak Mehta Ka Ooltah Chashmah",
       "url": "https://sonymtmnew.akamaized.net/hls/live/2022316/DAI12ME-TMK24X7/master_lrh.m3u8?hdnea=exp=1760639403~acl=/*~id=36089149024274682809768442291355~hmac=eae08798437fd0248e26f6a81177bde75ff25ed8b163fe3921938d6f21827405",
-      "user_agent": "com.sonyliv/6.22.4 (Android 11; en_GB; SYLVOX  2K Google TV; Build/RTK4.241026.020)"
+      "user_agent": "com.sonyliv/6.22.4 (Android 9; en_GB; N.H352.818; Build/PPR1.180610.011)"
     }
   ]
 }
