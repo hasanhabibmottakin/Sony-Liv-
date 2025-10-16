@@ -1,6 +1,6 @@
 {
   "api_made_by": "bd coder boy",
-  "updated": "Thu, 16 Oct 2025 20:14:41 GMT",
+  "updated": "Thu, 16 Oct 2025 20:33:13 GMT",
   "total_events": 2,
   "events": [
     {
@@ -10,8 +10,8 @@
       "language": "English",
       "category": "Cricket",
       "title": "ENG | India's Asia Cup Glory 24x7",
-      "url": "https://sonymtmnew.akamaized.net/hls/live/2022315/DAI11ME-AC24X7/master_lrh.m3u8?hdnea=exp=1760661003~acl=/*~id=60824227841421691368478043167832~hmac=6ecee6e95f715e6035d3178081345ba8a019204cdc4298f463b6c0240b730923",
-      "user_agent": "com.sonyliv/6.22.4 (Android 14; en_GB; SM-M045F; Build/UP1A.231005.007)"
+      "url": "https://sonymtmnew.akamaized.net/hls/live/2022315/DAI11ME-AC24X7/master_lrh.m3u8?hdnea=exp=1760682604~acl=/*~id=31814341678564696274373971781617~hmac=2335495088eb6803293b6ea9a0103c880287cb54be5e72112d112ab1afd9630d",
+      "user_agent": "com.sonyliv/6.22.4 (Android 8; en_GB; vivo 1820; Build/O11019)"
     },
     {
       "id": "1090492387",
@@ -20,8 +20,8 @@
       "language": "HINDI",
       "category": "Shows",
       "title": "HIN | Taarak Mehta Ka Ooltah Chashmah",
-      "url": "https://sonymtmnew.akamaized.net/hls/live/2022316/DAI12ME-TMK24X7/master_lrh.m3u8?hdnea=exp=1760661003~acl=/*~id=60824227841421691368478043167832~hmac=6ecee6e95f715e6035d3178081345ba8a019204cdc4298f463b6c0240b730923",
-      "user_agent": "com.sonyliv/6.22.4 (Android 11; en_GB; MiTV-AXFR1; Build/RTT0.210630.002)"
+      "url": "https://sonymtmnew.akamaized.net/hls/live/2022316/DAI12ME-TMK24X7/master_lrh.m3u8?hdnea=exp=1760682604~acl=/*~id=31814341678564696274373971781617~hmac=2335495088eb6803293b6ea9a0103c880287cb54be5e72112d112ab1afd9630d",
+      "user_agent": "com.sonyliv/6.22.4 (Android 13; en_GB; AndroidTV; Build/D9 PRO 5G)"
     }
   ]
 }
