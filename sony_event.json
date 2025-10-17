@@ -1,6 +1,6 @@
 {
   "api_made_by": "bd coder boy",
-  "updated": "Fri, 17 Oct 2025 17:42:53 GMT",
+  "updated": "Fri, 17 Oct 2025 17:53:24 GMT",
   "total_events": 3,
   "events": [
     {
@@ -11,7 +11,7 @@
       "category": "Game show",
       "title": "HIN | E50. Kaun Banega Crorepati - Season 17",
       "url": "https://sonymtmnew.akamaized.net/hls/live/2043696/DAI26ME-KBC/master_lrh-800300010.m3u8?hdnea=exp=1760747404~acl=/*~id=01755525948213328109612622833318~hmac=a60b493d94d755357c8cdb24a6300dce26a779e8d426901d6bd1ad319efbe6a6",
-      "user_agent": "com.sonyliv/6.22.4 (Android 14; en_GB; SM-M045F; Build/UP1A.231005.007)"
+      "user_agent": "com.sonyliv/6.22.4 (Android 11; en_GB; BeyondTV; Build/PPR1.180610.011)"
     },
     {
       "id": "1090492070",
@@ -21,7 +21,7 @@
       "category": "Cricket",
       "title": "ENG | India's Asia Cup Glory 24x7",
       "url": "https://sonymtmnew.akamaized.net/hls/live/2022315/DAI11ME-AC24X7/master_lrh.m3u8?hdnea=exp=1760747404~acl=/*~id=01755525948213328109612622833318~hmac=a60b493d94d755357c8cdb24a6300dce26a779e8d426901d6bd1ad319efbe6a6",
-      "user_agent": "com.sonyliv/6.22.4 (Android 12; en_GB; DVM4KA01; Build/STTC.230104.002)"
+      "user_agent": "com.sonyliv/6.22.4 (Android 14; en_GB; MiTV-MZTU0; Build/UKN1.240806.017)"
     },
     {
       "id": "1090492387",
@@ -31,7 +31,7 @@
       "category": "Shows",
       "title": "HIN | Taarak Mehta Ka Ooltah Chashmah",
       "url": "https://sonymtmnew.akamaized.net/hls/live/2022316/DAI12ME-TMK24X7/master_lrh.m3u8?hdnea=exp=1760747404~acl=/*~id=01755525948213328109612622833318~hmac=a60b493d94d755357c8cdb24a6300dce26a779e8d426901d6bd1ad319efbe6a6",
-      "user_agent": "com.sonyliv/6.22.4 (Android 14; en_GB; SM-A145F; Build/UP1A.231005.007)"
+      "user_agent": "com.sonyliv/6.22.4 (Android 11; en_GB; BRAVIA VU31; Build/RTK2.220814.001)"
     }
   ]
 }
