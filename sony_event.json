@@ -1,6 +1,6 @@
 {
   "api_made_by": "bd coder boy",
-  "updated": "Fri, 17 Oct 2025 10:54:47 GMT",
+  "updated": "Fri, 17 Oct 2025 11:11:20 GMT",
   "total_events": 2,
   "events": [
     {
@@ -11,7 +11,7 @@
       "category": "Cricket",
       "title": "ENG | India's Asia Cup Glory 24x7",
       "url": "https://sonymtmnew.akamaized.net/hls/live/2022315/DAI11ME-AC24X7/master_lrh.m3u8?hdnea=exp=1760725804~acl=/*~id=36806565871340314804122925735038~hmac=53b5a76df2334cbeb9da5bc8185336182f8cf04db6227c8ec607d826b4100f89",
-      "user_agent": "com.sonyliv/6.22.4 (Android 14; en_GB; SWTV-24AE-4K NF; Build/UKN3.250415.069)"
+      "user_agent": "com.sonyliv/6.22.4 (Android 11; en_GB; BRAVIA VU31; Build/RTK2.220814.001)"
     },
     {
       "id": "1090492387",
@@ -21,7 +21,7 @@
       "category": "Shows",
       "title": "HIN | Taarak Mehta Ka Ooltah Chashmah",
       "url": "https://sonymtmnew.akamaized.net/hls/live/2022316/DAI12ME-TMK24X7/master_lrh.m3u8?hdnea=exp=1760725804~acl=/*~id=36806565871340314804122925735038~hmac=53b5a76df2334cbeb9da5bc8185336182f8cf04db6227c8ec607d826b4100f89",
-      "user_agent": "com.sonyliv/6.22.4 (Android 14; en_GB; 22111317PI; Build/UKQ1.231003.002)"
+      "user_agent": "com.sonyliv/6.22.4 (Android 13; en_GB; SM-A226B; Build/TP1A.220624.014)"
     }
   ]
 }
