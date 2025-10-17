@@ -1,7 +1,7 @@
 {
   "api_made_by": "bd coder boy",
-  "updated": "Fri, 17 Oct 2025 17:53:24 GMT",
-  "total_events": 3,
+  "updated": "Fri, 17 Oct 2025 18:16:36 GMT",
+  "total_events": 4,
   "events": [
     {
       "id": "1090491950",
@@ -11,7 +11,7 @@
       "category": "Game show",
       "title": "HIN | E50. Kaun Banega Crorepati - Season 17",
       "url": "https://sonymtmnew.akamaized.net/hls/live/2043696/DAI26ME-KBC/master_lrh-800300010.m3u8?hdnea=exp=1760747404~acl=/*~id=01755525948213328109612622833318~hmac=a60b493d94d755357c8cdb24a6300dce26a779e8d426901d6bd1ad319efbe6a6",
-      "user_agent": "com.sonyliv/6.22.4 (Android 11; en_GB; BeyondTV; Build/PPR1.180610.011)"
+      "user_agent": "com.sonyliv/6.22.4 (Android 15; en_GB; V2437; Build/AP3A.240905.015.A2_CS_V000L1)"
     },
     {
       "id": "1090492070",
@@ -21,7 +21,17 @@
       "category": "Cricket",
       "title": "ENG | India's Asia Cup Glory 24x7",
       "url": "https://sonymtmnew.akamaized.net/hls/live/2022315/DAI11ME-AC24X7/master_lrh.m3u8?hdnea=exp=1760747404~acl=/*~id=01755525948213328109612622833318~hmac=a60b493d94d755357c8cdb24a6300dce26a779e8d426901d6bd1ad319efbe6a6",
-      "user_agent": "com.sonyliv/6.22.4 (Android 14; en_GB; MiTV-MZTU0; Build/UKN1.240806.017)"
+      "user_agent": "com.sonyliv/6.22.4 (Android 11; en_GB; 4K DATV-Z; Build/RTK4.241026.054)"
+    },
+    {
+      "id": "1090492353",
+      "name": "Bundesliga 2025-26",
+      "logo": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000009849/1759547726878913_bliga2526_MD7_Union_Berlin_vs_Mgladbach_3oct_landscape_thumb.jpg",
+      "language": "English",
+      "category": "Football",
+      "title": "ENG | Union Berlin vs Borussia M'gladbach - MD 7 - 18 Oct 2025",
+      "url": "https://sonymtmnew.akamaized.net/hls/live/2094588/DAI04ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1760747404~acl=/*~id=01755525948213328109612622833318~hmac=a60b493d94d755357c8cdb24a6300dce26a779e8d426901d6bd1ad319efbe6a6",
+      "user_agent": "com.sonyliv/6.22.4 (Android 9; en_GB; Smart; Build/PPR1.180610.011)"
     },
     {
       "id": "1090492387",
@@ -31,7 +41,7 @@
       "category": "Shows",
       "title": "HIN | Taarak Mehta Ka Ooltah Chashmah",
       "url": "https://sonymtmnew.akamaized.net/hls/live/2022316/DAI12ME-TMK24X7/master_lrh.m3u8?hdnea=exp=1760747404~acl=/*~id=01755525948213328109612622833318~hmac=a60b493d94d755357c8cdb24a6300dce26a779e8d426901d6bd1ad319efbe6a6",
-      "user_agent": "com.sonyliv/6.22.4 (Android 11; en_GB; BRAVIA VU31; Build/RTK2.220814.001)"
+      "user_agent": "com.sonyliv/6.22.4 (Android 13; en_GB; 23028RN4DI; Build/TP1A.220624.014)"
     }
   ]
 }
