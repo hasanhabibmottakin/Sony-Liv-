@@ -1,6 +1,6 @@
 {
   "api_made_by": "bd coder boy",
-  "updated": "Sat, 18 Oct 2025 06:17:38 GMT",
+  "updated": "Sat, 18 Oct 2025 06:41:25 GMT",
   "total_events": 5,
   "events": [
     {
@@ -11,7 +11,7 @@
       "category": "Cricket",
       "title": "ENG | 1st T20I - 18 Oct 2025",
       "url": "https://sonymtmnew.akamaized.net/hls/live/2018457/engvsnz/ENG/std_lrh-800300010.m3u8?hdnea=exp=1760790604~acl=/*~id=53630112149781793423066237517360~hmac=8aa6cf7833c75acba0920769bdde74cc0e8bdd56a8ecf3e0086a3c3e1ca7a1a8",
-      "user_agent": "com.sonyliv/6.22.4 (Android 10; en_GB; BRAVIA 4K VH21; Build/QTG3.200305.006.S396)"
+      "user_agent": "com.sonyliv/6.22.4 (Android 9; en_GB; UnionTV; Build/PPR2.180905.006.A1)"
     },
     {
       "id": "1090492070",
@@ -21,7 +21,7 @@
       "category": "Cricket",
       "title": "ENG | India's Asia Cup Glory 24x7",
       "url": "https://sonymtmnew.akamaized.net/hls/live/2022315/DAI11ME-AC24X7/master_lrh.m3u8?hdnea=exp=1760790604~acl=/*~id=53630112149781793423066237517360~hmac=8aa6cf7833c75acba0920769bdde74cc0e8bdd56a8ecf3e0086a3c3e1ca7a1a8",
-      "user_agent": "com.sonyliv/6.22.4 (Android 15; en_GB; V2437; Build/AP3A.240905.015.A2_V000L1)"
+      "user_agent": "com.sonyliv/6.22.4 (Android 7; en_GB; AFTMM; Build/NS6711)"
     },
     {
       "id": "1090492506",
@@ -31,7 +31,7 @@
       "category": "Archery",
       "title": "ENG | Compound Women Elite Eight - 18 Oct 2025",
       "url": "https://sonymtmnew.akamaized.net/hls/live/2037139/DAI19ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1760790604~acl=/*~id=53630112149781793423066237517360~hmac=8aa6cf7833c75acba0920769bdde74cc0e8bdd56a8ecf3e0086a3c3e1ca7a1a8",
-      "user_agent": "com.sonyliv/6.22.4 (Android 9; en_GB; CPH1893; Build/PKQ1.190414.001)"
+      "user_agent": "com.sonyliv/6.22.4 (Android 12; en_GB; SM-A125F; Build/SP1A.210812.016)"
     },
     {
       "id": "1090492475",
@@ -41,7 +41,7 @@
       "category": "Golf",
       "title": "ENG | SJM Macao Open - Day 3 - 18 Oct 2025",
       "url": "https://sonymtmnew.akamaized.net/hls/live/2022320/DAI16ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1760790604~acl=/*~id=53630112149781793423066237517360~hmac=8aa6cf7833c75acba0920769bdde74cc0e8bdd56a8ecf3e0086a3c3e1ca7a1a8",
-      "user_agent": "com.sonyliv/6.22.4 (Android 15; en_GB; RMX3853; Build/UKQ1.231108.001)"
+      "user_agent": "com.sonyliv/6.22.4 (Android 9; en_GB; mt9255lek; Build/PPR2.180905.006.A1)"
     },
     {
       "id": "1090492387",
@@ -51,7 +51,7 @@
       "category": "Shows",
       "title": "HIN | Taarak Mehta Ka Ooltah Chashmah",
       "url": "https://sonymtmnew.akamaized.net/hls/live/2022316/DAI12ME-TMK24X7/master_lrh.m3u8?hdnea=exp=1760790604~acl=/*~id=53630112149781793423066237517360~hmac=8aa6cf7833c75acba0920769bdde74cc0e8bdd56a8ecf3e0086a3c3e1ca7a1a8",
-      "user_agent": "com.sonyliv/6.22.4 (Android 10; en_GB; MiTV-MOOQ1; Build/QTG3.200305.006)"
+      "user_agent": "com.sonyliv/6.22.4 (Android 13; en_GB; M2103K19I; Build/TP1A.220624.014)"
     }
   ]
 }
