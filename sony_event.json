@@ -1,6 +1,6 @@
 {
   "api_made_by": "bd coder boy",
-  "updated": "Sat, 18 Oct 2025 23:28:10 GMT",
+  "updated": "Sat, 18 Oct 2025 23:37:21 GMT",
   "total_events": 6,
   "events": [
     {
@@ -11,7 +11,7 @@
       "category": "Fight Sports",
       "title": "ENG | UFC Fight Night - de Ridder vs Allen - 19 Oct 2025",
       "url": "https://sonymtmnew.akamaized.net/hls/live/2094587/DAI03ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1760855404~acl=/*~id=95840912000075077501646698048920~hmac=1fdc30877d4c6f63e54b2eb3497eae9afb34ad320bfc984b9bf3debcad1baf63",
-      "user_agent": "com.sonyliv/6.22.4 (Android 10; en_GB; MiTV-MOOQ3; Build/QTG3.200305.006)"
+      "user_agent": "com.sonyliv/6.22.4 (Android 7; en_GB; AOSP on r33a6; Build/NHG47L)"
     },
     {
       "id": "1090492497",
@@ -21,7 +21,7 @@
       "category": "Fight Sports",
       "title": "HIN | UFC Fight Night - de Ridder vs Allen - 19 Oct 2025",
       "url": "https://sonymtmnew.akamaized.net/hls/live/2005445/DAI06ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1760855404~acl=/*~id=95840912000075077501646698048920~hmac=1fdc30877d4c6f63e54b2eb3497eae9afb34ad320bfc984b9bf3debcad1baf63",
-      "user_agent": "com.sonyliv/6.22.4 (Android 6; en_GB; H96 PRO+; Build/MHC19J)"
+      "user_agent": "com.sonyliv/6.22.4 (Android 8; en_GB; vivo 1820; Build/O11019)"
     },
     {
       "id": "1090492497",
@@ -31,7 +31,7 @@
       "category": "Fight Sports",
       "title": "TAM | UFC Fight Night - de Ridder vs Allen - 19 Oct 2025",
       "url": "https://sonymtmnew.akamaized.net/hls/live/2022316/DAI12ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1760855404~acl=/*~id=95840912000075077501646698048920~hmac=1fdc30877d4c6f63e54b2eb3497eae9afb34ad320bfc984b9bf3debcad1baf63",
-      "user_agent": "com.sonyliv/6.22.4 (Android 9; en_GB; CPH1893; Build/PKQ1.190414.001)"
+      "user_agent": "com.sonyliv/6.22.4 (Android 9; en_GB; V00G936821210003000; Build/PPR2.180905.006.A1)"
     },
     {
       "id": "1090492497",
@@ -41,7 +41,7 @@
       "category": "Fight Sports",
       "title": "TEL | UFC Fight Night - de Ridder vs Allen - 19 Oct 2025",
       "url": "https://sonymtmnew.akamaized.net/hls/live/2018458/DAI10ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1760855404~acl=/*~id=95840912000075077501646698048920~hmac=1fdc30877d4c6f63e54b2eb3497eae9afb34ad320bfc984b9bf3debcad1baf63",
-      "user_agent": "com.sonyliv/6.22.4 (Android 13; en_GB; CPH2251; Build/TP1A.220905.001)"
+      "user_agent": "com.sonyliv/6.22.4 (Android 14; en_GB; SM-E236B; Build/UP1A.231005.007)"
     },
     {
       "id": "1090492070",
@@ -61,7 +61,7 @@
       "category": "Shows",
       "title": "HIN | Taarak Mehta Ka Ooltah Chashmah",
       "url": "https://sonymtmnew.akamaized.net/hls/live/2022316/DAI12ME-TMK24X7/master_lrh.m3u8?hdnea=exp=1760855404~acl=/*~id=95840912000075077501646698048920~hmac=1fdc30877d4c6f63e54b2eb3497eae9afb34ad320bfc984b9bf3debcad1baf63",
-      "user_agent": "com.sonyliv/6.22.4 (Android 8; en_GB; vivo 1820; Build/O11019)"
+      "user_agent": "com.sonyliv/6.22.4 (Android 15; en_GB; CPH2665; Build/AP3A.240617.008)"
     }
   ]
 }
