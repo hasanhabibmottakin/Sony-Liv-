@@ -1,6 +1,6 @@
 {
   "api_made_by": "bd coder boy",
-  "updated": "Sat, 18 Oct 2025 02:18:13 GMT",
+  "updated": "Sat, 18 Oct 2025 03:05:57 GMT",
   "total_events": 3,
   "events": [
     {
@@ -10,8 +10,8 @@
       "language": "English",
       "category": "Cricket",
       "title": "ENG | India's Asia Cup Glory 24x7",
-      "url": "https://sonymtmnew.akamaized.net/hls/live/2022315/DAI11ME-AC24X7/master_lrh.m3u8?hdnea=exp=1760769004~acl=/*~id=36289038379963691926702630288357~hmac=793b8b08595f410e0ffb74e49ccfe41ee892e889411756540b47d8545534fcff",
-      "user_agent": "com.sonyliv/6.22.4 (Android 11; en_GB; RMX2002; Build/RP1A.200720.011)"
+      "url": "https://sonymtmnew.akamaized.net/hls/live/2022315/DAI11ME-AC24X7/master_lrh.m3u8?hdnea=exp=1760790604~acl=/*~id=53630112149781793423066237517360~hmac=8aa6cf7833c75acba0920769bdde74cc0e8bdd56a8ecf3e0086a3c3e1ca7a1a8",
+      "user_agent": "com.sonyliv/6.22.4 (Android 11; en_GB; AI PONT; Build/RTMA.250416.061)"
     },
     {
       "id": "1090492506",
@@ -20,8 +20,8 @@
       "language": "English",
       "category": "Archery",
       "title": "ENG | Compound Women Elite Eight - 18 Oct 2025",
-      "url": "https://sonymtmnew.akamaized.net/hls/live/2037139/DAI19ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1760769004~acl=/*~id=36289038379963691926702630288357~hmac=793b8b08595f410e0ffb74e49ccfe41ee892e889411756540b47d8545534fcff",
-      "user_agent": "com.sonyliv/6.22.4 (Android 14; en_GB; moto g35 5G; Build/UOA34.216-230)"
+      "url": "https://sonymtmnew.akamaized.net/hls/live/2037139/DAI19ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1760790604~acl=/*~id=53630112149781793423066237517360~hmac=8aa6cf7833c75acba0920769bdde74cc0e8bdd56a8ecf3e0086a3c3e1ca7a1a8",
+      "user_agent": "com.sonyliv/6.22.4 (Android 14; en_GB; SM-M045F; Build/UP1A.231005.007)"
     },
     {
       "id": "1090492387",
@@ -30,8 +30,8 @@
       "language": "HINDI",
       "category": "Shows",
       "title": "HIN | Taarak Mehta Ka Ooltah Chashmah",
-      "url": "https://sonymtmnew.akamaized.net/hls/live/2022316/DAI12ME-TMK24X7/master_lrh.m3u8?hdnea=exp=1760769004~acl=/*~id=36289038379963691926702630288357~hmac=793b8b08595f410e0ffb74e49ccfe41ee892e889411756540b47d8545534fcff",
-      "user_agent": "com.sonyliv/6.22.4 (Android 15; en_GB; V2303; Build/AP3A.240905.015.A2)"
+      "url": "https://sonymtmnew.akamaized.net/hls/live/2022316/DAI12ME-TMK24X7/master_lrh.m3u8?hdnea=exp=1760790604~acl=/*~id=53630112149781793423066237517360~hmac=8aa6cf7833c75acba0920769bdde74cc0e8bdd56a8ecf3e0086a3c3e1ca7a1a8",
+      "user_agent": "com.sonyliv/6.22.4 (Android 11; en_GB; SYLVOX  2K Google TV; Build/RTK4.241026.020)"
     }
   ]
 }
