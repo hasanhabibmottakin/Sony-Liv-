@@ -1,18 +1,8 @@
 {
   "api_made_by": "bd coder boy",
-  "updated": "Sat, 18 Oct 2025 18:39:06 GMT",
-  "total_events": 4,
+  "updated": "Sat, 18 Oct 2025 18:49:40 GMT",
+  "total_events": 3,
   "events": [
-    {
-      "id": "1090492488",
-      "name": "Bundesliga 2025-26",
-      "logo": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000009849/1759550682593913_bliga2526_MD7_Bayern_vs_Dortmund_3oct_landscape_thumb.jpg",
-      "language": "English",
-      "category": "Football",
-      "title": "ENG | Bayern Munich vs Borussia Dortmund - MD 7 - 18 Oct 2025",
-      "url": "https://sonymtmnew.akamaized.net/hls/live/2022318/DAI14ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1760833804~acl=/*~id=95408316803030322604927491307419~hmac=8018971039eae53b958071a1d1a841edac9f5de0b8dcb4639e27cb6b5a8bba55",
-      "user_agent": "com.sonyliv/6.22.4 (Android 11; en_GB; SWTV-22AE-FHD; Build/RTM8.240401.091)"
-    },
     {
       "id": "1090492070",
       "name": "Asia Cup 2025",
@@ -21,7 +11,7 @@
       "category": "Cricket",
       "title": "ENG | India's Asia Cup Glory 24x7",
       "url": "https://sonymtmnew.akamaized.net/hls/live/2022315/DAI11ME-AC24X7/master_lrh.m3u8?hdnea=exp=1760833804~acl=/*~id=95408316803030322604927491307419~hmac=8018971039eae53b958071a1d1a841edac9f5de0b8dcb4639e27cb6b5a8bba55",
-      "user_agent": "com.sonyliv/6.22.4 (Android 15; en_GB; V2437; Build/AP3A.240905.015.A2_V000L1)"
+      "user_agent": "com.sonyliv/6.22.4 (Android 13; en_GB; SM-A325F; Build/TP1A.220624.014)"
     },
     {
       "id": "1090492552",
@@ -31,7 +21,7 @@
       "category": "Football",
       "title": "ENG | Bayern Munich vs Borussia Dortmund - Tactical Feed - 18 Oct 2025",
       "url": "https://sonymtmnew.akamaized.net/hls/live/2005444/DAI07ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1760833804~acl=/*~id=95408316803030322604927491307419~hmac=8018971039eae53b958071a1d1a841edac9f5de0b8dcb4639e27cb6b5a8bba55",
-      "user_agent": "com.sonyliv/6.22.4 (Android 15; en_GB; POCO M2 Pro; Build/BP1A.250901.009.D1)"
+      "user_agent": "com.sonyliv/6.22.4 (Android 13; en_GB; 21091116I; Build/TP1A.220624.014)"
     },
     {
       "id": "1090492387",
@@ -41,7 +31,7 @@
       "category": "Shows",
       "title": "HIN | Taarak Mehta Ka Ooltah Chashmah",
       "url": "https://sonymtmnew.akamaized.net/hls/live/2022316/DAI12ME-TMK24X7/master_lrh.m3u8?hdnea=exp=1760833804~acl=/*~id=95408316803030322604927491307419~hmac=8018971039eae53b958071a1d1a841edac9f5de0b8dcb4639e27cb6b5a8bba55",
-      "user_agent": "com.sonyliv/6.22.4 (Android 15; en_GB; V2437; Build/AP3A.240905.015.A2_CS_V000L1)"
+      "user_agent": "com.sonyliv/6.22.4 (Android 9; en_GB; hi352t; Build/PPR1.180610.011)"
     }
   ]
 }
