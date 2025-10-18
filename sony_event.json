@@ -1,6 +1,6 @@
 {
   "api_made_by": "bd coder boy",
-  "updated": "Sat, 18 Oct 2025 08:15:54 GMT",
+  "updated": "Sat, 18 Oct 2025 08:36:12 GMT",
   "total_events": 5,
   "events": [
     {
@@ -10,8 +10,8 @@
       "language": "English",
       "category": "Cricket",
       "title": "ENG | 1st T20I - 18 Oct 2025",
-      "url": "https://sonymtmnew.akamaized.net/hls/live/2018457/engvsnz/ENG/std_lrh-800300010.m3u8?hdnea=exp=1760790604~acl=/*~id=53630112149781793423066237517360~hmac=8aa6cf7833c75acba0920769bdde74cc0e8bdd56a8ecf3e0086a3c3e1ca7a1a8",
-      "user_agent": "com.sonyliv/6.22.4 (Android 15; en_GB; motorola edge 50 fusion; Build/V1UUIS35H.15-41-6-5-2)"
+      "url": "https://sonymtmnew.akamaized.net/hls/live/2018457/engvsnz/ENG/std_lrh-800300010.m3u8?hdnea=exp=1760812204~acl=/*~id=13537468712789799749370188547489~hmac=b08bfbdf3cc71fd4abd8c8f3a4dfb486af2b89af1f5c3b6a4e0e16d6b29d11e5",
+      "user_agent": "com.sonyliv/6.22.4 (Android 9; en_GB; CPH2015; Build/PPR1.180610.011)"
     },
     {
       "id": "1090492070",
@@ -20,8 +20,8 @@
       "language": "English",
       "category": "Cricket",
       "title": "ENG | India's Asia Cup Glory 24x7",
-      "url": "https://sonymtmnew.akamaized.net/hls/live/2022315/DAI11ME-AC24X7/master_lrh.m3u8?hdnea=exp=1760790604~acl=/*~id=53630112149781793423066237517360~hmac=8aa6cf7833c75acba0920769bdde74cc0e8bdd56a8ecf3e0086a3c3e1ca7a1a8",
-      "user_agent": "com.sonyliv/6.22.4 (Android 12; en_GB; Projector; Build/O11019)"
+      "url": "https://sonymtmnew.akamaized.net/hls/live/2022315/DAI11ME-AC24X7/master_lrh.m3u8?hdnea=exp=1760812204~acl=/*~id=13537468712789799749370188547489~hmac=b08bfbdf3cc71fd4abd8c8f3a4dfb486af2b89af1f5c3b6a4e0e16d6b29d11e5",
+      "user_agent": "com.sonyliv/6.22.4 (Android 13; en_GB; AndroidTV; Build/D9 PRO 5G)"
     },
     {
       "id": "1090492506",
@@ -30,8 +30,8 @@
       "language": "English",
       "category": "Archery",
       "title": "ENG | Compound Women Elite Eight - 18 Oct 2025",
-      "url": "https://sonymtmnew.akamaized.net/hls/live/2037139/DAI19ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1760790604~acl=/*~id=53630112149781793423066237517360~hmac=8aa6cf7833c75acba0920769bdde74cc0e8bdd56a8ecf3e0086a3c3e1ca7a1a8",
-      "user_agent": "com.sonyliv/6.22.4 (Android 13; en_GB; IV2201; Build/TP1A.220905.001)"
+      "url": "https://sonymtmnew.akamaized.net/hls/live/2037139/DAI19ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1760812204~acl=/*~id=13537468712789799749370188547489~hmac=b08bfbdf3cc71fd4abd8c8f3a4dfb486af2b89af1f5c3b6a4e0e16d6b29d11e5",
+      "user_agent": "com.sonyliv/6.22.4 (Android 12; en_GB; SM-A125F; Build/SP1A.210812.016)"
     },
     {
       "id": "1090492475",
@@ -40,8 +40,8 @@
       "language": "English",
       "category": "Golf",
       "title": "ENG | SJM Macao Open - Day 3 - 18 Oct 2025",
-      "url": "https://sonymtmnew.akamaized.net/hls/live/2022320/DAI16ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1760790604~acl=/*~id=53630112149781793423066237517360~hmac=8aa6cf7833c75acba0920769bdde74cc0e8bdd56a8ecf3e0086a3c3e1ca7a1a8",
-      "user_agent": "com.sonyliv/6.22.4 (Android 14; en_GB; 22111317PI; Build/UKQ1.231003.002)"
+      "url": "https://sonymtmnew.akamaized.net/hls/live/2022320/DAI16ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1760812204~acl=/*~id=13537468712789799749370188547489~hmac=b08bfbdf3cc71fd4abd8c8f3a4dfb486af2b89af1f5c3b6a4e0e16d6b29d11e5",
+      "user_agent": "com.sonyliv/6.22.4 (Android 14; en_GB; SM-E236B; Build/UP1A.231005.007)"
     },
     {
       "id": "1090492387",
@@ -50,8 +50,8 @@
       "language": "HINDI",
       "category": "Shows",
       "title": "HIN | Taarak Mehta Ka Ooltah Chashmah",
-      "url": "https://sonymtmnew.akamaized.net/hls/live/2022316/DAI12ME-TMK24X7/master_lrh.m3u8?hdnea=exp=1760790604~acl=/*~id=53630112149781793423066237517360~hmac=8aa6cf7833c75acba0920769bdde74cc0e8bdd56a8ecf3e0086a3c3e1ca7a1a8",
-      "user_agent": "com.sonyliv/6.22.4 (Android 15; en_GB; POCO M2 Pro; Build/BP1A.250901.009.D1)"
+      "url": "https://sonymtmnew.akamaized.net/hls/live/2022316/DAI12ME-TMK24X7/master_lrh.m3u8?hdnea=exp=1760812204~acl=/*~id=13537468712789799749370188547489~hmac=b08bfbdf3cc71fd4abd8c8f3a4dfb486af2b89af1f5c3b6a4e0e16d6b29d11e5",
+      "user_agent": "com.sonyliv/6.22.4 (Android 7; en_GB; AFTTIFF55; Build/NS6711)"
     }
   ]
 }
