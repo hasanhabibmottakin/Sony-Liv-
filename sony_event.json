@@ -1,8 +1,48 @@
 {
   "api_made_by": "bd coder boy",
-  "updated": "Sat, 18 Oct 2025 22:30:58 GMT",
-  "total_events": 2,
+  "updated": "Sat, 18 Oct 2025 22:42:48 GMT",
+  "total_events": 6,
   "events": [
+    {
+      "id": "1090492497",
+      "name": "UFC Fight Night - de Ridder vs Allen",
+      "logo": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000010344/1760705267440545_UFC_fight_night_landscape_thumb.jpg",
+      "language": "English",
+      "category": "Fight Sports",
+      "title": "ENG | UFC Fight Night - de Ridder vs Allen - 19 Oct 2025",
+      "url": "https://sonymtmnew.akamaized.net/hls/live/2094587/DAI03ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1760855404~acl=/*~id=95840912000075077501646698048920~hmac=1fdc30877d4c6f63e54b2eb3497eae9afb34ad320bfc984b9bf3debcad1baf63",
+      "user_agent": "com.sonyliv/6.22.4 (Android 15; en_GB; TECNO CL7k; Build/AP3A.240905.015.A2)"
+    },
+    {
+      "id": "1090492497",
+      "name": "UFC Fight Night - de Ridder vs Allen",
+      "logo": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000010344/1760705267440545_UFC_fight_night_landscape_thumb.jpg",
+      "language": "Hindi",
+      "category": "Fight Sports",
+      "title": "HIN | UFC Fight Night - de Ridder vs Allen - 19 Oct 2025",
+      "url": "https://sonymtmnew.akamaized.net/hls/live/2005445/DAI06ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1760855404~acl=/*~id=95840912000075077501646698048920~hmac=1fdc30877d4c6f63e54b2eb3497eae9afb34ad320bfc984b9bf3debcad1baf63",
+      "user_agent": "com.sonyliv/6.22.4 (Android 11; en_GB; MiTV-MOOR2; Build/RTM5.220609.003)"
+    },
+    {
+      "id": "1090492497",
+      "name": "UFC Fight Night - de Ridder vs Allen",
+      "logo": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000010344/1760705267440545_UFC_fight_night_landscape_thumb.jpg",
+      "language": "Tamil",
+      "category": "Fight Sports",
+      "title": "TAM | UFC Fight Night - de Ridder vs Allen - 19 Oct 2025",
+      "url": "https://sonymtmnew.akamaized.net/hls/live/2022316/DAI12ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1760855404~acl=/*~id=95840912000075077501646698048920~hmac=1fdc30877d4c6f63e54b2eb3497eae9afb34ad320bfc984b9bf3debcad1baf63",
+      "user_agent": "com.sonyliv/6.22.4 (Android 15; en_GB; V2416; Build/AP3A.240905.015.A2)"
+    },
+    {
+      "id": "1090492497",
+      "name": "UFC Fight Night - de Ridder vs Allen",
+      "logo": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000010344/1760705267440545_UFC_fight_night_landscape_thumb.jpg",
+      "language": "Telugu",
+      "category": "Fight Sports",
+      "title": "TEL | UFC Fight Night - de Ridder vs Allen - 19 Oct 2025",
+      "url": "https://sonymtmnew.akamaized.net/hls/live/2018458/DAI10ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1760855404~acl=/*~id=95840912000075077501646698048920~hmac=1fdc30877d4c6f63e54b2eb3497eae9afb34ad320bfc984b9bf3debcad1baf63",
+      "user_agent": "com.sonyliv/6.22.4 (Android 11; en_GB; AI PONT; Build/RTO2.240710.002)"
+    },
     {
       "id": "1090492070",
       "name": "Asia Cup 2025",
@@ -11,7 +51,7 @@
       "category": "Cricket",
       "title": "ENG | India's Asia Cup Glory 24x7",
       "url": "https://sonymtmnew.akamaized.net/hls/live/2022315/DAI11ME-AC24X7/master_lrh.m3u8?hdnea=exp=1760855404~acl=/*~id=95840912000075077501646698048920~hmac=1fdc30877d4c6f63e54b2eb3497eae9afb34ad320bfc984b9bf3debcad1baf63",
-      "user_agent": "com.sonyliv/6.22.4 (Android 14; en_GB; V2126; Build/UP1A.231005.007)"
+      "user_agent": "com.sonyliv/6.22.4 (Android 15; en_GB; CPH2665; Build/AP3A.240617.008)"
     },
     {
       "id": "1090492387",
@@ -21,7 +61,7 @@
       "category": "Shows",
       "title": "HIN | Taarak Mehta Ka Ooltah Chashmah",
       "url": "https://sonymtmnew.akamaized.net/hls/live/2022316/DAI12ME-TMK24X7/master_lrh.m3u8?hdnea=exp=1760855404~acl=/*~id=95840912000075077501646698048920~hmac=1fdc30877d4c6f63e54b2eb3497eae9afb34ad320bfc984b9bf3debcad1baf63",
-      "user_agent": "com.sonyliv/6.22.4 (Android 13; en_GB; AndroidTV; Build/D9 PRO 5G)"
+      "user_agent": "com.sonyliv/6.22.4 (Android 14; en_GB; SM-M156B; Build/UP1A.231005.007)"
     }
   ]
 }
