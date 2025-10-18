@@ -1,0 +1,118 @@
+#EXTM3U
+#EXTM3U
+#EXTINF:-1 group-title="SPORTS" tvg-id="" tvg-chno="" tvg-logo="https://images.toffeelive.com/images/program/19779/logo/240x240/mobile_logo_975410001725875598.png", TOFFEE Sports VIP (ClearKey)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.7049.79 Safari/537.36
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"634e10efe4abbb14be400a3ccbac0258","kid":"192b1115da041585c77200128549efa1"}],"type":"temporary"}
+https://ottb.live.cf.ww.aiv-cdn.net/lhr-nitro/live/dash/enc/i2pcjr4pe5/out/v1/912e9db56d75403b8a9ac0a719110f36/cenc.mpd
+#EXTINF:-1 group-title="AKASHGO" tvg-id="" tvg-logo="https://tstatic.akash-go.com/Zee/Images/Kaafirhindi_S1E4_poster.jpg", Kaafir S1 E4 Hindi
+#EXTVLCOPT:http-user-agent=Mozilla/5.0(coderboybd) (Linux; Android 9; Redmi S2 Build/PKQ1.181203.001) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.7049.79 Mobile Safari/537.36
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://bingeakashgo.live.ott.irdeto.com/licenseServer/widevine/v1/bingeakashgo/license?contentId=Kaafirhindi_S1E4_Zee&ls_session=eyJhbGciOiJSUzI1NiIsInR5cCI6IkpXVCIsImtpZCI6InJzYTIwNDhrZXkifQ.eyJzdWIiOiI0MTE5MjM5MSIsImlzcyI6Im9wZXJhdG9yLXBvcnRhbCIsImV4cCI6MTc2MDc4MDU4NiwiaWF0IjoxNzYwNzczMzg2LCJhaWQiOiJiaW5nZWFrYXNoZ28iLCJqdGkiOiI3NTk1ZjI1MS0zMTRiLTQwN2UtYmQ2ZS0yYzA1NjljMDU5ZDkiLCJlbnQiOlt7ImVwaWQiOiJzdWJzY3JpcHRpb24tZW50aXRsZW1lbnQtcG9saWN5IiwiYmlkIjoic3Vic2NyaXB0aW9uLWJ1bmRsZSJ9XSwiY2lkIjoiS2FhZmlyaGluZGlfUzFFNF9aZWUifQ.BSc7XFg89ewSbWrxvSgIz2fj5AHj6U7cu7mAVe_rvHVsCUoTuFr2gI03Rb9qM0Y39jo6tIIxAUy7Ke3GWzOtLseC874qoC-VNRVA3aoxQkKBQFUeaL8Uo8O9SldFjq-kaPCtp4JT-IMwCht-DcSFJpedrYrPaX-DeP8ueYvWU-9ro9ydlihzjzh14zFFqP_2QHYY_zYvZyr1xm9G_ukQFOrTtDzT_GfAisAZkhgzPzfITt44Hp1Ny_q7QeLRFXJrNqVwKktcbCx594QhcOQqD6BOgAQAFaB7IjH2cYbWrKrZyJ6E8zuPf61Lm1iroZQVYAGs1vJXSNTf9HvTc6xVaQ
+https://ti38qcazgz.gpcdn.net/out/v1/1cefbc8bd1ad4659bcc98bee68584d98/5de15329726648679e59feb50e1fe5ff/1e78821adbc947e1b26890f35acd2dcc/index.mpd
+
+#EXTINF:-1 group-title="AKASHGO" tvg-id="" tvg-logo="https://tstatic.akash-go.com/AkashGo/Images/WeddingDiaryCMV_Portrait.jpg", Wedding Diary
+#EXTVLCOPT:http-user-agent=Mozilla/5.0(coderboybd) (Linux; Android 9; Redmi S2 Build/PKQ1.181203.001) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.7049.79 Mobile Safari/537.36
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://bingeakashgo.live.ott.irdeto.com/licenseServer/widevine/v1/bingeakashgo/license?contentId=WeddingDiaryCMV_AkashGo&ls_session=eyJhbGciOiJSUzI1NiIsInR5cCI6IkpXVCIsImtpZCI6InJzYTIwNDhrZXkifQ.eyJzdWIiOiI0MTE5MjM5MSIsImlzcyI6Im9wZXJhdG9yLXBvcnRhbCIsImV4cCI6MTc2MDc4MDU4OCwiaWF0IjoxNzYwNzczMzg4LCJhaWQiOiJiaW5nZWFrYXNoZ28iLCJqdGkiOiI3MDY0ZGJhMi1kN2Y4LTRmZDktYTE0Yy01NDBmMWMzMWE0OTIiLCJlbnQiOlt7ImVwaWQiOiJzdWJzY3JpcHRpb24tZW50aXRsZW1lbnQtcG9saWN5IiwiYmlkIjoic3Vic2NyaXB0aW9uLWJ1bmRsZSJ9XSwiY2lkIjoiV2VkZGluZ0RpYXJ5Q01WX0FrYXNoR28ifQ.f9z2ZlbSGVmDLimWMTiW_KJ-rwojyHyWZksI_pM--uPaY63TZsDhfMYS7Xtf6po-4xYQXPWp849pisHeeSd0DCXDA273701goBXzVVZgihfr8Tc5TZH1n-1YRNSpBMI8azWQLTynPRMhVhWSz4otHaLZ5MXPikuFvVJpURTkmrwDczAlfJYnDpiabMLeKd1NWSTYEOStdS5zUo_94rvstxQXVf8JL7jjdvay3hmSdhgvv1WPmY7UiQ61EZAzyEMRmkTE2RBTRPyOKUiXctHBMdib2vAGC6sstK-VEG9FF2ZTlg5kEdBIBqxlUR6j6PhG8JxTTUk4FHf77wUwnw6jxQ
+https://ti38qcazgz.gpcdn.net/out/v1/76b90ffef8fa4f7a84fc7018e80d9a4e/5de15329726648679e59feb50e1fe5ff/1e78821adbc947e1b26890f35acd2dcc/index.mpd
+
+#EXTINF:-1 group-title="AKASHGO" tvg-id="" tvg-logo="https://tstatic.akash-go.com/Zee/Images/Kaafirhindi_S1E5_poster.jpg", Kaafir S1 E5 Hindi
+#EXTVLCOPT:http-user-agent=Mozilla/5.0(coderboybd) (Linux; Android 9; Redmi S2 Build/PKQ1.181203.001) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.7049.79 Mobile Safari/537.36
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://bingeakashgo.live.ott.irdeto.com/licenseServer/widevine/v1/bingeakashgo/license?contentId=Kaafirhindi_S1E5_Zee&ls_session=eyJhbGciOiJSUzI1NiIsInR5cCI6IkpXVCIsImtpZCI6InJzYTIwNDhrZXkifQ.eyJzdWIiOiI0MTE5MjM5MSIsImlzcyI6Im9wZXJhdG9yLXBvcnRhbCIsImV4cCI6MTc2MDc4MDU4OSwiaWF0IjoxNzYwNzczMzg5LCJhaWQiOiJiaW5nZWFrYXNoZ28iLCJqdGkiOiI5MDEzNTU3YS0wOTRhLTQ4ZTQtODdjNC00MjQ2MWY4YWNhZTEiLCJlbnQiOlt7ImVwaWQiOiJzdWJzY3JpcHRpb24tZW50aXRsZW1lbnQtcG9saWN5IiwiYmlkIjoic3Vic2NyaXB0aW9uLWJ1bmRsZSJ9XSwiY2lkIjoiS2FhZmlyaGluZGlfUzFFNV9aZWUifQ.EmeU-e53ipn9x-WUMGyelJg9ggtT1g1q-DubXkjL8Och5nIM4Nst_9JkVZqK8Zm2q5BCa7-TMSvqM-pCU4G9GbF05-o9DpTtlbfvc_mZCkbVdocBTLcC76f3VidUydUNc2zPxY7-9tpA5kFuKZN1Lp5u-AZsa8KOl8jQhcu6-rNF7DtN8kULz5JBzlb3of3ULFpEL9QGlXnN-9Rw-VVLmHMj84rFadcNYSLE8kNCXzA7qjRUPtppzp-xkXdRHtmjXg_uT3Woap7377S_ZQHP6Zm9IF1GDZalNmeRdx7X9WuAWhj_6l6FJdZQOtistfrJe_O4iNZE1cqRBRJNl1iKMg
+https://ti38qcazgz.gpcdn.net/out/v1/c1a5a7b2b4924097bd558e5858799247/5de15329726648679e59feb50e1fe5ff/1e78821adbc947e1b26890f35acd2dcc/index.mpd
+
+#EXTINF:-1 group-title="AKASHGO" tvg-id="" tvg-logo="https://tstatic.akash-go.com/AkashGo/Images/IAmSingleCMV_Portrait.jpg", I Am Single
+#EXTVLCOPT:http-user-agent=Mozilla/5.0(coderboybd) (Linux; Android 9; Redmi S2 Build/PKQ1.181203.001) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.7049.79 Mobile Safari/537.36
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://bingeakashgo.live.ott.irdeto.com/licenseServer/widevine/v1/bingeakashgo/license?contentId=IAmSingleCMV_AkashGo&ls_session=eyJhbGciOiJSUzI1NiIsInR5cCI6IkpXVCIsImtpZCI6InJzYTIwNDhrZXkifQ.eyJzdWIiOiI0MTE5MjM5MSIsImlzcyI6Im9wZXJhdG9yLXBvcnRhbCIsImV4cCI6MTc2MDc4MDU5MCwiaWF0IjoxNzYwNzczMzkwLCJhaWQiOiJiaW5nZWFrYXNoZ28iLCJqdGkiOiI0ZDVkODkyMS1mMzc1LTQwNjQtOWYyYS02ZTYzYmI4ZGYyODIiLCJlbnQiOlt7ImVwaWQiOiJzdWJzY3JpcHRpb24tZW50aXRsZW1lbnQtcG9saWN5IiwiYmlkIjoic3Vic2NyaXB0aW9uLWJ1bmRsZSJ9XSwiY2lkIjoiSUFtU2luZ2xlQ01WX0FrYXNoR28ifQ.fUsAUq04bQLTcJrD88D_XVuo_ibFsyeqQoSyQxkwnFqIiNxT3QNfmJMg9Y1s4Ezcns5zSf0CjJbMakMGBdqwdTiWQedSWE3Llhzzkh6xKT0S5YgVhDFKagRL5nLkFOYoJA2hEck8weqPWhdYztU25c3GLRAAxIc1uvggrryPGHBG1hfYzE4Vs10kfSk2_GU7HdJMH2oSY9XteYVNxaaFb10BmDnuo__xJDdoJmw4QwDOoRwZOXuWR2ov4rlFFkNB9YQp3nrbrxm-U8mJKAnYDAcEWfVKd5P6g7TIeuXEYd0Yzw1oWjIyQ0SPsiCiiRtNDgsrWcmXXkfIrV7nwGtCjw
+https://ti38qcazgz.gpcdn.net/out/v1/9b4443cec7a946a79c236958aa33a231/5de15329726648679e59feb50e1fe5ff/1e78821adbc947e1b26890f35acd2dcc/index.mpd
+
+#EXTINF:-1 group-title="AKASHGO" tvg-id="" tvg-logo="https://tstatic.akash-go.com/AkashGo/Images/ShopnerBashorCMV_Portrait.jpg", Shopner Bashor
+#EXTVLCOPT:http-user-agent=Mozilla/5.0(coderboybd) (Linux; Android 9; Redmi S2 Build/PKQ1.181203.001) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.7049.79 Mobile Safari/537.36
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://bingeakashgo.live.ott.irdeto.com/licenseServer/widevine/v1/bingeakashgo/license?contentId=ShopnerBashorCMV_AkashGo&ls_session=eyJhbGciOiJSUzI1NiIsInR5cCI6IkpXVCIsImtpZCI6InJzYTIwNDhrZXkifQ.eyJzdWIiOiI0MTE5MjM5MSIsImlzcyI6Im9wZXJhdG9yLXBvcnRhbCIsImV4cCI6MTc2MDc4MDU5MSwiaWF0IjoxNzYwNzczMzkxLCJhaWQiOiJiaW5nZWFrYXNoZ28iLCJqdGkiOiI3N2JiZjBiYi0xYzZiLTQzMjEtYTUzMy03ZDcyZGNjYjdhMmUiLCJlbnQiOlt7ImVwaWQiOiJzdWJzY3JpcHRpb24tZW50aXRsZW1lbnQtcG9saWN5IiwiYmlkIjoic3Vic2NyaXB0aW9uLWJ1bmRsZSJ9XSwiY2lkIjoiU2hvcG5lckJhc2hvckNNVl9Ba2FzaEdvIn0.UH7ktnVDN07e49LqUc54q7MN2_OtZqK63_tjEt82WqxBsrllCRvMMdCkO7pnKp_Ny18GSng5ase1v7KafIx5_iy0iUYBI4OK9VR78XhBKu_6OtSNK0YUAMZ8jzWj-nV_BGeBUUKkO5YBDiSn_NgBuM0KLquijj54dApjgXvzJs7trXmjOqeil8fO6LNJ-6HDp74C7iWPdp2CStwmymd2yCm56Shr8jhVE3_2g3iZj4VuxbREK3RQ2l8sAQYzZL1gdjiL-FwWi7UkZPZnWqaeY_gg4UxpsTMqYigxjzab6T4x2eMADA88KJvSlzloyLnmTuFq4AhK8B0I2iw5CThm_A
+https://ti38qcazgz.gpcdn.net/out/v1/329ebb89752a4034b165028b8eb95644/5de15329726648679e59feb50e1fe5ff/1e78821adbc947e1b26890f35acd2dcc/index.mpd
+
+#EXTINF:-1 group-title="AKASHGO" tvg-id="" tvg-logo="https://tstatic.akash-go.com/AkashGo/Images/NayikaTumiKarCMV_Portrait.jpg", Nayika Tumi Kar
+#EXTVLCOPT:http-user-agent=Mozilla/5.0(coderboybd) (Linux; Android 9; Redmi S2 Build/PKQ1.181203.001) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.7049.79 Mobile Safari/537.36
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://bingeakashgo.live.ott.irdeto.com/licenseServer/widevine/v1/bingeakashgo/license?contentId=NayikaTumiKarCMV_AkashGo&ls_session=eyJhbGciOiJSUzI1NiIsInR5cCI6IkpXVCIsImtpZCI6InJzYTIwNDhrZXkifQ.eyJzdWIiOiI0MTE5MjM5MSIsImlzcyI6Im9wZXJhdG9yLXBvcnRhbCIsImV4cCI6MTc2MDc4MDU5MiwiaWF0IjoxNzYwNzczMzkyLCJhaWQiOiJiaW5nZWFrYXNoZ28iLCJqdGkiOiI2N2QyYWEyOC02NDI2LTRhN2MtYjFhNy1jYTEzMjA0ZTlkMmYiLCJlbnQiOlt7ImVwaWQiOiJzdWJzY3JpcHRpb24tZW50aXRsZW1lbnQtcG9saWN5IiwiYmlkIjoic3Vic2NyaXB0aW9uLWJ1bmRsZSJ9XSwiY2lkIjoiTmF5aWthVHVtaUthckNNVl9Ba2FzaEdvIn0.hedWzLGLx5LSeq4PAPS0_vHpFCIg8gOHVequB31DSXQqJjUYHxFkxxQBuKdvKUcsS--q3EbdSOsltDs2A0F6CrDWDc2B78pSnQlkU0UzJDc0WOmkh9L7AGQIFdFhUuJluOvirT5CRBDDF8CBSvqG5KjdLOFO8p-908mD-NsU3fXPavThUgvEK2EcOC0P9bVo4DJ7PW1JnIP_e-J5FsUn-v6emthu0ylyjUJswU3WGvwHZgJfPvtSioEOPYr-ouW1O4IEHK2zWOnG8-W1iFndrHjTmEk9a7TgoNItBRVcx42irEadMvvcLOvr8yn7LRQO1AxngRSYHYFU3MHg-ijTpw
+https://ti38qcazgz.gpcdn.net/out/v1/e7a6c481948a457f953269b7e719197c/5de15329726648679e59feb50e1fe5ff/1e78821adbc947e1b26890f35acd2dcc/index.mpd
+
+#EXTINF:-1 group-title="AKASHGO" tvg-id="" tvg-logo="https://tstatic.akash-go.com/Zee/Images/Urihindi_Portrait.jpg", Uri
+#EXTVLCOPT:http-user-agent=Mozilla/5.0(coderboybd) (Linux; Android 9; Redmi S2 Build/PKQ1.181203.001) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.7049.79 Mobile Safari/537.36
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://bingeakashgo.live.ott.irdeto.com/licenseServer/widevine/v1/bingeakashgo/license?contentId=Urihindi_Zee&ls_session=eyJhbGciOiJSUzI1NiIsInR5cCI6IkpXVCIsImtpZCI6InJzYTIwNDhrZXkifQ.eyJzdWIiOiI0MTE5MjM5MSIsImlzcyI6Im9wZXJhdG9yLXBvcnRhbCIsImV4cCI6MTc2MDc4MDU5MywiaWF0IjoxNzYwNzczMzkzLCJhaWQiOiJiaW5nZWFrYXNoZ28iLCJqdGkiOiJlN2RiZWU5Yy1kNjJjLTQ4ZjMtOTg0Yi02OGFkYWI5MGI3MjMiLCJlbnQiOlt7ImVwaWQiOiJzdWJzY3JpcHRpb24tZW50aXRsZW1lbnQtcG9saWN5IiwiYmlkIjoic3Vic2NyaXB0aW9uLWJ1bmRsZSJ9XSwiY2lkIjoiVXJpaGluZGlfWmVlIn0.ezRh_u6yMOPQPklqZ4PU4b2murqpUbRpz5Lj1IbNyxFrkZCxp2f-yxi4lgHRaq4Qk7IqOgCGkkG6MIQa2udG0fIWrsh23eIuOmOiLPaDLNJ4U45ZHywuZlkQ3L32xAvfFU6O4ZoIHhGwupUcpZIMgnrKJv3O9HqwatjLtgZTJ7lXEX_k0w3gIhWxRoOXVZfB45eN57GBiFmksYYXV9islmK37U3TVuFa0I5kqbtPv44bRE0ThLmBVN4EoaL9fWar2s14PRfJbnp8ErxjMn13Ko9FHIwg_TQfodkkN93Kj-oghHoLE2HHv9Pzbol2fNeTYXGTsvD3I01DWmA9cDsP8w
+https://ti38qcazgz.gpcdn.net/out/v1/3a122a559b324ce3a6f5b1b9ce1013fb/5de15329726648679e59feb50e1fe5ff/1e78821adbc947e1b26890f35acd2dcc/index.mpd
+
+#EXTINF:-1 group-title="AKASHGO" tvg-id="" tvg-logo="https://tstatic.akash-go.com/Zee/Images/Kaafirhindi_S1E8_poster.jpg", Kaafir S1 E8 Hindi
+#EXTVLCOPT:http-user-agent=Mozilla/5.0(coderboybd) (Linux; Android 9; Redmi S2 Build/PKQ1.181203.001) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.7049.79 Mobile Safari/537.36
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://bingeakashgo.live.ott.irdeto.com/licenseServer/widevine/v1/bingeakashgo/license?contentId=Kaafirhindi_S1E8_Zee&ls_session=eyJhbGciOiJSUzI1NiIsInR5cCI6IkpXVCIsImtpZCI6InJzYTIwNDhrZXkifQ.eyJzdWIiOiI0MTE5MjM5MSIsImlzcyI6Im9wZXJhdG9yLXBvcnRhbCIsImV4cCI6MTc2MDc4MDU5NCwiaWF0IjoxNzYwNzczMzk0LCJhaWQiOiJiaW5nZWFrYXNoZ28iLCJqdGkiOiIwOWI1N2NhYy1iYzk4LTQzM2EtYmY0Mi1lYTFiOGNiZjQ4ZTIiLCJlbnQiOlt7ImVwaWQiOiJzdWJzY3JpcHRpb24tZW50aXRsZW1lbnQtcG9saWN5IiwiYmlkIjoic3Vic2NyaXB0aW9uLWJ1bmRsZSJ9XSwiY2lkIjoiS2FhZmlyaGluZGlfUzFFOF9aZWUifQ.IPIUUoiqndxecRWESNST4DEP8CY4mOWgFd8eeWSvlXETxeDfjaTVsv5qjHbnKgppKr1KxnHFqhjf28BxEk1ihi0azNU7y49glC_2PxG0rZDwsHBQyBdQVJ0Cme2TKhfXBSgj0jHSH29rGTtHHzDyxSU9dfdX99X0p9LzcwP3jj29cxrLDPiOWK7uEgXYDKRdUvc1JezrImUM7zEHjPg58DhuRVY00hGFpxgzv0STiCIDlW60TZXXI_SptMHU7MUZU61n6A9ADCjW2jMFpsZw0jhWQTJhoZF1uPVtJjtWzm_HEX_-1uZ955gUvMDo8hu-eEfG4oV1l5iit0dxGF0Ppw
+https://ti38qcazgz.gpcdn.net/out/v1/3b1a4d77ea144e3d88029079e669f96c/5de15329726648679e59feb50e1fe5ff/1e78821adbc947e1b26890f35acd2dcc/index.mpd
+
+#EXTINF:-1 group-title="AKASHGO" tvg-id="" tvg-logo="https://tstatic.akash-go.com/AkashGo/Images/PotheHoloDeriCMV_Portrait.jpg", Pothe Holo Deri
+#EXTVLCOPT:http-user-agent=Mozilla/5.0(coderboybd) (Linux; Android 9; Redmi S2 Build/PKQ1.181203.001) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.7049.79 Mobile Safari/537.36
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://bingeakashgo.live.ott.irdeto.com/licenseServer/widevine/v1/bingeakashgo/license?contentId=PotheHoloDeriCMV_AkashGo&ls_session=eyJhbGciOiJSUzI1NiIsInR5cCI6IkpXVCIsImtpZCI6InJzYTIwNDhrZXkifQ.eyJzdWIiOiI0MTE5MjM5MSIsImlzcyI6Im9wZXJhdG9yLXBvcnRhbCIsImV4cCI6MTc2MDc4MDU5NSwiaWF0IjoxNzYwNzczMzk1LCJhaWQiOiJiaW5nZWFrYXNoZ28iLCJqdGkiOiI2YjY5MGEwZS01Nzg3LTRiOWQtYTM5OS0yNTE1NTZiYzQ3MjUiLCJlbnQiOlt7ImVwaWQiOiJzdWJzY3JpcHRpb24tZW50aXRsZW1lbnQtcG9saWN5IiwiYmlkIjoic3Vic2NyaXB0aW9uLWJ1bmRsZSJ9XSwiY2lkIjoiUG90aGVIb2xvRGVyaUNNVl9Ba2FzaEdvIn0.ixWz1Nj9591iN-F-GuFGiOKVM90R0LH3Jq79YKlUNf1csGOftO84A72OUlaqI6UhIClmkNCGcacZzra5YSGQYNWB00mrfrYwhzlFiV_myf15kBfiQEUWdV7HM1ZXGPjEdyzbG1fCG2F7DU35bkE4g4w26T2yz-BvxChSUR64l8NSl6mtruVDusXN7slaBMd40qqOlOjNyXxooTRwMLBk-3k6BWpUh1w12h3Lx1pEvZIdwanDG7_8Sp04c2cqS9NaORSVWvHXk6QbRK239NiECWif5XvVq1t0vwMdicjwoc0dek2LJoTqHxgRSrMKHQ5Cx7EsldEjnCcMBGmFz8IXKg
+https://ti38qcazgz.gpcdn.net/out/v1/d53a11aeb29242fe80936717a93ba4da/5de15329726648679e59feb50e1fe5ff/1e78821adbc947e1b26890f35acd2dcc/index.mpd
+
+#EXTINF:-1 group-title="AKASHGO" tvg-id="" tvg-logo="https://tstatic.akash-go.com/Zee/Images/Sunflowerhindi_S1E6_poster.jpg", Sunflowerhindi S1 E6 Hindi
+#EXTVLCOPT:http-user-agent=Mozilla/5.0(coderboybd) (Linux; Android 9; Redmi S2 Build/PKQ1.181203.001) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.7049.79 Mobile Safari/537.36
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://bingeakashgo.live.ott.irdeto.com/licenseServer/widevine/v1/bingeakashgo/license?contentId=Sunflowerhindi_S1E6_Zee&ls_session=eyJhbGciOiJSUzI1NiIsInR5cCI6IkpXVCIsImtpZCI6InJzYTIwNDhrZXkifQ.eyJzdWIiOiI0MTE5MjM5MSIsImlzcyI6Im9wZXJhdG9yLXBvcnRhbCIsImV4cCI6MTc2MDc4MDU5NSwiaWF0IjoxNzYwNzczMzk1LCJhaWQiOiJiaW5nZWFrYXNoZ28iLCJqdGkiOiJhM2IyNTZiNC00OTNiLTQwNTMtOTVkOS00NjZkNDE1ODI4NmEiLCJlbnQiOlt7ImVwaWQiOiJzdWJzY3JpcHRpb24tZW50aXRsZW1lbnQtcG9saWN5IiwiYmlkIjoic3Vic2NyaXB0aW9uLWJ1bmRsZSJ9XSwiY2lkIjoiU3VuZmxvd2VyaGluZGlfUzFFNl9aZWUifQ.Oy2rfjVcOWR16QqgAj_CAKIwJFPKSna1D3nElrOkhDY7jbfvJnbmHyLa26DK37oU7qazsyBySy4DrWClK6mhnywIcAQjuAQi_OZKT5ewSzIZOLYL1OsqEobEZ_GciEq6DwtK7Nkx66MdkFqbVp7LxB8B9ZBmxqf1jI01gsJYRGBW9b4Xttug_WVqx-t-QUKgu4IZzahmIlJYmnP0G5rqzd6GU8Vu-VG1SsSRG078NF4y7T9IK8P8waIS_01zHo-IDCWf44ZDnUKF_0TD-2dsDd21xW2XorKCAKQHvEUjGZKiEtkFuAU_nkFQut-OKIGw_wA6YZTJ1Ds4v6r292H5Dw
+https://ti38qcazgz.gpcdn.net/out/v1/2fe11309a7764cd7abdae0544d1fbc57/5de15329726648679e59feb50e1fe5ff/1e78821adbc947e1b26890f35acd2dcc/index.mpd
+#EXTINF:-1 group-title="LIVE" tvg-chno="" tvg-id="" tvg-logo="https://lof.png", Channeli HD
+#EXTVLCOPT:http-referrer=https://static.jagobd.com.bd/
+#EXTVLCOPT:http-origin=https://static.jagobd.com.bd/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 9; Redmi S2 Build/PKQ1.181203.001) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.7049.79 Mobile Safari/537.36
+https://static.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDDEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFsaWRtaW51aiPhnPTI2/channeli-8-org.stream/playlist.m3u8
+#EXTINF:-1 tvg-id="asiahindi" group-title="Event" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Asia_Cup_Hindi.png",TNT 1 Sports 
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=192b1115da041585c77200128549efa1:634e10efe4abbb14be400a3ccbac0258
+https://ottb.live.cf.ww.aiv-cdn.net/lhr-nitro/live/dash/enc/i2pcjr4pe5/out/v1/912e9db56d75403b8a9ac0a719110f36/cenc.mpd
+#EXTINF:-1 group-title="Premium" tvg-logo="https://assets-prod.services.toffeelive.com/OHjtBJkBcqxnFHJBUu4B/posters/8bb71f14-009c-4a63-aa5b-bdf4de2a8a04.png", ICC Women's Cricket World Cup 2025 
+#EXTVLCOPT:http-user-agent=Toffee (Linux;Android 14)
+#EXTHTTP:{"cookie":"Edge-Cache-Cookie=URLPrefix=aHR0cHM6Ly9tcHJvZC1jZG4udG9mZmVlbGl2ZS5jb20:Expires=1760830743:KeyName=prod_live_events:Signature=CgP3FwxtOeg7jA3bPT5WCAsRjR4IrKKwgbDoq5PICJGWuUypr3dw17nfPUoDWXd5jdunGZ4OwYPQqEuMiiCKBw"}
+https://mprod-cdn.toffeelive.com/live/match-asiacup/index.m3u8
+
+#EXTINF:-1 group-title="Premium" tvg-logo="https://assets-prod.services.toffeelive.com/HHnAgJkBcqxnFHJBabwO/posters/a2cabad4-ab24-4cd3-80ef-ffd74a016393.png", BFL | Live 1
+#EXTVLCOPT:http-user-agent=Toffee (Linux;Android 14)
+#EXTHTTP:{"cookie":"Edge-Cache-Cookie=URLPrefix=aHR0cHM6Ly9tcHJvZC1jZG4udG9mZmVlbGl2ZS5jb20:Expires=1760830743:KeyName=prod_live_events:Signature=CgP3FwxtOeg7jA3bPT5WCAsRjR4IrKKwgbDoq5PICJGWuUypr3dw17nfPUoDWXd5jdunGZ4OwYPQqEuMiiCKBw"}
+https://mprod-cdn.toffeelive.com/live/match-11/index.m3u8
+
+#EXTINF:-1 group-title="Adventure" tvg-logo="https://assets-prod.services.toffeelive.com/f_png,w_300,q_85/KS6x-JQBv9knK3AHwDZy/posters/6594d216-aaca-4eee-b6f5-bbc6b80feb15.webp", Discovery 
+#EXTVLCOPT:http-user-agent=Toffee (Linux;Android 14)
+#EXTHTTP:{"cookie":"Edge-Cache-Cookie=URLPrefix=aHR0cHM6Ly9ibGRjbXByb2QtY2RuLnRvZmZlZWxpdmUuY29t:Expires=1760953142:KeyName=prod_linear:Signature=UaV86u5Q3XITjw9Zyboc86A6MWL8DrYT2hj25rDEz0FcmKGDP9FfZFdTx85jGfYA4ZrOykuxMv6kQ5B0bAaJAg"}
+https://bldcmprod-cdn.toffeelive.com/cdn/live/discovery_sd/playlist.m3u8
+#EXTINF:-1 group-title="-",SONY TEN 1 HD - Rs 19.00
+http://103.182.170.32:8888/play/a039
+#EXTINF:-1 group-title="-",SONY YAY! - Rs 4.00
+http://103.182.170.32:8888/play/a04m
+#EXTINF:-1 group-title="-",STAR GOLD HD - Rs 19.00
+http://103.182.170.32:8888/play/a02j
+#EXTINF:-1 group-title="-",STAR Movies HD - Rs 19.00
+http://103.182.170.32:8888/play/a029
+#EXTINF:-1 group-title="-",STAR Movies Select HD - Rs 19.00
+http://103.182.170.32:8888/play/a028
+#EXTINF:-1 group-title="-",STAR PLUS - Rs 19.00
+http://103.182.170.32:8888/play/a03o
+#EXTINF:-1 tvg-id="1090492435" tvg-name="England Tour of New Zealand 2025" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000010322/1760663402320282_NZvsENG25_1t20i_14oct_live_landscape_thumb_re1.jpg" tvg-language="English" group-title="Cricket",ENG | 1st T20I - 18 Oct 2025
+https://sonymtmnew.akamaized.net/hls/live/2018457/engvsnz/ENG/std_lrh-800300010.m3u8?hdnea=exp=1760812204~acl=/*~id=13537468712789799749370188547489~hmac=b08bfbdf3cc71fd4abd8c8f3a4dfb486af2b89af1f5c3b6a4e0e16d6b29d11e5
+#EXTINF:-1 tvg-id="1090492070" tvg-name="Asia Cup 2025" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000010049/1760026367682373_AsiaCup_Glory_24x7_Landscape_thumbj_9OCT_re1.jpg" tvg-language="English" group-title="Cricket",ENG | India's Asia Cup Glory 24x7
+https://sonymtmnew.akamaized.net/hls/live/2022315/DAI11ME-AC24X7/master_lrh.m3u8?hdnea=exp=1760812204~acl=/*~id=13537468712789799749370188547489~hmac=b08bfbdf3cc71fd4abd8c8f3a4dfb486af2b89af1f5c3b6a4e0e16d6b29d11e5
+#EXTINF:-1 tvg-id="1090492387" tvg-name="Taarak Mehta Ka Ooltah Chashmah" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/bolt_assets/landscape_thumb/1760480819531_1760463937929343_TMKOC_Channel_14oct_landscape_thumb.jpg" tvg-language="HINDI" group-title="Shows",HIN | Taarak Mehta Ka Ooltah Chashmah
+https://sonymtmnew.akamaized.net/hls/live/2022316/DAI12ME-TMK24X7/master_lrh.m3u8?hdnea=exp=1760812204~acl=/*~id=13537468712789799749370188547489~hmac=b08bfbdf3cc71fd4abd8c8f3a4dfb486af2b89af1f5c3b6a4e0e16d6b29d11e5
