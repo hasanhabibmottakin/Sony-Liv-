@@ -17,7 +17,7 @@ https://sonymtmnew.akamaized.net/hls/live/2094589/DAI05ME-V3/std_lrh-800300010.m
 #EXTINF:-1 tvg-id="1090492482" tvg-name="Bundesliga 2025-26" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000009849/1759549507579913_bliga2526_MD7_FC_Koln_vs_FC_Augsburg_3oct_landscape_thumb.jpg" tvg-language="English" group-title="Football",ENG | FC Koln vs FC Augsburg - MD 7 - 18 Oct 2025
 https://sonymtmnew.akamaized.net/hls/live/2105079/DAI08ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1760812204~acl=/*~id=13537468712789799749370188547489~hmac=b08bfbdf3cc71fd4abd8c8f3a4dfb486af2b89af1f5c3b6a4e0e16d6b29d11e5
 #EXTINF:-1 tvg-id="1090492387" tvg-name="Taarak Mehta Ka Ooltah Chashmah" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/bolt_assets/landscape_thumb/1760480819531_1760463937929343_TMKOC_Channel_14oct_landscape_thumb.jpg" tvg-language="HINDI" group-title="Shows",HIN | Taarak Mehta Ka Ooltah Chashmah
-https://sonymtmnew.akamaized.net/hls/live/2022316/DAI12ME-TMK24X7/master_lrh.m3u8?hdnea=exp=1760812204~acl=/*~id=13537468712789799749370188547489~hmac=b08bfbdf3cc71fd4abd8c8f3a4dfb486af2b89af1f5c3b6a4e0e16d6b29d11e5
+https://prod-cdn01-vod.toffeelive.com/20250601/gB9RJ5cBEef-9-uViCAh/manifest_hls.m3u8?edge-cache-token=Expires=1760885823~Starts=1760799423~URLPrefix=aHR0cHM6Ly9wcm9kLWNkbjAxLXZvZC50b2ZmZWVsaXZlLmNvbQ~Signature=Q7aUZLoVlwu5pICPi4EivG-H7EopdGHWjk2wF-QTWZmvVC1nV92pv8Skan6HZiaMKfvRX_ST6A8YGEbasgMmAQ
 
 #EXTINF:-1 group-title="Premium" tvg-logo="https://assets-prod.services.toffeelive.com/OHjtBJkBcqxnFHJBUu4B/posters/8bb71f14-009c-4a63-aa5b-bdf4de2a8a04.png", ICC Women's Cricket World Cup 2025 
 #EXTVLCOPT:http-user-agent=Toffee (Linux;Android 14)
