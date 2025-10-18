@@ -2,6 +2,13 @@
 
 #EXTM3U
 #UPDATED: Sat, 18 Oct 2025 13:53:11 GMT
+#EXTINF:-1 group-title="AKASHGO" tvg-id="" tvg-logo="https://tstatic.akash-go.com/Zee/Images/Kaafirhindi_S1E4_poster.jpg", Zee Bangla Live
+#EXTVLCOPT:http-user-agent=Mozilla/5.0(coderboybd) (Linux; Android 9; Redmi S2 Build/PKQ1.181203.001) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.7049.79 Mobile Safari/537.36
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","kid":"Hd4PgWLgTaJbJIi7vY8RMQ==","k":"/DI8JjkFU1aq0Ig1MFWY/g=="}]}
+https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Zeebangla/default/manifest.mpd
+
 #EXTINF:-1 tvg-id="1090492070" tvg-name="Asia Cup 2025" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000010049/1760026367682373_AsiaCup_Glory_24x7_Landscape_thumbj_9OCT_re1.jpg" tvg-language="English" group-title="Cricket",ENG | India's Asia Cup Glory 24x7
 https://sonymtmnew.akamaized.net/hls/live/2022315/DAI11ME-AC24X7/master_lrh.m3u8?hdnea=exp=1760812204~acl=/*~id=13537468712789799749370188547489~hmac=b08bfbdf3cc71fd4abd8c8f3a4dfb486af2b89af1f5c3b6a4e0e16d6b29d11e5
 #EXTINF:-1 tvg-id="1090492483" tvg-name="Bundesliga 2025-26" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000009849/1759550228529913_bliga2526_MD7_Mainz_vs_Leverkusen_3oct_landscape_thumb.jpg" tvg-language="English" group-title="Football",ENG | Mainz vs Bayer Leverkusen - MD 7 - 18 Oct 2025
