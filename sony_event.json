@@ -1,6 +1,6 @@
 {
   "api_made_by": "bd coder boy",
-  "updated": "Sat, 18 Oct 2025 09:29:40 GMT",
+  "updated": "Sat, 18 Oct 2025 09:39:01 GMT",
   "total_events": 3,
   "events": [
     {
@@ -11,7 +11,7 @@
       "category": "Cricket",
       "title": "ENG | 1st T20I - 18 Oct 2025",
       "url": "https://sonymtmnew.akamaized.net/hls/live/2018457/engvsnz/ENG/std_lrh-800300010.m3u8?hdnea=exp=1760812204~acl=/*~id=13537468712789799749370188547489~hmac=b08bfbdf3cc71fd4abd8c8f3a4dfb486af2b89af1f5c3b6a4e0e16d6b29d11e5",
-      "user_agent": "com.sonyliv/6.22.4 (Android 11; en_GB; SWTV-22AE-FHD; Build/RTM8.240401.091)"
+      "user_agent": "com.sonyliv/6.22.4 (Android 14; en_GB; 22071219AI; Build/UP1A.231005.007)"
     },
     {
       "id": "1090492070",
@@ -21,7 +21,7 @@
       "category": "Cricket",
       "title": "ENG | India's Asia Cup Glory 24x7",
       "url": "https://sonymtmnew.akamaized.net/hls/live/2022315/DAI11ME-AC24X7/master_lrh.m3u8?hdnea=exp=1760812204~acl=/*~id=13537468712789799749370188547489~hmac=b08bfbdf3cc71fd4abd8c8f3a4dfb486af2b89af1f5c3b6a4e0e16d6b29d11e5",
-      "user_agent": "com.sonyliv/6.22.4 (Android 14; en_GB; V2303; Build/UP1A.231005.007)"
+      "user_agent": "com.sonyliv/6.22.4 (Android 14; en_GB; SM-M156B; Build/UP1A.231005.007)"
     },
     {
       "id": "1090492387",
@@ -31,7 +31,7 @@
       "category": "Shows",
       "title": "HIN | Taarak Mehta Ka Ooltah Chashmah",
       "url": "https://sonymtmnew.akamaized.net/hls/live/2022316/DAI12ME-TMK24X7/master_lrh.m3u8?hdnea=exp=1760812204~acl=/*~id=13537468712789799749370188547489~hmac=b08bfbdf3cc71fd4abd8c8f3a4dfb486af2b89af1f5c3b6a4e0e16d6b29d11e5",
-      "user_agent": "com.sonyliv/6.22.4 (Android 15; en_GB; RMX3853; Build/UKQ1.231108.001)"
+      "user_agent": "com.sonyliv/6.22.4 (Android 15; en_GB; CPH2705; Build/AP3A.240617.008)"
     }
   ]
 }
