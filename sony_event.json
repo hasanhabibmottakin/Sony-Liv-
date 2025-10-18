@@ -1,18 +1,8 @@
 {
   "api_made_by": "bd coder boy",
-  "updated": "Sat, 18 Oct 2025 17:43:17 GMT",
-  "total_events": 5,
+  "updated": "Sat, 18 Oct 2025 17:53:20 GMT",
+  "total_events": 4,
   "events": [
-    {
-      "id": "1090491643",
-      "name": "India's Got Talent",
-      "logo": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000009943/1759813037535349_IGTS11_simulcast_7OCT_Landscape_Thumb_re1.jpg",
-      "language": "Hindi",
-      "category": "Reality",
-      "title": "HIN | India\u2019s Got Talent",
-      "url": "https://sonymtmnew.akamaized.net/hls/live/2037142/DAI22ME-IGT/master_lrh-800300010.m3u8?hdnea=exp=1760833804~acl=/*~id=95408316803030322604927491307419~hmac=8018971039eae53b958071a1d1a841edac9f5de0b8dcb4639e27cb6b5a8bba55",
-      "user_agent": "com.sonyliv/6.22.4 (Android 6; en_GB; ASUS_Z01QD; Build/V417IR)"
-    },
     {
       "id": "1090492488",
       "name": "Bundesliga 2025-26",
@@ -21,7 +11,7 @@
       "category": "Football",
       "title": "ENG | Bayern Munich vs Borussia Dortmund - MD 7 - 18 Oct 2025",
       "url": "https://sonymtmnew.akamaized.net/hls/live/2022318/DAI14ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1760833804~acl=/*~id=95408316803030322604927491307419~hmac=8018971039eae53b958071a1d1a841edac9f5de0b8dcb4639e27cb6b5a8bba55",
-      "user_agent": "com.sonyliv/6.22.4 (Android 12; en_GB; CPH2477; Build/SP1A.210812.016)"
+      "user_agent": "com.sonyliv/6.22.4 (Android 9; en_GB; HiSmartTV A4; Build/PTMR.190127.037)"
     },
     {
       "id": "1090492070",
@@ -31,7 +21,7 @@
       "category": "Cricket",
       "title": "ENG | India's Asia Cup Glory 24x7",
       "url": "https://sonymtmnew.akamaized.net/hls/live/2022315/DAI11ME-AC24X7/master_lrh.m3u8?hdnea=exp=1760833804~acl=/*~id=95408316803030322604927491307419~hmac=8018971039eae53b958071a1d1a841edac9f5de0b8dcb4639e27cb6b5a8bba55",
-      "user_agent": "com.sonyliv/6.22.4 (Android 11; en_GB; BRAVIA VU31; Build/RTK2.220814.001)"
+      "user_agent": "com.sonyliv/6.22.4 (Android 13; en_GB; CPH2321; Build/TP1A.220905.001)"
     },
     {
       "id": "1090492552",
@@ -41,7 +31,7 @@
       "category": "Football",
       "title": "ENG | Bayern Munich vs Borussia Dortmund - Tactical Feed - 18 Oct 2025",
       "url": "https://sonymtmnew.akamaized.net/hls/live/2005444/DAI07ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1760833804~acl=/*~id=95408316803030322604927491307419~hmac=8018971039eae53b958071a1d1a841edac9f5de0b8dcb4639e27cb6b5a8bba55",
-      "user_agent": "com.sonyliv/6.22.4 (Android 11; en_GB; SMART TV; Build/RP1A.200720.011)"
+      "user_agent": "com.sonyliv/6.22.4 (Android 9; en_GB; RMX1811; Build/PKQ1.190319.001)"
     },
     {
       "id": "1090492387",
@@ -51,7 +41,7 @@
       "category": "Shows",
       "title": "HIN | Taarak Mehta Ka Ooltah Chashmah",
       "url": "https://sonymtmnew.akamaized.net/hls/live/2022316/DAI12ME-TMK24X7/master_lrh.m3u8?hdnea=exp=1760833804~acl=/*~id=95408316803030322604927491307419~hmac=8018971039eae53b958071a1d1a841edac9f5de0b8dcb4639e27cb6b5a8bba55",
-      "user_agent": "com.sonyliv/6.22.4 (Android 15; en_GB; RMX3853; Build/UKQ1.231108.001)"
+      "user_agent": "com.sonyliv/6.22.4 (Android 12; en_GB; M2101K7AI; Build/SKQ1.210908.001)"
     }
   ]
 }
