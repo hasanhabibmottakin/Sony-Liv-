@@ -1,6 +1,6 @@
 {
   "api_made_by": "bd coder boy",
-  "updated": "Sun, 19 Oct 2025 08:15:22 GMT",
+  "updated": "Sun, 19 Oct 2025 08:34:02 GMT",
   "total_events": 4,
   "events": [
     {
@@ -10,8 +10,8 @@
       "language": "English",
       "category": "Cricket",
       "title": "ENG | India's Asia Cup Glory 24x7",
-      "url": "https://sonymtmnew.akamaized.net/hls/live/2022315/DAI11ME-AC24X7/master_lrh.m3u8?hdnea=exp=1760877004~acl=/*~id=43266183689447572395046028540860~hmac=4917e473b110cf909bfda3b8f9b3d583b611674726a1f620cc4fa0a6206bc395",
-      "user_agent": "com.sonyliv/6.22.4 (Android 11; en_GB; MiTV-AXFR2; Build/RTT0.210630.002)"
+      "url": "https://sonymtmnew.akamaized.net/hls/live/2022315/DAI11ME-AC24X7/master_lrh.m3u8?hdnea=exp=1760898605~acl=/*~id=01730074113669624296314098955459~hmac=9955cf2b833401d73894aab5572691922ebbb06325c8330e7e88af4cbe4d88ba",
+      "user_agent": "com.sonyliv/6.22.4 (Android 11; en_GB; 4K DATV-Z; Build/RTK4.241026.054)"
     },
     {
       "id": "1090492626",
@@ -20,8 +20,8 @@
       "language": "English",
       "category": "Archery",
       "title": "ENG | Recurve Men Elite Eight - 19 Oct 2025",
-      "url": "https://sonymtmnew.akamaized.net/hls/live/2037139/DAI19ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1760877004~acl=/*~id=43266183689447572395046028540860~hmac=4917e473b110cf909bfda3b8f9b3d583b611674726a1f620cc4fa0a6206bc395",
-      "user_agent": "com.sonyliv/6.22.4 (Android 13; en_GB; CPH2285; Build/TP1A.220905.001)"
+      "url": "https://sonymtmnew.akamaized.net/hls/live/2037139/DAI19ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1760898605~acl=/*~id=01730074113669624296314098955459~hmac=9955cf2b833401d73894aab5572691922ebbb06325c8330e7e88af4cbe4d88ba",
+      "user_agent": "com.sonyliv/6.22.4 (Android 15; en_GB; V2437; Build/AP3A.240905.015.A2_V000L1)"
     },
     {
       "id": "1090492628",
@@ -30,8 +30,8 @@
       "language": "English",
       "category": "Golf",
       "title": "ENG | SJM Macao Open - Day 4 - 19 Oct 2025",
-      "url": "https://sonymtmnew.akamaized.net/hls/live/2022320/DAI16ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1760877004~acl=/*~id=43266183689447572395046028540860~hmac=4917e473b110cf909bfda3b8f9b3d583b611674726a1f620cc4fa0a6206bc395",
-      "user_agent": "com.sonyliv/6.22.4 (Android 15; en_GB; CPH2527; Build/UKQ1.230924.001)"
+      "url": "https://sonymtmnew.akamaized.net/hls/live/2022320/DAI16ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1760898605~acl=/*~id=01730074113669624296314098955459~hmac=9955cf2b833401d73894aab5572691922ebbb06325c8330e7e88af4cbe4d88ba",
+      "user_agent": "com.sonyliv/6.22.4 (Android 9; en_GB; Android TV S1; Build/PPR1.180610.011)"
     },
     {
       "id": "1090492387",
@@ -40,8 +40,8 @@
       "language": "HINDI",
       "category": "Shows",
       "title": "HIN | Taarak Mehta Ka Ooltah Chashmah",
-      "url": "https://sonymtmnew.akamaized.net/hls/live/2022316/DAI12ME-TMK24X7/master_lrh.m3u8?hdnea=exp=1760877004~acl=/*~id=43266183689447572395046028540860~hmac=4917e473b110cf909bfda3b8f9b3d583b611674726a1f620cc4fa0a6206bc395",
-      "user_agent": "com.sonyliv/6.22.4 (Android 7; en_GB; AOSP on r33a6; Build/NHG47L)"
+      "url": "https://sonymtmnew.akamaized.net/hls/live/2022316/DAI12ME-TMK24X7/master_lrh.m3u8?hdnea=exp=1760898605~acl=/*~id=01730074113669624296314098955459~hmac=9955cf2b833401d73894aab5572691922ebbb06325c8330e7e88af4cbe4d88ba",
+      "user_agent": "com.sonyliv/6.22.4 (Android 12; en_GB; CPH2477; Build/SP1A.210812.016)"
     }
   ]
 }
