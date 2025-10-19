@@ -1,18 +1,8 @@
 {
   "api_made_by": "bd coder boy",
-  "updated": "Sun, 19 Oct 2025 17:46:09 GMT",
-  "total_events": 3,
+  "updated": "Sun, 19 Oct 2025 17:53:41 GMT",
+  "total_events": 2,
   "events": [
-    {
-      "id": "1090491643",
-      "name": "India's Got Talent",
-      "logo": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000009943/1759813037535349_IGTS11_simulcast_7OCT_Landscape_Thumb_re1.jpg",
-      "language": "Hindi",
-      "category": "Reality",
-      "title": "HIN | India\u2019s Got Talent",
-      "url": "https://sonymtmnew.akamaized.net/hls/live/2037142/DAI22ME-IGT/master_lrh-800300010.m3u8?hdnea=exp=1760920342~acl=/*~id=56493897519698902825746129921613~hmac=d7d3150ed79ace159d41d020fbdbbc789488cdbabeb94e8cfc8d923ea3a5eb8f",
-      "user_agent": "com.sonyliv/6.22.4 (Android 6; en_GB; ASUS_Z01QD; Build/V417IR)"
-    },
     {
       "id": "1090492070",
       "name": "Asia Cup 2025",
@@ -21,7 +11,7 @@
       "category": "Cricket",
       "title": "ENG | India's Asia Cup Glory 24x7",
       "url": "https://sonymtmnew.akamaized.net/hls/live/2022315/DAI11ME-AC24X7/master_lrh.m3u8?hdnea=exp=1760920342~acl=/*~id=56493897519698902825746129921613~hmac=d7d3150ed79ace159d41d020fbdbbc789488cdbabeb94e8cfc8d923ea3a5eb8f",
-      "user_agent": "com.sonyliv/6.22.4 (Android 7; en_GB; AFTMM; Build/NS6711)"
+      "user_agent": "com.sonyliv/6.22.4 (Android 15; en_GB; V2420; Build/AP3A.240905.015.A2)"
     },
     {
       "id": "1090492387",
@@ -31,7 +21,7 @@
       "category": "Shows",
       "title": "HIN | Taarak Mehta Ka Ooltah Chashmah",
       "url": "https://sonymtmnew.akamaized.net/hls/live/2022316/DAI12ME-TMK24X7/master_lrh.m3u8?hdnea=exp=1760920342~acl=/*~id=56493897519698902825746129921613~hmac=d7d3150ed79ace159d41d020fbdbbc789488cdbabeb94e8cfc8d923ea3a5eb8f",
-      "user_agent": "com.sonyliv/6.22.4 (Android 15; en_GB; 23076PC4BI; Build/AQ3A.240912.001)"
+      "user_agent": "com.sonyliv/6.22.4 (Android 14; en_GB; MiTV-AXFU0; Build/UKG3.241124.001)"
     }
   ]
 }
