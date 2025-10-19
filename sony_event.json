@@ -1,7 +1,7 @@
 {
   "api_made_by": "bd coder boy",
-  "updated": "Sun, 19 Oct 2025 08:34:02 GMT",
-  "total_events": 4,
+  "updated": "Sun, 19 Oct 2025 08:46:05 GMT",
+  "total_events": 3,
   "events": [
     {
       "id": "1090492070",
@@ -11,17 +11,7 @@
       "category": "Cricket",
       "title": "ENG | India's Asia Cup Glory 24x7",
       "url": "https://sonymtmnew.akamaized.net/hls/live/2022315/DAI11ME-AC24X7/master_lrh.m3u8?hdnea=exp=1760898605~acl=/*~id=01730074113669624296314098955459~hmac=9955cf2b833401d73894aab5572691922ebbb06325c8330e7e88af4cbe4d88ba",
-      "user_agent": "com.sonyliv/6.22.4 (Android 11; en_GB; 4K DATV-Z; Build/RTK4.241026.054)"
-    },
-    {
-      "id": "1090492626",
-      "name": "Hyundai Archery World Cup Final 2025",
-      "logo": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000010223/1760397868502309_HAWC_NanjingChina2025_Recurve_men_Elite_Eight_Quarterfinals_To_Finals_14oct_landscape_thumb.jpg",
-      "language": "English",
-      "category": "Archery",
-      "title": "ENG | Recurve Men Elite Eight - 19 Oct 2025",
-      "url": "https://sonymtmnew.akamaized.net/hls/live/2037139/DAI19ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1760898605~acl=/*~id=01730074113669624296314098955459~hmac=9955cf2b833401d73894aab5572691922ebbb06325c8330e7e88af4cbe4d88ba",
-      "user_agent": "com.sonyliv/6.22.4 (Android 15; en_GB; V2437; Build/AP3A.240905.015.A2_V000L1)"
+      "user_agent": "com.sonyliv/6.22.4 (Android 13; en_GB; 2201116PI; Build/TKQ1.221114.001)"
     },
     {
       "id": "1090492628",
@@ -31,7 +21,7 @@
       "category": "Golf",
       "title": "ENG | SJM Macao Open - Day 4 - 19 Oct 2025",
       "url": "https://sonymtmnew.akamaized.net/hls/live/2022320/DAI16ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1760898605~acl=/*~id=01730074113669624296314098955459~hmac=9955cf2b833401d73894aab5572691922ebbb06325c8330e7e88af4cbe4d88ba",
-      "user_agent": "com.sonyliv/6.22.4 (Android 9; en_GB; Android TV S1; Build/PPR1.180610.011)"
+      "user_agent": "com.sonyliv/6.22.4 (Android 11; en_GB; CPH2239; Build/RP1A.200720.011)"
     },
     {
       "id": "1090492387",
@@ -41,7 +31,7 @@
       "category": "Shows",
       "title": "HIN | Taarak Mehta Ka Ooltah Chashmah",
       "url": "https://sonymtmnew.akamaized.net/hls/live/2022316/DAI12ME-TMK24X7/master_lrh.m3u8?hdnea=exp=1760898605~acl=/*~id=01730074113669624296314098955459~hmac=9955cf2b833401d73894aab5572691922ebbb06325c8330e7e88af4cbe4d88ba",
-      "user_agent": "com.sonyliv/6.22.4 (Android 12; en_GB; CPH2477; Build/SP1A.210812.016)"
+      "user_agent": "com.sonyliv/6.22.4 (Android 8; en_GB; vivo 1807; Build/OPM1.171019.026)"
     }
   ]
 }
