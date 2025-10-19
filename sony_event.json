@@ -1,18 +1,8 @@
 {
   "api_made_by": "bd coder boy",
-  "updated": "Sun, 19 Oct 2025 15:53:20 GMT",
-  "total_events": 5,
+  "updated": "Sun, 19 Oct 2025 16:14:20 GMT",
+  "total_events": 4,
   "events": [
-    {
-      "id": "1090492547",
-      "name": "Indian Idol",
-      "logo": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000010357/1760762414730591_ii25_18oct_simulcast_landscape_thumb.jpg",
-      "language": "Hindi",
-      "category": "Reality, Music",
-      "title": "HIN | Indian Idol",
-      "url": "https://sonymtmnew.akamaized.net/hls/live/2094590/DAI25ME-II/master_lrh-800300010.m3u8?hdnea=exp=1760920342~acl=/*~id=56493897519698902825746129921613~hmac=d7d3150ed79ace159d41d020fbdbbc789488cdbabeb94e8cfc8d923ea3a5eb8f",
-      "user_agent": "com.sonyliv/6.22.4 (Android 11; en_GB; SPPL 2K ANDROID TV; Build/RTK2.230523.045)"
-    },
     {
       "id": "1090491643",
       "name": "India's Got Talent",
@@ -21,7 +11,7 @@
       "category": "Reality",
       "title": "HIN | India\u2019s Got Talent",
       "url": "https://sonymtmnew.akamaized.net/hls/live/2037142/DAI22ME-IGT/master_lrh-800300010.m3u8?hdnea=exp=1760920342~acl=/*~id=56493897519698902825746129921613~hmac=d7d3150ed79ace159d41d020fbdbbc789488cdbabeb94e8cfc8d923ea3a5eb8f",
-      "user_agent": "com.sonyliv/6.22.4 (Android 9; en_GB; MiTV-AXSO0; Build/PI)"
+      "user_agent": "com.sonyliv/6.22.4 (Android 15; en_GB; CPH2617; Build/AP3A.240617.008)"
     },
     {
       "id": "1090492070",
@@ -31,7 +21,7 @@
       "category": "Cricket",
       "title": "ENG | India's Asia Cup Glory 24x7",
       "url": "https://sonymtmnew.akamaized.net/hls/live/2022315/DAI11ME-AC24X7/master_lrh.m3u8?hdnea=exp=1760920342~acl=/*~id=56493897519698902825746129921613~hmac=d7d3150ed79ace159d41d020fbdbbc789488cdbabeb94e8cfc8d923ea3a5eb8f",
-      "user_agent": "com.sonyliv/6.22.4 (Android 9; en_GB; AI PONT; Build/PTO1.210510.001)"
+      "user_agent": "com.sonyliv/6.22.4 (Android 8; en_GB; vivo 1816; Build/O11019)"
     },
     {
       "id": "1090492493",
@@ -41,7 +31,7 @@
       "category": "Football",
       "title": "ENG | St. Pauli vs TSG Hoffenheim - 19 Oct 2025",
       "url": "https://sonymtmnew.akamaized.net/hls/live/2094589/DAI05ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1760920342~acl=/*~id=56493897519698902825746129921613~hmac=d7d3150ed79ace159d41d020fbdbbc789488cdbabeb94e8cfc8d923ea3a5eb8f",
-      "user_agent": "com.sonyliv/6.22.4 (Android 13; en_GB; M2103K19I; Build/TP1A.220624.014)"
+      "user_agent": "com.sonyliv/6.22.4 (Android 11; en_GB; Y Series; Build/RTO9.231122.002)"
     },
     {
       "id": "1090492387",
@@ -51,7 +41,7 @@
       "category": "Shows",
       "title": "HIN | Taarak Mehta Ka Ooltah Chashmah",
       "url": "https://sonymtmnew.akamaized.net/hls/live/2022316/DAI12ME-TMK24X7/master_lrh.m3u8?hdnea=exp=1760920342~acl=/*~id=56493897519698902825746129921613~hmac=d7d3150ed79ace159d41d020fbdbbc789488cdbabeb94e8cfc8d923ea3a5eb8f",
-      "user_agent": "com.sonyliv/6.22.4 (Android 11; en_GB; Mi A3; Build/RKQ1.200903.002)"
+      "user_agent": "com.sonyliv/6.22.4 (Android 11; en_GB; RMX2002; Build/RP1A.200720.011)"
     }
   ]
 }
