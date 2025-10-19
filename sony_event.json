@@ -1,6 +1,6 @@
 {
   "api_made_by": "bd coder boy",
-  "updated": "Sun, 19 Oct 2025 17:10:22 GMT",
+  "updated": "Sun, 19 Oct 2025 17:29:09 GMT",
   "total_events": 4,
   "events": [
     {
@@ -11,7 +11,7 @@
       "category": "Reality",
       "title": "HIN | India\u2019s Got Talent",
       "url": "https://sonymtmnew.akamaized.net/hls/live/2037142/DAI22ME-IGT/master_lrh-800300010.m3u8?hdnea=exp=1760920342~acl=/*~id=56493897519698902825746129921613~hmac=d7d3150ed79ace159d41d020fbdbbc789488cdbabeb94e8cfc8d923ea3a5eb8f",
-      "user_agent": "com.sonyliv/6.22.4 (Android 14; en_GB; 22021211RI; Build/UKQ1.231207.002)"
+      "user_agent": "com.sonyliv/6.22.4 (Android 15; en_GB; V2416; Build/AP3A.240905.015.A2)"
     },
     {
       "id": "1090492070",
@@ -21,7 +21,7 @@
       "category": "Cricket",
       "title": "ENG | India's Asia Cup Glory 24x7",
       "url": "https://sonymtmnew.akamaized.net/hls/live/2022315/DAI11ME-AC24X7/master_lrh.m3u8?hdnea=exp=1760920342~acl=/*~id=56493897519698902825746129921613~hmac=d7d3150ed79ace159d41d020fbdbbc789488cdbabeb94e8cfc8d923ea3a5eb8f",
-      "user_agent": "com.sonyliv/6.22.4 (Android 7; en_GB; AFTMM; Build/NS6711)"
+      "user_agent": "com.sonyliv/6.22.4 (Android 11; en_GB; ATV R2; Build/RTT7.220308.001)"
     },
     {
       "id": "1090492493",
@@ -31,7 +31,7 @@
       "category": "Football",
       "title": "ENG | St. Pauli vs TSG Hoffenheim - 19 Oct 2025",
       "url": "https://sonymtmnew.akamaized.net/hls/live/2094589/DAI05ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1760920342~acl=/*~id=56493897519698902825746129921613~hmac=d7d3150ed79ace159d41d020fbdbbc789488cdbabeb94e8cfc8d923ea3a5eb8f",
-      "user_agent": "com.sonyliv/6.22.4 (Android 9; en_GB; HiSmartTV A4; Build/PTMR.190127.037)"
+      "user_agent": "com.sonyliv/6.22.4 (Android 11; en_GB; 2K NSTV; Build/RTM8.240401.055)"
     },
     {
       "id": "1090492387",
@@ -41,7 +41,7 @@
       "category": "Shows",
       "title": "HIN | Taarak Mehta Ka Ooltah Chashmah",
       "url": "https://sonymtmnew.akamaized.net/hls/live/2022316/DAI12ME-TMK24X7/master_lrh.m3u8?hdnea=exp=1760920342~acl=/*~id=56493897519698902825746129921613~hmac=d7d3150ed79ace159d41d020fbdbbc789488cdbabeb94e8cfc8d923ea3a5eb8f",
-      "user_agent": "com.sonyliv/6.22.4 (Android 11; en_GB; SWTV-22AE-FHD; Build/RTM8.240401.091)"
+      "user_agent": "com.sonyliv/6.22.4 (Android 9; en_GB; BeyondTV; Build/PPR1.180610.011)"
     }
   ]
 }
