@@ -1,6 +1,6 @@
 {
   "api_made_by": "bd coder boy",
-  "updated": "Sun, 19 Oct 2025 06:18:58 GMT",
+  "updated": "Sun, 19 Oct 2025 06:42:46 GMT",
   "total_events": 4,
   "events": [
     {
@@ -11,7 +11,7 @@
       "category": "Cricket",
       "title": "ENG | India's Asia Cup Glory 24x7",
       "url": "https://sonymtmnew.akamaized.net/hls/live/2022315/DAI11ME-AC24X7/master_lrh.m3u8?hdnea=exp=1760877004~acl=/*~id=43266183689447572395046028540860~hmac=4917e473b110cf909bfda3b8f9b3d583b611674726a1f620cc4fa0a6206bc395",
-      "user_agent": "com.sonyliv/6.22.4 (Android 13; en_GB; SM-A226B; Build/TP1A.220624.014)"
+      "user_agent": "com.sonyliv/6.22.4 (Android 14; en_GB; SM-M156B; Build/UP1A.231005.007)"
     },
     {
       "id": "1090492626",
@@ -21,7 +21,7 @@
       "category": "Archery",
       "title": "ENG | Recurve Men Elite Eight - 19 Oct 2025",
       "url": "https://sonymtmnew.akamaized.net/hls/live/2037139/DAI19ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1760877004~acl=/*~id=43266183689447572395046028540860~hmac=4917e473b110cf909bfda3b8f9b3d583b611674726a1f620cc4fa0a6206bc395",
-      "user_agent": "com.sonyliv/6.22.4 (Android 13; en_GB; CPH2285; Build/TP1A.220905.001)"
+      "user_agent": "com.sonyliv/6.22.4 (Android 10; en_GB; MBOX; Build/QP1A.191105.004)"
     },
     {
       "id": "1090492628",
@@ -31,7 +31,7 @@
       "category": "Golf",
       "title": "ENG | SJM Macao Open - Day 4 - 19 Oct 2025",
       "url": "https://sonymtmnew.akamaized.net/hls/live/2022320/DAI16ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1760877004~acl=/*~id=43266183689447572395046028540860~hmac=4917e473b110cf909bfda3b8f9b3d583b611674726a1f620cc4fa0a6206bc395",
-      "user_agent": "com.sonyliv/6.22.4 (Android 9; en_GB; V00G936821210003000; Build/PPR2.180905.006.A1)"
+      "user_agent": "com.sonyliv/6.22.4 (Android 11; en_GB; MiTV-AXFR2; Build/RTT0.210630.002)"
     },
     {
       "id": "1090492387",
@@ -41,7 +41,7 @@
       "category": "Shows",
       "title": "HIN | Taarak Mehta Ka Ooltah Chashmah",
       "url": "https://sonymtmnew.akamaized.net/hls/live/2022316/DAI12ME-TMK24X7/master_lrh.m3u8?hdnea=exp=1760877004~acl=/*~id=43266183689447572395046028540860~hmac=4917e473b110cf909bfda3b8f9b3d583b611674726a1f620cc4fa0a6206bc395",
-      "user_agent": "com.sonyliv/6.22.4 (Android 9; en_GB; AFTMV00; Build/PS7704.5024N)"
+      "user_agent": "com.sonyliv/6.22.4 (Android 13; en_GB; CPH2251; Build/TP1A.220905.001)"
     }
   ]
 }
