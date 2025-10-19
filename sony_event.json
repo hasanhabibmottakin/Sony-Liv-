@@ -1,8 +1,18 @@
 {
   "api_made_by": "bd coder boy",
-  "updated": "Sun, 19 Oct 2025 14:11:02 GMT",
-  "total_events": 3,
+  "updated": "Sun, 19 Oct 2025 14:30:32 GMT",
+  "total_events": 4,
   "events": [
+    {
+      "id": "1090492547",
+      "name": "Indian Idol",
+      "logo": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000010357/1760762414730591_ii25_18oct_simulcast_landscape_thumb.jpg",
+      "language": "Hindi",
+      "category": "Reality, Music",
+      "title": "HIN | Indian Idol",
+      "url": "https://sonymtmnew.akamaized.net/hls/live/2094590/DAI25ME-II/master_lrh-800300010.m3u8?hdnea=exp=1760898605~acl=/*~id=01730074113669624296314098955459~hmac=9955cf2b833401d73894aab5572691922ebbb06325c8330e7e88af4cbe4d88ba",
+      "user_agent": "com.sonyliv/6.22.4 (Android 11; en_GB; AI PONT; Build/RTO2.240710.002)"
+    },
     {
       "id": "1090492070",
       "name": "Asia Cup 2025",
@@ -11,7 +21,7 @@
       "category": "Cricket",
       "title": "ENG | India's Asia Cup Glory 24x7",
       "url": "https://sonymtmnew.akamaized.net/hls/live/2022315/DAI11ME-AC24X7/master_lrh.m3u8?hdnea=exp=1760898605~acl=/*~id=01730074113669624296314098955459~hmac=9955cf2b833401d73894aab5572691922ebbb06325c8330e7e88af4cbe4d88ba",
-      "user_agent": "com.sonyliv/6.22.4 (Android 9; en_GB; Smart; Build/PPR1.180610.011)"
+      "user_agent": "com.sonyliv/6.22.4 (Android 15; en_GB; V2416; Build/AP3A.240905.015.A2)"
     },
     {
       "id": "1090492491",
@@ -21,7 +31,7 @@
       "category": "Football",
       "title": "ENG | SC Freiburg vs Eintracht Frankfurt - 19 Oct 2025",
       "url": "https://sonymtmnew.akamaized.net/hls/live/2094588/DAI04ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1760898605~acl=/*~id=01730074113669624296314098955459~hmac=9955cf2b833401d73894aab5572691922ebbb06325c8330e7e88af4cbe4d88ba",
-      "user_agent": "com.sonyliv/6.22.4 (Android 10; en_GB; MBOX; Build/NHG47K)"
+      "user_agent": "com.sonyliv/6.22.4 (Android 13; en_GB; IV2201; Build/TP1A.220905.001)"
     },
     {
       "id": "1090492387",
@@ -31,7 +41,7 @@
       "category": "Shows",
       "title": "HIN | Taarak Mehta Ka Ooltah Chashmah",
       "url": "https://sonymtmnew.akamaized.net/hls/live/2022316/DAI12ME-TMK24X7/master_lrh.m3u8?hdnea=exp=1760898605~acl=/*~id=01730074113669624296314098955459~hmac=9955cf2b833401d73894aab5572691922ebbb06325c8330e7e88af4cbe4d88ba",
-      "user_agent": "com.sonyliv/6.22.4 (Android 11; en_GB; Smart TV; Build/RP1A.200622.001)"
+      "user_agent": "com.sonyliv/6.22.4 (Android 9; en_GB; BeyondTV; Build/PPR1.180610.011)"
     }
   ]
 }
