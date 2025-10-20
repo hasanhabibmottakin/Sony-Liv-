@@ -1,18 +1,8 @@
 {
   "api_made_by": "bd coder boy",
-  "updated": "Mon, 20 Oct 2025 05:33:49 GMT",
+  "updated": "Mon, 20 Oct 2025 05:44:33 GMT",
   "total_events": 3,
   "events": [
-    {
-      "id": "1090492070",
-      "name": "Asia Cup 2025",
-      "logo": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000010049/1760026367682373_AsiaCup_Glory_24x7_Landscape_thumbj_9OCT_re1.jpg",
-      "language": "English",
-      "category": "Cricket",
-      "title": "ENG | India's Asia Cup Glory 24x7",
-      "url": "https://sonymtmnew.akamaized.net/hls/live/2022315/DAI11ME-AC24X7/master_lrh.m3u8?hdnea=exp=1760963400~acl=/*~id=77091317549798742937344769756531~hmac=cad94a17d17b193511140d9e15baacbccb69121dc0c4a91ca26bfac0cb942cbd",
-      "user_agent": "com.sonyliv/6.22.4 (Android 13; en_GB; RMX3371; Build/TP1A.220905.001)"
-    },
     {
       "id": "1090492568",
       "name": "England Tour of New Zealand 2025",
@@ -21,7 +11,17 @@
       "category": "Cricket",
       "title": "ENG | 2nd T20I - 20 Oct 2025",
       "url": "https://sonymtmnew.akamaized.net/hls/live/2018457/engvsnz/ENG/std_lrh-800300010.m3u8?hdnea=exp=1760963400~acl=/*~id=77091317549798742937344769756531~hmac=cad94a17d17b193511140d9e15baacbccb69121dc0c4a91ca26bfac0cb942cbd",
-      "user_agent": "com.sonyliv/6.22.4 (Android 8; en_GB; SM-A605G; Build/R16NW)"
+      "user_agent": "com.sonyliv/6.22.4 (Android 13; en_GB; SM-G990B2; Build/TP1A.220624.014)"
+    },
+    {
+      "id": "1090492070",
+      "name": "Asia Cup 2025",
+      "logo": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000010049/1760026367682373_AsiaCup_Glory_24x7_Landscape_thumbj_9OCT_re1.jpg",
+      "language": "English",
+      "category": "Cricket",
+      "title": "ENG | India's Asia Cup Glory 24x7",
+      "url": "https://sonymtmnew.akamaized.net/hls/live/2022315/DAI11ME-AC24X7/master_lrh.m3u8?hdnea=exp=1760963400~acl=/*~id=77091317549798742937344769756531~hmac=cad94a17d17b193511140d9e15baacbccb69121dc0c4a91ca26bfac0cb942cbd",
+      "user_agent": "com.sonyliv/6.22.4 (Android 15; en_GB; motorola edge 60 fusion; Build/V2VC35.33-31-3)"
     },
     {
       "id": "1090492387",
@@ -31,7 +31,7 @@
       "category": "Shows",
       "title": "HIN | Taarak Mehta Ka Ooltah Chashmah",
       "url": "https://sonymtmnew.akamaized.net/hls/live/2022316/DAI12ME-TMK24X7/master_lrh.m3u8?hdnea=exp=1760963400~acl=/*~id=77091317549798742937344769756531~hmac=cad94a17d17b193511140d9e15baacbccb69121dc0c4a91ca26bfac0cb942cbd",
-      "user_agent": "com.sonyliv/6.22.4 (Android 9; en_GB; JDN2-AL00HN; Build/HUAWEIJDN2-AL00HN)"
+      "user_agent": "com.sonyliv/6.22.4 (Android 9; en_GB; MI_ULTRA; Build/PPR1.180610.011)"
     }
   ]
 }
