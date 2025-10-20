@@ -1,6 +1,6 @@
 {
   "api_made_by": "bd coder boy",
-  "updated": "Mon, 20 Oct 2025 07:33:10 GMT",
+  "updated": "Mon, 20 Oct 2025 07:43:51 GMT",
   "total_events": 3,
   "events": [
     {
@@ -10,7 +10,7 @@
       "language": "English",
       "category": "Cricket",
       "title": "ENG | 2nd T20I - 20 Oct 2025",
-      "url": "https://sonymtmnew.akamaized.net/hls/live/2018457/engvsnz/ENG/std_lrh-800300010.m3u8?hdnea=exp=1760963400~acl=/*~id=77091317549798742937344769756531~hmac=cad94a17d17b193511140d9e15baacbccb69121dc0c4a91ca26bfac0cb942cbd|Referer=https://www.sonyliv.com/&Origin=https://www.sonyliv.com&X-Playback-Session-id=6c008dd240b210d11c47a87094029d37-1760942052397&User-Agent=com.sonyliv/6.22.4 (Android 11; en_GB; 4KTV-3MUP; Build/RTT7.231117.001)",
+      "url": "https://sonymtmnew.akamaized.net/hls/live/2018457/engvsnz/ENG/std_lrh-800300010.m3u8?hdnea=exp=1760963400~acl=/*~id=77091317549798742937344769756531~hmac=cad94a17d17b193511140d9e15baacbccb69121dc0c4a91ca26bfac0cb942cbd|Referer=https://www.sonyliv.com/&Origin=https://www.sonyliv.com&X-Playback-Session-id=7a398ff6f0c64a85c6c65d06b4a19eb4-1760945824310&User-Agent=com.sonyliv/6.22.4 (Android 13; en_GB; moto g stylus 5G (2022); Build/T2SDS33.75-38-4-4-10)",
       "user_agent": "Unknown"
     },
     {
@@ -20,7 +20,7 @@
       "language": "English",
       "category": "Cricket",
       "title": "ENG | India's Asia Cup Glory 24x7",
-      "url": "https://sonymtmnew.akamaized.net/hls/live/2022315/DAI11ME-AC24X7/master_lrh.m3u8?hdnea=exp=1760963400~acl=/*~id=77091317549798742937344769756531~hmac=cad94a17d17b193511140d9e15baacbccb69121dc0c4a91ca26bfac0cb942cbd|Referer=https://www.sonyliv.com/&Origin=https://www.sonyliv.com&X-Playback-Session-id=6c008dd240b210d11c47a87094029d37-1760942052397&User-Agent=com.sonyliv/6.22.4 (Android 13; en_GB; Nokia G42 5G; Build/TKQ1.221223.001)",
+      "url": "https://sonymtmnew.akamaized.net/hls/live/2022315/DAI11ME-AC24X7/master_lrh.m3u8?hdnea=exp=1760963400~acl=/*~id=77091317549798742937344769756531~hmac=cad94a17d17b193511140d9e15baacbccb69121dc0c4a91ca26bfac0cb942cbd|Referer=https://www.sonyliv.com/&Origin=https://www.sonyliv.com&X-Playback-Session-id=7a398ff6f0c64a85c6c65d06b4a19eb4-1760945824310&User-Agent=com.sonyliv/6.22.4 (Android 15; en_GB; CPH2753; Build/AP3A.240617.008)",
       "user_agent": "Unknown"
     },
     {
@@ -30,7 +30,7 @@
       "language": "HINDI",
       "category": "Shows",
       "title": "HIN | Taarak Mehta Ka Ooltah Chashmah",
-      "url": "https://sonymtmnew.akamaized.net/hls/live/2022316/DAI12ME-TMK24X7/master_lrh.m3u8?hdnea=exp=1760963400~acl=/*~id=77091317549798742937344769756531~hmac=cad94a17d17b193511140d9e15baacbccb69121dc0c4a91ca26bfac0cb942cbd|Referer=https://www.sonyliv.com/&Origin=https://www.sonyliv.com&X-Playback-Session-id=6c008dd240b210d11c47a87094029d37-1760942052397&User-Agent=com.sonyliv/6.22.4 (Android 16; en_GB; SM-A266B; Build/BP2A.250605.031.A3)",
+      "url": "https://sonymtmnew.akamaized.net/hls/live/2022316/DAI12ME-TMK24X7/master_lrh.m3u8?hdnea=exp=1760963400~acl=/*~id=77091317549798742937344769756531~hmac=cad94a17d17b193511140d9e15baacbccb69121dc0c4a91ca26bfac0cb942cbd|Referer=https://www.sonyliv.com/&Origin=https://www.sonyliv.com&X-Playback-Session-id=7a398ff6f0c64a85c6c65d06b4a19eb4-1760945824310&User-Agent=com.sonyliv/6.22.4 (Android 9; en_GB; Englishpatient's ROM; Build/PI)",
       "user_agent": "Unknown"
     }
   ]
