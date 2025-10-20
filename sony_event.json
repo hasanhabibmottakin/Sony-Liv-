@@ -1,6 +1,6 @@
 {
   "api_made_by": "bd coder boy",
-  "updated": "Mon, 20 Oct 2025 17:44:20 GMT",
+  "updated": "Mon, 20 Oct 2025 17:53:03 GMT",
   "total_events": 3,
   "events": [
     {
@@ -10,7 +10,7 @@
       "language": "Hindi",
       "category": "Game show",
       "title": "HIN | E51. Kaun Banega Crorepati - Season 17",
-      "url": "https://sonymtmnew.akamaized.net/hls/live/2043696/DAI26ME-KBC/master_lrh-800300010.m3u8?hdnea=exp=1761006600~acl=/*~id=63981489387816841517968893624632~hmac=67fe10f981349ba4e5c85e5dfa5202248e109107a4a7648317d9f555537d1547|x-playback-session-id=873db1c6fd5bdbce3a3f8a03a74cd1ed-1760981824320&User-Agent=com.sonyliv/6.22.4 (Android 14; en_GB; 24074RPD2I; Build/UKQ1.240116.001)",
+      "url": "https://sonymtmnew.akamaized.net/hls/live/2043696/DAI26ME-KBC/master_lrh-800300010.m3u8?hdnea=exp=1761006600~acl=/*~id=63981489387816841517968893624632~hmac=67fe10f981349ba4e5c85e5dfa5202248e109107a4a7648317d9f555537d1547|x-playback-session-id=8a09a1b8012504ff54fd37cd0b73a625-1760982664218&User-Agent=com.sonyliv/6.22.4 (Android 12; en_GB; REVVL V+ 5G; Build/SP1A.210812.016)",
       "user_agent": "Unknown"
     },
     {
@@ -20,7 +20,7 @@
       "language": "English",
       "category": "Cricket",
       "title": "ENG | India's Asia Cup Glory 24x7",
-      "url": "https://sonymtmnew.akamaized.net/hls/live/2022315/DAI11ME-AC24X7/master_lrh.m3u8?hdnea=exp=1761006600~acl=/*~id=63981489387816841517968893624632~hmac=67fe10f981349ba4e5c85e5dfa5202248e109107a4a7648317d9f555537d1547|x-playback-session-id=873db1c6fd5bdbce3a3f8a03a74cd1ed-1760981824320&User-Agent=com.sonyliv/6.22.4 (Android 14; en_GB; V2357A; Build/UP1A.231005.007)",
+      "url": "https://sonymtmnew.akamaized.net/hls/live/2022315/DAI11ME-AC24X7/master_lrh.m3u8?hdnea=exp=1761006600~acl=/*~id=63981489387816841517968893624632~hmac=67fe10f981349ba4e5c85e5dfa5202248e109107a4a7648317d9f555537d1547|x-playback-session-id=8a09a1b8012504ff54fd37cd0b73a625-1760982664218&User-Agent=com.sonyliv/6.22.4 (Android 14; en_GB; SM-S901N; Build/UP1A.231005.007)",
       "user_agent": "Unknown"
     },
     {
@@ -30,7 +30,7 @@
       "language": "HINDI",
       "category": "Shows",
       "title": "HIN | Taarak Mehta Ka Ooltah Chashmah",
-      "url": "https://sonymtmnew.akamaized.net/hls/live/2022316/DAI12ME-TMK24X7/master_lrh.m3u8?hdnea=exp=1761006600~acl=/*~id=63981489387816841517968893624632~hmac=67fe10f981349ba4e5c85e5dfa5202248e109107a4a7648317d9f555537d1547|x-playback-session-id=873db1c6fd5bdbce3a3f8a03a74cd1ed-1760981824320&User-Agent=com.sonyliv/6.22.4 (Android 10; en_GB; MAR-LX1A; Build/HUAWEIMAR-L01MEB)",
+      "url": "https://sonymtmnew.akamaized.net/hls/live/2022316/DAI12ME-TMK24X7/master_lrh.m3u8?hdnea=exp=1761006600~acl=/*~id=63981489387816841517968893624632~hmac=67fe10f981349ba4e5c85e5dfa5202248e109107a4a7648317d9f555537d1547|x-playback-session-id=8a09a1b8012504ff54fd37cd0b73a625-1760982664218&User-Agent=com.sonyliv/6.22.4 (Android 15; en_GB; RMX5250; Build/AP3A.240617.008)",
       "user_agent": "Unknown"
     }
   ]
