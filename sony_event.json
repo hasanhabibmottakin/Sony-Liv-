@@ -1,18 +1,8 @@
 {
   "api_made_by": "bd coder boy",
-  "updated": "Mon, 20 Oct 2025 09:54:07 GMT",
-  "total_events": 3,
+  "updated": "Mon, 20 Oct 2025 10:15:08 GMT",
+  "total_events": 2,
   "events": [
-    {
-      "id": "1090492568",
-      "name": "England Tour of New Zealand 2025",
-      "logo": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000010322/1760663447071282_NZvsENG25_2t20i_14oct_live_landscape_thumb_re1.jpg",
-      "language": "English",
-      "category": "Cricket",
-      "title": "ENG | 2nd T20I - 20 Oct 2025",
-      "url": "https://sonymtmnew.akamaized.net/hls/live/2018457/engvsnz/ENG/std_lrh-800300010.m3u8?hdnea=exp=1760985000~acl=/*~id=08625848611597142762120897725242~hmac=e74a5b3cc400d29acb96251eeeac61f658f9b350d395e32a8d837ef23a47b4a1|X-Playback-Session-id=0ddb45ca8d9bce329bf0ae0222071e70-1760953865578&User-Agent=com.sonyliv/6.22.4 (Android 14; en_GB; AC2001; Build/AP1A.240505.005)",
-      "user_agent": "Unknown"
-    },
     {
       "id": "1090492070",
       "name": "Asia Cup 2025",
@@ -20,7 +10,7 @@
       "language": "English",
       "category": "Cricket",
       "title": "ENG | India's Asia Cup Glory 24x7",
-      "url": "https://sonymtmnew.akamaized.net/hls/live/2022315/DAI11ME-AC24X7/master_lrh.m3u8?hdnea=exp=1760985000~acl=/*~id=08625848611597142762120897725242~hmac=e74a5b3cc400d29acb96251eeeac61f658f9b350d395e32a8d837ef23a47b4a1|X-Playback-Session-id=0ddb45ca8d9bce329bf0ae0222071e70-1760953865578&User-Agent=com.sonyliv/6.22.4 (Android 9; en_GB; MX10; Build/PQ2A.190205.003)",
+      "url": "https://sonymtmnew.akamaized.net/hls/live/2022315/DAI11ME-AC24X7/master_lrh.m3u8?hdnea=exp=1760985000~acl=/*~id=08625848611597142762120897725242~hmac=e74a5b3cc400d29acb96251eeeac61f658f9b350d395e32a8d837ef23a47b4a1|X-Playback-Session-id=71f822beb98d390764f2723df6013cc7-1760955124108&User-Agent=com.sonyliv/6.22.4 (Android 5; en_GB; AFTS; Build/LVY48F)",
       "user_agent": "Unknown"
     },
     {
@@ -30,7 +20,7 @@
       "language": "HINDI",
       "category": "Shows",
       "title": "HIN | Taarak Mehta Ka Ooltah Chashmah",
-      "url": "https://sonymtmnew.akamaized.net/hls/live/2022316/DAI12ME-TMK24X7/master_lrh.m3u8?hdnea=exp=1760985000~acl=/*~id=08625848611597142762120897725242~hmac=e74a5b3cc400d29acb96251eeeac61f658f9b350d395e32a8d837ef23a47b4a1|X-Playback-Session-id=0ddb45ca8d9bce329bf0ae0222071e70-1760953865578&User-Agent=com.sonyliv/6.22.4 (Android 10; en_GB; SM-A207F; Build/QP1A.190711.020)",
+      "url": "https://sonymtmnew.akamaized.net/hls/live/2022316/DAI12ME-TMK24X7/master_lrh.m3u8?hdnea=exp=1760985000~acl=/*~id=08625848611597142762120897725242~hmac=e74a5b3cc400d29acb96251eeeac61f658f9b350d395e32a8d837ef23a47b4a1|X-Playback-Session-id=71f822beb98d390764f2723df6013cc7-1760955124108&User-Agent=com.sonyliv/6.22.4 (Android 10; en_GB; itel L6502; Build/QP1A.190711.020)",
       "user_agent": "Unknown"
     }
   ]
