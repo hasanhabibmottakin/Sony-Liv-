@@ -1,6 +1,6 @@
 {
   "api_made_by": "bd coder boy",
-  "updated": "Mon, 20 Oct 2025 23:45:16 GMT",
+  "updated": "Mon, 20 Oct 2025 23:53:40 GMT",
   "total_events": 2,
   "events": [
     {
@@ -10,7 +10,7 @@
       "language": "English",
       "category": "Cricket",
       "title": "ENG | India's Asia Cup Glory 24x7",
-      "url": "https://sonymtmnew.akamaized.net/hls/live/2022315/DAI11ME-AC24X7/master_lrh.m3u8?hdnea=exp=1761028200~acl=/*~id=39588078490958153964234379013268~hmac=3dd4878fb2ebff68a3c905040255b1a27895de8c32e42c232ae16932b0c35ece|x-playback-session-id=2bb5bbc7f1c775cc45c08761bf0065f0-1761003845172&User-Agent=com.sonyliv/6.22.4 (Android 14; en_GB; NOTE 23; Build/UP1A.231005.007)",
+      "url": "https://sonymtmnew.akamaized.net/hls/live/2022315/DAI11ME-AC24X7/master_lrh.m3u8?hdnea=exp=1761028200~acl=/*~id=39588078490958153964234379013268~hmac=3dd4878fb2ebff68a3c905040255b1a27895de8c32e42c232ae16932b0c35ece|x-playback-session-id=e384ba23c446151dd3c576b0aecca5e2-1761004263832&User-Agent=com.sonyliv/6.22.4 (Android 9; en_GB; PATH_UHDXANDROID; Build/PI)",
       "user_agent": "Unknown"
     },
     {
@@ -20,7 +20,7 @@
       "language": "HINDI",
       "category": "Shows",
       "title": "HIN | Taarak Mehta Ka Ooltah Chashmah",
-      "url": "https://sonymtmnew.akamaized.net/hls/live/2022316/DAI12ME-TMK24X7/master_lrh.m3u8?hdnea=exp=1761028200~acl=/*~id=39588078490958153964234379013268~hmac=3dd4878fb2ebff68a3c905040255b1a27895de8c32e42c232ae16932b0c35ece|x-playback-session-id=2bb5bbc7f1c775cc45c08761bf0065f0-1761003845172&User-Agent=com.sonyliv/6.22.4 (Android 9; en_GB; vivo 1907; Build/PPR1.180610.011)",
+      "url": "https://sonymtmnew.akamaized.net/hls/live/2022316/DAI12ME-TMK24X7/master_lrh.m3u8?hdnea=exp=1761028200~acl=/*~id=39588078490958153964234379013268~hmac=3dd4878fb2ebff68a3c905040255b1a27895de8c32e42c232ae16932b0c35ece|x-playback-session-id=e384ba23c446151dd3c576b0aecca5e2-1761004263832&User-Agent=com.sonyliv/6.22.4 (Android 16; en_GB; Pixel 6a; Build/BP2A.250705.008)",
       "user_agent": "Unknown"
     }
   ]
