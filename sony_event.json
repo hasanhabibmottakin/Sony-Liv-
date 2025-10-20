@@ -1,6 +1,6 @@
 {
   "api_made_by": "bd coder boy",
-  "updated": "Mon, 20 Oct 2025 22:32:20 GMT",
+  "updated": "Mon, 20 Oct 2025 22:44:07 GMT",
   "total_events": 2,
   "events": [
     {
@@ -10,7 +10,7 @@
       "language": "English",
       "category": "Cricket",
       "title": "ENG | India's Asia Cup Glory 24x7",
-      "url": "https://sonymtmnew.akamaized.net/hls/live/2022315/DAI11ME-AC24X7/master_lrh.m3u8?hdnea=exp=1761028200~acl=/*~id=39588078490958153964234379013268~hmac=3dd4878fb2ebff68a3c905040255b1a27895de8c32e42c232ae16932b0c35ece|x-playback-session-id=5330e90f23430bdc8add287a0e6ede3f-1760999403821&User-Agent=com.sonyliv/6.22.4 (Android 16; en_GB; POCO M2 Pro; Build/BP2A.250605.031.A2)",
+      "url": "https://sonymtmnew.akamaized.net/hls/live/2022315/DAI11ME-AC24X7/master_lrh.m3u8?hdnea=exp=1761028200~acl=/*~id=39588078490958153964234379013268~hmac=3dd4878fb2ebff68a3c905040255b1a27895de8c32e42c232ae16932b0c35ece|x-playback-session-id=dca934e22e9d5f7144180287c4a23a47-1761000244076&User-Agent=com.sonyliv/6.22.4 (Android 11; en_GB; SYLVOX  2K Google TV; Build/RTK4.241026.045)",
       "user_agent": "Unknown"
     },
     {
@@ -20,7 +20,7 @@
       "language": "HINDI",
       "category": "Shows",
       "title": "HIN | Taarak Mehta Ka Ooltah Chashmah",
-      "url": "https://sonymtmnew.akamaized.net/hls/live/2022316/DAI12ME-TMK24X7/master_lrh.m3u8?hdnea=exp=1761028200~acl=/*~id=39588078490958153964234379013268~hmac=3dd4878fb2ebff68a3c905040255b1a27895de8c32e42c232ae16932b0c35ece|x-playback-session-id=5330e90f23430bdc8add287a0e6ede3f-1760999403821&User-Agent=com.sonyliv/6.22.4 (Android 12; en_GB; CPH2197; Build/SKQ1.210216.001)",
+      "url": "https://sonymtmnew.akamaized.net/hls/live/2022316/DAI12ME-TMK24X7/master_lrh.m3u8?hdnea=exp=1761028200~acl=/*~id=39588078490958153964234379013268~hmac=3dd4878fb2ebff68a3c905040255b1a27895de8c32e42c232ae16932b0c35ece|x-playback-session-id=dca934e22e9d5f7144180287c4a23a47-1761000244076&User-Agent=com.sonyliv/6.22.4 (Android 9; en_GB; 2211133C; Build/PQ3A.190705.08272029)",
       "user_agent": "Unknown"
     }
   ]
