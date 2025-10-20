@@ -1,6 +1,6 @@
 {
   "api_made_by": "bd coder boy",
-  "updated": "Mon, 20 Oct 2025 23:28:35 GMT",
+  "updated": "Mon, 20 Oct 2025 23:37:47 GMT",
   "total_events": 2,
   "events": [
     {
@@ -10,7 +10,7 @@
       "language": "English",
       "category": "Cricket",
       "title": "ENG | India's Asia Cup Glory 24x7",
-      "url": "https://sonymtmnew.akamaized.net/hls/live/2022315/DAI11ME-AC24X7/master_lrh.m3u8?hdnea=exp=1761028200~acl=/*~id=39588078490958153964234379013268~hmac=3dd4878fb2ebff68a3c905040255b1a27895de8c32e42c232ae16932b0c35ece|x-playback-session-id=0ae02febcbf21df2b7a532e54b48b64f-1761002344801&User-Agent=com.sonyliv/6.22.4 (Android 13; en_GB; CPH2145; Build/TP1A.220905.001)",
+      "url": "https://sonymtmnew.akamaized.net/hls/live/2022315/DAI11ME-AC24X7/master_lrh.m3u8?hdnea=exp=1761028200~acl=/*~id=39588078490958153964234379013268~hmac=3dd4878fb2ebff68a3c905040255b1a27895de8c32e42c232ae16932b0c35ece|x-playback-session-id=8527796cd5563cbf0fe40e0f0b394746-1761003005240&User-Agent=com.sonyliv/6.22.4 (Android 8; en_GB; HUAWEI NXT-TL00; Build/HUAWEINXT-TL00)",
       "user_agent": "Unknown"
     },
     {
@@ -20,7 +20,7 @@
       "language": "HINDI",
       "category": "Shows",
       "title": "HIN | Taarak Mehta Ka Ooltah Chashmah",
-      "url": "https://sonymtmnew.akamaized.net/hls/live/2022316/DAI12ME-TMK24X7/master_lrh.m3u8?hdnea=exp=1761028200~acl=/*~id=39588078490958153964234379013268~hmac=3dd4878fb2ebff68a3c905040255b1a27895de8c32e42c232ae16932b0c35ece|x-playback-session-id=0ae02febcbf21df2b7a532e54b48b64f-1761002344801&User-Agent=com.sonyliv/6.22.4 (Android 13; en_GB; Projector; Build/RP1A.201005.006)",
+      "url": "https://sonymtmnew.akamaized.net/hls/live/2022316/DAI12ME-TMK24X7/master_lrh.m3u8?hdnea=exp=1761028200~acl=/*~id=39588078490958153964234379013268~hmac=3dd4878fb2ebff68a3c905040255b1a27895de8c32e42c232ae16932b0c35ece|x-playback-session-id=8527796cd5563cbf0fe40e0f0b394746-1761003005240&User-Agent=com.sonyliv/6.22.4 (Android 12; en_GB; RMX3371; Build/RKQ1.211119.001)",
       "user_agent": "Unknown"
     }
   ]
