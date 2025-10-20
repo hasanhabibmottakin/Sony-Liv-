@@ -1,6 +1,6 @@
 {
   "api_made_by": "bd coder boy",
-  "updated": "Mon, 20 Oct 2025 08:42:20 GMT",
+  "updated": "Mon, 20 Oct 2025 08:55:41 GMT",
   "total_events": 3,
   "events": [
     {
@@ -10,7 +10,7 @@
       "language": "English",
       "category": "Cricket",
       "title": "ENG | 2nd T20I - 20 Oct 2025",
-      "url": "https://sonymtmnew.akamaized.net/hls/live/2018457/engvsnz/ENG/std_lrh-800300010.m3u8?hdnea=exp=1760985000~acl=/*~id=08625848611597142762120897725242~hmac=e74a5b3cc400d29acb96251eeeac61f658f9b350d395e32a8d837ef23a47b4a1|X-Playback-Session-id=6e8e361e7ed4dc2f04c1d7ccbe811f28-1760949425388&User-Agent=com.sonyliv/6.22.4 (Android 14; en_GB; RMX3301; Build/UKQ1.230924.001)",
+      "url": "https://sonymtmnew.akamaized.net/hls/live/2018457/engvsnz/ENG/std_lrh-800300010.m3u8?hdnea=exp=1760985000~acl=/*~id=08625848611597142762120897725242~hmac=e74a5b3cc400d29acb96251eeeac61f658f9b350d395e32a8d837ef23a47b4a1|X-Playback-Session-id=ddeb31d05a12c49d0ec39bdb0362e148-1760950265015&User-Agent=com.sonyliv/6.22.4 (Android 13; en_GB; H96_Max_M2; Build/TQ2A.230305.008.F1)",
       "user_agent": "Unknown"
     },
     {
@@ -20,7 +20,7 @@
       "language": "English",
       "category": "Cricket",
       "title": "ENG | India's Asia Cup Glory 24x7",
-      "url": "https://sonymtmnew.akamaized.net/hls/live/2022315/DAI11ME-AC24X7/master_lrh.m3u8?hdnea=exp=1760985000~acl=/*~id=08625848611597142762120897725242~hmac=e74a5b3cc400d29acb96251eeeac61f658f9b350d395e32a8d837ef23a47b4a1|X-Playback-Session-id=6e8e361e7ed4dc2f04c1d7ccbe811f28-1760949425388&User-Agent=com.sonyliv/6.22.4 (Android 11; en_GB; DIX41RKF; Build/RTK2.230523.103)",
+      "url": "https://sonymtmnew.akamaized.net/hls/live/2022315/DAI11ME-AC24X7/master_lrh.m3u8?hdnea=exp=1760985000~acl=/*~id=08625848611597142762120897725242~hmac=e74a5b3cc400d29acb96251eeeac61f658f9b350d395e32a8d837ef23a47b4a1|X-Playback-Session-id=ddeb31d05a12c49d0ec39bdb0362e148-1760950265015&User-Agent=com.sonyliv/6.22.4 (Android 15; en_GB; OPD2420; Build/AP3A.240617.008)",
       "user_agent": "Unknown"
     },
     {
@@ -30,7 +30,7 @@
       "language": "HINDI",
       "category": "Shows",
       "title": "HIN | Taarak Mehta Ka Ooltah Chashmah",
-      "url": "https://sonymtmnew.akamaized.net/hls/live/2022316/DAI12ME-TMK24X7/master_lrh.m3u8?hdnea=exp=1760985000~acl=/*~id=08625848611597142762120897725242~hmac=e74a5b3cc400d29acb96251eeeac61f658f9b350d395e32a8d837ef23a47b4a1|X-Playback-Session-id=6e8e361e7ed4dc2f04c1d7ccbe811f28-1760949425388&User-Agent=com.sonyliv/6.22.4 (Android 15; en_GB; moto g15; Build/VVTA35.51-137)",
+      "url": "https://sonymtmnew.akamaized.net/hls/live/2022316/DAI12ME-TMK24X7/master_lrh.m3u8?hdnea=exp=1760985000~acl=/*~id=08625848611597142762120897725242~hmac=e74a5b3cc400d29acb96251eeeac61f658f9b350d395e32a8d837ef23a47b4a1|X-Playback-Session-id=ddeb31d05a12c49d0ec39bdb0362e148-1760950265015&User-Agent=com.sonyliv/6.22.4 (Android 12; en_GB; Weber S10; Build/SP1A.210812.016)",
       "user_agent": "Unknown"
     }
   ]
