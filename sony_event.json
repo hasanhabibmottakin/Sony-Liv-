@@ -1,8 +1,58 @@
 {
   "api_made_by": "bd coder boy",
-  "updated": "Tue, 21 Oct 2025 18:18:28 GMT",
-  "total_events": 5,
+  "updated": "Tue, 21 Oct 2025 18:45:19 GMT",
+  "total_events": 15,
   "events": [
+    {
+      "id": "1090492504",
+      "name": "UEFA Champions League 2025-26",
+      "logo": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000009879/1759563844849335_UCL_25_26_MD3_Arsenal-vs-Atletico_landscape_thumb.jpg",
+      "language": "English",
+      "category": "Football",
+      "title": "ENG | Arsenal vs Atletico - MD 3 - 22 Oct 2025",
+      "url": "https://sonymtmnew.akamaized.net/hls/live/2018458/DAI10ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1761093001~acl=/*~id=42381058816425471309887601950325~hmac=105f71f704be72f957c32ed98bf08ebcd5dba2c0ffd6e9167d50fc7a71ab702e|x-playback-session-id=40ff9df5e870bedc77e800bc9cb538da-1761072244153&User-Agent=com.sonyliv/6.22.4 (Android 9; en_GB; BRAVIA 4K GB; Build/PTT1.190515.001.S38)",
+      "user_agent": "Unknown"
+    },
+    {
+      "id": "1090492504",
+      "name": "UEFA Champions League 2025-26",
+      "logo": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000009879/1759563844849335_UCL_25_26_MD3_Arsenal-vs-Atletico_landscape_thumb.jpg",
+      "language": "Hindi",
+      "category": "Football",
+      "title": "HIN | Arsenal vs Atletico - MD 3 - 22 Oct 2025",
+      "url": "https://sonymtmnew.akamaized.net/hls/live/2094588/DAI04ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1761093001~acl=/*~id=42381058816425471309887601950325~hmac=105f71f704be72f957c32ed98bf08ebcd5dba2c0ffd6e9167d50fc7a71ab702e|x-playback-session-id=40ff9df5e870bedc77e800bc9cb538da-1761072244153&User-Agent=com.sonyliv/6.22.4 (Android 16; en_GB; SM-A356E; Build/BP2A.250605.031.A3)",
+      "user_agent": "Unknown"
+    },
+    {
+      "id": "1090492504",
+      "name": "UEFA Champions League 2025-26",
+      "logo": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000009879/1759563844849335_UCL_25_26_MD3_Arsenal-vs-Atletico_landscape_thumb.jpg",
+      "language": "Tamil",
+      "category": "Football",
+      "title": "TAM | Arsenal vs Atletico - MD 3 - 22 Oct 2025",
+      "url": "https://sonymtmnew.akamaized.net/hls/live/2022319/DAI15ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1761093001~acl=/*~id=42381058816425471309887601950325~hmac=105f71f704be72f957c32ed98bf08ebcd5dba2c0ffd6e9167d50fc7a71ab702e|x-playback-session-id=40ff9df5e870bedc77e800bc9cb538da-1761072244153&User-Agent=com.sonyliv/6.22.4 (Android 14; en_GB; onn. Streaming Device 4K pro; Build/URO1.250103.029.C1)",
+      "user_agent": "Unknown"
+    },
+    {
+      "id": "1090492504",
+      "name": "UEFA Champions League 2025-26",
+      "logo": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000009879/1759563844849335_UCL_25_26_MD3_Arsenal-vs-Atletico_landscape_thumb.jpg",
+      "language": "Telugu",
+      "category": "Football",
+      "title": "TEL | Arsenal vs Atletico - MD 3 - 22 Oct 2025",
+      "url": "https://sonymtmnew.akamaized.net/hls/live/2037141/DAI21ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1761093001~acl=/*~id=42381058816425471309887601950325~hmac=105f71f704be72f957c32ed98bf08ebcd5dba2c0ffd6e9167d50fc7a71ab702e|x-playback-session-id=40ff9df5e870bedc77e800bc9cb538da-1761072244153&User-Agent=com.sonyliv/6.22.4 (Android 15; en_GB; SM-M346B2; Build/AP3A.240905.015.A2)",
+      "user_agent": "Unknown"
+    },
+    {
+      "id": "1090492509",
+      "name": "UEFA Champions League 2025-26",
+      "logo": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000009879/1759574098558335_UCL_25_26_MD3_Villarreal-vs-Man-City_landscape_thumb.jpg",
+      "language": "English",
+      "category": "Football",
+      "title": "ENG | Villarreal vs Man City - MD 3 - 22 Oct 2025",
+      "url": "https://sonymtmnew.akamaized.net/hls/live/2022318/DAI14ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1761093001~acl=/*~id=42381058816425471309887601950325~hmac=105f71f704be72f957c32ed98bf08ebcd5dba2c0ffd6e9167d50fc7a71ab702e|x-playback-session-id=40ff9df5e870bedc77e800bc9cb538da-1761072244153&User-Agent=com.sonyliv/6.22.4 (Android 13; en_GB; Infinix X6836; Build/TP1A.220624.014)",
+      "user_agent": "Unknown"
+    },
     {
       "id": "1090492499",
       "name": "UEFA Champions League 2025-26",
@@ -10,7 +60,7 @@
       "language": "English",
       "category": "Football",
       "title": "ENG | Barcelona vs Olympiacos - MD 3 - 21 Oct 2025",
-      "url": "https://sonymtmnew.akamaized.net/hls/live/2005444/DAI07ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1761093001~acl=/*~id=42381058816425471309887601950325~hmac=105f71f704be72f957c32ed98bf08ebcd5dba2c0ffd6e9167d50fc7a71ab702e|x-playback-session-id=3922b8eada0674b729fff917e3350cb0-1761070324459&User-Agent=com.sonyliv/6.22.4 (Android 10; en_GB; 9295G; Build/QP1A.190711.020)",
+      "url": "https://sonymtmnew.akamaized.net/hls/live/2005444/DAI07ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1761093001~acl=/*~id=42381058816425471309887601950325~hmac=105f71f704be72f957c32ed98bf08ebcd5dba2c0ffd6e9167d50fc7a71ab702e|x-playback-session-id=40ff9df5e870bedc77e800bc9cb538da-1761072244153&User-Agent=com.sonyliv/6.22.4 (Android 9; en_GB; E20G936821510003000; Build/PPR2.180905.006.A1)",
       "user_agent": "Unknown"
     },
     {
@@ -20,7 +70,7 @@
       "language": "Hindi",
       "category": "Game show",
       "title": "HIN | E52. Kaun Banega Crorepati - Season 17",
-      "url": "https://sonymtmnew.akamaized.net/hls/live/2043696/DAI26ME-KBC/master_lrh-800300010.m3u8?hdnea=exp=1761093001~acl=/*~id=42381058816425471309887601950325~hmac=105f71f704be72f957c32ed98bf08ebcd5dba2c0ffd6e9167d50fc7a71ab702e|x-playback-session-id=3922b8eada0674b729fff917e3350cb0-1761070324459&User-Agent=com.sonyliv/6.22.4 (Android 13; en_GB; moto g13; Build/THAS33.31-40-2)",
+      "url": "https://sonymtmnew.akamaized.net/hls/live/2043696/DAI26ME-KBC/master_lrh-800300010.m3u8?hdnea=exp=1761093001~acl=/*~id=42381058816425471309887601950325~hmac=105f71f704be72f957c32ed98bf08ebcd5dba2c0ffd6e9167d50fc7a71ab702e|x-playback-session-id=40ff9df5e870bedc77e800bc9cb538da-1761072244153&User-Agent=com.sonyliv/6.22.4 (Android 13; en_GB; TECNO LH8n; Build/TP1A.220624.014)",
       "user_agent": "Unknown"
     },
     {
@@ -30,7 +80,57 @@
       "language": "English",
       "category": "Cricket",
       "title": "ENG | India's Asia Cup Glory 24x7",
-      "url": "https://sonymtmnew.akamaized.net/hls/live/2022315/DAI11ME-AC24X7/master_lrh.m3u8?hdnea=exp=1761093001~acl=/*~id=42381058816425471309887601950325~hmac=105f71f704be72f957c32ed98bf08ebcd5dba2c0ffd6e9167d50fc7a71ab702e|x-playback-session-id=3922b8eada0674b729fff917e3350cb0-1761070324459&User-Agent=com.sonyliv/6.22.4 (Android 13; en_GB; OPD2304; Build/SP1A.210812.016)",
+      "url": "https://sonymtmnew.akamaized.net/hls/live/2022315/DAI11ME-AC24X7/master_lrh.m3u8?hdnea=exp=1761093001~acl=/*~id=42381058816425471309887601950325~hmac=105f71f704be72f957c32ed98bf08ebcd5dba2c0ffd6e9167d50fc7a71ab702e|x-playback-session-id=40ff9df5e870bedc77e800bc9cb538da-1761072244153&User-Agent=com.sonyliv/6.22.4 (Android 11; en_GB; Infinix X6511E; Build/RP1A.200720.011)",
+      "user_agent": "Unknown"
+    },
+    {
+      "id": "1090492501",
+      "name": "UEFA Champions League 2025-26",
+      "logo": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000009879/1759567745202335_UCL_25_26_MD3_Leverkusen_vs_PSG_landscape_thumb.jpg",
+      "language": "English",
+      "category": "Football",
+      "title": "ENG | Leverkusen vs PSG - MD 3 - 22 Oct 2025",
+      "url": "https://sonymtmnew.akamaized.net/hls/live/2094587/DAI03ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1761093001~acl=/*~id=42381058816425471309887601950325~hmac=105f71f704be72f957c32ed98bf08ebcd5dba2c0ffd6e9167d50fc7a71ab702e|x-playback-session-id=40ff9df5e870bedc77e800bc9cb538da-1761072244153&User-Agent=com.sonyliv/6.22.4 (Android 15; en_GB; SCG10; Build/AP3A.240905.015.A2)",
+      "user_agent": "Unknown"
+    },
+    {
+      "id": "1090492502",
+      "name": "UEFA Champions League 2025-26",
+      "logo": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000009879/1759568209801335_UCL_25_26_MD3_Copenhagen_vs_Dortmund_landscape_thumb.jpg",
+      "language": "English",
+      "category": "Football",
+      "title": "ENG | Copenhagen vs Borussia Dortmund - MD 3 - 22 Oct 2025",
+      "url": "https://sonymtmnew.akamaized.net/hls/live/2005445/DAI06ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1761093001~acl=/*~id=42381058816425471309887601950325~hmac=105f71f704be72f957c32ed98bf08ebcd5dba2c0ffd6e9167d50fc7a71ab702e|x-playback-session-id=40ff9df5e870bedc77e800bc9cb538da-1761072244153&User-Agent=com.sonyliv/6.22.4 (Android 15; en_GB; 25028PC03I; Build/AP3A.240905.015.A2)",
+      "user_agent": "Unknown"
+    },
+    {
+      "id": "1090492508",
+      "name": "UEFA Champions League 2025-26",
+      "logo": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000009879/1759572493758335_UCL_25_26_MD3_Union-SG-vs-Inter_landscape_thumb.jpg",
+      "language": "English",
+      "category": "Football",
+      "title": "ENG | Union SG vs Inter - MD 3 - 22 Oct 2025",
+      "url": "https://sonymtmnew.akamaized.net/hls/live/2022315/DAI11ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1761093001~acl=/*~id=42381058816425471309887601950325~hmac=105f71f704be72f957c32ed98bf08ebcd5dba2c0ffd6e9167d50fc7a71ab702e|x-playback-session-id=40ff9df5e870bedc77e800bc9cb538da-1761072244153&User-Agent=com.sonyliv/6.22.4 (Android 11; en_GB; DOMO Slate; Build/ZX)",
+      "user_agent": "Unknown"
+    },
+    {
+      "id": "1090492503",
+      "name": "UEFA Champions League 2025-26",
+      "logo": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000009879/1759570770214335_UCL_25_26_MD3_Newcastle-vs-Benfica_landscape_thumb.jpg",
+      "language": "English",
+      "category": "Football",
+      "title": "ENG |  Newcastle vs Benfica - MD 3 - 22 Oct 2025",
+      "url": "https://sonymtmnew.akamaized.net/hls/live/2022317/DAI13ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1761093001~acl=/*~id=42381058816425471309887601950325~hmac=105f71f704be72f957c32ed98bf08ebcd5dba2c0ffd6e9167d50fc7a71ab702e|x-playback-session-id=40ff9df5e870bedc77e800bc9cb538da-1761072244153&User-Agent=com.sonyliv/6.22.4 (Android 11; en_GB; WILLETT FHD Android TV; Build/RTO3.231013.002)",
+      "user_agent": "Unknown"
+    },
+    {
+      "id": "1090492507",
+      "name": "UEFA Champions League 2025-26",
+      "logo": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000009879/1759571086464335_UCL_25_26_MD3_PSV-vs-Napoli_landscape_thumb.jpg",
+      "language": "English",
+      "category": "Football",
+      "title": "ENG | PSV vs Napoli - MD 3 - 22 Oct 2025",
+      "url": "https://sonymtmnew.akamaized.net/hls/live/2018457/DAI09ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1761093001~acl=/*~id=42381058816425471309887601950325~hmac=105f71f704be72f957c32ed98bf08ebcd5dba2c0ffd6e9167d50fc7a71ab702e|x-playback-session-id=40ff9df5e870bedc77e800bc9cb538da-1761072244153&User-Agent=com.sonyliv/6.22.4 (Android 12; en_GB; V2031; Build/SP1A.210812.003)",
       "user_agent": "Unknown"
     },
     {
@@ -40,7 +140,7 @@
       "language": "English",
       "category": "Football",
       "title": "ENG | Kairat Almaty vs Pafos - MD 3 - 21 Oct 2025",
-      "url": "https://sonymtmnew.akamaized.net/hls/live/2105079/DAI08ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1761093001~acl=/*~id=42381058816425471309887601950325~hmac=105f71f704be72f957c32ed98bf08ebcd5dba2c0ffd6e9167d50fc7a71ab702e|x-playback-session-id=3922b8eada0674b729fff917e3350cb0-1761070324459&User-Agent=com.sonyliv/6.22.4 (Android 11; en_GB; MBOX; Build/QP1A.191105.004)",
+      "url": "https://sonymtmnew.akamaized.net/hls/live/2105079/DAI08ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1761093001~acl=/*~id=42381058816425471309887601950325~hmac=105f71f704be72f957c32ed98bf08ebcd5dba2c0ffd6e9167d50fc7a71ab702e|x-playback-session-id=40ff9df5e870bedc77e800bc9cb538da-1761072244153&User-Agent=com.sonyliv/6.22.4 (Android 14; en_GB; TECNO KL4; Build/UP1A.231005.007)",
       "user_agent": "Unknown"
     },
     {
@@ -50,7 +150,7 @@
       "language": "HINDI",
       "category": "Shows",
       "title": "HIN | Taarak Mehta Ka Ooltah Chashmah",
-      "url": "https://sonymtmnew.akamaized.net/hls/live/2022316/DAI12ME-TMK24X7/master_lrh.m3u8?hdnea=exp=1761093001~acl=/*~id=42381058816425471309887601950325~hmac=105f71f704be72f957c32ed98bf08ebcd5dba2c0ffd6e9167d50fc7a71ab702e|x-playback-session-id=3922b8eada0674b729fff917e3350cb0-1761070324459&User-Agent=com.sonyliv/6.22.4 (Android 8; en_GB; SM-C7010; Build/R16NW)",
+      "url": "https://sonymtmnew.akamaized.net/hls/live/2022316/DAI12ME-TMK24X7/master_lrh.m3u8?hdnea=exp=1761093001~acl=/*~id=42381058816425471309887601950325~hmac=105f71f704be72f957c32ed98bf08ebcd5dba2c0ffd6e9167d50fc7a71ab702e|x-playback-session-id=40ff9df5e870bedc77e800bc9cb538da-1761072244153&User-Agent=com.sonyliv/6.22.4 (Android 14; en_GB; 22021211RI; Build/UKQ1.231207.002)",
       "user_agent": "Unknown"
     }
   ]
