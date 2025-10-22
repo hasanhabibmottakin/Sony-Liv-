@@ -1,6 +1,6 @@
 {
   "api_made_by": "bd coder boy",
-  "updated": "Wed, 22 Oct 2025 10:40:37 GMT",
+  "updated": "Wed, 22 Oct 2025 10:53:42 GMT",
   "total_events": 2,
   "events": [
     {
@@ -10,7 +10,7 @@
       "language": "English",
       "category": "Cricket",
       "title": "ENG | India's Asia Cup Glory 24x7",
-      "url": "https://sonymtmnew.akamaized.net/hls/live/2022315/DAI11ME-AC24X7/master_lrh.m3u8?hdnea=exp=1761157801~acl=/*~id=07204548204828201477869431760010~hmac=ebc52b6b5ac5c9927c8181185df66164059bb22a30aa20ab51f91c4ac1d80555|x-playback-session-id=ca14777bf5e980f89d1938210201b0bf-1761129423862&User-Agent=com.sonyliv/6.22.4 (Android 11; en_GB; TV box; Build/RD2A.211001.002)",
+      "url": "https://sonymtmnew.akamaized.net/hls/live/2022315/DAI11ME-AC24X7/master_lrh.m3u8?hdnea=exp=1761157801~acl=/*~id=07204548204828201477869431760010~hmac=ebc52b6b5ac5c9927c8181185df66164059bb22a30aa20ab51f91c4ac1d80555|x-playback-session-id=6c445fa208c735277c5553091b0a554b-1761130263801&User-Agent=com.sonyliv/6.22.4 (Android 11; en_GB; Note_10; Build/RP1A.201005.001)",
       "user_agent": "Unknown"
     },
     {
@@ -20,7 +20,7 @@
       "language": "HINDI",
       "category": "Shows",
       "title": "HIN | Taarak Mehta Ka Ooltah Chashmah",
-      "url": "https://sonymtmnew.akamaized.net/hls/live/2022316/DAI12ME-TMK24X7/master_lrh.m3u8?hdnea=exp=1761157801~acl=/*~id=07204548204828201477869431760010~hmac=ebc52b6b5ac5c9927c8181185df66164059bb22a30aa20ab51f91c4ac1d80555|x-playback-session-id=ca14777bf5e980f89d1938210201b0bf-1761129423862&User-Agent=com.sonyliv/6.22.4 (Android 12; en_GB; TECNO BF6; Build/SP1A.210812.001)",
+      "url": "https://sonymtmnew.akamaized.net/hls/live/2022316/DAI12ME-TMK24X7/master_lrh.m3u8?hdnea=exp=1761157801~acl=/*~id=07204548204828201477869431760010~hmac=ebc52b6b5ac5c9927c8181185df66164059bb22a30aa20ab51f91c4ac1d80555|x-playback-session-id=6c445fa208c735277c5553091b0a554b-1761130263801&User-Agent=com.sonyliv/6.22.4 (Android 11; en_GB; SM-A6060; Build/RP1A.200720.012)",
       "user_agent": "Unknown"
     }
   ]
