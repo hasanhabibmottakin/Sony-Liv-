@@ -1,6 +1,6 @@
 {
   "api_made_by": "bd coder boy",
-  "updated": "Wed, 22 Oct 2025 11:40:24 GMT",
+  "updated": "Wed, 22 Oct 2025 11:52:49 GMT",
   "total_events": 3,
   "events": [
     {
@@ -10,7 +10,7 @@
       "language": "English",
       "category": "Cricket",
       "title": "ENG | India's Asia Cup Glory 24x7",
-      "url": "https://sonymtmnew.akamaized.net/hls/live/2022315/DAI11ME-AC24X7/master_lrh.m3u8?hdnea=exp=1761157801~acl=/*~id=07204548204828201477869431760010~hmac=ebc52b6b5ac5c9927c8181185df66164059bb22a30aa20ab51f91c4ac1d80555|x-playback-session-id=f351c4a74a6550587ee7bdd21c2fcd36-1761133026350&User-Agent=com.sonyliv/6.22.4 (Android 11; en_GB; WALTON GSMART 2KTV; Build/RTM8.240401.055)",
+      "url": "https://sonymtmnew.akamaized.net/hls/live/2022315/DAI11ME-AC24X7/master_lrh.m3u8?hdnea=exp=1761157801~acl=/*~id=07204548204828201477869431760010~hmac=ebc52b6b5ac5c9927c8181185df66164059bb22a30aa20ab51f91c4ac1d80555|x-playback-session-id=b45dc1c8dfdc0d324742ee1f0cbbacd6-1761133864516&User-Agent=com.sonyliv/6.22.4 (Android 11; en_GB; ATV R1; Build/RTT7.210923.001)",
       "user_agent": "Unknown"
     },
     {
@@ -20,7 +20,7 @@
       "language": "English",
       "category": "Football",
       "title": "ENG | Monaco vs Tottenham - MD 3 - 22 Oct 2025",
-      "url": "https://sonymtmnew.akamaized.net/hls/live/2022316/DAI12ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1761157801~acl=/*~id=07204548204828201477869431760010~hmac=ebc52b6b5ac5c9927c8181185df66164059bb22a30aa20ab51f91c4ac1d80555|x-playback-session-id=f351c4a74a6550587ee7bdd21c2fcd36-1761133026350&User-Agent=com.sonyliv/6.22.4 (Android 11; en_GB; KONKA 4K Android TV; Build/RTK4.241026.045)",
+      "url": "https://sonymtmnew.akamaized.net/hls/live/2022316/DAI12ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1761157801~acl=/*~id=07204548204828201477869431760010~hmac=ebc52b6b5ac5c9927c8181185df66164059bb22a30aa20ab51f91c4ac1d80555|x-playback-session-id=b45dc1c8dfdc0d324742ee1f0cbbacd6-1761133864516&User-Agent=com.sonyliv/6.22.4 (Android 10; en_GB; Infinix X655F; Build/QP1A.190711.020)",
       "user_agent": "Unknown"
     },
     {
@@ -30,7 +30,7 @@
       "language": "HINDI",
       "category": "Shows",
       "title": "HIN | Taarak Mehta Ka Ooltah Chashmah",
-      "url": "https://sonymtmnew.akamaized.net/hls/live/2022316/DAI12ME-TMK24X7/master_lrh.m3u8?hdnea=exp=1761157801~acl=/*~id=07204548204828201477869431760010~hmac=ebc52b6b5ac5c9927c8181185df66164059bb22a30aa20ab51f91c4ac1d80555|x-playback-session-id=f351c4a74a6550587ee7bdd21c2fcd36-1761133026350&User-Agent=com.sonyliv/6.22.4 (Android 15; en_GB; moto g05; Build/VVTA35.51-100)",
+      "url": "https://sonymtmnew.akamaized.net/hls/live/2022316/DAI12ME-TMK24X7/master_lrh.m3u8?hdnea=exp=1761157801~acl=/*~id=07204548204828201477869431760010~hmac=ebc52b6b5ac5c9927c8181185df66164059bb22a30aa20ab51f91c4ac1d80555|x-playback-session-id=b45dc1c8dfdc0d324742ee1f0cbbacd6-1761133864516&User-Agent=com.sonyliv/6.22.4 (Android 13; en_GB; sdm660 for arm64; Build/S10A_123)",
       "user_agent": "Unknown"
     }
   ]
