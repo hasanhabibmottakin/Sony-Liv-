@@ -1,6 +1,6 @@
 {
   "api_made_by": "bd coder boy",
-  "updated": "Wed, 22 Oct 2025 20:16:16 GMT",
+  "updated": "Wed, 22 Oct 2025 20:34:29 GMT",
   "total_events": 11,
   "events": [
     {
@@ -10,7 +10,7 @@
       "language": "English",
       "category": "Football",
       "title": "ENG | Real Madrid vs Juventus - MD 3 - 23 Oct 2025",
-      "url": "https://sonymtmnew.akamaized.net/hls/live/2018458/DAI10ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1761179401~acl=/*~id=61184469704306249348401873122274~hmac=963175eb18d2c21cc90c7e8be81329ccaad54c9985c0cdcb2a0c39dd77c6ef8b|x-playback-session-id=b824e2fc4a6a53f2749c62e612f93b7e-1761163923432&User-Agent=com.sonyliv/6.22.4 (Android 14; en_GB; 22111317G; Build/UKQ1.230917.001)",
+      "url": "https://sonymtmnew.akamaized.net/hls/live/2018458/DAI10ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1761201001~acl=/*~id=74804459106721721720773287705537~hmac=8d447aaf6d8d59a6a1de97b85b9b658fb85c5d6158776d5f0da0f9ecd39e1d83|x-playback-session-id=1bdb4d8e928913f11b59a94350c41f6a-1761165006180&User-Agent=com.sonyliv/6.22.4 (Android 7; en_GB; unknown; Build/N2G48H)",
       "user_agent": "Unknown"
     },
     {
@@ -20,7 +20,7 @@
       "language": "Hindi",
       "category": "Football",
       "title": "HIN | Real Madrid vs Juventus - MD 3 - 23 Oct 2025",
-      "url": "https://sonymtmnew.akamaized.net/hls/live/2094588/DAI04ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1761179401~acl=/*~id=61184469704306249348401873122274~hmac=963175eb18d2c21cc90c7e8be81329ccaad54c9985c0cdcb2a0c39dd77c6ef8b|x-playback-session-id=b824e2fc4a6a53f2749c62e612f93b7e-1761163923432&User-Agent=com.sonyliv/6.22.4 (Android 15; en_GB; SM-M558B; Build/AP3A.240905.015.A2)",
+      "url": "https://sonymtmnew.akamaized.net/hls/live/2094588/DAI04ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1761201001~acl=/*~id=74804459106721721720773287705537~hmac=8d447aaf6d8d59a6a1de97b85b9b658fb85c5d6158776d5f0da0f9ecd39e1d83|x-playback-session-id=1bdb4d8e928913f11b59a94350c41f6a-1761165006180&User-Agent=com.sonyliv/6.22.4 (Android 11; en_GB; IN2019; Build/RP1A.201005.001)",
       "user_agent": "Unknown"
     },
     {
@@ -30,7 +30,7 @@
       "language": "Tamil",
       "category": "Football",
       "title": "TAM | Real Madrid vs Juventus - MD 3 - 23 Oct 2025",
-      "url": "https://sonymtmnew.akamaized.net/hls/live/2022319/DAI15ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1761179401~acl=/*~id=61184469704306249348401873122274~hmac=963175eb18d2c21cc90c7e8be81329ccaad54c9985c0cdcb2a0c39dd77c6ef8b|x-playback-session-id=b824e2fc4a6a53f2749c62e612f93b7e-1761163923432&User-Agent=com.sonyliv/6.22.4 (Android 6; en_GB; Lenovo TAB 2 A10-70L; Build/MRA58K)",
+      "url": "https://sonymtmnew.akamaized.net/hls/live/2022319/DAI15ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1761201001~acl=/*~id=74804459106721721720773287705537~hmac=8d447aaf6d8d59a6a1de97b85b9b658fb85c5d6158776d5f0da0f9ecd39e1d83|x-playback-session-id=1bdb4d8e928913f11b59a94350c41f6a-1761165006180&User-Agent=com.sonyliv/6.22.4 (Android 15; en_GB; RMX3999; Build/AP3A.240617.008)",
       "user_agent": "Unknown"
     },
     {
@@ -40,7 +40,7 @@
       "language": "Telugu",
       "category": "Football",
       "title": "TEL | Real Madrid vs Juventus - MD 3 - 23 Oct 2025",
-      "url": "https://sonymtmnew.akamaized.net/hls/live/2037141/DAI21ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1761179401~acl=/*~id=61184469704306249348401873122274~hmac=963175eb18d2c21cc90c7e8be81329ccaad54c9985c0cdcb2a0c39dd77c6ef8b|x-playback-session-id=b824e2fc4a6a53f2749c62e612f93b7e-1761163923432&User-Agent=com.sonyliv/6.22.4 (Android 13; en_GB; RMP2205; Build/SP1A.210812.016)",
+      "url": "https://sonymtmnew.akamaized.net/hls/live/2037141/DAI21ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1761201001~acl=/*~id=74804459106721721720773287705537~hmac=8d447aaf6d8d59a6a1de97b85b9b658fb85c5d6158776d5f0da0f9ecd39e1d83|x-playback-session-id=1bdb4d8e928913f11b59a94350c41f6a-1761165006180&User-Agent=com.sonyliv/6.22.4 (Android 15; en_GB; AIN065; Build/AQ3A.240929.001)",
       "user_agent": "Unknown"
     },
     {
@@ -50,7 +50,7 @@
       "language": "English",
       "category": "Football",
       "title": "ENG | Frankfurt vs Liverpool - MD 3 - 23 Oct 2025",
-      "url": "https://sonymtmnew.akamaized.net/hls/live/2022315/DAI11ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1761179401~acl=/*~id=61184469704306249348401873122274~hmac=963175eb18d2c21cc90c7e8be81329ccaad54c9985c0cdcb2a0c39dd77c6ef8b|x-playback-session-id=b824e2fc4a6a53f2749c62e612f93b7e-1761163923432&User-Agent=com.sonyliv/6.22.4 (Android 9; en_GB; T6 Max; Build/PPR1.180610.011)",
+      "url": "https://sonymtmnew.akamaized.net/hls/live/2022315/DAI11ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1761201001~acl=/*~id=74804459106721721720773287705537~hmac=8d447aaf6d8d59a6a1de97b85b9b658fb85c5d6158776d5f0da0f9ecd39e1d83|x-playback-session-id=1bdb4d8e928913f11b59a94350c41f6a-1761165006180&User-Agent=com.sonyliv/6.22.4 (Android 13; en_GB; SM-N981B; Build/TP1A.220624.014)",
       "user_agent": "Unknown"
     },
     {
@@ -60,7 +60,7 @@
       "language": "English",
       "category": "Cricket",
       "title": "ENG | India's Asia Cup Glory 24x7",
-      "url": "https://sonymtmnew.akamaized.net/hls/live/2022315/DAI11ME-AC24X7/master_lrh.m3u8?hdnea=exp=1761179401~acl=/*~id=61184469704306249348401873122274~hmac=963175eb18d2c21cc90c7e8be81329ccaad54c9985c0cdcb2a0c39dd77c6ef8b|x-playback-session-id=b824e2fc4a6a53f2749c62e612f93b7e-1761163923432&User-Agent=com.sonyliv/6.22.4 (Android 9; en_GB; SM-A105F; Build/PPR1.180610.011)",
+      "url": "https://sonymtmnew.akamaized.net/hls/live/2022315/DAI11ME-AC24X7/master_lrh.m3u8?hdnea=exp=1761201001~acl=/*~id=74804459106721721720773287705537~hmac=8d447aaf6d8d59a6a1de97b85b9b658fb85c5d6158776d5f0da0f9ecd39e1d83|x-playback-session-id=1bdb4d8e928913f11b59a94350c41f6a-1761165006180&User-Agent=com.sonyliv/6.22.4 (Android 15; en_GB; TB330FU; Build/AP3A.240905.015.A2)",
       "user_agent": "Unknown"
     },
     {
@@ -70,7 +70,7 @@
       "language": "English",
       "category": "Football",
       "title": "ENG | Chelsea vs Ajax - MD 3 - 23 Oct 2025",
-      "url": "https://sonymtmnew.akamaized.net/hls/live/2018457/DAI09ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1761179401~acl=/*~id=61184469704306249348401873122274~hmac=963175eb18d2c21cc90c7e8be81329ccaad54c9985c0cdcb2a0c39dd77c6ef8b|x-playback-session-id=b824e2fc4a6a53f2749c62e612f93b7e-1761163923432&User-Agent=com.sonyliv/6.22.4 (Android 9; en_GB; ASUS_Z01QD; Build/PPR1.180720.122)",
+      "url": "https://sonymtmnew.akamaized.net/hls/live/2018457/DAI09ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1761201001~acl=/*~id=74804459106721721720773287705537~hmac=8d447aaf6d8d59a6a1de97b85b9b658fb85c5d6158776d5f0da0f9ecd39e1d83|x-playback-session-id=1bdb4d8e928913f11b59a94350c41f6a-1761165006180&User-Agent=com.sonyliv/6.22.4 (Android 7; en_GB; 9026T; Build/NRD90M)",
       "user_agent": "Unknown"
     },
     {
@@ -80,7 +80,7 @@
       "language": "English",
       "category": "Football",
       "title": "ENG | Bayern vs Club Brugge - MD 3 - 23 Oct 2025",
-      "url": "https://sonymtmnew.akamaized.net/hls/live/2022317/DAI13ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1761179401~acl=/*~id=61184469704306249348401873122274~hmac=963175eb18d2c21cc90c7e8be81329ccaad54c9985c0cdcb2a0c39dd77c6ef8b|x-playback-session-id=b824e2fc4a6a53f2749c62e612f93b7e-1761163923432&User-Agent=com.sonyliv/6.22.4 (Android 10; en_GB; SM-T515; Build/QP1A.190711.020)",
+      "url": "https://sonymtmnew.akamaized.net/hls/live/2022317/DAI13ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1761201001~acl=/*~id=74804459106721721720773287705537~hmac=8d447aaf6d8d59a6a1de97b85b9b658fb85c5d6158776d5f0da0f9ecd39e1d83|x-playback-session-id=1bdb4d8e928913f11b59a94350c41f6a-1761165006180&User-Agent=com.sonyliv/6.22.4 (Android 7; en_GB; ASUS_Z01QD; Build/NZH54D)",
       "user_agent": "Unknown"
     },
     {
@@ -90,7 +90,7 @@
       "language": "English",
       "category": "Football",
       "title": "ENG | Monaco vs Tottenham - MD 3 - 23 Oct 2025",
-      "url": "https://sonymtmnew.akamaized.net/hls/live/2094587/DAI03ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1761179401~acl=/*~id=61184469704306249348401873122274~hmac=963175eb18d2c21cc90c7e8be81329ccaad54c9985c0cdcb2a0c39dd77c6ef8b|x-playback-session-id=b824e2fc4a6a53f2749c62e612f93b7e-1761163923432&User-Agent=com.sonyliv/6.22.4 (Android 9; en_GB; CANVAS; Build/PPR1.180610.011)",
+      "url": "https://sonymtmnew.akamaized.net/hls/live/2094587/DAI03ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1761201001~acl=/*~id=74804459106721721720773287705537~hmac=8d447aaf6d8d59a6a1de97b85b9b658fb85c5d6158776d5f0da0f9ecd39e1d83|x-playback-session-id=1bdb4d8e928913f11b59a94350c41f6a-1761165006180&User-Agent=com.sonyliv/6.22.4 (Android 15; en_GB; G1; Build/D9 PRO 5G)",
       "user_agent": "Unknown"
     },
     {
@@ -100,7 +100,7 @@
       "language": "English",
       "category": "Football",
       "title": "ENG | Atalanta vs Slavia Prague - MD 3 - 23 Oct 2025",
-      "url": "https://sonymtmnew.akamaized.net/hls/live/2005445/DAI06ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1761179401~acl=/*~id=61184469704306249348401873122274~hmac=963175eb18d2c21cc90c7e8be81329ccaad54c9985c0cdcb2a0c39dd77c6ef8b|x-playback-session-id=b824e2fc4a6a53f2749c62e612f93b7e-1761163923432&User-Agent=com.sonyliv/6.22.4 (Android 11; en_GB; RMX3201; Build/RP1A.200720.011)",
+      "url": "https://sonymtmnew.akamaized.net/hls/live/2005445/DAI06ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1761201001~acl=/*~id=74804459106721721720773287705537~hmac=8d447aaf6d8d59a6a1de97b85b9b658fb85c5d6158776d5f0da0f9ecd39e1d83|x-playback-session-id=1bdb4d8e928913f11b59a94350c41f6a-1761165006180&User-Agent=com.sonyliv/6.22.4 (Android 11; en_GB; EcoTV Pro D; Build/RTM7.230903.168)",
       "user_agent": "Unknown"
     },
     {
@@ -110,7 +110,7 @@
       "language": "English",
       "category": "Football",
       "title": "ENG | Sporting CP vs Marseille - MD 3 - 23 Oct 2025",
-      "url": "https://sonymtmnew.akamaized.net/hls/live/2022318/DAI14ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1761179401~acl=/*~id=61184469704306249348401873122274~hmac=963175eb18d2c21cc90c7e8be81329ccaad54c9985c0cdcb2a0c39dd77c6ef8b|x-playback-session-id=b824e2fc4a6a53f2749c62e612f93b7e-1761163923432&User-Agent=com.sonyliv/6.22.4 (Android 11; en_GB; LAVA LZG403; Build/RP1A.200720.011)",
+      "url": "https://sonymtmnew.akamaized.net/hls/live/2022318/DAI14ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1761201001~acl=/*~id=74804459106721721720773287705537~hmac=8d447aaf6d8d59a6a1de97b85b9b658fb85c5d6158776d5f0da0f9ecd39e1d83|x-playback-session-id=1bdb4d8e928913f11b59a94350c41f6a-1761165006180&User-Agent=com.sonyliv/6.22.4 (Android 12; en_GB; V2135; Build/SP1A.210812.003)",
       "user_agent": "Unknown"
     }
   ]
