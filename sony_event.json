@@ -1,6 +1,6 @@
 {
   "api_made_by": "bd coder boy",
-  "updated": "Wed, 22 Oct 2025 13:43:15 GMT",
+  "updated": "Wed, 22 Oct 2025 13:56:49 GMT",
   "total_events": 4,
   "events": [
     {
@@ -10,7 +10,7 @@
       "language": "English",
       "category": "Cricket",
       "title": "ENG | India's Asia Cup Glory 24x7",
-      "url": "https://sonymtmnew.akamaized.net/hls/live/2022315/DAI11ME-AC24X7/master_lrh.m3u8?hdnea=exp=1761157801~acl=/*~id=07204548204828201477869431760010~hmac=ebc52b6b5ac5c9927c8181185df66164059bb22a30aa20ab51f91c4ac1d80555|x-playback-session-id=62cb8f4307ebb72e18a2d94e5eae8aa8-1761140225172&User-Agent=com.sonyliv/6.22.4 (Android 7; en_GB; S905W; Build/NHG47L)",
+      "url": "https://sonymtmnew.akamaized.net/hls/live/2022315/DAI11ME-AC24X7/master_lrh.m3u8?hdnea=exp=1761157801~acl=/*~id=07204548204828201477869431760010~hmac=ebc52b6b5ac5c9927c8181185df66164059bb22a30aa20ab51f91c4ac1d80555|x-playback-session-id=60c767ae9075c7f96b8bd55b64b9ebde-1761141064194&User-Agent=com.sonyliv/6.22.4 (Android 12; en_GB; CPH2381; Build/RKQ1.211119.001)",
       "user_agent": "Unknown"
     },
     {
@@ -20,7 +20,7 @@
       "language": "English",
       "category": "Football",
       "title": "ENG | Monaco vs Tottenham - MD 3 - 22 Oct 2025",
-      "url": "https://sonymtmnew.akamaized.net/hls/live/2022316/DAI12ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1761157801~acl=/*~id=07204548204828201477869431760010~hmac=ebc52b6b5ac5c9927c8181185df66164059bb22a30aa20ab51f91c4ac1d80555|x-playback-session-id=62cb8f4307ebb72e18a2d94e5eae8aa8-1761140225172&User-Agent=com.sonyliv/6.22.4 (Android 14; en_GB; R3; Build/UKR1.241015)",
+      "url": "https://sonymtmnew.akamaized.net/hls/live/2022316/DAI12ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1761157801~acl=/*~id=07204548204828201477869431760010~hmac=ebc52b6b5ac5c9927c8181185df66164059bb22a30aa20ab51f91c4ac1d80555|x-playback-session-id=60c767ae9075c7f96b8bd55b64b9ebde-1761141064194&User-Agent=com.sonyliv/6.22.4 (Android 13; en_GB; V2247; Build/TP1A.220624.014)",
       "user_agent": "Unknown"
     },
     {
@@ -30,7 +30,7 @@
       "language": "English",
       "category": "Football",
       "title": "ENG | Bayern vs Club Brugge - MD 3 - 22 Oct 2025",
-      "url": "https://sonymtmnew.akamaized.net/hls/live/2094589/DAI05ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1761157801~acl=/*~id=07204548204828201477869431760010~hmac=ebc52b6b5ac5c9927c8181185df66164059bb22a30aa20ab51f91c4ac1d80555|x-playback-session-id=62cb8f4307ebb72e18a2d94e5eae8aa8-1761140225172&User-Agent=com.sonyliv/6.22.4 (Android 9; en_GB; PHZ110; Build/PQ3A.190705.05091555)",
+      "url": "https://sonymtmnew.akamaized.net/hls/live/2094589/DAI05ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1761157801~acl=/*~id=07204548204828201477869431760010~hmac=ebc52b6b5ac5c9927c8181185df66164059bb22a30aa20ab51f91c4ac1d80555|x-playback-session-id=60c767ae9075c7f96b8bd55b64b9ebde-1761141064194&User-Agent=com.sonyliv/6.22.4 (Android 13; en_GB; RMX3516; Build/TP1A.220624.014)",
       "user_agent": "Unknown"
     },
     {
@@ -40,7 +40,7 @@
       "language": "HINDI",
       "category": "Shows",
       "title": "HIN | Taarak Mehta Ka Ooltah Chashmah",
-      "url": "https://sonymtmnew.akamaized.net/hls/live/2022316/DAI12ME-TMK24X7/master_lrh.m3u8?hdnea=exp=1761157801~acl=/*~id=07204548204828201477869431760010~hmac=ebc52b6b5ac5c9927c8181185df66164059bb22a30aa20ab51f91c4ac1d80555|x-playback-session-id=62cb8f4307ebb72e18a2d94e5eae8aa8-1761140225172&User-Agent=com.sonyliv/6.22.4 (Android 9; en_GB; AFTSS; Build/PS7614.3227N)",
+      "url": "https://sonymtmnew.akamaized.net/hls/live/2022316/DAI12ME-TMK24X7/master_lrh.m3u8?hdnea=exp=1761157801~acl=/*~id=07204548204828201477869431760010~hmac=ebc52b6b5ac5c9927c8181185df66164059bb22a30aa20ab51f91c4ac1d80555|x-playback-session-id=60c767ae9075c7f96b8bd55b64b9ebde-1761141064194&User-Agent=com.sonyliv/6.22.4 (Android 15; en_GB; 2312BPC51H; Build/AP3A.240905.015.A2)",
       "user_agent": "Unknown"
     }
   ]
