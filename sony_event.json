@@ -1,7 +1,7 @@
 {
   "api_made_by": "bd coder boy",
-  "updated": "Thu, 23 Oct 2025 20:52:57 GMT",
-  "total_events": 3,
+  "updated": "Thu, 23 Oct 2025 21:11:38 GMT",
+  "total_events": 2,
   "events": [
     {
       "id": "1090492827",
@@ -10,7 +10,7 @@
       "language": "English",
       "category": "Football",
       "title": "ENG | Nott'm Forest vs Porto - MD 3 - 24 Oct 2025",
-      "url": "https://sonymtmnew.akamaized.net/hls/live/2037141/DAI21ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1761287401~acl=/*~id=18849443628352130688273302438009~hmac=34070555443badce6ff145038372fab8b0ec6a0462e20b170054bed50bd6665f|x-playback-session-id=2de86c3eb3b31b92f210ebb8e8e80140-1761252675122&User-Agent=com.sonyliv/6.22.4 (Android 10; en_GB; MBOX; Build/QP1A.191105.004)",
+      "url": "https://sonymtmnew.akamaized.net/hls/live/2037141/DAI21ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1761287401~acl=/*~id=18849443628352130688273302438009~hmac=34070555443badce6ff145038372fab8b0ec6a0462e20b170054bed50bd6665f|x-playback-session-id=7585087ce74434204fe554a6a6dec4cb-1761253504406&User-Agent=com.sonyliv/6.22.4 (Android 14; en_GB; 23090RA98G; Build/UP1A.231005.007)",
       "user_agent": "Unknown"
     },
     {
@@ -20,17 +20,7 @@
       "language": "English",
       "category": "Cricket",
       "title": "ENG | India's Asia Cup Glory 24x7",
-      "url": "https://sonymtmnew.akamaized.net/hls/live/2022315/DAI11ME-AC24X7/master_lrh.m3u8?hdnea=exp=1761287401~acl=/*~id=18849443628352130688273302438009~hmac=34070555443badce6ff145038372fab8b0ec6a0462e20b170054bed50bd6665f|x-playback-session-id=2de86c3eb3b31b92f210ebb8e8e80140-1761252675122&User-Agent=com.sonyliv/6.22.4 (Android 14; en_GB; SM-F946B; Build/UP1A.231005.007)",
-      "user_agent": "Unknown"
-    },
-    {
-      "id": "1090492821",
-      "name": "UEFA Europa League 2025-26",
-      "logo": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000010022/1759992598173918_UEL2526_MD3_Roma_vs_viktoria_Plzen_9oct_landscape_thumb.jpg",
-      "language": "English",
-      "category": "Football",
-      "title": "ENG | Roma vs Viktoria Plzen - MD 3 - 24 Oct 2025",
-      "url": "https://sonymtmnew.akamaized.net/hls/live/2094587/DAI03ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1761287401~acl=/*~id=18849443628352130688273302438009~hmac=34070555443badce6ff145038372fab8b0ec6a0462e20b170054bed50bd6665f|x-playback-session-id=2de86c3eb3b31b92f210ebb8e8e80140-1761252675122&User-Agent=com.sonyliv/6.22.4 (Android 14; en_GB; AndroidTV; Build/PPR1.180610.011)",
+      "url": "https://sonymtmnew.akamaized.net/hls/live/2022315/DAI11ME-AC24X7/master_lrh.m3u8?hdnea=exp=1761287401~acl=/*~id=18849443628352130688273302438009~hmac=34070555443badce6ff145038372fab8b0ec6a0462e20b170054bed50bd6665f|x-playback-session-id=7585087ce74434204fe554a6a6dec4cb-1761253504406&User-Agent=com.sonyliv/6.22.4 (Android 9; en_GB; ASUS_X01AD; Build/WW_Phone-202004261144)",
       "user_agent": "Unknown"
     }
   ]
