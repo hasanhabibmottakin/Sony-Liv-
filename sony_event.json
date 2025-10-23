@@ -1,6 +1,6 @@
 {
   "api_made_by": "bd coder boy",
-  "updated": "Thu, 23 Oct 2025 19:27:03 GMT",
+  "updated": "Thu, 23 Oct 2025 19:36:44 GMT",
   "total_events": 3,
   "events": [
     {
@@ -10,7 +10,7 @@
       "language": "English",
       "category": "Football",
       "title": "ENG | Nott'm Forest vs Porto - MD 3 - 24 Oct 2025",
-      "url": "https://sonymtmnew.akamaized.net/hls/live/2037141/DAI21ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1761265802~acl=/*~id=85429689621816720792344955429270~hmac=389a43f8969bad2ce93ad0dbb2b2c20a21685f57cbb570c78d41a6994fefd31c|x-playback-session-id=720cf415ec662fb993d091ea09a11876-1761247146152&User-Agent=com.sonyliv/6.22.4 (Android 15; en_GB; CPH2717; Build/UKQ1.231108.001)",
+      "url": "https://sonymtmnew.akamaized.net/hls/live/2037141/DAI21ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1761265802~acl=/*~id=85429689621816720792344955429270~hmac=389a43f8969bad2ce93ad0dbb2b2c20a21685f57cbb570c78d41a6994fefd31c|x-playback-session-id=370699cf097504c8ee087d69d7f5ecbb-1761247804728&User-Agent=com.sonyliv/6.22.4 (Android 8; en_GB; Infinix X572; Build/O11019)",
       "user_agent": "Unknown"
     },
     {
@@ -20,7 +20,7 @@
       "language": "English",
       "category": "Cricket",
       "title": "ENG | India's Asia Cup Glory 24x7",
-      "url": "https://sonymtmnew.akamaized.net/hls/live/2022315/DAI11ME-AC24X7/master_lrh.m3u8?hdnea=exp=1761265802~acl=/*~id=85429689621816720792344955429270~hmac=389a43f8969bad2ce93ad0dbb2b2c20a21685f57cbb570c78d41a6994fefd31c|x-playback-session-id=720cf415ec662fb993d091ea09a11876-1761247146152&User-Agent=com.sonyliv/6.22.4 (Android 14; en_GB; SM-A536B; Build/UP1A.231005.007)",
+      "url": "https://sonymtmnew.akamaized.net/hls/live/2022315/DAI11ME-AC24X7/master_lrh.m3u8?hdnea=exp=1761265802~acl=/*~id=85429689621816720792344955429270~hmac=389a43f8969bad2ce93ad0dbb2b2c20a21685f57cbb570c78d41a6994fefd31c|x-playback-session-id=370699cf097504c8ee087d69d7f5ecbb-1761247804728&User-Agent=com.sonyliv/6.22.4 (Android 14; en_GB; SM-A045F; Build/UP1A.231005.007)",
       "user_agent": "Unknown"
     },
     {
@@ -30,7 +30,7 @@
       "language": "English",
       "category": "Football",
       "title": "ENG | Roma vs Viktoria Plzen - MD 3 - 24 Oct 2025",
-      "url": "https://sonymtmnew.akamaized.net/hls/live/2094587/DAI03ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1761265802~acl=/*~id=85429689621816720792344955429270~hmac=389a43f8969bad2ce93ad0dbb2b2c20a21685f57cbb570c78d41a6994fefd31c|x-playback-session-id=720cf415ec662fb993d091ea09a11876-1761247146152&User-Agent=com.sonyliv/6.22.4 (Android 15; en_GB; SM-S901B; Build/AP3A.240905.015.A2)",
+      "url": "https://sonymtmnew.akamaized.net/hls/live/2094587/DAI03ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1761265802~acl=/*~id=85429689621816720792344955429270~hmac=389a43f8969bad2ce93ad0dbb2b2c20a21685f57cbb570c78d41a6994fefd31c|x-playback-session-id=370699cf097504c8ee087d69d7f5ecbb-1761247804728&User-Agent=com.sonyliv/6.22.4 (Android 7; en_GB; Moto E (4) Plus; Build/NMA26.42-169)",
       "user_agent": "Unknown"
     }
   ]
