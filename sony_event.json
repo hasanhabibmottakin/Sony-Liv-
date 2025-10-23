@@ -1,7 +1,7 @@
 {
   "api_made_by": "bd coder boy",
-  "updated": "Thu, 23 Oct 2025 04:19:52 GMT",
-  "total_events": 1,
+  "updated": "Thu, 23 Oct 2025 04:39:00 GMT",
+  "total_events": 2,
   "events": [
     {
       "id": "1090492070",
@@ -10,7 +10,17 @@
       "language": "English",
       "category": "Cricket",
       "title": "ENG | India's Asia Cup Glory 24x7",
-      "url": "https://sonymtmnew.akamaized.net/hls/live/2022315/DAI11ME-AC24X7/master_lrh.m3u8?hdnea=exp=1761222601~acl=/*~id=18644268233300503245276886680582~hmac=cf9c6f7a7eac9ce5cababb3d1d216e9157e708480c891dfc1edfa26352e67194|x-playback-session-id=db14d04d2d7cb228d88011a8f59052ef-1761192723637&User-Agent=com.sonyliv/6.22.4 (Android 10; en_GB; moto e(7) plus; Build/QPZS30.30-Q3-38-69-12)",
+      "url": "https://sonymtmnew.akamaized.net/hls/live/2022315/DAI11ME-AC24X7/master_lrh.m3u8?hdnea=exp=1761222601~acl=/*~id=18644268233300503245276886680582~hmac=cf9c6f7a7eac9ce5cababb3d1d216e9157e708480c891dfc1edfa26352e67194|x-playback-session-id=214f905556ac2a9ab6c9c2f5c21fc2c5-1761194223533&User-Agent=com.sonyliv/6.22.4 (Android 7; en_GB; HUAWEI NMO-L31; Build/HUAWEINMO-L31)",
+      "user_agent": "Unknown"
+    },
+    {
+      "id": "1090492963",
+      "name": "Asian Tour 2025",
+      "logo": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000009914/1759722883940903_AsianTour25_International_Series_Philippines_Day1_5oct_landscape_thumb.jpg",
+      "language": "English",
+      "category": "Golf",
+      "title": "ENG | International Series Philippines - Day 1 - 23 Oct 2025",
+      "url": "https://sonymtmnew.akamaized.net/hls/live/2022320/DAI16ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1761222601~acl=/*~id=18644268233300503245276886680582~hmac=cf9c6f7a7eac9ce5cababb3d1d216e9157e708480c891dfc1edfa26352e67194|x-playback-session-id=214f905556ac2a9ab6c9c2f5c21fc2c5-1761194223533&User-Agent=com.sonyliv/6.22.4 (Android 12; en_GB; CPH2161; Build/SP1A.210812.016)",
       "user_agent": "Unknown"
     }
   ]
