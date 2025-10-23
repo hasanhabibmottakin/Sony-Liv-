@@ -1,6 +1,6 @@
 {
   "api_made_by": "bd coder boy",
-  "updated": "Thu, 23 Oct 2025 08:57:34 GMT",
+  "updated": "Thu, 23 Oct 2025 09:19:50 GMT",
   "total_events": 3,
   "events": [
     {
@@ -10,7 +10,7 @@
       "language": "English",
       "category": "Cricket",
       "title": "ENG | 3rd T20I - 23 Oct 2025",
-      "url": "https://sonymtmnew.akamaized.net/hls/live/2018457/engvsnz/ENG/std_lrh-800300010.m3u8?hdnea=exp=1761244201~acl=/*~id=72073166884839534439224241458250~hmac=0469f6e511cab5604ed25e633986c62930405f9b40bc7c0a41f44d03a2d6de0f|x-playback-session-id=58252f67a089bfe4802b73c186e5c079-1761209465073&User-Agent=com.sonyliv/6.22.4 (Android 13; en_GB; T104G; Build/TP1A.220624.014)",
+      "url": "https://sonymtmnew.akamaized.net/hls/live/2018457/engvsnz/ENG/std_lrh-800300010.m3u8?hdnea=exp=1761244201~acl=/*~id=72073166884839534439224241458250~hmac=0469f6e511cab5604ed25e633986c62930405f9b40bc7c0a41f44d03a2d6de0f|x-playback-session-id=c36dbbd44f870e60da9a5f171a690d7b-1761210724825&User-Agent=com.sonyliv/6.22.4 (Android 7; en_GB; VMware Virtual Platform; Build/N2G48H)",
       "user_agent": "Unknown"
     },
     {
@@ -20,7 +20,7 @@
       "language": "English",
       "category": "Cricket",
       "title": "ENG | India's Asia Cup Glory 24x7",
-      "url": "https://sonymtmnew.akamaized.net/hls/live/2022315/DAI11ME-AC24X7/master_lrh.m3u8?hdnea=exp=1761244201~acl=/*~id=72073166884839534439224241458250~hmac=0469f6e511cab5604ed25e633986c62930405f9b40bc7c0a41f44d03a2d6de0f|x-playback-session-id=58252f67a089bfe4802b73c186e5c079-1761209465073&User-Agent=com.sonyliv/6.22.4 (Android 13; en_GB; Infinix X671B; Build/TP1A.220624.014)",
+      "url": "https://sonymtmnew.akamaized.net/hls/live/2022315/DAI11ME-AC24X7/master_lrh.m3u8?hdnea=exp=1761244201~acl=/*~id=72073166884839534439224241458250~hmac=0469f6e511cab5604ed25e633986c62930405f9b40bc7c0a41f44d03a2d6de0f|x-playback-session-id=c36dbbd44f870e60da9a5f171a690d7b-1761210724825&User-Agent=com.sonyliv/6.22.4 (Android 10; en_GB; AndroidTV; Build/QP1A.191105.004)",
       "user_agent": "Unknown"
     },
     {
@@ -30,7 +30,7 @@
       "language": "English",
       "category": "Golf",
       "title": "ENG | International Series Philippines - Day 1 - 23 Oct 2025",
-      "url": "https://sonymtmnew.akamaized.net/hls/live/2022320/DAI16ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1761244201~acl=/*~id=72073166884839534439224241458250~hmac=0469f6e511cab5604ed25e633986c62930405f9b40bc7c0a41f44d03a2d6de0f|x-playback-session-id=58252f67a089bfe4802b73c186e5c079-1761209465073&User-Agent=com.sonyliv/6.22.4 (Android 15; en_GB; SM-S918W; Build/AP3A.240905.015.A2)",
+      "url": "https://sonymtmnew.akamaized.net/hls/live/2022320/DAI16ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1761244201~acl=/*~id=72073166884839534439224241458250~hmac=0469f6e511cab5604ed25e633986c62930405f9b40bc7c0a41f44d03a2d6de0f|x-playback-session-id=c36dbbd44f870e60da9a5f171a690d7b-1761210724825&User-Agent=com.sonyliv/6.22.4 (Android 13; en_GB; itel A665L; Build/TP1A.220624.014)",
       "user_agent": "Unknown"
     }
   ]
