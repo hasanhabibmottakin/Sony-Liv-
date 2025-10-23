@@ -1,6 +1,6 @@
 {
   "api_made_by": "bd coder boy",
-  "updated": "Thu, 23 Oct 2025 15:33:43 GMT",
+  "updated": "Thu, 23 Oct 2025 15:44:00 GMT",
   "total_events": 1,
   "events": [
     {
@@ -10,7 +10,7 @@
       "language": "Hindi",
       "category": "Game show",
       "title": "HIN | Kaun Banega Crorepati - Season 17",
-      "url": "https://sonymtmnew.akamaized.net/hls/live/2022321/DAI17ME-KBC/master_lrh-800300010.m3u8?hdnea=exp=1761265802~acl=/*~id=85429689621816720792344955429270~hmac=389a43f8969bad2ce93ad0dbb2b2c20a21685f57cbb570c78d41a6994fefd31c|x-playback-session-id=33335ae45ed57b19df31ba4c9b9c82e0-1761233406358&User-Agent=com.sonyliv/6.22.4 (Android 14; en_GB; V2420; Build/UP1A.231005.007)",
+      "url": "https://sonymtmnew.akamaized.net/hls/live/2022321/DAI17ME-KBC/master_lrh-800300010.m3u8?hdnea=exp=1761265802~acl=/*~id=85429689621816720792344955429270~hmac=389a43f8969bad2ce93ad0dbb2b2c20a21685f57cbb570c78d41a6994fefd31c|x-playback-session-id=6fc5b9dd416c6ba41cfced55a072673e-1761233824153&User-Agent=com.sonyliv/6.22.4 (Android 11; en_GB; CPH1933; Build/RKQ1.200903.002)",
       "user_agent": "Unknown"
     }
   ]
