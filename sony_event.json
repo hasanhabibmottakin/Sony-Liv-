@@ -1,6 +1,6 @@
 {
   "api_made_by": "bd coder boy",
-  "updated": "Thu, 23 Oct 2025 02:40:11 GMT",
+  "updated": "Thu, 23 Oct 2025 03:26:35 GMT",
   "total_events": 1,
   "events": [
     {
@@ -10,7 +10,7 @@
       "language": "English",
       "category": "Cricket",
       "title": "ENG | India's Asia Cup Glory 24x7",
-      "url": "https://sonymtmnew.akamaized.net/hls/live/2022315/DAI11ME-AC24X7/master_lrh.m3u8?hdnea=exp=1761222601~acl=/*~id=18644268233300503245276886680582~hmac=cf9c6f7a7eac9ce5cababb3d1d216e9157e708480c891dfc1edfa26352e67194|x-playback-session-id=5caa626f127015c3812fd04ad3866923-1761187024293&User-Agent=com.sonyliv/6.22.4 (Android 13; en_GB; HY300pro; Build/TQ2A.230405.003.E1)",
+      "url": "https://sonymtmnew.akamaized.net/hls/live/2022315/DAI11ME-AC24X7/master_lrh.m3u8?hdnea=exp=1761222601~acl=/*~id=18644268233300503245276886680582~hmac=cf9c6f7a7eac9ce5cababb3d1d216e9157e708480c891dfc1edfa26352e67194|x-playback-session-id=b60c0541a50255ea9ac1a91caaf80a9a-1761189965387&User-Agent=com.sonyliv/6.22.4 (Android 15; en_GB; motorola razr 40 ultra; Build/V1TZS35H.41-21-3-11)",
       "user_agent": "Unknown"
     }
   ]
