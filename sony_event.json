@@ -1,7 +1,7 @@
 {
   "api_made_by": "bd coder boy",
-  "updated": "Thu, 23 Oct 2025 18:56:27 GMT",
-  "total_events": 3,
+  "updated": "Thu, 23 Oct 2025 19:12:55 GMT",
+  "total_events": 4,
   "events": [
     {
       "id": "1090492827",
@@ -10,17 +10,7 @@
       "language": "English",
       "category": "Football",
       "title": "ENG | Nott'm Forest vs Porto - MD 3 - 24 Oct 2025",
-      "url": "https://sonymtmnew.akamaized.net/hls/live/2037141/DAI21ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1761265802~acl=/*~id=85429689621816720792344955429270~hmac=389a43f8969bad2ce93ad0dbb2b2c20a21685f57cbb570c78d41a6994fefd31c|x-playback-session-id=ddda977a12d9287197ff83077b2d25ba-1761245466058&User-Agent=com.sonyliv/6.22.4 (Android 15; en_GB; Redmi Note 8; Build/BP1A.250505.005.D1)",
-      "user_agent": "Unknown"
-    },
-    {
-      "id": "1090486148",
-      "name": "Kaun Banega Crorepati",
-      "logo": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000008049/1757657348121358_kbc25_simulcast_Landscape_thumb_12sep.jpg",
-      "language": "Hindi",
-      "category": "Game show",
-      "title": "HIN | Kaun Banega Crorepati - Season 17",
-      "url": "https://sonymtmnew.akamaized.net/hls/live/2022321/DAI17ME-KBC/master_lrh-800300010.m3u8?hdnea=exp=1761265802~acl=/*~id=85429689621816720792344955429270~hmac=389a43f8969bad2ce93ad0dbb2b2c20a21685f57cbb570c78d41a6994fefd31c|x-playback-session-id=ddda977a12d9287197ff83077b2d25ba-1761245466058&User-Agent=com.sonyliv/6.22.4 (Android 9; en_GB; ASUS_X01AD; Build/WW_Phone-202004261144)",
+      "url": "https://sonymtmnew.akamaized.net/hls/live/2037141/DAI21ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1761265802~acl=/*~id=85429689621816720792344955429270~hmac=389a43f8969bad2ce93ad0dbb2b2c20a21685f57cbb570c78d41a6994fefd31c|x-playback-session-id=9256aa770c92363cf5f706c69d51c7be-1761246724386&User-Agent=com.sonyliv/6.22.4 (Android 9; en_GB; ELUGA_I7_EE; Build/PPR1.180610.011)",
       "user_agent": "Unknown"
     },
     {
@@ -30,7 +20,27 @@
       "language": "English",
       "category": "Cricket",
       "title": "ENG | India's Asia Cup Glory 24x7",
-      "url": "https://sonymtmnew.akamaized.net/hls/live/2022315/DAI11ME-AC24X7/master_lrh.m3u8?hdnea=exp=1761265802~acl=/*~id=85429689621816720792344955429270~hmac=389a43f8969bad2ce93ad0dbb2b2c20a21685f57cbb570c78d41a6994fefd31c|x-playback-session-id=ddda977a12d9287197ff83077b2d25ba-1761245466058&User-Agent=com.sonyliv/6.22.4 (Android 12; en_GB; V2118; Build/SP1A.210812.003)",
+      "url": "https://sonymtmnew.akamaized.net/hls/live/2022315/DAI11ME-AC24X7/master_lrh.m3u8?hdnea=exp=1761265802~acl=/*~id=85429689621816720792344955429270~hmac=389a43f8969bad2ce93ad0dbb2b2c20a21685f57cbb570c78d41a6994fefd31c|x-playback-session-id=9256aa770c92363cf5f706c69d51c7be-1761246724386&User-Agent=com.sonyliv/6.22.4 (Android 11; en_GB; SM-A426B; Build/RP1A.200720.012)",
+      "user_agent": "Unknown"
+    },
+    {
+      "id": "1090486148",
+      "name": "Kaun Banega Crorepati",
+      "logo": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000008049/1757657348121358_kbc25_simulcast_Landscape_thumb_12sep.jpg",
+      "language": "Hindi",
+      "category": "Game show",
+      "title": "HIN | Kaun Banega Crorepati - Season 17",
+      "url": "https://sonymtmnew.akamaized.net/hls/live/2022321/DAI17ME-KBC/master_lrh-800300010.m3u8?hdnea=exp=1761265802~acl=/*~id=85429689621816720792344955429270~hmac=389a43f8969bad2ce93ad0dbb2b2c20a21685f57cbb570c78d41a6994fefd31c|x-playback-session-id=9256aa770c92363cf5f706c69d51c7be-1761246724386&User-Agent=com.sonyliv/6.22.4 (Android 14; en_GB; SM-X205; Build/UP1A.231005.007)",
+      "user_agent": "Unknown"
+    },
+    {
+      "id": "1090492821",
+      "name": "UEFA Europa League 2025-26",
+      "logo": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000010022/1759992598173918_UEL2526_MD3_Roma_vs_viktoria_Plzen_9oct_landscape_thumb.jpg",
+      "language": "English",
+      "category": "Football",
+      "title": "ENG | Roma vs Viktoria Plzen - MD 3 - 24 Oct 2025",
+      "url": "https://sonymtmnew.akamaized.net/hls/live/2094587/DAI03ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1761265802~acl=/*~id=85429689621816720792344955429270~hmac=389a43f8969bad2ce93ad0dbb2b2c20a21685f57cbb570c78d41a6994fefd31c|x-playback-session-id=9256aa770c92363cf5f706c69d51c7be-1761246724386&User-Agent=com.sonyliv/6.22.4 (Android 9; en_GB; PHB110; Build/PQ3A.190605.09261140)",
       "user_agent": "Unknown"
     }
   ]
