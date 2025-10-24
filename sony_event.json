@@ -1,6 +1,6 @@
 {
   "api_made_by": "bd coder boy",
-  "updated": "Fri, 24 Oct 2025 08:20:43 GMT",
+  "updated": "Fri, 24 Oct 2025 08:45:37 GMT",
   "total_events": 2,
   "events": [
     {
@@ -10,7 +10,7 @@
       "language": "English",
       "category": "Cricket",
       "title": "ENG | India's Asia Cup Glory 24x7",
-      "url": "https://sonymtmnew.akamaized.net/hls/live/2022315/DAI11ME-AC24X7/master_lrh.m3u8?hdnea=exp=1761309001~acl=/*~id=80840930797520714819433344771147~hmac=901828220d744a11448ca207c13816fe356f93c3282aadfd645b0c582d3717ff|x-playback-session-id=ca90f84d79bcf14433d166a152eda9b4-1761293944979&User-Agent=com.sonyliv/6.22.4 (Android 14; en_GB; RMX3866; Build/UKQ1.230924.001)",
+      "url": "https://sonymtmnew.akamaized.net/hls/live/2022315/DAI11ME-AC24X7/master_lrh.m3u8?hdnea=exp=1761330601~acl=/*~id=14220911800915821123256514501950~hmac=f875d2bd7cb7be8fcb303f8b1de537e147cfad375f6cd5c40880e09ea9b25a0c|x-playback-session-id=6e33136b4bd65f7eed1b84a43956c0a1-1761295024359&User-Agent=com.sonyliv/6.22.4 (Android 15; en_GB; moto g85 5G; Build/V1UOS35H.74-16-4-6)",
       "user_agent": "Unknown"
     },
     {
@@ -20,7 +20,7 @@
       "language": "English",
       "category": "Golf",
       "title": "ENG | International Series Philippines - Day 2 - 24 Oct 2025",
-      "url": "https://sonymtmnew.akamaized.net/hls/live/2022320/DAI16ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1761309001~acl=/*~id=80840930797520714819433344771147~hmac=901828220d744a11448ca207c13816fe356f93c3282aadfd645b0c582d3717ff|x-playback-session-id=ca90f84d79bcf14433d166a152eda9b4-1761293944979&User-Agent=com.sonyliv/6.22.4 (Android 9; en_GB; N.H352.801.V4; Build/PPR1.180610.011)",
+      "url": "https://sonymtmnew.akamaized.net/hls/live/2022320/DAI16ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1761330601~acl=/*~id=14220911800915821123256514501950~hmac=f875d2bd7cb7be8fcb303f8b1de537e147cfad375f6cd5c40880e09ea9b25a0c|x-playback-session-id=6e33136b4bd65f7eed1b84a43956c0a1-1761295024359&User-Agent=com.sonyliv/6.22.4 (Android 5; en_GB; SMART_TV; Build/LMY47V)",
       "user_agent": "Unknown"
     }
   ]
