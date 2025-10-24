@@ -1,6 +1,6 @@
 {
   "api_made_by": "bd coder boy",
-  "updated": "Fri, 24 Oct 2025 06:55:42 GMT",
+  "updated": "Fri, 24 Oct 2025 07:14:23 GMT",
   "total_events": 2,
   "events": [
     {
@@ -10,7 +10,7 @@
       "language": "English",
       "category": "Cricket",
       "title": "ENG | India's Asia Cup Glory 24x7",
-      "url": "https://sonymtmnew.akamaized.net/hls/live/2022315/DAI11ME-AC24X7/master_lrh.m3u8?hdnea=exp=1761309001~acl=/*~id=80840930797520714819433344771147~hmac=901828220d744a11448ca207c13816fe356f93c3282aadfd645b0c582d3717ff|x-playback-session-id=d4cd218f0e04a1fecf1cb04e7384df24-1761288666211&User-Agent=com.sonyliv/6.22.4 (Android 12; en_GB; RMX3370; Build/RKQ1.211103.002)",
+      "url": "https://sonymtmnew.akamaized.net/hls/live/2022315/DAI11ME-AC24X7/master_lrh.m3u8?hdnea=exp=1761309001~acl=/*~id=80840930797520714819433344771147~hmac=901828220d744a11448ca207c13816fe356f93c3282aadfd645b0c582d3717ff|x-playback-session-id=4bae65f0194131cb25a355ce77ee30bf-1761289924447&User-Agent=com.sonyliv/6.22.4 (Android 11; en_GB; MoGo; Build/RTT0.211222.001)",
       "user_agent": "Unknown"
     },
     {
@@ -20,7 +20,7 @@
       "language": "English",
       "category": "Golf",
       "title": "ENG | International Series Philippines - Day 2 - 24 Oct 2025",
-      "url": "https://sonymtmnew.akamaized.net/hls/live/2022320/DAI16ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1761309001~acl=/*~id=80840930797520714819433344771147~hmac=901828220d744a11448ca207c13816fe356f93c3282aadfd645b0c582d3717ff|x-playback-session-id=d4cd218f0e04a1fecf1cb04e7384df24-1761288666211&User-Agent=com.sonyliv/6.22.4 (Android 12; en_GB; 21061119AG; Build/SP1A.210812.016)",
+      "url": "https://sonymtmnew.akamaized.net/hls/live/2022320/DAI16ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1761309001~acl=/*~id=80840930797520714819433344771147~hmac=901828220d744a11448ca207c13816fe356f93c3282aadfd645b0c582d3717ff|x-playback-session-id=4bae65f0194131cb25a355ce77ee30bf-1761289924447&User-Agent=com.sonyliv/6.22.4 (Android 10; en_GB; Lenovo TB-X505F; Build/QKQ1.191224.003)",
       "user_agent": "Unknown"
     }
   ]
