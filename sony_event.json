@@ -1,6 +1,6 @@
 {
   "api_made_by": "bd coder boy",
-  "updated": "Fri, 24 Oct 2025 20:33:30 GMT",
+  "updated": "Fri, 24 Oct 2025 20:45:57 GMT",
   "total_events": 2,
   "events": [
     {
@@ -10,7 +10,7 @@
       "language": "English",
       "category": "Cricket",
       "title": "ENG | India's Asia Cup Glory 24x7",
-      "url": "https://sonymtmnew.akamaized.net/hls/live/2022315/DAI11ME-AC24X7/master_lrh.m3u8?hdnea=exp=1761373801~acl=/*~id=90587428599064512686885587076580~hmac=fa49de1c22eda90d4615b1e55cef32693cf3b289310e6d5b1fb6da61f9a76ef1|x-playback-session-id=e1b4da7cc752c5d95000aa1e47195bc5-1761337803065&User-Agent=com.sonyliv/6.22.4 (Android 13; en_GB; XS100MINI; Build/QP1A.191105.004)",
+      "url": "https://sonymtmnew.akamaized.net/hls/live/2022315/DAI11ME-AC24X7/master_lrh.m3u8?hdnea=exp=1761373801~acl=/*~id=90587428599064512686885587076580~hmac=fa49de1c22eda90d4615b1e55cef32693cf3b289310e6d5b1fb6da61f9a76ef1|x-playback-session-id=d7439ab081d3c81f93396b38d83e0a2d-1761338643281&User-Agent=com.sonyliv/6.22.4 (Android 12; en_GB; N.H352.801.253; Build/SP1A.210812.016)",
       "user_agent": "Unknown"
     },
     {
@@ -20,7 +20,7 @@
       "language": "English",
       "category": "Football",
       "title": "ENG | Werder Bremen vs Union Berlin - MD 8 - 24 Oct 2025",
-      "url": "https://sonymtmnew.akamaized.net/hls/live/2094588/DAI04ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1761373801~acl=/*~id=90587428599064512686885587076580~hmac=fa49de1c22eda90d4615b1e55cef32693cf3b289310e6d5b1fb6da61f9a76ef1|x-playback-session-id=e1b4da7cc752c5d95000aa1e47195bc5-1761337803065&User-Agent=com.sonyliv/6.22.4 (Android 14; en_GB; GOVI; Build/SP1A.211105.004)",
+      "url": "https://sonymtmnew.akamaized.net/hls/live/2094588/DAI04ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1761373801~acl=/*~id=90587428599064512686885587076580~hmac=fa49de1c22eda90d4615b1e55cef32693cf3b289310e6d5b1fb6da61f9a76ef1|x-playback-session-id=d7439ab081d3c81f93396b38d83e0a2d-1761338643281&User-Agent=com.sonyliv/6.22.4 (Android 14; en_GB; SM-A137F; Build/UP1A.231005.007)",
       "user_agent": "Unknown"
     }
   ]
