@@ -1,6 +1,6 @@
 {
   "api_made_by": "bd coder boy",
-  "updated": "Fri, 24 Oct 2025 13:53:30 GMT",
+  "updated": "Fri, 24 Oct 2025 14:14:00 GMT",
   "total_events": 2,
   "events": [
     {
@@ -10,7 +10,7 @@
       "language": "English",
       "category": "Cricket",
       "title": "ENG | India's Asia Cup Glory 24x7",
-      "url": "https://sonymtmnew.akamaized.net/hls/live/2022315/DAI11ME-AC24X7/master_lrh.m3u8?hdnea=exp=1761330601~acl=/*~id=14220911800915821123256514501950~hmac=f875d2bd7cb7be8fcb303f8b1de537e147cfad375f6cd5c40880e09ea9b25a0c|x-playback-session-id=069190f872ae9b38ffec2a4dae39f5a1-1761313864221&User-Agent=com.sonyliv/6.22.4 (Android 9; en_GB; AFTMAN001; Build/PS7706.5106N)",
+      "url": "https://sonymtmnew.akamaized.net/hls/live/2022315/DAI11ME-AC24X7/master_lrh.m3u8?hdnea=exp=1761330601~acl=/*~id=14220911800915821123256514501950~hmac=f875d2bd7cb7be8fcb303f8b1de537e147cfad375f6cd5c40880e09ea9b25a0c|x-playback-session-id=2f7d034b7e82ef9720f3f7b014b7daf0-1761315123901&User-Agent=com.sonyliv/6.22.4 (Android 15; en_GB; p291; Build/PPR1.180610.011)",
       "user_agent": "Unknown"
     },
     {
@@ -20,7 +20,7 @@
       "language": "English",
       "category": "Football",
       "title": "ENG | Rijeka vs Sparta Prague - MD 2 - 24 Oct 2025",
-      "url": "https://sonymtmnew.akamaized.net/hls/live/2037140/DAI20ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1761330601~acl=/*~id=14220911800915821123256514501950~hmac=f875d2bd7cb7be8fcb303f8b1de537e147cfad375f6cd5c40880e09ea9b25a0c|x-playback-session-id=069190f872ae9b38ffec2a4dae39f5a1-1761313864221&User-Agent=com.sonyliv/6.22.4 (Android 15; en_GB; SM-S901E; Build/AP3A.240905.015.A2)",
+      "url": "https://sonymtmnew.akamaized.net/hls/live/2037140/DAI20ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1761330601~acl=/*~id=14220911800915821123256514501950~hmac=f875d2bd7cb7be8fcb303f8b1de537e147cfad375f6cd5c40880e09ea9b25a0c|x-playback-session-id=2f7d034b7e82ef9720f3f7b014b7daf0-1761315123901&User-Agent=com.sonyliv/6.22.4 (Android 15; en_GB; motorola edge 60 pro; Build/V2VV35.58-78-5)",
       "user_agent": "Unknown"
     }
   ]
