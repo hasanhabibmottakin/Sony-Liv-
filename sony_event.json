@@ -1,6 +1,6 @@
 {
   "api_made_by": "bd coder boy",
-  "updated": "Fri, 24 Oct 2025 17:44:14 GMT",
+  "updated": "Fri, 24 Oct 2025 17:53:19 GMT",
   "total_events": 2,
   "events": [
     {
@@ -10,7 +10,7 @@
       "language": "Hindi",
       "category": "Game show",
       "title": "HIN | Kaun Banega Crorepati - Season 17",
-      "url": "https://sonymtmnew.akamaized.net/hls/live/2022321/DAI17ME-KBC/master_lrh-800300010.m3u8?hdnea=exp=1761352202~acl=/*~id=34813402606553217451629097444077~hmac=d472eddd9549e52f8fdd3cefb94d21d388259499f95b224fd08a9c80066703ea|x-playback-session-id=ba3d6de02312449caadec091e29f0489-1761327423003&User-Agent=com.sonyliv/6.22.4 (Android 9; en_GB; INE-LX1; Build/HUAWEIINE-LX1)",
+      "url": "https://sonymtmnew.akamaized.net/hls/live/2022321/DAI17ME-KBC/master_lrh-800300010.m3u8?hdnea=exp=1761352202~acl=/*~id=34813402606553217451629097444077~hmac=d472eddd9549e52f8fdd3cefb94d21d388259499f95b224fd08a9c80066703ea|x-playback-session-id=03f9a9b2c80690107eddec2cf09f4b47-1761328263213&User-Agent=com.sonyliv/6.22.4 (Android 10; en_GB; X9; Build/QP1A.191105.004)",
       "user_agent": "Unknown"
     },
     {
@@ -20,7 +20,7 @@
       "language": "English",
       "category": "Cricket",
       "title": "ENG | India's Asia Cup Glory 24x7",
-      "url": "https://sonymtmnew.akamaized.net/hls/live/2022315/DAI11ME-AC24X7/master_lrh.m3u8?hdnea=exp=1761352202~acl=/*~id=34813402606553217451629097444077~hmac=d472eddd9549e52f8fdd3cefb94d21d388259499f95b224fd08a9c80066703ea|x-playback-session-id=ba3d6de02312449caadec091e29f0489-1761327423003&User-Agent=com.sonyliv/6.22.4 (Android 13; en_GB; AndroidTV; Build/PPR1.180610.011)",
+      "url": "https://sonymtmnew.akamaized.net/hls/live/2022315/DAI11ME-AC24X7/master_lrh.m3u8?hdnea=exp=1761352202~acl=/*~id=34813402606553217451629097444077~hmac=d472eddd9549e52f8fdd3cefb94d21d388259499f95b224fd08a9c80066703ea|x-playback-session-id=03f9a9b2c80690107eddec2cf09f4b47-1761328263213&User-Agent=com.sonyliv/6.22.4 (Android 7; en_GB; SM-T560NU; Build/NMF26X)",
       "user_agent": "Unknown"
     }
   ]
