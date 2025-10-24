@@ -1,6 +1,6 @@
 {
   "api_made_by": "bd coder boy",
-  "updated": "Fri, 24 Oct 2025 14:49:39 GMT",
+  "updated": "Fri, 24 Oct 2025 14:57:10 GMT",
   "total_events": 2,
   "events": [
     {
@@ -10,7 +10,7 @@
       "language": "English",
       "category": "Cricket",
       "title": "ENG | India's Asia Cup Glory 24x7",
-      "url": "https://sonymtmnew.akamaized.net/hls/live/2022315/DAI11ME-AC24X7/master_lrh.m3u8?hdnea=exp=1761352202~acl=/*~id=34813402606553217451629097444077~hmac=d472eddd9549e52f8fdd3cefb94d21d388259499f95b224fd08a9c80066703ea|x-playback-session-id=b6a14c5bfee30360c22c983f6b797baf-1761317043884&User-Agent=com.sonyliv/6.22.4 (Android 7; en_GB; KB2001; Build/RP1A.201005.001)",
+      "url": "https://sonymtmnew.akamaized.net/hls/live/2022315/DAI11ME-AC24X7/master_lrh.m3u8?hdnea=exp=1761352202~acl=/*~id=34813402606553217451629097444077~hmac=d472eddd9549e52f8fdd3cefb94d21d388259499f95b224fd08a9c80066703ea|x-playback-session-id=acf33d895402747854287bdcbc61152e-1761317464110&User-Agent=com.sonyliv/6.22.4 (Android 16; en_GB; Pixel 9a; Build/BP2A.250605.031.A2)",
       "user_agent": "Unknown"
     },
     {
@@ -20,7 +20,7 @@
       "language": "English",
       "category": "Football",
       "title": "ENG | Rijeka vs Sparta Prague - MD 2 - 24 Oct 2025",
-      "url": "https://sonymtmnew.akamaized.net/hls/live/2037140/DAI20ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1761352202~acl=/*~id=34813402606553217451629097444077~hmac=d472eddd9549e52f8fdd3cefb94d21d388259499f95b224fd08a9c80066703ea|x-playback-session-id=b6a14c5bfee30360c22c983f6b797baf-1761317043884&User-Agent=com.sonyliv/6.22.4 (Android 16; en_GB; Pixel 10 Pro; Build/BP2A.250605.031.A2)",
+      "url": "https://sonymtmnew.akamaized.net/hls/live/2037140/DAI20ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1761352202~acl=/*~id=34813402606553217451629097444077~hmac=d472eddd9549e52f8fdd3cefb94d21d388259499f95b224fd08a9c80066703ea|x-playback-session-id=acf33d895402747854287bdcbc61152e-1761317464110&User-Agent=com.sonyliv/6.22.4 (Android 9; en_GB; XQ-BE42; Build/PQ3A.190705.08061357)",
       "user_agent": "Unknown"
     }
   ]
