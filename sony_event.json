@@ -1,6 +1,6 @@
 {
   "api_made_by": "bd coder boy",
-  "updated": "Sat, 25 Oct 2025 20:13:40 GMT",
+  "updated": "Sat, 25 Oct 2025 20:32:03 GMT",
   "total_events": 5,
   "events": [
     {
@@ -10,7 +10,7 @@
       "language": "English",
       "category": "Fight Sports",
       "title": "ENG | UFC 321 - Aspinall vs Gane - 25 Oct 2025",
-      "url": "https://sonymtmnew.akamaized.net/hls/live/2094587/DAI03ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1761438602~acl=/*~id=88557718792083609245629231704031~hmac=e469559ebd7bb3c1ed9aae2f851bab8121db083444a30128da856fd186991e05|x-playback-session-id=b7d94f0bb501a76da405c50b70ef185a-1761423124496&User-Agent=com.sonyliv/6.22.4 (Android 14; en_GB; RMX3842; Build/UKQ1.230924.001)",
+      "url": "https://sonymtmnew.akamaized.net/hls/live/2094587/DAI03ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1761460202~acl=/*~id=71216340739816629782845171890651~hmac=73bfddd7895d1377f44a60e234728cc7ef9be664e06dd0961efcb6a184016ecb|x-playback-session-id=39d3a91ab525609fa69542e22f0c930d-1761424203529&User-Agent=com.sonyliv/6.22.4 (Android 14; en_GB; GFY-LX2; Build/HONORGFY-L32)",
       "user_agent": "Unknown"
     },
     {
@@ -20,7 +20,7 @@
       "language": "Hindi",
       "category": "Fight Sports",
       "title": "HIN | UFC 321 - Aspinall vs Gane - 25 Oct 2025",
-      "url": "https://sonymtmnew.akamaized.net/hls/live/2005445/DAI06ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1761438602~acl=/*~id=88557718792083609245629231704031~hmac=e469559ebd7bb3c1ed9aae2f851bab8121db083444a30128da856fd186991e05|x-playback-session-id=b7d94f0bb501a76da405c50b70ef185a-1761423124496&User-Agent=com.sonyliv/6.22.4 (Android 15; en_GB; 2201116PI; Build/BP1A.250505.005)",
+      "url": "https://sonymtmnew.akamaized.net/hls/live/2005445/DAI06ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1761460202~acl=/*~id=71216340739816629782845171890651~hmac=73bfddd7895d1377f44a60e234728cc7ef9be664e06dd0961efcb6a184016ecb|x-playback-session-id=39d3a91ab525609fa69542e22f0c930d-1761424203529&User-Agent=com.sonyliv/6.22.4 (Android 9; en_GB; PHM110; Build/PQ3A.190705.05211459)",
       "user_agent": "Unknown"
     },
     {
@@ -30,7 +30,7 @@
       "language": "Tamil",
       "category": "Fight Sports",
       "title": "TAM | UFC 321 - Aspinall vs Gane - 25 Oct 2025",
-      "url": "https://sonymtmnew.akamaized.net/hls/live/2022316/DAI12ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1761438602~acl=/*~id=88557718792083609245629231704031~hmac=e469559ebd7bb3c1ed9aae2f851bab8121db083444a30128da856fd186991e05|x-playback-session-id=b7d94f0bb501a76da405c50b70ef185a-1761423124496&User-Agent=com.sonyliv/6.22.4 (Android 11; en_GB; ASUS_Z01QD; Build/RD2A.211001.002)",
+      "url": "https://sonymtmnew.akamaized.net/hls/live/2022316/DAI12ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1761460202~acl=/*~id=71216340739816629782845171890651~hmac=73bfddd7895d1377f44a60e234728cc7ef9be664e06dd0961efcb6a184016ecb|x-playback-session-id=39d3a91ab525609fa69542e22f0c930d-1761424203529&User-Agent=com.sonyliv/6.22.4 (Android 14; en_GB; TV98; Build/QP1A.191105.004)",
       "user_agent": "Unknown"
     },
     {
@@ -40,7 +40,7 @@
       "language": "Telugu",
       "category": "Fight Sports",
       "title": "TEL | UFC 321 - Aspinall vs Gane - 25 Oct 2025",
-      "url": "https://sonymtmnew.akamaized.net/hls/live/2018458/DAI10ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1761438602~acl=/*~id=88557718792083609245629231704031~hmac=e469559ebd7bb3c1ed9aae2f851bab8121db083444a30128da856fd186991e05|x-playback-session-id=b7d94f0bb501a76da405c50b70ef185a-1761423124496&User-Agent=com.sonyliv/6.22.4 (Android 14; en_GB; I2403; Build/UP1A.231005.007)",
+      "url": "https://sonymtmnew.akamaized.net/hls/live/2018458/DAI10ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1761460202~acl=/*~id=71216340739816629782845171890651~hmac=73bfddd7895d1377f44a60e234728cc7ef9be664e06dd0961efcb6a184016ecb|x-playback-session-id=39d3a91ab525609fa69542e22f0c930d-1761424203529&User-Agent=com.sonyliv/6.22.4 (Android 16; en_GB; SM-S918U; Build/BP2A.250605.031.A3)",
       "user_agent": "Unknown"
     },
     {
@@ -50,7 +50,7 @@
       "language": "English",
       "category": "Cricket",
       "title": "ENG | India's Asia Cup Glory 24x7",
-      "url": "https://sonymtmnew.akamaized.net/hls/live/2022315/DAI11ME-AC24X7/master_lrh.m3u8?hdnea=exp=1761438602~acl=/*~id=88557718792083609245629231704031~hmac=e469559ebd7bb3c1ed9aae2f851bab8121db083444a30128da856fd186991e05|x-playback-session-id=b7d94f0bb501a76da405c50b70ef185a-1761423124496&User-Agent=com.sonyliv/6.22.4 (Android 10; en_GB; Infinix X682B; Build/QP1A.190711.020)",
+      "url": "https://sonymtmnew.akamaized.net/hls/live/2022315/DAI11ME-AC24X7/master_lrh.m3u8?hdnea=exp=1761460202~acl=/*~id=71216340739816629782845171890651~hmac=73bfddd7895d1377f44a60e234728cc7ef9be664e06dd0961efcb6a184016ecb|x-playback-session-id=39d3a91ab525609fa69542e22f0c930d-1761424203529&User-Agent=com.sonyliv/6.22.4 (Android 11; en_GB; DAC41F; Build/RTK2.230523.103)",
       "user_agent": "Unknown"
     }
   ]
