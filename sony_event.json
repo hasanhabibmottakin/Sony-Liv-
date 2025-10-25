@@ -1,6 +1,6 @@
 {
   "api_made_by": "bd coder boy",
-  "updated": "Sat, 25 Oct 2025 13:37:38 GMT",
+  "updated": "Sat, 25 Oct 2025 13:45:19 GMT",
   "total_events": 7,
   "events": [
     {
@@ -10,7 +10,7 @@
       "language": "English",
       "category": "Cricket",
       "title": "ENG | India's Asia Cup Glory 24x7",
-      "url": "https://sonymtmnew.akamaized.net/hls/live/2022315/DAI11ME-AC24X7/master_lrh.m3u8?hdnea=exp=1761417001~acl=/*~id=17803165221973529635300563000710~hmac=7620c3b83db68b5956692d1168201eec544ea9153e3bfc8446696d95eb249b9f|x-playback-session-id=44b553b1919f7674fbc3af47fa8a0d8c-1761399424386&User-Agent=com.sonyliv/6.22.4 (Android 10; en_GB; X96Q_PRO1; Build/QP1A.191105.004)",
+      "url": "https://sonymtmnew.akamaized.net/hls/live/2022315/DAI11ME-AC24X7/master_lrh.m3u8?hdnea=exp=1761417001~acl=/*~id=17803165221973529635300563000710~hmac=7620c3b83db68b5956692d1168201eec544ea9153e3bfc8446696d95eb249b9f|x-playback-session-id=6b95c608d803833ae1c7dab8d53cdf2a-1761399844815&User-Agent=com.sonyliv/6.22.4 (Android 10; en_GB; SM-F415F; Build/QP1A.190711.020)",
       "user_agent": "Unknown"
     },
     {
@@ -20,7 +20,7 @@
       "language": "English",
       "category": "Football",
       "title": "ENG | Borussia M'gladbach vs Bayern Munich - 25 Oct 2025",
-      "url": "https://sonymtmnew.akamaized.net/hls/live/2105079/DAI08ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1761417001~acl=/*~id=17803165221973529635300563000710~hmac=7620c3b83db68b5956692d1168201eec544ea9153e3bfc8446696d95eb249b9f|x-playback-session-id=44b553b1919f7674fbc3af47fa8a0d8c-1761399424386&User-Agent=com.sonyliv/6.22.4 (Android 7; en_GB; AFTMM; Build/NS6711)",
+      "url": "https://sonymtmnew.akamaized.net/hls/live/2105079/DAI08ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1761417001~acl=/*~id=17803165221973529635300563000710~hmac=7620c3b83db68b5956692d1168201eec544ea9153e3bfc8446696d95eb249b9f|x-playback-session-id=6b95c608d803833ae1c7dab8d53cdf2a-1761399844815&User-Agent=com.sonyliv/6.22.4 (Android 12; en_GB; PANASONIC TV; Build/STTB.240217.001)",
       "user_agent": "Unknown"
     },
     {
@@ -30,7 +30,7 @@
       "language": "English",
       "category": "Football",
       "title": "ENG | FC Augsburg vs RB Leipzig - MD 8 - 25 Oct 2025",
-      "url": "https://sonymtmnew.akamaized.net/hls/live/2022315/DAI11ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1761417001~acl=/*~id=17803165221973529635300563000710~hmac=7620c3b83db68b5956692d1168201eec544ea9153e3bfc8446696d95eb249b9f|x-playback-session-id=44b553b1919f7674fbc3af47fa8a0d8c-1761399424386&User-Agent=com.sonyliv/6.22.4 (Android 11; en_GB; Smart TV; Build/RTK3.240516.010.A1)",
+      "url": "https://sonymtmnew.akamaized.net/hls/live/2022315/DAI11ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1761417001~acl=/*~id=17803165221973529635300563000710~hmac=7620c3b83db68b5956692d1168201eec544ea9153e3bfc8446696d95eb249b9f|x-playback-session-id=6b95c608d803833ae1c7dab8d53cdf2a-1761399844815&User-Agent=com.sonyliv/6.22.4 (Android 11; en_GB; RMX3511; Build/RP1A.201005.001)",
       "user_agent": "Unknown"
     },
     {
@@ -40,7 +40,7 @@
       "language": "English",
       "category": "Football",
       "title": "ENG | Eintracht Frankfurt vs St. Pauli - 25 Oct 2025",
-      "url": "https://sonymtmnew.akamaized.net/hls/live/2018457/DAI09ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1761417001~acl=/*~id=17803165221973529635300563000710~hmac=7620c3b83db68b5956692d1168201eec544ea9153e3bfc8446696d95eb249b9f|x-playback-session-id=44b553b1919f7674fbc3af47fa8a0d8c-1761399424386&User-Agent=com.sonyliv/6.22.4 (Android 16; en_GB; SM-S938U1; Build/BP2A.250605.031.A3)",
+      "url": "https://sonymtmnew.akamaized.net/hls/live/2018457/DAI09ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1761417001~acl=/*~id=17803165221973529635300563000710~hmac=7620c3b83db68b5956692d1168201eec544ea9153e3bfc8446696d95eb249b9f|x-playback-session-id=6b95c608d803833ae1c7dab8d53cdf2a-1761399844815&User-Agent=com.sonyliv/6.22.4 (Android 15; en_GB; SM-M546B; Build/AP3A.240905.015.A2)",
       "user_agent": "Unknown"
     },
     {
@@ -50,7 +50,7 @@
       "language": "English",
       "category": "Football",
       "title": "ENG | Hamburg SV vs VfL Wolfsburg - MD 8 - 25 Oct 2025",
-      "url": "https://sonymtmnew.akamaized.net/hls/live/2022318/DAI14ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1761417001~acl=/*~id=17803165221973529635300563000710~hmac=7620c3b83db68b5956692d1168201eec544ea9153e3bfc8446696d95eb249b9f|x-playback-session-id=44b553b1919f7674fbc3af47fa8a0d8c-1761399424386&User-Agent=com.sonyliv/6.22.4 (Android 9; en_GB; AFTKA; Build/PS7697.4800N)",
+      "url": "https://sonymtmnew.akamaized.net/hls/live/2022318/DAI14ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1761417001~acl=/*~id=17803165221973529635300563000710~hmac=7620c3b83db68b5956692d1168201eec544ea9153e3bfc8446696d95eb249b9f|x-playback-session-id=6b95c608d803833ae1c7dab8d53cdf2a-1761399844815&User-Agent=com.sonyliv/6.22.4 (Android 9; en_GB; 23116PN5BC; Build/PQ3A.190605.03202111)",
       "user_agent": "Unknown"
     },
     {
@@ -60,7 +60,7 @@
       "language": "English",
       "category": "Football",
       "title": "ENG | TSG Hoffenheim vs Heidenheim - MD 8 - 25 Oct 2025",
-      "url": "https://sonymtmnew.akamaized.net/hls/live/2005444/DAI07ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1761417001~acl=/*~id=17803165221973529635300563000710~hmac=7620c3b83db68b5956692d1168201eec544ea9153e3bfc8446696d95eb249b9f|x-playback-session-id=44b553b1919f7674fbc3af47fa8a0d8c-1761399424386&User-Agent=com.sonyliv/6.22.4 (Android 11; en_GB; Infinix X650C; Build/RD2A.211001.002)",
+      "url": "https://sonymtmnew.akamaized.net/hls/live/2005444/DAI07ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1761417001~acl=/*~id=17803165221973529635300563000710~hmac=7620c3b83db68b5956692d1168201eec544ea9153e3bfc8446696d95eb249b9f|x-playback-session-id=6b95c608d803833ae1c7dab8d53cdf2a-1761399844815&User-Agent=com.sonyliv/6.22.4 (Android 15; en_GB; V2251; Build/AP3A.240905.015.A2)",
       "user_agent": "Unknown"
     },
     {
@@ -70,7 +70,7 @@
       "language": "English",
       "category": "Football",
       "title": "ENG | Goal Arena - MD 8 - 25 Oct 2025",
-      "url": "https://sonymtmnew.akamaized.net/hls/live/2094589/DAI05ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1761417001~acl=/*~id=17803165221973529635300563000710~hmac=7620c3b83db68b5956692d1168201eec544ea9153e3bfc8446696d95eb249b9f|x-playback-session-id=44b553b1919f7674fbc3af47fa8a0d8c-1761399424386&User-Agent=com.sonyliv/6.22.4 (Android 13; en_GB; Chromecast; Build/TQ3A.250914.001)",
+      "url": "https://sonymtmnew.akamaized.net/hls/live/2094589/DAI05ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1761417001~acl=/*~id=17803165221973529635300563000710~hmac=7620c3b83db68b5956692d1168201eec544ea9153e3bfc8446696d95eb249b9f|x-playback-session-id=6b95c608d803833ae1c7dab8d53cdf2a-1761399844815&User-Agent=com.sonyliv/6.22.4 (Android 11; en_GB; Gtel Infinity X; Build/RP1A.200720.011)",
       "user_agent": "Unknown"
     }
   ]
