@@ -1,18 +1,8 @@
 {
   "api_made_by": "bd coder boy",
-  "updated": "Sat, 25 Oct 2025 15:55:10 GMT",
-  "total_events": 10,
+  "updated": "Sat, 25 Oct 2025 16:14:32 GMT",
+  "total_events": 7,
   "events": [
-    {
-      "id": "1090492547",
-      "name": "Indian Idol",
-      "logo": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000010532/1761381125610319_IndianIdol_2025_25oct_simulcast_landscape_thumb.jpg",
-      "language": "Hindi",
-      "category": "Reality, Music",
-      "title": "HIN | Indian Idol",
-      "url": "https://sonymtmnew.akamaized.net/hls/live/2094590/DAI25ME-II/master_lrh-800300010.m3u8?hdnea=exp=1761438602~acl=/*~id=88557718792083609245629231704031~hmac=e469559ebd7bb3c1ed9aae2f851bab8121db083444a30128da856fd186991e05|x-playback-session-id=37961b1aa47d9b5f038ed0559baf1c68-1761407467124&User-Agent=com.sonyliv/6.22.4 (Android 14; en_GB; KB2003; Build/UKQ1.230924.001)",
-      "user_agent": "Unknown"
-    },
     {
       "id": "1090491643",
       "name": "India\u2019s Got Talent ",
@@ -20,7 +10,7 @@
       "language": "Hindi",
       "category": "Reality",
       "title": "HIN | India\u2019s Got Talent",
-      "url": "https://sonymtmnew.akamaized.net/hls/live/2037142/DAI22ME-IGT/master_lrh-800300010.m3u8?hdnea=exp=1761438602~acl=/*~id=88557718792083609245629231704031~hmac=e469559ebd7bb3c1ed9aae2f851bab8121db083444a30128da856fd186991e05|x-playback-session-id=37961b1aa47d9b5f038ed0559baf1c68-1761407467124&User-Agent=com.sonyliv/6.22.4 (Android 11; en_GB; SANSUI SmartTV; Build/RTM5.220609.218)",
+      "url": "https://sonymtmnew.akamaized.net/hls/live/2037142/DAI22ME-IGT/master_lrh-800300010.m3u8?hdnea=exp=1761438602~acl=/*~id=88557718792083609245629231704031~hmac=e469559ebd7bb3c1ed9aae2f851bab8121db083444a30128da856fd186991e05|x-playback-session-id=87cc4697d4c7abbc2d5c4af6f13908e8-1761408724185&User-Agent=com.sonyliv/6.22.4 (Android 10; en_GB; GM1925; Build/QKQ1.190716.003)",
       "user_agent": "Unknown"
     },
     {
@@ -30,7 +20,7 @@
       "language": "English",
       "category": "Fight Sports",
       "title": "ENG | UFC 321 - Aspinall vs Gane - 25 Oct 2025",
-      "url": "https://sonymtmnew.akamaized.net/hls/live/2094587/DAI03ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1761438602~acl=/*~id=88557718792083609245629231704031~hmac=e469559ebd7bb3c1ed9aae2f851bab8121db083444a30128da856fd186991e05|x-playback-session-id=37961b1aa47d9b5f038ed0559baf1c68-1761407467124&User-Agent=com.sonyliv/6.22.4 (Android 15; en_GB; SM-S9080; Build/AP3A.240905.015.A2)",
+      "url": "https://sonymtmnew.akamaized.net/hls/live/2094587/DAI03ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1761438602~acl=/*~id=88557718792083609245629231704031~hmac=e469559ebd7bb3c1ed9aae2f851bab8121db083444a30128da856fd186991e05|x-playback-session-id=87cc4697d4c7abbc2d5c4af6f13908e8-1761408724185&User-Agent=com.sonyliv/6.22.4 (Android 13; en_GB; V2228; Build/TP1A.220624.014_MOD1)",
       "user_agent": "Unknown"
     },
     {
@@ -40,7 +30,7 @@
       "language": "Hindi",
       "category": "Fight Sports",
       "title": "HIN | UFC 321 - Aspinall vs Gane - 25 Oct 2025",
-      "url": "https://sonymtmnew.akamaized.net/hls/live/2005445/DAI06ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1761438602~acl=/*~id=88557718792083609245629231704031~hmac=e469559ebd7bb3c1ed9aae2f851bab8121db083444a30128da856fd186991e05|x-playback-session-id=37961b1aa47d9b5f038ed0559baf1c68-1761407467124&User-Agent=com.sonyliv/6.22.4 (Android 15; en_GB; motorola edge 50 fusion; Build/V1UUI35H.15-41)",
+      "url": "https://sonymtmnew.akamaized.net/hls/live/2005445/DAI06ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1761438602~acl=/*~id=88557718792083609245629231704031~hmac=e469559ebd7bb3c1ed9aae2f851bab8121db083444a30128da856fd186991e05|x-playback-session-id=87cc4697d4c7abbc2d5c4af6f13908e8-1761408724185&User-Agent=com.sonyliv/6.22.4 (Android 14; en_GB; moto g84 5G; Build/U1TCS34.22-64-19-4-4)",
       "user_agent": "Unknown"
     },
     {
@@ -50,7 +40,7 @@
       "language": "Tamil",
       "category": "Fight Sports",
       "title": "TAM | UFC 321 - Aspinall vs Gane - 25 Oct 2025",
-      "url": "https://sonymtmnew.akamaized.net/hls/live/2022316/DAI12ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1761438602~acl=/*~id=88557718792083609245629231704031~hmac=e469559ebd7bb3c1ed9aae2f851bab8121db083444a30128da856fd186991e05|x-playback-session-id=37961b1aa47d9b5f038ed0559baf1c68-1761407467124&User-Agent=com.sonyliv/6.22.4 (Android 10; en_GB; Spider; Build/QP1A.191105.004)",
+      "url": "https://sonymtmnew.akamaized.net/hls/live/2022316/DAI12ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1761438602~acl=/*~id=88557718792083609245629231704031~hmac=e469559ebd7bb3c1ed9aae2f851bab8121db083444a30128da856fd186991e05|x-playback-session-id=87cc4697d4c7abbc2d5c4af6f13908e8-1761408724185&User-Agent=com.sonyliv/6.22.4 (Android 15; en_GB; SM-G556B; Build/AP3A.240905.015.A2)",
       "user_agent": "Unknown"
     },
     {
@@ -60,7 +50,7 @@
       "language": "Telugu",
       "category": "Fight Sports",
       "title": "TEL | UFC 321 - Aspinall vs Gane - 25 Oct 2025",
-      "url": "https://sonymtmnew.akamaized.net/hls/live/2018458/DAI10ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1761438602~acl=/*~id=88557718792083609245629231704031~hmac=e469559ebd7bb3c1ed9aae2f851bab8121db083444a30128da856fd186991e05|x-playback-session-id=37961b1aa47d9b5f038ed0559baf1c68-1761407467124&User-Agent=com.sonyliv/6.22.4 (Android 11; en_GB; Turbo n Turbo+; Build/RD2A.211001.002)",
+      "url": "https://sonymtmnew.akamaized.net/hls/live/2018458/DAI10ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1761438602~acl=/*~id=88557718792083609245629231704031~hmac=e469559ebd7bb3c1ed9aae2f851bab8121db083444a30128da856fd186991e05|x-playback-session-id=87cc4697d4c7abbc2d5c4af6f13908e8-1761408724185&User-Agent=com.sonyliv/6.22.4 (Android 9; en_GB; AFTSS; Build/PS7690.4717N)",
       "user_agent": "Unknown"
     },
     {
@@ -70,27 +60,7 @@
       "language": "English",
       "category": "Cricket",
       "title": "ENG | India's Asia Cup Glory 24x7",
-      "url": "https://sonymtmnew.akamaized.net/hls/live/2022315/DAI11ME-AC24X7/master_lrh.m3u8?hdnea=exp=1761438602~acl=/*~id=88557718792083609245629231704031~hmac=e469559ebd7bb3c1ed9aae2f851bab8121db083444a30128da856fd186991e05|x-playback-session-id=37961b1aa47d9b5f038ed0559baf1c68-1761407467124&User-Agent=com.sonyliv/6.22.4 (Android 9; en_GB; SO-02L; Build/PQ3A.190705.08211809)",
-      "user_agent": "Unknown"
-    },
-    {
-      "id": "1090493128",
-      "name": "Bundesliga 2025-26",
-      "logo": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000009886/1759591203656218_bliga2526_MD8_Mgladbach_vs_Bayern_3oct_landscape_thumb.jpg",
-      "language": "English",
-      "category": "Football",
-      "title": "ENG | Borussia M'gladbach vs Bayern Munich - 25 Oct 2025",
-      "url": "https://sonymtmnew.akamaized.net/hls/live/2105079/DAI08ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1761438602~acl=/*~id=88557718792083609245629231704031~hmac=e469559ebd7bb3c1ed9aae2f851bab8121db083444a30128da856fd186991e05|x-playback-session-id=37961b1aa47d9b5f038ed0559baf1c68-1761407467124&User-Agent=com.sonyliv/6.22.4 (Android 7; en_GB; 40TH1000; Build/NRD90M)",
-      "user_agent": "Unknown"
-    },
-    {
-      "id": "1090493130",
-      "name": "Bundesliga 2025-26",
-      "logo": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000006892/1755929846694147_Bliga26_Goal_Arena_landscape_thumb.jpg",
-      "language": "English",
-      "category": "Football",
-      "title": "ENG | Goal Arena - MD 8 - 25 Oct 2025",
-      "url": "https://sonymtmnew.akamaized.net/hls/live/2094589/DAI05ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1761438602~acl=/*~id=88557718792083609245629231704031~hmac=e469559ebd7bb3c1ed9aae2f851bab8121db083444a30128da856fd186991e05|x-playback-session-id=37961b1aa47d9b5f038ed0559baf1c68-1761407467124&User-Agent=com.sonyliv/6.22.4 (Android 11; en_GB; TX3 Mini-A3; Build/D9 PRO 5G)",
+      "url": "https://sonymtmnew.akamaized.net/hls/live/2022315/DAI11ME-AC24X7/master_lrh.m3u8?hdnea=exp=1761438602~acl=/*~id=88557718792083609245629231704031~hmac=e469559ebd7bb3c1ed9aae2f851bab8121db083444a30128da856fd186991e05|x-playback-session-id=87cc4697d4c7abbc2d5c4af6f13908e8-1761408724185&User-Agent=com.sonyliv/6.22.4 (Android 11; en_GB; SM-G986U; Build/RP1A.200720.012)",
       "user_agent": "Unknown"
     },
     {
@@ -100,7 +70,7 @@
       "language": "English",
       "category": "Football",
       "title": "ENG | Borussia Dortmund vs FC Koln - MD 8 - 25 Oct 2025",
-      "url": "https://sonymtmnew.akamaized.net/hls/live/2022322/DAI18ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1761438602~acl=/*~id=88557718792083609245629231704031~hmac=e469559ebd7bb3c1ed9aae2f851bab8121db083444a30128da856fd186991e05|x-playback-session-id=37961b1aa47d9b5f038ed0559baf1c68-1761407467124&User-Agent=com.sonyliv/6.22.4 (Android 9; en_GB; TOPSION; Build/PQ2A.190205.003)",
+      "url": "https://sonymtmnew.akamaized.net/hls/live/2022322/DAI18ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1761438602~acl=/*~id=88557718792083609245629231704031~hmac=e469559ebd7bb3c1ed9aae2f851bab8121db083444a30128da856fd186991e05|x-playback-session-id=87cc4697d4c7abbc2d5c4af6f13908e8-1761408724185&User-Agent=com.sonyliv/6.22.4 (Android 16; en_GB; SM-A156E; Build/BP2A.250605.031.A3)",
       "user_agent": "Unknown"
     }
   ]
