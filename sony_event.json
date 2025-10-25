@@ -1,6 +1,6 @@
 {
   "api_made_by": "bd coder boy",
-  "updated": "Sat, 25 Oct 2025 07:44:15 GMT",
+  "updated": "Sat, 25 Oct 2025 07:52:44 GMT",
   "total_events": 2,
   "events": [
     {
@@ -10,7 +10,7 @@
       "language": "English",
       "category": "Cricket",
       "title": "ENG | India's Asia Cup Glory 24x7",
-      "url": "https://sonymtmnew.akamaized.net/hls/live/2022315/DAI11ME-AC24X7/master_lrh.m3u8?hdnea=exp=1761395402~acl=/*~id=34590231972878307728462142823136~hmac=949608532cc3bf94c195517889bc45a6008af04134c6be8836aeee57753d8372|x-playback-session-id=c589d214451d247788d4a60dfc8c8d1b-1761378244368&User-Agent=com.sonyliv/6.22.4 (Android 12; en_GB; LS1654QB5; Build/SKQ1.230323.001)",
+      "url": "https://sonymtmnew.akamaized.net/hls/live/2022315/DAI11ME-AC24X7/master_lrh.m3u8?hdnea=exp=1761395402~acl=/*~id=34590231972878307728462142823136~hmac=949608532cc3bf94c195517889bc45a6008af04134c6be8836aeee57753d8372|x-playback-session-id=0cc59c6e1dad21244d2c1ee50c44d5d9-1761378664881&User-Agent=com.sonyliv/6.22.4 (Android 8; en_GB; BRAVIA 4K GB ATV3; Build/OPR2.170623.027.S25)",
       "user_agent": "Unknown"
     },
     {
@@ -20,7 +20,7 @@
       "language": "English",
       "category": "Golf",
       "title": "ENG | International Series Philippines - Day 3 - 25 Oct 2025",
-      "url": "https://sonymtmnew.akamaized.net/hls/live/2022320/DAI16ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1761395402~acl=/*~id=34590231972878307728462142823136~hmac=949608532cc3bf94c195517889bc45a6008af04134c6be8836aeee57753d8372|x-playback-session-id=c589d214451d247788d4a60dfc8c8d1b-1761378244368&User-Agent=com.sonyliv/6.22.4 (Android 9; en_GB; SM-G950F; Build/PPR1.180610.011)",
+      "url": "https://sonymtmnew.akamaized.net/hls/live/2022320/DAI16ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1761395402~acl=/*~id=34590231972878307728462142823136~hmac=949608532cc3bf94c195517889bc45a6008af04134c6be8836aeee57753d8372|x-playback-session-id=0cc59c6e1dad21244d2c1ee50c44d5d9-1761378664881&User-Agent=com.sonyliv/6.22.4 (Android 12; en_GB; Smart_TV; Build/PPR1.180610.011)",
       "user_agent": "Unknown"
     }
   ]
