@@ -1,48 +1,8 @@
 {
   "api_made_by": "bd coder boy",
-  "updated": "Sat, 25 Oct 2025 21:11:17 GMT",
-  "total_events": 5,
+  "updated": "Sat, 25 Oct 2025 21:28:10 GMT",
+  "total_events": 1,
   "events": [
-    {
-      "id": "1090493172",
-      "name": "UFC 321 - Aspinall vs Gane",
-      "logo": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000010507/1761301122371158_UFC-321-_Aspinall-vs-Gane_landscape_thumb.jpg",
-      "language": "English",
-      "category": "Fight Sports",
-      "title": "ENG | UFC 321 - Aspinall vs Gane - 25 Oct 2025",
-      "url": "https://sonymtmnew.akamaized.net/hls/live/2094587/DAI03ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1761460202~acl=/*~id=71216340739816629782845171890651~hmac=73bfddd7895d1377f44a60e234728cc7ef9be664e06dd0961efcb6a184016ecb|x-playback-session-id=cd453dc621dfb8f3e1460b864e785631-1761426304842&User-Agent=com.sonyliv/6.22.4 (Android 9; en_GB; SM-X910; Build/SP1A.210812.016)",
-      "user_agent": "Unknown"
-    },
-    {
-      "id": "1090493172",
-      "name": "UFC 321 - Aspinall vs Gane",
-      "logo": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000010507/1761301122371158_UFC-321-_Aspinall-vs-Gane_landscape_thumb.jpg",
-      "language": "Hindi",
-      "category": "Fight Sports",
-      "title": "HIN | UFC 321 - Aspinall vs Gane - 25 Oct 2025",
-      "url": "https://sonymtmnew.akamaized.net/hls/live/2005445/DAI06ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1761460202~acl=/*~id=71216340739816629782845171890651~hmac=73bfddd7895d1377f44a60e234728cc7ef9be664e06dd0961efcb6a184016ecb|x-playback-session-id=cd453dc621dfb8f3e1460b864e785631-1761426304842&User-Agent=com.sonyliv/6.22.4 (Android 12; en_GB; 2201117PI; Build/SP1A.210812.016)",
-      "user_agent": "Unknown"
-    },
-    {
-      "id": "1090493172",
-      "name": "UFC 321 - Aspinall vs Gane",
-      "logo": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000010507/1761301122371158_UFC-321-_Aspinall-vs-Gane_landscape_thumb.jpg",
-      "language": "Tamil",
-      "category": "Fight Sports",
-      "title": "TAM | UFC 321 - Aspinall vs Gane - 25 Oct 2025",
-      "url": "https://sonymtmnew.akamaized.net/hls/live/2022316/DAI12ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1761460202~acl=/*~id=71216340739816629782845171890651~hmac=73bfddd7895d1377f44a60e234728cc7ef9be664e06dd0961efcb6a184016ecb|x-playback-session-id=cd453dc621dfb8f3e1460b864e785631-1761426304842&User-Agent=com.sonyliv/6.22.4 (Android 12; en_GB; TECNO CI6; Build/SP1A.210812.016)",
-      "user_agent": "Unknown"
-    },
-    {
-      "id": "1090493172",
-      "name": "UFC 321 - Aspinall vs Gane",
-      "logo": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000010507/1761301122371158_UFC-321-_Aspinall-vs-Gane_landscape_thumb.jpg",
-      "language": "Telugu",
-      "category": "Fight Sports",
-      "title": "TEL | UFC 321 - Aspinall vs Gane - 25 Oct 2025",
-      "url": "https://sonymtmnew.akamaized.net/hls/live/2018458/DAI10ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1761460202~acl=/*~id=71216340739816629782845171890651~hmac=73bfddd7895d1377f44a60e234728cc7ef9be664e06dd0961efcb6a184016ecb|x-playback-session-id=cd453dc621dfb8f3e1460b864e785631-1761426304842&User-Agent=com.sonyliv/6.22.4 (Android 13; en_GB; H96_Max_M2; Build/TQ2A.230305.008.F1)",
-      "user_agent": "Unknown"
-    },
     {
       "id": "1090492070",
       "name": "Asia Cup 2025",
@@ -50,7 +10,7 @@
       "language": "English",
       "category": "Cricket",
       "title": "ENG | India's Asia Cup Glory 24x7",
-      "url": "https://sonymtmnew.akamaized.net/hls/live/2022315/DAI11ME-AC24X7/master_lrh.m3u8?hdnea=exp=1761460202~acl=/*~id=71216340739816629782845171890651~hmac=73bfddd7895d1377f44a60e234728cc7ef9be664e06dd0961efcb6a184016ecb|x-playback-session-id=cd453dc621dfb8f3e1460b864e785631-1761426304842&User-Agent=com.sonyliv/6.22.4 (Android 15; en_GB; Infinix X6873; Build/AP3A.240905.015.A2)",
+      "url": "https://sonymtmnew.akamaized.net/hls/live/2022315/DAI11ME-AC24X7/master_lrh.m3u8?hdnea=exp=1761460202~acl=/*~id=71216340739816629782845171890651~hmac=73bfddd7895d1377f44a60e234728cc7ef9be664e06dd0961efcb6a184016ecb|x-playback-session-id=f6c7b3e8086feef02efdeef5483080c6-1761427563608&User-Agent=com.sonyliv/6.22.4 (Android 15; en_GB; SM-F926N; Build/AP3A.240905.015.A2)",
       "user_agent": "Unknown"
     }
   ]
