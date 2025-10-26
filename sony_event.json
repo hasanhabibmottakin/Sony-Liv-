@@ -1,7 +1,7 @@
 {
   "api_made_by": "bd coder boy",
-  "updated": "Sun, 26 Oct 2025 08:15:51 GMT",
-  "total_events": 2,
+  "updated": "Sun, 26 Oct 2025 08:35:17 GMT",
+  "total_events": 1,
   "events": [
     {
       "id": "1090492070",
@@ -10,17 +10,7 @@
       "language": "English",
       "category": "Cricket",
       "title": "ENG | India's Asia Cup Glory 24x7",
-      "url": "https://sonymtmnew.akamaized.net/hls/live/2022315/DAI11ME-AC24X7/master_lrh.m3u8?hdnea=exp=1761481802~acl=/*~id=28274687819255491921111386104056~hmac=5419914ae8052c3455fa452f6589ce783f9600d45baa530a19913cd998a6e28c|x-playback-session-id=bd281c3ba8f708b1048e0e810e305695-1761466326150&User-Agent=com.sonyliv/6.22.4 (Android 12; en_GB; LE2111; Build/RKQ1.211103.002)",
-      "user_agent": "Unknown"
-    },
-    {
-      "id": "1090493182",
-      "name": "Asian Tour 2025",
-      "logo": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000009914/1759722860468903_AsianTour25_International_Series_Philippines_Day4_5oct_landscape_thumb.jpg",
-      "language": "English",
-      "category": "Golf",
-      "title": "ENG | International Series Philippines - Day 4 - 26 Oct 2025",
-      "url": "https://sonymtmnew.akamaized.net/hls/live/2022320/DAI16ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1761481802~acl=/*~id=28274687819255491921111386104056~hmac=5419914ae8052c3455fa452f6589ce783f9600d45baa530a19913cd998a6e28c|x-playback-session-id=bd281c3ba8f708b1048e0e810e305695-1761466326150&User-Agent=com.sonyliv/6.22.4 (Android 11; en_GB; SM-T290; Build/RP1A.200720.012)",
+      "url": "https://sonymtmnew.akamaized.net/hls/live/2022315/DAI11ME-AC24X7/master_lrh.m3u8?hdnea=exp=1761503402~acl=/*~id=92367339244854490198121909799279~hmac=84abe31ca138b04fce4c8594e75427c9865ee82d226a5d7faf35b2dfc8c91ed3|x-playback-session-id=a394ad06f16e4ac250940e80bac1e319-1761467403272&User-Agent=com.sonyliv/6.22.4 (Android 13; en_GB; ZTE 8150N; Build/TP1A.220624.014)",
       "user_agent": "Unknown"
     }
   ]
