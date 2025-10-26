@@ -1,6 +1,6 @@
 {
   "api_made_by": "bd coder boy",
-  "updated": "Sun, 26 Oct 2025 15:29:54 GMT",
+  "updated": "Sun, 26 Oct 2025 15:39:31 GMT",
   "total_events": 3,
   "events": [
     {
@@ -10,7 +10,7 @@
       "language": "Hindi",
       "category": "Reality, Music",
       "title": "HIN | Indian Idol",
-      "url": "https://sonymtmnew.akamaized.net/hls/live/2094590/DAI25ME-II/master_lrh-800300010.m3u8?hdnea=exp=1761525002~acl=/*~id=88742234091978724721110110874055~hmac=88ad886228f5ece788e73af487dcecc21d0c63a4ecc2ef342554a93630ea0cfe|x-playback-session-id=ccb211305464c8cd4a37533ec5a86d1e-1761492364006&User-Agent=com.sonyliv/6.22.4 (Android 13; en_GB; M2103K19PG; Build/TP1A.220624.014)",
+      "url": "https://sonymtmnew.akamaized.net/hls/live/2094590/DAI25ME-II/master_lrh-800300010.m3u8?hdnea=exp=1761525002~acl=/*~id=88742234091978724721110110874055~hmac=88ad886228f5ece788e73af487dcecc21d0c63a4ecc2ef342554a93630ea0cfe|x-playback-session-id=2a1800248fc1c602d18fcd08a29cf3b5-1761493024504&User-Agent=com.sonyliv/6.22.4 (Android 11; en_GB; Infinix X688B; Build/RP1A.200720.011)",
       "user_agent": "Unknown"
     },
     {
@@ -20,7 +20,7 @@
       "language": "English",
       "category": "Cricket",
       "title": "ENG | India's Asia Cup Glory 24x7",
-      "url": "https://sonymtmnew.akamaized.net/hls/live/2022315/DAI11ME-AC24X7/master_lrh.m3u8?hdnea=exp=1761525002~acl=/*~id=88742234091978724721110110874055~hmac=88ad886228f5ece788e73af487dcecc21d0c63a4ecc2ef342554a93630ea0cfe|x-playback-session-id=ccb211305464c8cd4a37533ec5a86d1e-1761492364006&User-Agent=com.sonyliv/6.22.4 (Android 10; en_GB; 9081X; Build/QP1A.190711.020)",
+      "url": "https://sonymtmnew.akamaized.net/hls/live/2022315/DAI11ME-AC24X7/master_lrh.m3u8?hdnea=exp=1761525002~acl=/*~id=88742234091978724721110110874055~hmac=88ad886228f5ece788e73af487dcecc21d0c63a4ecc2ef342554a93630ea0cfe|x-playback-session-id=2a1800248fc1c602d18fcd08a29cf3b5-1761493024504&User-Agent=com.sonyliv/6.22.4 (Android 11; en_GB; A101BM; Build/1.040PO.0541.a)",
       "user_agent": "Unknown"
     },
     {
@@ -30,7 +30,7 @@
       "language": "English",
       "category": "Football",
       "title": "ENG | Bayer Leverkusen vs SC Freiburg - MD 8 - 26 Oct 2025",
-      "url": "https://sonymtmnew.akamaized.net/hls/live/2094588/DAI04ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1761525002~acl=/*~id=88742234091978724721110110874055~hmac=88ad886228f5ece788e73af487dcecc21d0c63a4ecc2ef342554a93630ea0cfe|x-playback-session-id=ccb211305464c8cd4a37533ec5a86d1e-1761492364006&User-Agent=com.sonyliv/6.22.4 (Android 9; en_GB; SM-J730F; Build/PPR1.180610.011)",
+      "url": "https://sonymtmnew.akamaized.net/hls/live/2094588/DAI04ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1761525002~acl=/*~id=88742234091978724721110110874055~hmac=88ad886228f5ece788e73af487dcecc21d0c63a4ecc2ef342554a93630ea0cfe|x-playback-session-id=2a1800248fc1c602d18fcd08a29cf3b5-1761493024504&User-Agent=com.sonyliv/6.22.4 (Android 13; en_GB; T81_M; Build/TP1A.220624.014)",
       "user_agent": "Unknown"
     }
   ]
