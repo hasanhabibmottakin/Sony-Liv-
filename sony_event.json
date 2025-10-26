@@ -1,7 +1,7 @@
 {
   "api_made_by": "bd coder boy",
-  "updated": "Sun, 26 Oct 2025 03:32:47 GMT",
-  "total_events": 2,
+  "updated": "Sun, 26 Oct 2025 03:55:07 GMT",
+  "total_events": 3,
   "events": [
     {
       "id": "1090492566",
@@ -10,7 +10,7 @@
       "language": "English",
       "category": "Cricket",
       "title": "ENG | 1st ODI - 26 Oct 2025",
-      "url": "https://sonymtmnew.akamaized.net/hls/live/2018457/engvsnz/ENG/std_lrh-800300010.m3u8?hdnea=exp=1761481802~acl=/*~id=28274687819255491921111386104056~hmac=5419914ae8052c3455fa452f6589ce783f9600d45baa530a19913cd998a6e28c|x-playback-session-id=ce9e3f30f2ee20f0f40adbd37aee4e96-1761449403261&User-Agent=com.sonyliv/6.22.4 (Android 14; en_GB; I2206; Build/UP1A.231005.007)",
+      "url": "https://sonymtmnew.akamaized.net/hls/live/2018457/engvsnz/ENG/std_lrh-800300010.m3u8?hdnea=exp=1761481802~acl=/*~id=28274687819255491921111386104056~hmac=5419914ae8052c3455fa452f6589ce783f9600d45baa530a19913cd998a6e28c|x-playback-session-id=1f27a9462f2e9aa11c0d1a586b5a633e-1761450665181&User-Agent=com.sonyliv/6.22.4 (Android 11; en_GB; moto e20; Build/RONS31.267-94-17)",
       "user_agent": "Unknown"
     },
     {
@@ -20,7 +20,17 @@
       "language": "English",
       "category": "Cricket",
       "title": "ENG | India's Asia Cup Glory 24x7",
-      "url": "https://sonymtmnew.akamaized.net/hls/live/2022315/DAI11ME-AC24X7/master_lrh.m3u8?hdnea=exp=1761481802~acl=/*~id=28274687819255491921111386104056~hmac=5419914ae8052c3455fa452f6589ce783f9600d45baa530a19913cd998a6e28c|x-playback-session-id=ce9e3f30f2ee20f0f40adbd37aee4e96-1761449403261&User-Agent=com.sonyliv/6.22.4 (Android 14; en_GB; CPH2493; Build/UKQ1.230924.001)",
+      "url": "https://sonymtmnew.akamaized.net/hls/live/2022315/DAI11ME-AC24X7/master_lrh.m3u8?hdnea=exp=1761481802~acl=/*~id=28274687819255491921111386104056~hmac=5419914ae8052c3455fa452f6589ce783f9600d45baa530a19913cd998a6e28c|x-playback-session-id=1f27a9462f2e9aa11c0d1a586b5a633e-1761450665181&User-Agent=com.sonyliv/6.22.4 (Android 9; en_GB; TV BOX; Build/NRD91N)",
+      "user_agent": "Unknown"
+    },
+    {
+      "id": "1090493182",
+      "name": "Asian Tour 2025",
+      "logo": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000009914/1759722860468903_AsianTour25_International_Series_Philippines_Day4_5oct_landscape_thumb.jpg",
+      "language": "English",
+      "category": "Golf",
+      "title": "ENG | International Series Philippines - Day 4 - 26 Oct 2025",
+      "url": "https://sonymtmnew.akamaized.net/hls/live/2022320/DAI16ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1761481802~acl=/*~id=28274687819255491921111386104056~hmac=5419914ae8052c3455fa452f6589ce783f9600d45baa530a19913cd998a6e28c|x-playback-session-id=1f27a9462f2e9aa11c0d1a586b5a633e-1761450665181&User-Agent=com.sonyliv/6.22.4 (Android 5; en_GB; vivo V3; Build/LMY47V)",
       "user_agent": "Unknown"
     }
   ]
