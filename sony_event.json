@@ -1,8 +1,18 @@
 {
   "api_made_by": "bd coder boy",
-  "updated": "Sat, 25 Oct 2025 23:53:25 GMT",
-  "total_events": 1,
+  "updated": "Sun, 26 Oct 2025 01:06:05 GMT",
+  "total_events": 2,
   "events": [
+    {
+      "id": "1090492566",
+      "name": "England Tour of New Zealand 2025",
+      "logo": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000010526/1761362551346543_NZvsENG25_1ODI_24oct_Landscape_thumb_Live.jpg",
+      "language": "English",
+      "category": "Cricket",
+      "title": "ENG | 1st ODI - 26 Oct 2025",
+      "url": "https://sonymtmnew.akamaized.net/hls/live/2018457/engvsnz/ENG/std_lrh-800300010.m3u8?hdnea=exp=1761460202~acl=/*~id=71216340739816629782845171890651~hmac=73bfddd7895d1377f44a60e234728cc7ef9be664e06dd0961efcb6a184016ecb|x-playback-session-id=56f3ecd2e1b33796ad83a943e500d227-1761440705470&User-Agent=com.sonyliv/6.22.4 (Android 10; en_GB; TX20 Pro; Build/QP1A.191105.004)",
+      "user_agent": "Unknown"
+    },
     {
       "id": "1090492070",
       "name": "Asia Cup 2025",
@@ -10,7 +20,7 @@
       "language": "English",
       "category": "Cricket",
       "title": "ENG | India's Asia Cup Glory 24x7",
-      "url": "https://sonymtmnew.akamaized.net/hls/live/2022315/DAI11ME-AC24X7/master_lrh.m3u8?hdnea=exp=1761460202~acl=/*~id=71216340739816629782845171890651~hmac=73bfddd7895d1377f44a60e234728cc7ef9be664e06dd0961efcb6a184016ecb|x-playback-session-id=d26c10ea36ffea186253f4bfd5395a50-1761435844954&User-Agent=com.sonyliv/6.22.4 (Android 14; en_GB; TECNO KL4; Build/UP1A.231005.007)",
+      "url": "https://sonymtmnew.akamaized.net/hls/live/2022315/DAI11ME-AC24X7/master_lrh.m3u8?hdnea=exp=1761460202~acl=/*~id=71216340739816629782845171890651~hmac=73bfddd7895d1377f44a60e234728cc7ef9be664e06dd0961efcb6a184016ecb|x-playback-session-id=56f3ecd2e1b33796ad83a943e500d227-1761440705470&User-Agent=com.sonyliv/6.22.4 (Android 6; en_GB; Evo TV 3; Build/MHC19J)",
       "user_agent": "Unknown"
     }
   ]
