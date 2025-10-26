@@ -1,6 +1,6 @@
 {
   "api_made_by": "bd coder boy",
-  "updated": "Sun, 26 Oct 2025 06:54:10 GMT",
+  "updated": "Sun, 26 Oct 2025 07:12:01 GMT",
   "total_events": 3,
   "events": [
     {
@@ -10,7 +10,7 @@
       "language": "English",
       "category": "Cricket",
       "title": "ENG | 1st ODI - 26 Oct 2025",
-      "url": "https://sonymtmnew.akamaized.net/hls/live/2018457/engvsnz/ENG/std_lrh-800300010.m3u8?hdnea=exp=1761481802~acl=/*~id=28274687819255491921111386104056~hmac=5419914ae8052c3455fa452f6589ce783f9600d45baa530a19913cd998a6e28c|x-playback-session-id=d79f4ef80603b9451d158b62379071df-1761461463875&User-Agent=com.sonyliv/6.22.4 (Android 15; en_GB; MICOM; Build/QP1A.191105.004)",
+      "url": "https://sonymtmnew.akamaized.net/hls/live/2018457/engvsnz/ENG/std_lrh-800300010.m3u8?hdnea=exp=1761481802~acl=/*~id=28274687819255491921111386104056~hmac=5419914ae8052c3455fa452f6589ce783f9600d45baa530a19913cd998a6e28c|x-playback-session-id=8a78cf5c0b7331b7de13ff22e8b76cc2-1761462304094&User-Agent=com.sonyliv/6.22.4 (Android 8; en_GB; BRAVIA 2K GB ATV3; Build/OPR2.170623.027.S25)",
       "user_agent": "Unknown"
     },
     {
@@ -20,7 +20,7 @@
       "language": "English",
       "category": "Cricket",
       "title": "ENG | India's Asia Cup Glory 24x7",
-      "url": "https://sonymtmnew.akamaized.net/hls/live/2022315/DAI11ME-AC24X7/master_lrh.m3u8?hdnea=exp=1761481802~acl=/*~id=28274687819255491921111386104056~hmac=5419914ae8052c3455fa452f6589ce783f9600d45baa530a19913cd998a6e28c|x-playback-session-id=d79f4ef80603b9451d158b62379071df-1761461463875&User-Agent=com.sonyliv/6.22.4 (Android 8; en_GB; CPH1819; Build/O11019)",
+      "url": "https://sonymtmnew.akamaized.net/hls/live/2022315/DAI11ME-AC24X7/master_lrh.m3u8?hdnea=exp=1761481802~acl=/*~id=28274687819255491921111386104056~hmac=5419914ae8052c3455fa452f6589ce783f9600d45baa530a19913cd998a6e28c|x-playback-session-id=8a78cf5c0b7331b7de13ff22e8b76cc2-1761462304094&User-Agent=com.sonyliv/6.22.4 (Android 14; en_GB; RMP2204; Build/SP1A.210812.016)",
       "user_agent": "Unknown"
     },
     {
@@ -30,7 +30,7 @@
       "language": "English",
       "category": "Golf",
       "title": "ENG | International Series Philippines - Day 4 - 26 Oct 2025",
-      "url": "https://sonymtmnew.akamaized.net/hls/live/2022320/DAI16ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1761481802~acl=/*~id=28274687819255491921111386104056~hmac=5419914ae8052c3455fa452f6589ce783f9600d45baa530a19913cd998a6e28c|x-playback-session-id=d79f4ef80603b9451d158b62379071df-1761461463875&User-Agent=com.sonyliv/6.22.4 (Android 14; en_GB; CPH2337; Build/UKQ1.230924.001)",
+      "url": "https://sonymtmnew.akamaized.net/hls/live/2022320/DAI16ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1761481802~acl=/*~id=28274687819255491921111386104056~hmac=5419914ae8052c3455fa452f6589ce783f9600d45baa530a19913cd998a6e28c|x-playback-session-id=8a78cf5c0b7331b7de13ff22e8b76cc2-1761462304094&User-Agent=com.sonyliv/6.22.4 (Android 13; en_GB; SM-N986W; Build/TP1A.220624.014)",
       "user_agent": "Unknown"
     }
   ]
