@@ -1,6 +1,6 @@
 {
   "api_made_by": "bd coder boy",
-  "updated": "Sun, 26 Oct 2025 17:30:12 GMT",
+  "updated": "Sun, 26 Oct 2025 17:39:56 GMT",
   "total_events": 3,
   "events": [
     {
@@ -10,7 +10,7 @@
       "language": "Hindi",
       "category": "Reality",
       "title": "HIN | India\u2019s Got Talent",
-      "url": "https://sonymtmnew.akamaized.net/hls/live/2037142/DAI22ME-IGT/master_lrh-800300010.m3u8?hdnea=exp=1761525002~acl=/*~id=88742234091978724721110110874055~hmac=88ad886228f5ece788e73af487dcecc21d0c63a4ecc2ef342554a93630ea0cfe|x-playback-session-id=8b76086306161e011d094f420f754781-1761499804241&User-Agent=com.sonyliv/6.22.4 (Android 9; en_GB; SM-G977N; Build/PQ3A.190705.08061357)",
+      "url": "https://sonymtmnew.akamaized.net/hls/live/2037142/DAI22ME-IGT/master_lrh-800300010.m3u8?hdnea=exp=1761525002~acl=/*~id=88742234091978724721110110874055~hmac=88ad886228f5ece788e73af487dcecc21d0c63a4ecc2ef342554a93630ea0cfe|x-playback-session-id=0c2650f938846a5e0a40106c5e9fd925-1761500224132&User-Agent=com.sonyliv/6.22.4 (Android 15; en_GB; V2427; Build/AP3A.240905.015.A2_NN_V000L1)",
       "user_agent": "Unknown"
     },
     {
@@ -20,7 +20,7 @@
       "language": "English",
       "category": "Cricket",
       "title": "ENG | India's Asia Cup Glory 24x7",
-      "url": "https://sonymtmnew.akamaized.net/hls/live/2022315/DAI11ME-AC24X7/master_lrh.m3u8?hdnea=exp=1761525002~acl=/*~id=88742234091978724721110110874055~hmac=88ad886228f5ece788e73af487dcecc21d0c63a4ecc2ef342554a93630ea0cfe|x-playback-session-id=8b76086306161e011d094f420f754781-1761499804241&User-Agent=com.sonyliv/6.22.4 (Android 13; en_GB; X88Pro13.swk.F1010_1.0.0; Build/TQ3C.230805.001.B2)",
+      "url": "https://sonymtmnew.akamaized.net/hls/live/2022315/DAI11ME-AC24X7/master_lrh.m3u8?hdnea=exp=1761525002~acl=/*~id=88742234091978724721110110874055~hmac=88ad886228f5ece788e73af487dcecc21d0c63a4ecc2ef342554a93630ea0cfe|x-playback-session-id=0c2650f938846a5e0a40106c5e9fd925-1761500224132&User-Agent=com.sonyliv/6.22.4 (Android 12; en_GB; SM-G996U; Build/SP1A.210812.016)",
       "user_agent": "Unknown"
     },
     {
@@ -30,7 +30,7 @@
       "language": "English",
       "category": "Football",
       "title": "ENG | VfB Stuttgart vs Mainz - 26 Oct 2025",
-      "url": "https://sonymtmnew.akamaized.net/hls/live/2094589/DAI05ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1761525002~acl=/*~id=88742234091978724721110110874055~hmac=88ad886228f5ece788e73af487dcecc21d0c63a4ecc2ef342554a93630ea0cfe|x-playback-session-id=8b76086306161e011d094f420f754781-1761499804241&User-Agent=com.sonyliv/6.22.4 (Android 12; en_GB; X96Q; Build/D9 PRO 5G)",
+      "url": "https://sonymtmnew.akamaized.net/hls/live/2094589/DAI05ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1761525002~acl=/*~id=88742234091978724721110110874055~hmac=88ad886228f5ece788e73af487dcecc21d0c63a4ecc2ef342554a93630ea0cfe|x-playback-session-id=0c2650f938846a5e0a40106c5e9fd925-1761500224132&User-Agent=com.sonyliv/6.22.4 (Android 9; en_GB; H3; Build/PPR1.180610.011)",
       "user_agent": "Unknown"
     }
   ]
