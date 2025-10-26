@@ -1,7 +1,7 @@
 {
   "api_made_by": "bd coder boy",
-  "updated": "Sun, 26 Oct 2025 18:41:18 GMT",
-  "total_events": 2,
+  "updated": "Sun, 26 Oct 2025 18:53:38 GMT",
+  "total_events": 1,
   "events": [
     {
       "id": "1090492070",
@@ -10,17 +10,7 @@
       "language": "English",
       "category": "Cricket",
       "title": "ENG | India's Asia Cup Glory 24x7",
-      "url": "https://sonymtmnew.akamaized.net/hls/live/2022315/DAI11ME-AC24X7/master_lrh.m3u8?hdnea=exp=1761525002~acl=/*~id=88742234091978724721110110874055~hmac=88ad886228f5ece788e73af487dcecc21d0c63a4ecc2ef342554a93630ea0cfe|x-playback-session-id=3bedb993e1310c7367b78ce891124c40-1761503403297&User-Agent=com.sonyliv/6.22.4 (Android 14; en_GB; LAVA LXX504; Build/UP1A.231005.007)",
-      "user_agent": "Unknown"
-    },
-    {
-      "id": "1090493185",
-      "name": "Bundesliga 2025-26",
-      "logo": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000009886/1759598563948218_bliga2526_MD8_Stuttgart_Vs_Mainz_3oct_landscape_thumb.jpg",
-      "language": "English",
-      "category": "Football",
-      "title": "ENG | VfB Stuttgart vs Mainz - 26 Oct 2025",
-      "url": "https://sonymtmnew.akamaized.net/hls/live/2094589/DAI05ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1761525002~acl=/*~id=88742234091978724721110110874055~hmac=88ad886228f5ece788e73af487dcecc21d0c63a4ecc2ef342554a93630ea0cfe|x-playback-session-id=3bedb993e1310c7367b78ce891124c40-1761503403297&User-Agent=com.sonyliv/6.22.4 (Android 14; en_GB; V2334; Build/UP1A.231005.007)",
+      "url": "https://sonymtmnew.akamaized.net/hls/live/2022315/DAI11ME-AC24X7/master_lrh.m3u8?hdnea=exp=1761525002~acl=/*~id=88742234091978724721110110874055~hmac=88ad886228f5ece788e73af487dcecc21d0c63a4ecc2ef342554a93630ea0cfe|x-playback-session-id=cf812feeedbccd2429dbaa2896e1759d-1761504666792&User-Agent=com.sonyliv/6.22.4 (Android 12; en_GB; M2010J19SI; Build/SKQ1.211202.001)",
       "user_agent": "Unknown"
     }
   ]
