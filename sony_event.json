@@ -1,6 +1,6 @@
 {
   "api_made_by": "bd coder boy",
-  "updated": "Sun, 26 Oct 2025 17:54:52 GMT",
+  "updated": "Sun, 26 Oct 2025 18:17:23 GMT",
   "total_events": 2,
   "events": [
     {
@@ -10,7 +10,7 @@
       "language": "English",
       "category": "Cricket",
       "title": "ENG | India's Asia Cup Glory 24x7",
-      "url": "https://sonymtmnew.akamaized.net/hls/live/2022315/DAI11ME-AC24X7/master_lrh.m3u8?hdnea=exp=1761525002~acl=/*~id=88742234091978724721110110874055~hmac=88ad886228f5ece788e73af487dcecc21d0c63a4ecc2ef342554a93630ea0cfe|x-playback-session-id=57376034e1903d8f15f573645144221a-1761501064096&User-Agent=com.sonyliv/6.22.4 (Android 16; en_GB; SM-S911W; Build/BP2A.250605.031.A3)",
+      "url": "https://sonymtmnew.akamaized.net/hls/live/2022315/DAI11ME-AC24X7/master_lrh.m3u8?hdnea=exp=1761525002~acl=/*~id=88742234091978724721110110874055~hmac=88ad886228f5ece788e73af487dcecc21d0c63a4ecc2ef342554a93630ea0cfe|x-playback-session-id=cb41ddd9ecfe03a57b47bae24367d2a1-1761502325240&User-Agent=com.sonyliv/6.22.4 (Android 15; en_GB; V2504; Build/AP3A.240905.015.A2_V000L1)",
       "user_agent": "Unknown"
     },
     {
@@ -20,7 +20,7 @@
       "language": "English",
       "category": "Football",
       "title": "ENG | VfB Stuttgart vs Mainz - 26 Oct 2025",
-      "url": "https://sonymtmnew.akamaized.net/hls/live/2094589/DAI05ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1761525002~acl=/*~id=88742234091978724721110110874055~hmac=88ad886228f5ece788e73af487dcecc21d0c63a4ecc2ef342554a93630ea0cfe|x-playback-session-id=57376034e1903d8f15f573645144221a-1761501064096&User-Agent=com.sonyliv/6.22.4 (Android 13; en_GB; Infinix X6711; Build/TP1A.220624.014)",
+      "url": "https://sonymtmnew.akamaized.net/hls/live/2094589/DAI05ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1761525002~acl=/*~id=88742234091978724721110110874055~hmac=88ad886228f5ece788e73af487dcecc21d0c63a4ecc2ef342554a93630ea0cfe|x-playback-session-id=cb41ddd9ecfe03a57b47bae24367d2a1-1761502325240&User-Agent=com.sonyliv/6.22.4 (Android 11; en_GB; RMX3286; Build/RP1A.200720.011)",
       "user_agent": "Unknown"
     }
   ]
