@@ -1,6 +1,6 @@
 {
   "api_made_by": "bd coder boy",
-  "updated": "Sun, 26 Oct 2025 22:32:41 GMT",
+  "updated": "Sun, 26 Oct 2025 22:44:19 GMT",
   "total_events": 1,
   "events": [
     {
@@ -10,7 +10,7 @@
       "language": "English",
       "category": "Cricket",
       "title": "ENG | India's Asia Cup Glory 24x7",
-      "url": "https://sonymtmnew.akamaized.net/hls/live/2022315/DAI11ME-AC24X7/master_lrh.m3u8?hdnea=exp=1761546602~acl=/*~id=73993420842126228608487906574468~hmac=c329d476fa0f485e1ed367a9a6f778b38bb28ba62aa8a68cc0c28f1c175a7127|x-playback-session-id=4ff0f804099fe6f2f73b587410979b12-1761517803414&User-Agent=com.sonyliv/6.22.4 (Android 9; en_GB; DVN2KA01; Build/PI)",
+      "url": "https://sonymtmnew.akamaized.net/hls/live/2022315/DAI11ME-AC24X7/master_lrh.m3u8?hdnea=exp=1761546602~acl=/*~id=73993420842126228608487906574468~hmac=c329d476fa0f485e1ed367a9a6f778b38bb28ba62aa8a68cc0c28f1c175a7127|x-playback-session-id=9fe8a80600fa4a1ea8c9f9a921484fc7-1761518225227&User-Agent=com.sonyliv/6.22.4 (Android 9; en_GB; ROG Phone 7 Ultimate; Build/PQ3A.190705.08061357)",
       "user_agent": "Unknown"
     }
   ]
