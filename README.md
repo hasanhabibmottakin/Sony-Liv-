@@ -1,7 +1,7 @@
 <h1 align="center">🔁 Auto Update Sony Events</h1>
 
 <p align="center">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/4/4d/SonyLIV_logo.svg" alt="SonyLIV" width="200"/>
+  <img src="[https://upload.wikimedia.org/wikipedia/commons/4/4d/SonyLIV_logo.svg](https://etimg.etb2bimg.com/photo/76029910.cms)" alt="SonyLIV" width="200"/>
 </p>
 
 <p align="center">
@@ -22,8 +22,7 @@ Updates are performed **every 10 minutes**, ensuring your event list always stay
 ---
 
 ### 🚀 Features
-
-✅ Auto-fetches SonyLIV playlist from a secure URL (stored as GitHub Secret).  
+.  
 ✅ Extracts event metadata: name, logo, category, language, and stream URL.  
 ✅ Builds both `.m3u` and `.json` outputs automatically.  
 ✅ Commits and pushes updates using GitHub Actions bot.  
@@ -40,21 +39,3 @@ Updates are performed **every 10 minutes**, ensuring your event list always stay
 
 ---
 
-### 🔑 Secrets Configuration
-
-Add the following secret in your repository:
-
-| Name | Description |
-|------|--------------|
-| `URL` | The secure playlist URL to fetch Sony event data from. |
-
----
-
-### 🕒 Cron Schedule
-
-This action runs automatically **every 10 minutes**:
-
-```yaml
-on:
-  schedule:
-    - cron: "*/10 * * * *"
