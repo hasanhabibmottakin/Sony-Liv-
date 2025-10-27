@@ -1,6 +1,6 @@
 {
   "api_made_by": "bd coder boy",
-  "updated": "Mon, 27 Oct 2025 14:35:41 GMT",
+  "updated": "Mon, 27 Oct 2025 14:48:51 GMT",
   "total_events": 2,
   "events": [
     {
@@ -10,7 +10,7 @@
       "language": "English",
       "category": "Cricket",
       "title": "ENG | India's Asia Cup Glory 24x7",
-      "url": "https://sonymtmnew.akamaized.net/hls/live/2022315/DAI11ME-AC24X7/master_lrh.m3u8?hdnea=exp=1761611402~acl=/*~id=60035591409809058469473223851683~hmac=12d93cfa2c88f7961e356f3654cf015f4c97ce95dc158c01355b6317c62543db|x-playback-session-id=05dcfc1fcfeaeadec88a6ad862dbdc09-1761575404476&User-Agent=com.sonyliv/6.22.4 (Android 12; en_GB; 22041219PI; Build/SP1A.210812.016)",
+      "url": "https://sonymtmnew.akamaized.net/hls/live/2022315/DAI11ME-AC24X7/master_lrh.m3u8?hdnea=exp=1761611402~acl=/*~id=60035591409809058469473223851683~hmac=12d93cfa2c88f7961e356f3654cf015f4c97ce95dc158c01355b6317c62543db|x-playback-session-id=5c6c44f62cb747e69006fcb6cd07e21b-1761576244837&User-Agent=com.sonyliv/6.22.4 (Android 9; en_GB; GM1900; Build/PQ3A.190705.05211459)",
       "user_agent": "Unknown"
     },
     {
@@ -20,7 +20,7 @@
       "language": "English",
       "category": "Tennis",
       "title": "ENG | Round 1 - 27 Oct 2025",
-      "url": "https://sonymtmnew.akamaized.net/hls/live/2037139/DAI19ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1761611402~acl=/*~id=60035591409809058469473223851683~hmac=12d93cfa2c88f7961e356f3654cf015f4c97ce95dc158c01355b6317c62543db|x-playback-session-id=05dcfc1fcfeaeadec88a6ad862dbdc09-1761575404476&User-Agent=com.sonyliv/6.22.4 (Android 16; en_GB; 2201116PI; Build/BP2A.250605.031.A2)",
+      "url": "https://sonymtmnew.akamaized.net/hls/live/2037139/DAI19ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1761611402~acl=/*~id=60035591409809058469473223851683~hmac=12d93cfa2c88f7961e356f3654cf015f4c97ce95dc158c01355b6317c62543db|x-playback-session-id=5c6c44f62cb747e69006fcb6cd07e21b-1761576244837&User-Agent=com.sonyliv/6.22.4 (Android 9; en_GB; vivo Y11; Build/PKQ1.190616.001)",
       "user_agent": "Unknown"
     }
   ]
