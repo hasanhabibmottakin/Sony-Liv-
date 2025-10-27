@@ -1,7 +1,7 @@
 <h1 align="center">🔁 Auto Update Sony Events</h1>
 
 <p align="center">
-  <img src="[https://upload.wikimedia.org/wikipedia/commons/4/4d/SonyLIV_logo.svg](https://etimg.etb2bimg.com/photo/76029910.cms)" alt="SonyLIV" width="200"/>
+  <img src="https://etimg.etb2bimg.com/photo/76029910.cms" alt="SonyLIV" width="200"/>
 </p>
 
 <p align="center">
