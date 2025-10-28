@@ -1,6 +1,6 @@
 {
   "api_made_by": "bd coder boy",
-  "updated": "Tue, 28 Oct 2025 10:40:47 GMT",
+  "updated": "Tue, 28 Oct 2025 10:53:37 GMT",
   "total_events": 2,
   "events": [
     {
@@ -10,7 +10,7 @@
       "language": "English",
       "category": "Cricket",
       "title": "ENG | India's Asia Cup Glory 24x7",
-      "url": "https://sonymtmnew.akamaized.net/hls/live/2022315/DAI11ME-AC24X7/master_lrh.m3u8?hdnea=exp=1761676344~acl=/*~id=18516302719883672912630061210076~hmac=9361555508bb6301af28eedddee2fe36a6c33569c04bd87e2a17ed5384994ba2|x-playback-session-id=0b4894899e5fd3b5352c419f8f925faf-1761647824886&User-Agent=com.sonyliv/6.22.4 (Android 15; en_GB; I2408; Build/AP3A.240905.015.A2_V000L1)",
+      "url": "https://sonymtmnew.akamaized.net/hls/live/2022315/DAI11ME-AC24X7/master_lrh.m3u8?hdnea=exp=1761676344~acl=/*~id=18516302719883672912630061210076~hmac=9361555508bb6301af28eedddee2fe36a6c33569c04bd87e2a17ed5384994ba2|x-playback-session-id=9c920c8b93eef1857f91acc7f447c9c0-1761648665143&User-Agent=com.sonyliv/6.22.4 (Android 9; en_GB; BRAVIA 2K GB ATV3; Build/PTT1.190515.001.S53)",
       "user_agent": "Unknown"
     },
     {
@@ -20,7 +20,7 @@
       "language": "English",
       "category": "Tennis",
       "title": "ENG | Round 2 - 28 Oct 2025",
-      "url": "https://sonymtmnew.akamaized.net/hls/live/2037139/DAI19ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1761676344~acl=/*~id=18516302719883672912630061210076~hmac=9361555508bb6301af28eedddee2fe36a6c33569c04bd87e2a17ed5384994ba2|x-playback-session-id=0b4894899e5fd3b5352c419f8f925faf-1761647824886&User-Agent=com.sonyliv/6.22.4 (Android 11; en_GB; Infinix X657C; Build/RP1A.200720.011)",
+      "url": "https://sonymtmnew.akamaized.net/hls/live/2037139/DAI19ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1761676344~acl=/*~id=18516302719883672912630061210076~hmac=9361555508bb6301af28eedddee2fe36a6c33569c04bd87e2a17ed5384994ba2|x-playback-session-id=9c920c8b93eef1857f91acc7f447c9c0-1761648665143&User-Agent=com.sonyliv/6.22.4 (Android 11; en_GB; XStream_Smart_Box_001; Build/RTT4.231228.001)",
       "user_agent": "Unknown"
     }
   ]
