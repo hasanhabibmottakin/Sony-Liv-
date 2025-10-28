@@ -1,6 +1,6 @@
 {
   "api_made_by": "bd coder boy",
-  "updated": "Tue, 28 Oct 2025 09:55:33 GMT",
+  "updated": "Tue, 28 Oct 2025 10:16:20 GMT",
   "total_events": 2,
   "events": [
     {
@@ -10,7 +10,7 @@
       "language": "English",
       "category": "Cricket",
       "title": "ENG | India's Asia Cup Glory 24x7",
-      "url": "https://sonymtmnew.akamaized.net/hls/live/2022315/DAI11ME-AC24X7/master_lrh.m3u8?hdnea=exp=1761676344~acl=/*~id=18516302719883672912630061210076~hmac=9361555508bb6301af28eedddee2fe36a6c33569c04bd87e2a17ed5384994ba2|x-playback-session-id=c53424d87c12d70b4a7fd6e5ff2254b9-1761645064033&User-Agent=com.sonyliv/6.22.4 (Android 15; en_GB; SM-F7210; Build/AP3A.240905.015.A2)",
+      "url": "https://sonymtmnew.akamaized.net/hls/live/2022315/DAI11ME-AC24X7/master_lrh.m3u8?hdnea=exp=1761676344~acl=/*~id=18516302719883672912630061210076~hmac=9361555508bb6301af28eedddee2fe36a6c33569c04bd87e2a17ed5384994ba2|x-playback-session-id=f36562814b83d670b9650130fdd30348-1761646324879&User-Agent=com.sonyliv/6.22.4 (Android 11; en_GB; Nokia 8.1; Build/RKQ1.200906.002)",
       "user_agent": "Unknown"
     },
     {
@@ -20,7 +20,7 @@
       "language": "English",
       "category": "Tennis",
       "title": "ENG | Round 2 - 28 Oct 2025",
-      "url": "https://sonymtmnew.akamaized.net/hls/live/2037139/DAI19ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1761676344~acl=/*~id=18516302719883672912630061210076~hmac=9361555508bb6301af28eedddee2fe36a6c33569c04bd87e2a17ed5384994ba2|x-playback-session-id=c53424d87c12d70b4a7fd6e5ff2254b9-1761645064033&User-Agent=com.sonyliv/6.22.4 (Android 14; en_GB; Q96; Build/D9 PRO 5G)",
+      "url": "https://sonymtmnew.akamaized.net/hls/live/2037139/DAI19ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1761676344~acl=/*~id=18516302719883672912630061210076~hmac=9361555508bb6301af28eedddee2fe36a6c33569c04bd87e2a17ed5384994ba2|x-playback-session-id=f36562814b83d670b9650130fdd30348-1761646324879&User-Agent=com.sonyliv/6.22.4 (Android 14; en_GB; CLK-LX2; Build/HONORCLK-L32)",
       "user_agent": "Unknown"
     }
   ]
