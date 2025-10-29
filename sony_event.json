@@ -1,6 +1,6 @@
 {
   "api_made_by": "bd coder boy",
-  "updated": "Wed, 29 Oct 2025 19:44:33 GMT",
+  "updated": "Wed, 29 Oct 2025 19:53:16 GMT",
   "total_events": 2,
   "events": [
     {
@@ -10,7 +10,7 @@
       "language": "English",
       "category": "Cricket",
       "title": "ENG | India's Asia Cup Glory 24x7",
-      "url": "https://sonymtmnew.akamaized.net/hls/live/2022315/DAI11ME-AC24X7/master_lrh.m3u8?hdnea=exp=1761784202~acl=/*~id=61913082067019014289485011599387~hmac=57fd55207378082212dc2b6244a1f6b4044fb733240c1457144526756b4ce392|x-playback-session-id=e5f728ef58bd3d5b707c6ff2807304ca-1761767043870&User-Agent=com.sonyliv/6.22.4 (Android 10; en_GB; SM-A750GN; Build/QP1A.190711.020)",
+      "url": "https://sonymtmnew.akamaized.net/hls/live/2022315/DAI11ME-AC24X7/master_lrh.m3u8?hdnea=exp=1761784202~acl=/*~id=61913082067019014289485011599387~hmac=57fd55207378082212dc2b6244a1f6b4044fb733240c1457144526756b4ce392|x-playback-session-id=928e8d848887f40595d9e9db27674b44-1761767463867&User-Agent=com.sonyliv/6.22.4 (Android 9; en_GB; Android TV S1; Build/PPR1.180610.011)",
       "user_agent": "Unknown"
     },
     {
@@ -20,7 +20,7 @@
       "language": "English",
       "category": "Tennis",
       "title": "ENG | Round 2 - 29 Oct 2025",
-      "url": "https://sonymtmnew.akamaized.net/hls/live/2037139/DAI19ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1761784202~acl=/*~id=61913082067019014289485011599387~hmac=57fd55207378082212dc2b6244a1f6b4044fb733240c1457144526756b4ce392|x-playback-session-id=e5f728ef58bd3d5b707c6ff2807304ca-1761767043870&User-Agent=com.sonyliv/6.22.4 (Android 11; en_GB; SYLVOX  2K Google TV; Build/RTK4.241026.020)",
+      "url": "https://sonymtmnew.akamaized.net/hls/live/2037139/DAI19ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1761784202~acl=/*~id=61913082067019014289485011599387~hmac=57fd55207378082212dc2b6244a1f6b4044fb733240c1457144526756b4ce392|x-playback-session-id=928e8d848887f40595d9e9db27674b44-1761767463867&User-Agent=com.sonyliv/6.22.4 (Android 9; en_GB; MiTV-AXSO2; Build/PI)",
       "user_agent": "Unknown"
     }
   ]
