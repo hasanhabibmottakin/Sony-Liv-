@@ -1,18 +1,8 @@
 {
   "api_made_by": "bd coder boy",
-  "updated": "Wed, 29 Oct 2025 07:13:56 GMT",
+  "updated": "Wed, 29 Oct 2025 07:31:32 GMT",
   "total_events": 2,
   "events": [
-    {
-      "id": "1090492565",
-      "name": "England Tour of New Zealand 2025",
-      "logo": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000010526/1761362662780543_NZvsENG25_2ODI_24oct_Landscape_thumb_Live.jpg",
-      "language": "English",
-      "category": "Cricket",
-      "title": "ENG | 2nd ODI - 29 Oct 2025",
-      "url": "https://sonymtmnew.akamaized.net/hls/live/2018457/engvsnz/ENG/std_lrh-800300010.m3u8?hdnea=exp=1761741002~acl=/*~id=72043916330462880494487450640512~hmac=262a56b8bc37aa205cacdf0bb901346663714ff453d341976c33d55bd4816185|x-playback-session-id=3d2cb27013a8d51eca624e5efce7c7ce-1761721924031&User-Agent=com.sonyliv/6.22.4 (Android 11; en_GB; Nokia C10; Build/RP1A.201005.001)",
-      "user_agent": "Unknown"
-    },
     {
       "id": "1090492070",
       "name": "Asia Cup 2025",
@@ -20,7 +10,17 @@
       "language": "English",
       "category": "Cricket",
       "title": "ENG | India's Asia Cup Glory 24x7",
-      "url": "https://sonymtmnew.akamaized.net/hls/live/2022315/DAI11ME-AC24X7/master_lrh.m3u8?hdnea=exp=1761741002~acl=/*~id=72043916330462880494487450640512~hmac=262a56b8bc37aa205cacdf0bb901346663714ff453d341976c33d55bd4816185|x-playback-session-id=3d2cb27013a8d51eca624e5efce7c7ce-1761721924031&User-Agent=com.sonyliv/6.22.4 (Android 13; en_GB; K2401/K2401P; Build/QP1A.191105.004)",
+      "url": "https://sonymtmnew.akamaized.net/hls/live/2022315/DAI11ME-AC24X7/master_lrh.m3u8?hdnea=exp=1761741002~acl=/*~id=72043916330462880494487450640512~hmac=262a56b8bc37aa205cacdf0bb901346663714ff453d341976c33d55bd4816185|x-playback-session-id=2eaa04ecd42f05db4318632f43841b7b-1761723003709&User-Agent=com.sonyliv/6.22.4 (Android 12; en_GB; V2061; Build/SP1A.210812.003)",
+      "user_agent": "Unknown"
+    },
+    {
+      "id": "1090492565",
+      "name": "England Tour of New Zealand 2025",
+      "logo": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000010526/1761362662780543_NZvsENG25_2ODI_24oct_Landscape_thumb_Live.jpg",
+      "language": "English",
+      "category": "Cricket",
+      "title": "ENG | 2nd ODI - 29 Oct 2025",
+      "url": "https://sonymtmnew.akamaized.net/hls/live/2018457/engvsnz/ENG/std_lrh-800300010.m3u8?hdnea=exp=1761741002~acl=/*~id=72043916330462880494487450640512~hmac=262a56b8bc37aa205cacdf0bb901346663714ff453d341976c33d55bd4816185|x-playback-session-id=2eaa04ecd42f05db4318632f43841b7b-1761723003709&User-Agent=com.sonyliv/6.22.4 (Android 11; en_GB; A13S; Build/QP1A.191105.004)",
       "user_agent": "Unknown"
     }
   ]
