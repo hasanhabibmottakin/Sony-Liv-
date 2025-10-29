@@ -1,6 +1,6 @@
 {
   "api_made_by": "bd coder boy",
-  "updated": "Wed, 29 Oct 2025 09:46:11 GMT",
+  "updated": "Wed, 29 Oct 2025 09:54:24 GMT",
   "total_events": 2,
   "events": [
     {
@@ -10,7 +10,7 @@
       "language": "English",
       "category": "Cricket",
       "title": "ENG | India's Asia Cup Glory 24x7",
-      "url": "https://sonymtmnew.akamaized.net/hls/live/2022315/DAI11ME-AC24X7/master_lrh.m3u8?hdnea=exp=1761762603~acl=/*~id=03867310325115292934216291959016~hmac=58313e366a05e3d31cde81334c4e207540008be6c16417f295917f1d971b0a77|x-playback-session-id=ffa3d15a1a55c1ffbe92833751a73c21-1761731044004&User-Agent=com.sonyliv/6.22.4 (Android 11; en_GB; 2KTV-2TH; Build/RTT7.220427.001)",
+      "url": "https://sonymtmnew.akamaized.net/hls/live/2022315/DAI11ME-AC24X7/master_lrh.m3u8?hdnea=exp=1761762603~acl=/*~id=03867310325115292934216291959016~hmac=58313e366a05e3d31cde81334c4e207540008be6c16417f295917f1d971b0a77|x-playback-session-id=ffa3d15a1a55c1ffbe92833751a73c21-1761731044004&User-Agent=com.sonyliv/6.22.4 (Android 16; en_GB; SM-M356B; Build/BP2A.250605.031.A3)",
       "user_agent": "Unknown"
     },
     {
@@ -20,7 +20,7 @@
       "language": "English",
       "category": "Tennis",
       "title": "ENG | Round 2 - 29 Oct 2025",
-      "url": "https://sonymtmnew.akamaized.net/hls/live/2037139/DAI19ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1761762603~acl=/*~id=03867310325115292934216291959016~hmac=58313e366a05e3d31cde81334c4e207540008be6c16417f295917f1d971b0a77|x-playback-session-id=ffa3d15a1a55c1ffbe92833751a73c21-1761731044004&User-Agent=com.sonyliv/6.22.4 (Android 14; en_GB; TECNO AD9; Build/UP1A.231005.007)",
+      "url": "https://sonymtmnew.akamaized.net/hls/live/2037139/DAI19ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1761762603~acl=/*~id=03867310325115292934216291959016~hmac=58313e366a05e3d31cde81334c4e207540008be6c16417f295917f1d971b0a77|x-playback-session-id=ffa3d15a1a55c1ffbe92833751a73c21-1761731044004&User-Agent=com.sonyliv/6.22.4 (Android 11; en_GB; SM-M025F; Build/RP1A.200720.012)",
       "user_agent": "Unknown"
     }
   ]
