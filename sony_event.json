@@ -1,7 +1,7 @@
 {
   "api_made_by": "bd coder boy",
-  "updated": "Wed, 29 Oct 2025 14:55:25 GMT",
-  "total_events": 2,
+  "updated": "Wed, 29 Oct 2025 15:16:09 GMT",
+  "total_events": 3,
   "events": [
     {
       "id": "1090492070",
@@ -10,7 +10,17 @@
       "language": "English",
       "category": "Cricket",
       "title": "ENG | India's Asia Cup Glory 24x7",
-      "url": "https://sonymtmnew.akamaized.net/hls/live/2022315/DAI11ME-AC24X7/master_lrh.m3u8?hdnea=exp=1761784202~acl=/*~id=61913082067019014289485011599387~hmac=57fd55207378082212dc2b6244a1f6b4044fb733240c1457144526756b4ce392|x-playback-session-id=97f392af898f829ccdf2a2e7d39e4cb3-1761749465849&User-Agent=com.sonyliv/6.22.4 (Android 9; en_GB; RMX1941; Build/PPR1.180610.011)",
+      "url": "https://sonymtmnew.akamaized.net/hls/live/2022315/DAI11ME-AC24X7/master_lrh.m3u8?hdnea=exp=1761784202~acl=/*~id=61913082067019014289485011599387~hmac=57fd55207378082212dc2b6244a1f6b4044fb733240c1457144526756b4ce392|x-playback-session-id=216c5dc91f161f81406121c31ccd80a8-1761750725725&User-Agent=com.sonyliv/6.22.4 (Android 10; en_GB; SM-A605K; Build/QP1A.190711.020)",
+      "user_agent": "Unknown"
+    },
+    {
+      "id": "1090491950",
+      "name": "Kaun Banega Crorepati",
+      "logo": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000008049/1757657348121358_kbc25_simulcast_Landscape_thumb_12sep.jpg",
+      "language": "Hindi",
+      "category": "Game show",
+      "title": "HIN | E58. Kaun Banega Crorepati - Season 17",
+      "url": "https://sonymtmnew.akamaized.net/hls/live/2043696/DAI26ME-KBC/master_lrh-800300010.m3u8?hdnea=exp=1761784202~acl=/*~id=61913082067019014289485011599387~hmac=57fd55207378082212dc2b6244a1f6b4044fb733240c1457144526756b4ce392|x-playback-session-id=216c5dc91f161f81406121c31ccd80a8-1761750725725&User-Agent=com.sonyliv/6.22.4 (Android 9; en_GB; OXF-AN00; Build/PQ3A.190605.09261140)",
       "user_agent": "Unknown"
     },
     {
@@ -20,7 +30,7 @@
       "language": "English",
       "category": "Tennis",
       "title": "ENG | Round 2 - 29 Oct 2025",
-      "url": "https://sonymtmnew.akamaized.net/hls/live/2037139/DAI19ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1761784202~acl=/*~id=61913082067019014289485011599387~hmac=57fd55207378082212dc2b6244a1f6b4044fb733240c1457144526756b4ce392|x-playback-session-id=97f392af898f829ccdf2a2e7d39e4cb3-1761749465849&User-Agent=com.sonyliv/6.22.4 (Android 10; en_GB; ADT-3; Build/QP1A.191105.004)",
+      "url": "https://sonymtmnew.akamaized.net/hls/live/2037139/DAI19ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1761784202~acl=/*~id=61913082067019014289485011599387~hmac=57fd55207378082212dc2b6244a1f6b4044fb733240c1457144526756b4ce392|x-playback-session-id=216c5dc91f161f81406121c31ccd80a8-1761750725725&User-Agent=com.sonyliv/6.22.4 (Android 11; en_GB; motorola one fusion; Build/RPLS31.Q2-63-10-2-9)",
       "user_agent": "Unknown"
     }
   ]
