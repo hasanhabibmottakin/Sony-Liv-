@@ -1,6 +1,6 @@
 {
   "api_made_by": "bd coder boy",
-  "updated": "Wed, 29 Oct 2025 17:49:05 GMT",
+  "updated": "Wed, 29 Oct 2025 17:56:53 GMT",
   "total_events": 3,
   "events": [
     {
@@ -10,7 +10,7 @@
       "language": "Hindi",
       "category": "Game show",
       "title": "HIN | E58. Kaun Banega Crorepati - Season 17",
-      "url": "https://sonymtmnew.akamaized.net/hls/live/2043696/DAI26ME-KBC/master_lrh-800300010.m3u8?hdnea=exp=1761784202~acl=/*~id=61913082067019014289485011599387~hmac=57fd55207378082212dc2b6244a1f6b4044fb733240c1457144526756b4ce392|x-playback-session-id=74c4948925e0a8b873bbf3ef03561ae4-1761759844892&User-Agent=com.sonyliv/6.22.4 (Android 15; en_GB; 2412DPC0AI; Build/AP3A.240905.015.A2)",
+      "url": "https://sonymtmnew.akamaized.net/hls/live/2043696/DAI26ME-KBC/master_lrh-800300010.m3u8?hdnea=exp=1761784202~acl=/*~id=61913082067019014289485011599387~hmac=57fd55207378082212dc2b6244a1f6b4044fb733240c1457144526756b4ce392|x-playback-session-id=f56c4ba1e46c3789396ae85b9df39805-1761760266266&User-Agent=com.sonyliv/6.22.4 (Android 5; en_GB; D2502; Build/19.4.A.0.182)",
       "user_agent": "Unknown"
     },
     {
@@ -20,7 +20,7 @@
       "language": "English",
       "category": "Cricket",
       "title": "ENG | India's Asia Cup Glory 24x7",
-      "url": "https://sonymtmnew.akamaized.net/hls/live/2022315/DAI11ME-AC24X7/master_lrh.m3u8?hdnea=exp=1761784202~acl=/*~id=61913082067019014289485011599387~hmac=57fd55207378082212dc2b6244a1f6b4044fb733240c1457144526756b4ce392|x-playback-session-id=74c4948925e0a8b873bbf3ef03561ae4-1761759844892&User-Agent=com.sonyliv/6.22.4 (Android 13; en_GB; A063; Build/TKQ1.221220.001)",
+      "url": "https://sonymtmnew.akamaized.net/hls/live/2022315/DAI11ME-AC24X7/master_lrh.m3u8?hdnea=exp=1761784202~acl=/*~id=61913082067019014289485011599387~hmac=57fd55207378082212dc2b6244a1f6b4044fb733240c1457144526756b4ce392|x-playback-session-id=f56c4ba1e46c3789396ae85b9df39805-1761760266266&User-Agent=com.sonyliv/6.22.4 (Android 12; en_GB; MT2111; Build/RKQ1.211119.001)",
       "user_agent": "Unknown"
     },
     {
@@ -30,7 +30,7 @@
       "language": "English",
       "category": "Tennis",
       "title": "ENG | Round 2 - 29 Oct 2025",
-      "url": "https://sonymtmnew.akamaized.net/hls/live/2037139/DAI19ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1761784202~acl=/*~id=61913082067019014289485011599387~hmac=57fd55207378082212dc2b6244a1f6b4044fb733240c1457144526756b4ce392|x-playback-session-id=74c4948925e0a8b873bbf3ef03561ae4-1761759844892&User-Agent=com.sonyliv/6.22.4 (Android 13; en_GB; 22101316I; Build/TP1A.220624.014)",
+      "url": "https://sonymtmnew.akamaized.net/hls/live/2037139/DAI19ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1761784202~acl=/*~id=61913082067019014289485011599387~hmac=57fd55207378082212dc2b6244a1f6b4044fb733240c1457144526756b4ce392|x-playback-session-id=f56c4ba1e46c3789396ae85b9df39805-1761760266266&User-Agent=com.sonyliv/6.22.4 (Android 11; en_GB; C00; Build/RTM8.240401.135)",
       "user_agent": "Unknown"
     }
   ]
