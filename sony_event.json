@@ -1,6 +1,6 @@
 {
   "api_made_by": "bd coder boy",
-  "updated": "Wed, 29 Oct 2025 01:04:51 GMT",
+  "updated": "Wed, 29 Oct 2025 02:50:19 GMT",
   "total_events": 2,
   "events": [
     {
@@ -10,7 +10,7 @@
       "language": "English",
       "category": "Cricket",
       "title": "ENG | 2nd ODI - 29 Oct 2025",
-      "url": "https://sonymtmnew.akamaized.net/hls/live/2018457/engvsnz/ENG/std_lrh-800300010.m3u8?hdnea=exp=1761719402~acl=/*~id=95781278383444946816346349014215~hmac=cf6b3736c44ac7cb3f5b4359441633ababe8f855feaa3210c905e61be10188a4|x-playback-session-id=940c5f5d966702c9585b1cbcdce389b8-1761699483078&User-Agent=com.sonyliv/6.22.4 (Android 11; en_GB; Haier MatrixTV BE; Build/RTM6.230109.235)",
+      "url": "https://sonymtmnew.akamaized.net/hls/live/2018457/engvsnz/ENG/std_lrh-800300010.m3u8?hdnea=exp=1761741002~acl=/*~id=72043916330462880494487450640512~hmac=262a56b8bc37aa205cacdf0bb901346663714ff453d341976c33d55bd4816185|x-playback-session-id=da2bb1192b27509ef157b49f1edccc46-1761705842906&User-Agent=com.sonyliv/6.22.4 (Android 12; en_GB; V2151; Build/SP1A.210812.003)",
       "user_agent": "Unknown"
     },
     {
@@ -20,7 +20,7 @@
       "language": "English",
       "category": "Cricket",
       "title": "ENG | India's Asia Cup Glory 24x7",
-      "url": "https://sonymtmnew.akamaized.net/hls/live/2022315/DAI11ME-AC24X7/master_lrh.m3u8?hdnea=exp=1761719402~acl=/*~id=95781278383444946816346349014215~hmac=cf6b3736c44ac7cb3f5b4359441633ababe8f855feaa3210c905e61be10188a4|x-playback-session-id=940c5f5d966702c9585b1cbcdce389b8-1761699483078&User-Agent=com.sonyliv/6.22.4 (Android 14; en_GB; I2208; Build/UP1A.231005.007)",
+      "url": "https://sonymtmnew.akamaized.net/hls/live/2022315/DAI11ME-AC24X7/master_lrh.m3u8?hdnea=exp=1761741002~acl=/*~id=72043916330462880494487450640512~hmac=262a56b8bc37aa205cacdf0bb901346663714ff453d341976c33d55bd4816185|x-playback-session-id=da2bb1192b27509ef157b49f1edccc46-1761705842906&User-Agent=com.sonyliv/6.22.4 (Android 8; en_GB; PM85; Build/OPM1.171019.026)",
       "user_agent": "Unknown"
     }
   ]
