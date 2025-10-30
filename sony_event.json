@@ -1,7 +1,7 @@
 {
   "api_made_by": "bd coder boy",
-  "updated": "Thu, 30 Oct 2025 21:53:02 GMT",
-  "total_events": 2,
+  "updated": "Thu, 30 Oct 2025 22:12:53 GMT",
+  "total_events": 1,
   "events": [
     {
       "id": "1090492070",
@@ -10,17 +10,7 @@
       "language": "English",
       "category": "Cricket",
       "title": "ENG | India's Asia Cup Glory 24x7",
-      "url": "https://sonymtmnew.akamaized.net/hls/live/2022315/DAI11ME-AC24X7/master_lrh.m3u8?hdnea=exp=1761892203~acl=/*~id=79432124939266926499155059911226~hmac=3828733e8231dc955e1d85ca29e8e41e014bfe54c5e9b093a6250f56cc540b6a|x-playback-session-id=f3d4ac692a6362d3e7255a75a73267dd-1761861064094&User-Agent=com.sonyliv/6.22.4 (Android 11; en_GB; Nokia 7.2; Build/RKQ1.210607.001)",
-      "user_agent": "Unknown"
-    },
-    {
-      "id": "1090493180",
-      "name": "ATP Rolex Paris Masters 2025",
-      "logo": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000010566/1761551544225169_ATP_Rolex_Paris25_round3_27oct_landscape_thumb.jpg",
-      "language": "English",
-      "category": "Tennis",
-      "title": "ENG | Round 3 - 30 Oct 2025",
-      "url": "https://sonymtmnew.akamaized.net/hls/live/2037139/DAI19ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1761892203~acl=/*~id=79432124939266926499155059911226~hmac=3828733e8231dc955e1d85ca29e8e41e014bfe54c5e9b093a6250f56cc540b6a|x-playback-session-id=f3d4ac692a6362d3e7255a75a73267dd-1761861064094&User-Agent=com.sonyliv/6.22.4 (Android 15; en_GB; RMX3301; Build/AP3A.240617.008)",
+      "url": "https://sonymtmnew.akamaized.net/hls/live/2022315/DAI11ME-AC24X7/master_lrh.m3u8?hdnea=exp=1761892203~acl=/*~id=79432124939266926499155059911226~hmac=3828733e8231dc955e1d85ca29e8e41e014bfe54c5e9b093a6250f56cc540b6a|x-playback-session-id=f6aea8d14234272f62d45957e0d7d924-1761862324680&User-Agent=com.sonyliv/6.22.4 (Android 11; en_GB; 4K SMART TV; Build/RTM7.230903.168)",
       "user_agent": "Unknown"
     }
   ]
