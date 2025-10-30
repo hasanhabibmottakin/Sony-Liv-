@@ -1,6 +1,6 @@
 {
   "api_made_by": "bd coder boy",
-  "updated": "Thu, 30 Oct 2025 13:11:03 GMT",
+  "updated": "Thu, 30 Oct 2025 13:43:30 GMT",
   "total_events": 2,
   "events": [
     {
@@ -10,7 +10,7 @@
       "language": "English",
       "category": "Cricket",
       "title": "ENG | India's Asia Cup Glory 24x7",
-      "url": "https://sonymtmnew.akamaized.net/hls/live/2022315/DAI11ME-AC24X7/master_lrh.m3u8?hdnea=exp=1761849003~acl=/*~id=21721675650646766867821466096898~hmac=a002478c74eab3c4b661ee4167a8654a0ef9c6ce3d7d70a0965d66734104cbc5|x-playback-session-id=447df28b179959cbecf811ecbc218076-1761829503282&User-Agent=com.sonyliv/6.22.4 (Android 15; en_GB; moto g64 5G; Build/V1TDS35H.83-20-5-2)",
+      "url": "https://sonymtmnew.akamaized.net/hls/live/2022315/DAI11ME-AC24X7/master_lrh.m3u8?hdnea=exp=1761849003~acl=/*~id=21721675650646766867821466096898~hmac=a002478c74eab3c4b661ee4167a8654a0ef9c6ce3d7d70a0965d66734104cbc5|x-playback-session-id=4da632dc8490b6a5f775f8e379cf47f5-1761831426776&User-Agent=com.sonyliv/6.22.4 (Android 12; en_GB; 22101317C; Build/SKQ1.220303.001)",
       "user_agent": "Unknown"
     },
     {
@@ -20,7 +20,7 @@
       "language": "English",
       "category": "Tennis",
       "title": "ENG | Round 3 - 30 Oct 2025",
-      "url": "https://sonymtmnew.akamaized.net/hls/live/2037139/DAI19ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1761849003~acl=/*~id=21721675650646766867821466096898~hmac=a002478c74eab3c4b661ee4167a8654a0ef9c6ce3d7d70a0965d66734104cbc5|x-playback-session-id=447df28b179959cbecf811ecbc218076-1761829503282&User-Agent=com.sonyliv/6.22.4 (Android 13; en_GB; dedede; Build/R140-16371.61.0)",
+      "url": "https://sonymtmnew.akamaized.net/hls/live/2037139/DAI19ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1761849003~acl=/*~id=21721675650646766867821466096898~hmac=a002478c74eab3c4b661ee4167a8654a0ef9c6ce3d7d70a0965d66734104cbc5|x-playback-session-id=4da632dc8490b6a5f775f8e379cf47f5-1761831426776&User-Agent=com.sonyliv/6.22.4 (Android 6; en_GB; Lenovo PB1-750M; Build/S100)",
       "user_agent": "Unknown"
     }
   ]
