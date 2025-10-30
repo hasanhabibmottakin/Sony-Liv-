@@ -1,18 +1,8 @@
 {
   "api_made_by": "bd coder boy",
-  "updated": "Thu, 30 Oct 2025 15:14:45 GMT",
+  "updated": "Thu, 30 Oct 2025 15:36:21 GMT",
   "total_events": 3,
   "events": [
-    {
-      "id": "1090492070",
-      "name": "Asia Cup 2025",
-      "logo": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000010049/1760026367682373_AsiaCup_Glory_24x7_Landscape_thumbj_9OCT_re1.jpg",
-      "language": "English",
-      "category": "Cricket",
-      "title": "ENG | India's Asia Cup Glory 24x7",
-      "url": "https://sonymtmnew.akamaized.net/hls/live/2022315/DAI11ME-AC24X7/master_lrh.m3u8?hdnea=exp=1761870603~acl=/*~id=85895514351687908400874494545237~hmac=c95d1dcc88138ee7a677194524e94936645198d5b8927630117c77a8e77e8ec3|x-playback-session-id=8abf25383ba5a27887ff1105ad951f94-1761837124603&User-Agent=com.sonyliv/6.22.4 (Android 11; en_GB; V2120; Build/RP1A.200720.012)",
-      "user_agent": "Unknown"
-    },
     {
       "id": "1090491950",
       "name": "Kaun Banega Crorepati",
@@ -20,7 +10,17 @@
       "language": "Hindi",
       "category": "Game show",
       "title": "HIN | E59. Kaun Banega Crorepati - Season 17",
-      "url": "https://sonymtmnew.akamaized.net/hls/live/2043696/DAI26ME-KBC/master_lrh-800300010.m3u8?hdnea=exp=1761870603~acl=/*~id=85895514351687908400874494545237~hmac=c95d1dcc88138ee7a677194524e94936645198d5b8927630117c77a8e77e8ec3|x-playback-session-id=8abf25383ba5a27887ff1105ad951f94-1761837124603&User-Agent=com.sonyliv/6.22.4 (Android 13; en_GB; CPH2273; Build/TP1A.220905.001)",
+      "url": "https://sonymtmnew.akamaized.net/hls/live/2043696/DAI26ME-KBC/master_lrh-800300010.m3u8?hdnea=exp=1761870603~acl=/*~id=85895514351687908400874494545237~hmac=c95d1dcc88138ee7a677194524e94936645198d5b8927630117c77a8e77e8ec3|x-playback-session-id=b3dceaeae17573a919b33e8d98bb9631-1761838205051&User-Agent=com.sonyliv/6.22.4 (Android 15; en_GB; moto g85 5G; Build/V1UOS35H.74-16-4-6)",
+      "user_agent": "Unknown"
+    },
+    {
+      "id": "1090492070",
+      "name": "Asia Cup 2025",
+      "logo": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000010049/1760026367682373_AsiaCup_Glory_24x7_Landscape_thumbj_9OCT_re1.jpg",
+      "language": "English",
+      "category": "Cricket",
+      "title": "ENG | India's Asia Cup Glory 24x7",
+      "url": "https://sonymtmnew.akamaized.net/hls/live/2022315/DAI11ME-AC24X7/master_lrh.m3u8?hdnea=exp=1761870603~acl=/*~id=85895514351687908400874494545237~hmac=c95d1dcc88138ee7a677194524e94936645198d5b8927630117c77a8e77e8ec3|x-playback-session-id=b3dceaeae17573a919b33e8d98bb9631-1761838205051&User-Agent=com.sonyliv/6.22.4 (Android 14; en_GB; CPH2603; Build/UP1A.230620.001)",
       "user_agent": "Unknown"
     },
     {
@@ -30,7 +30,7 @@
       "language": "English",
       "category": "Tennis",
       "title": "ENG | Round 3 - 30 Oct 2025",
-      "url": "https://sonymtmnew.akamaized.net/hls/live/2037139/DAI19ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1761870603~acl=/*~id=85895514351687908400874494545237~hmac=c95d1dcc88138ee7a677194524e94936645198d5b8927630117c77a8e77e8ec3|x-playback-session-id=8abf25383ba5a27887ff1105ad951f94-1761837124603&User-Agent=com.sonyliv/6.22.4 (Android 16; en_GB; CPH2721; Build/BP2A.250605.015)",
+      "url": "https://sonymtmnew.akamaized.net/hls/live/2037139/DAI19ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1761870603~acl=/*~id=85895514351687908400874494545237~hmac=c95d1dcc88138ee7a677194524e94936645198d5b8927630117c77a8e77e8ec3|x-playback-session-id=b3dceaeae17573a919b33e8d98bb9631-1761838205051&User-Agent=com.sonyliv/6.22.4 (Android 14; en_GB; AD930H32; Build/UP1A.231005.007.A1)",
       "user_agent": "Unknown"
     }
   ]
