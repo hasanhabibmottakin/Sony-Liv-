@@ -1,6 +1,6 @@
 {
   "api_made_by": "bd coder boy",
-  "updated": "Thu, 30 Oct 2025 19:27:27 GMT",
+  "updated": "Thu, 30 Oct 2025 19:37:24 GMT",
   "total_events": 2,
   "events": [
     {
@@ -10,7 +10,7 @@
       "language": "English",
       "category": "Cricket",
       "title": "ENG | India's Asia Cup Glory 24x7",
-      "url": "https://sonymtmnew.akamaized.net/hls/live/2022315/DAI11ME-AC24X7/master_lrh.m3u8?hdnea=exp=1761870603~acl=/*~id=85895514351687908400874494545237~hmac=c95d1dcc88138ee7a677194524e94936645198d5b8927630117c77a8e77e8ec3|x-playback-session-id=5cf59e0f290e24fa77757b1059b52a02-1761852363393&User-Agent=com.sonyliv/6.22.4 (Android 16; en_GB; sdk_gphone16k_x86_64; Build/BP41.250822.007)",
+      "url": "https://sonymtmnew.akamaized.net/hls/live/2022315/DAI11ME-AC24X7/master_lrh.m3u8?hdnea=exp=1761870603~acl=/*~id=85895514351687908400874494545237~hmac=c95d1dcc88138ee7a677194524e94936645198d5b8927630117c77a8e77e8ec3|x-playback-session-id=2e8367e791d910ee15e97cc816d5d9bc-1761853023951&User-Agent=com.sonyliv/6.22.4 (Android 11; en_GB; Haier MatrixTV AEL; Build/RTM9.241015.099)",
       "user_agent": "Unknown"
     },
     {
@@ -20,7 +20,7 @@
       "language": "English",
       "category": "Tennis",
       "title": "ENG | Round 3 - 30 Oct 2025",
-      "url": "https://sonymtmnew.akamaized.net/hls/live/2037139/DAI19ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1761870603~acl=/*~id=85895514351687908400874494545237~hmac=c95d1dcc88138ee7a677194524e94936645198d5b8927630117c77a8e77e8ec3|x-playback-session-id=5cf59e0f290e24fa77757b1059b52a02-1761852363393&User-Agent=com.sonyliv/6.22.4 (Android 12; en_GB; SM-T225; Build/SP1A.210812.016)",
+      "url": "https://sonymtmnew.akamaized.net/hls/live/2037139/DAI19ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1761870603~acl=/*~id=85895514351687908400874494545237~hmac=c95d1dcc88138ee7a677194524e94936645198d5b8927630117c77a8e77e8ec3|x-playback-session-id=2e8367e791d910ee15e97cc816d5d9bc-1761853023951&User-Agent=com.sonyliv/6.22.4 (Android 12; en_GB; Infinix X666B; Build/SP1A.210812.016)",
       "user_agent": "Unknown"
     }
   ]
