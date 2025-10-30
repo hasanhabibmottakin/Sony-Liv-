@@ -1,6 +1,6 @@
 {
   "api_made_by": "bd coder boy",
-  "updated": "Thu, 30 Oct 2025 20:14:52 GMT",
+  "updated": "Thu, 30 Oct 2025 20:33:56 GMT",
   "total_events": 2,
   "events": [
     {
@@ -10,7 +10,7 @@
       "language": "English",
       "category": "Cricket",
       "title": "ENG | India's Asia Cup Glory 24x7",
-      "url": "https://sonymtmnew.akamaized.net/hls/live/2022315/DAI11ME-AC24X7/master_lrh.m3u8?hdnea=exp=1761870603~acl=/*~id=85895514351687908400874494545237~hmac=c95d1dcc88138ee7a677194524e94936645198d5b8927630117c77a8e77e8ec3|x-playback-session-id=096e56c2d2284a1e2d462df4aed698c4-1761855124194&User-Agent=com.sonyliv/6.22.4 (Android 10; en_GB; TECbox; Build/QP1A.191105.004)",
+      "url": "https://sonymtmnew.akamaized.net/hls/live/2022315/DAI11ME-AC24X7/master_lrh.m3u8?hdnea=exp=1761870603~acl=/*~id=85895514351687908400874494545237~hmac=c95d1dcc88138ee7a677194524e94936645198d5b8927630117c77a8e77e8ec3|x-playback-session-id=adbc8212f8e8e59d4acf826aa5464d7d-1761856202909&User-Agent=com.sonyliv/6.22.4 (Android 9; en_GB; AFTBOXE1; Build/PS7704.5026N)",
       "user_agent": "Unknown"
     },
     {
@@ -20,7 +20,7 @@
       "language": "English",
       "category": "Tennis",
       "title": "ENG | Round 3 - 30 Oct 2025",
-      "url": "https://sonymtmnew.akamaized.net/hls/live/2037139/DAI19ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1761870603~acl=/*~id=85895514351687908400874494545237~hmac=c95d1dcc88138ee7a677194524e94936645198d5b8927630117c77a8e77e8ec3|x-playback-session-id=096e56c2d2284a1e2d462df4aed698c4-1761855124194&User-Agent=com.sonyliv/6.22.4 (Android 10; en_GB; dolphin; Build/NRD91N)",
+      "url": "https://sonymtmnew.akamaized.net/hls/live/2037139/DAI19ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1761870603~acl=/*~id=85895514351687908400874494545237~hmac=c95d1dcc88138ee7a677194524e94936645198d5b8927630117c77a8e77e8ec3|x-playback-session-id=adbc8212f8e8e59d4acf826aa5464d7d-1761856202909&User-Agent=com.sonyliv/6.22.4 (Android 24; en_GB; TX100 PRO 5G; Build/D9 PRO 5G)",
       "user_agent": "Unknown"
     }
   ]
