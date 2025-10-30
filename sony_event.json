@@ -1,6 +1,6 @@
 {
   "api_made_by": "bd coder boy",
-  "updated": "Thu, 30 Oct 2025 20:54:01 GMT",
+  "updated": "Thu, 30 Oct 2025 21:12:11 GMT",
   "total_events": 2,
   "events": [
     {
@@ -10,7 +10,7 @@
       "language": "English",
       "category": "Cricket",
       "title": "ENG | India's Asia Cup Glory 24x7",
-      "url": "https://sonymtmnew.akamaized.net/hls/live/2022315/DAI11ME-AC24X7/master_lrh.m3u8?hdnea=exp=1761892203~acl=/*~id=79432124939266926499155059911226~hmac=3828733e8231dc955e1d85ca29e8e41e014bfe54c5e9b093a6250f56cc540b6a|x-playback-session-id=aca8cc869e872e39c3bb95f712916da8-1761857464511&User-Agent=com.sonyliv/6.22.4 (Android 15; en_GB; LAVA LXX519; Build/AQ3A.241114.001)",
+      "url": "https://sonymtmnew.akamaized.net/hls/live/2022315/DAI11ME-AC24X7/master_lrh.m3u8?hdnea=exp=1761892203~acl=/*~id=79432124939266926499155059911226~hmac=3828733e8231dc955e1d85ca29e8e41e014bfe54c5e9b093a6250f56cc540b6a|x-playback-session-id=dddce257dbf784d14312c3ca05babb02-1761858304311&User-Agent=com.sonyliv/6.22.4 (Android 9; en_GB; AFTR; Build/PS7704.5024N)",
       "user_agent": "Unknown"
     },
     {
@@ -20,7 +20,7 @@
       "language": "English",
       "category": "Tennis",
       "title": "ENG | Round 3 - 30 Oct 2025",
-      "url": "https://sonymtmnew.akamaized.net/hls/live/2037139/DAI19ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1761892203~acl=/*~id=79432124939266926499155059911226~hmac=3828733e8231dc955e1d85ca29e8e41e014bfe54c5e9b093a6250f56cc540b6a|x-playback-session-id=aca8cc869e872e39c3bb95f712916da8-1761857464511&User-Agent=com.sonyliv/6.22.4 (Android 9; en_GB; CPH1931; Build/PKQ1.190714.001)",
+      "url": "https://sonymtmnew.akamaized.net/hls/live/2037139/DAI19ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1761892203~acl=/*~id=79432124939266926499155059911226~hmac=3828733e8231dc955e1d85ca29e8e41e014bfe54c5e9b093a6250f56cc540b6a|x-playback-session-id=dddce257dbf784d14312c3ca05babb02-1761858304311&User-Agent=com.sonyliv/6.22.4 (Android 15; en_GB; AndroidTV; Build/D9 PRO 5G)",
       "user_agent": "Unknown"
     }
   ]
