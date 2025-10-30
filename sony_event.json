@@ -1,6 +1,6 @@
 {
   "api_made_by": "bd coder boy",
-  "updated": "Thu, 30 Oct 2025 20:33:56 GMT",
+  "updated": "Thu, 30 Oct 2025 20:46:17 GMT",
   "total_events": 2,
   "events": [
     {
@@ -10,7 +10,7 @@
       "language": "English",
       "category": "Cricket",
       "title": "ENG | India's Asia Cup Glory 24x7",
-      "url": "https://sonymtmnew.akamaized.net/hls/live/2022315/DAI11ME-AC24X7/master_lrh.m3u8?hdnea=exp=1761870603~acl=/*~id=85895514351687908400874494545237~hmac=c95d1dcc88138ee7a677194524e94936645198d5b8927630117c77a8e77e8ec3|x-playback-session-id=adbc8212f8e8e59d4acf826aa5464d7d-1761856202909&User-Agent=com.sonyliv/6.22.4 (Android 9; en_GB; AFTBOXE1; Build/PS7704.5026N)",
+      "url": "https://sonymtmnew.akamaized.net/hls/live/2022315/DAI11ME-AC24X7/master_lrh.m3u8?hdnea=exp=1761892203~acl=/*~id=79432124939266926499155059911226~hmac=3828733e8231dc955e1d85ca29e8e41e014bfe54c5e9b093a6250f56cc540b6a|x-playback-session-id=70a9de7a5e76ba2a332d69a5db141266-1761857043506&User-Agent=com.sonyliv/6.22.4 (Android 15; en_GB; RMX3999; Build/AP3A.240617.008)",
       "user_agent": "Unknown"
     },
     {
@@ -20,7 +20,7 @@
       "language": "English",
       "category": "Tennis",
       "title": "ENG | Round 3 - 30 Oct 2025",
-      "url": "https://sonymtmnew.akamaized.net/hls/live/2037139/DAI19ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1761870603~acl=/*~id=85895514351687908400874494545237~hmac=c95d1dcc88138ee7a677194524e94936645198d5b8927630117c77a8e77e8ec3|x-playback-session-id=adbc8212f8e8e59d4acf826aa5464d7d-1761856202909&User-Agent=com.sonyliv/6.22.4 (Android 24; en_GB; TX100 PRO 5G; Build/D9 PRO 5G)",
+      "url": "https://sonymtmnew.akamaized.net/hls/live/2037139/DAI19ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1761892203~acl=/*~id=79432124939266926499155059911226~hmac=3828733e8231dc955e1d85ca29e8e41e014bfe54c5e9b093a6250f56cc540b6a|x-playback-session-id=70a9de7a5e76ba2a332d69a5db141266-1761857043506&User-Agent=com.sonyliv/6.22.4 (Android 13; en_GB; SM-A528B; Build/TP1A.220624.014)",
       "user_agent": "Unknown"
     }
   ]
