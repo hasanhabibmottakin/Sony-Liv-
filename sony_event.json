@@ -1,6 +1,6 @@
 {
   "api_made_by": "bd coder boy",
-  "updated": "Fri, 31 Oct 2025 17:32:41 GMT",
+  "updated": "Fri, 31 Oct 2025 17:44:09 GMT",
   "total_events": 2,
   "events": [
     {
@@ -10,17 +10,17 @@
       "language": "Hindi",
       "category": "Game show",
       "title": "HIN | Kaun Banega Crorepati - Season 17",
-      "url": "https://sonymtmnew.akamaized.net/hls/live/2022321/DAI17ME-KBC/master_lrh-800300010.m3u8?hdnea=exp=1761957003~acl=/*~id=40907598592570638541251078601613~hmac=9c153b28471c104acf986e4e005f94b53c5f1752458aa1773d8317aa75f89084|x-playback-session-id=4b269b136f873fad90cd5aa71f553cd2-1761931802998&User-Agent=com.sonyliv/6.22.4 (Android 7; en_GB; SM-G977N; Build/N2G48B)",
+      "url": "https://sonymtmnew.akamaized.net/hls/live/2022321/DAI17ME-KBC/master_lrh-800300010.m3u8?hdnea=exp=1761957003~acl=/*~id=40907598592570638541251078601613~hmac=9c153b28471c104acf986e4e005f94b53c5f1752458aa1773d8317aa75f89084|x-playback-session-id=58c9ba01c6d59ebf39463cfb14a3233e-1761932225861&User-Agent=com.sonyliv/6.22.4 (Android 14; en_GB; M2012K11I; Build/UKQ1.231207.002)",
       "user_agent": "Unknown"
     },
     {
       "id": "1090493181",
       "name": "ATP Rolex Paris Masters 2025",
-      "logo": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000010687/1761906542456440_ATP_rolex25_QF_Bublik_vs_De_Minaur_31oct_landscape_thumb.jpg",
+      "logo": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000010687/1761907169501440_ATP_rolex25_QF_shelton_vs_sinner_31oct_landscape_thumb.jpg",
       "language": "English",
       "category": "Tennis",
-      "title": "ENG | Bublik vs De Minaur - QF - 31 Oct 2025",
-      "url": "https://sonymtmnew.akamaized.net/hls/live/2037139/DAI19ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1761957003~acl=/*~id=40907598592570638541251078601613~hmac=9c153b28471c104acf986e4e005f94b53c5f1752458aa1773d8317aa75f89084|x-playback-session-id=4b269b136f873fad90cd5aa71f553cd2-1761931802998&User-Agent=com.sonyliv/6.22.4 (Android 14; en_GB; SM-A042M; Build/UP1A.231005.007)",
+      "title": "ENG | Shelton vs Sinner - QF - 31 Oct 2025",
+      "url": "https://sonymtmnew.akamaized.net/hls/live/2037139/DAI19ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1761957003~acl=/*~id=40907598592570638541251078601613~hmac=9c153b28471c104acf986e4e005f94b53c5f1752458aa1773d8317aa75f89084|x-playback-session-id=58c9ba01c6d59ebf39463cfb14a3233e-1761932225861&User-Agent=com.sonyliv/6.22.4 (Android 15; en_GB; REA-NX9; Build/HONORREA-N39I)",
       "user_agent": "Unknown"
     }
   ]
