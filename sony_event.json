@@ -1,6 +1,6 @@
 {
   "api_made_by": "bd coder boy",
-  "updated": "Fri, 31 Oct 2025 18:56:25 GMT",
+  "updated": "Fri, 31 Oct 2025 19:11:27 GMT",
   "total_events": 3,
   "events": [
     {
@@ -10,7 +10,7 @@
       "language": "English",
       "category": "Football",
       "title": "ENG | FC Augsburg vs Borussia Dortmund - MD 9 - 1 Nov 2025",
-      "url": "https://sonymtmnew.akamaized.net/hls/live/2094588/DAI04ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1761957003~acl=/*~id=40907598592570638541251078601613~hmac=9c153b28471c104acf986e4e005f94b53c5f1752458aa1773d8317aa75f89084|x-playback-session-id=7b93bc5fc6706a2df448d61493b93f42-1761936666485&User-Agent=com.sonyliv/6.22.4 (Android 11; en_GB; BP Android TV; Build/RTO5.230816.001)",
+      "url": "https://sonymtmnew.akamaized.net/hls/live/2094588/DAI04ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1761957003~acl=/*~id=40907598592570638541251078601613~hmac=9c153b28471c104acf986e4e005f94b53c5f1752458aa1773d8317aa75f89084|x-playback-session-id=11505dd942faf7fe5c4b7d0d58d830e6-1761937503956&User-Agent=com.sonyliv/6.22.4 (Android 16; en_GB; 2107113SG; Build/BP2A.250605.031.A2)",
       "user_agent": "Unknown"
     },
     {
@@ -20,7 +20,7 @@
       "language": "Hindi",
       "category": "Game show",
       "title": "HIN | Kaun Banega Crorepati - Season 17",
-      "url": "https://sonymtmnew.akamaized.net/hls/live/2022321/DAI17ME-KBC/master_lrh-800300010.m3u8?hdnea=exp=1761957003~acl=/*~id=40907598592570638541251078601613~hmac=9c153b28471c104acf986e4e005f94b53c5f1752458aa1773d8317aa75f89084|x-playback-session-id=7b93bc5fc6706a2df448d61493b93f42-1761936666485&User-Agent=com.sonyliv/6.22.4 (Android 11; en_GB; TECNO KG6; Build/RP1A.200720.011)",
+      "url": "https://sonymtmnew.akamaized.net/hls/live/2022321/DAI17ME-KBC/master_lrh-800300010.m3u8?hdnea=exp=1761957003~acl=/*~id=40907598592570638541251078601613~hmac=9c153b28471c104acf986e4e005f94b53c5f1752458aa1773d8317aa75f89084|x-playback-session-id=11505dd942faf7fe5c4b7d0d58d830e6-1761937503956&User-Agent=com.sonyliv/6.22.4 (Android 12; en_GB; M2007J3SI; Build/SKQ1.211006.001)",
       "user_agent": "Unknown"
     },
     {
@@ -30,7 +30,7 @@
       "language": "English",
       "category": "Tennis",
       "title": "ENG | Shelton vs Sinner - QF - 31 Oct 2025",
-      "url": "https://sonymtmnew.akamaized.net/hls/live/2037139/DAI19ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1761957003~acl=/*~id=40907598592570638541251078601613~hmac=9c153b28471c104acf986e4e005f94b53c5f1752458aa1773d8317aa75f89084|x-playback-session-id=7b93bc5fc6706a2df448d61493b93f42-1761936666485&User-Agent=com.sonyliv/6.22.4 (Android 10; en_GB; CPH1933; Build/QKQ1.200209.002)",
+      "url": "https://sonymtmnew.akamaized.net/hls/live/2037139/DAI19ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1761957003~acl=/*~id=40907598592570638541251078601613~hmac=9c153b28471c104acf986e4e005f94b53c5f1752458aa1773d8317aa75f89084|x-playback-session-id=11505dd942faf7fe5c4b7d0d58d830e6-1761937503956&User-Agent=com.sonyliv/6.22.4 (Android 13; en_GB; 23053RN02A; Build/TP1A.220624.014)",
       "user_agent": "Unknown"
     }
   ]
