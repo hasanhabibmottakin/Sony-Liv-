@@ -1,6 +1,6 @@
 {
   "api_made_by": "bd coder boy",
-  "updated": "Fri, 31 Oct 2025 05:45:45 GMT",
+  "updated": "Fri, 31 Oct 2025 05:54:03 GMT",
   "total_events": 1,
   "events": [
     {
@@ -10,7 +10,7 @@
       "language": "English",
       "category": "Cricket",
       "title": "ENG | India's Asia Cup Glory 24x7",
-      "url": "https://sonymtmnew.akamaized.net/hls/live/2022315/DAI11ME-AC24X7/master_lrh.m3u8?hdnea=exp=1761913803~acl=/*~id=00211810355032217061697352262470~hmac=eaeed2a1ba73f2cce6e10b19e0dae2090e209474a0ab905310c993c8d8f714b1|x-playback-session-id=24839cc51452a07c5d85c83ba0539d89-1761889444261&User-Agent=com.sonyliv/6.22.4 (Android 20; en_GB; TX20 PRO; Build/QP1A.191105.004)",
+      "url": "https://sonymtmnew.akamaized.net/hls/live/2022315/DAI11ME-AC24X7/master_lrh.m3u8?hdnea=exp=1761913803~acl=/*~id=00211810355032217061697352262470~hmac=eaeed2a1ba73f2cce6e10b19e0dae2090e209474a0ab905310c993c8d8f714b1|x-playback-session-id=3bcb671a3a09258c25c38b04a8d94b02-1761889865889&User-Agent=com.sonyliv/6.22.4 (Android 15; en_GB; V2443; Build/AP3A.240905.015.A2_V000L1)",
       "user_agent": "Unknown"
     }
   ]
