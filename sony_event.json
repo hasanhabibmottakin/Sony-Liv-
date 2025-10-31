@@ -1,16 +1,26 @@
 {
   "api_made_by": "bd coder boy",
-  "updated": "Fri, 31 Oct 2025 15:12:48 GMT",
-  "total_events": 1,
+  "updated": "Fri, 31 Oct 2025 15:33:05 GMT",
+  "total_events": 2,
   "events": [
+    {
+      "id": "1090486148",
+      "name": "Kaun Banega Crorepati",
+      "logo": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000010674/1761887102376777_KBC25_Diljit_special_31oct_simulcast_landscape_thumb.jpg",
+      "language": "Hindi",
+      "category": "Game show",
+      "title": "HIN | Kaun Banega Crorepati - Season 17",
+      "url": "https://sonymtmnew.akamaized.net/hls/live/2022321/DAI17ME-KBC/master_lrh-800300010.m3u8?hdnea=exp=1761957003~acl=/*~id=40907598592570638541251078601613~hmac=9c153b28471c104acf986e4e005f94b53c5f1752458aa1773d8317aa75f89084|x-playback-session-id=9ffd1d97e0787356fabf3f12b5616ccb-1761924606147&User-Agent=com.sonyliv/6.22.4 (Android 14; en_GB; IMPEX evoQ 4K; Build/UKN3.250415.053)",
+      "user_agent": "Unknown"
+    },
     {
       "id": "1090493181",
       "name": "ATP Rolex Paris Masters 2025",
-      "logo": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000010687/1761905367703440_ATP_rolex25_QF_Vacherot_vs_Auger_Aliassime_31oct_landscape_thumb.jpg",
+      "logo": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000010687/1761906542456440_ATP_rolex25_QF_Bublik_vs_De_Minaur_31oct_landscape_thumb.jpg",
       "language": "English",
       "category": "Tennis",
-      "title": "ENG | Vacherot vs Auger-Aliassime - QF - 31 Oct 2025",
-      "url": "https://sonymtmnew.akamaized.net/hls/live/2037139/DAI19ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1761957003~acl=/*~id=40907598592570638541251078601613~hmac=9c153b28471c104acf986e4e005f94b53c5f1752458aa1773d8317aa75f89084|x-playback-session-id=0cbaa551afbd50044679b339e23e6531-1761923103857&User-Agent=com.sonyliv/6.22.4 (Android 12; en_GB; RMX2151; Build/SP1A.210812.016)",
+      "title": "ENG | Bublik vs De Minaur - QF - 31 Oct 2025",
+      "url": "https://sonymtmnew.akamaized.net/hls/live/2037139/DAI19ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1761957003~acl=/*~id=40907598592570638541251078601613~hmac=9c153b28471c104acf986e4e005f94b53c5f1752458aa1773d8317aa75f89084|x-playback-session-id=9ffd1d97e0787356fabf3f12b5616ccb-1761924606147&User-Agent=com.sonyliv/6.22.4 (Android 13; en_GB; RMX3612; Build/TP1A.220905.001)",
       "user_agent": "Unknown"
     }
   ]
