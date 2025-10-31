@@ -1,6 +1,6 @@
 {
   "api_made_by": "bd coder boy",
-  "updated": "Fri, 31 Oct 2025 16:42:24 GMT",
+  "updated": "Fri, 31 Oct 2025 16:56:33 GMT",
   "total_events": 2,
   "events": [
     {
@@ -10,7 +10,7 @@
       "language": "Hindi",
       "category": "Game show",
       "title": "HIN | Kaun Banega Crorepati - Season 17",
-      "url": "https://sonymtmnew.akamaized.net/hls/live/2022321/DAI17ME-KBC/master_lrh-800300010.m3u8?hdnea=exp=1761957003~acl=/*~id=40907598592570638541251078601613~hmac=9c153b28471c104acf986e4e005f94b53c5f1752458aa1773d8317aa75f89084|x-playback-session-id=e0bd482fc89b8a6df4e5d10a74b97cb1-1761928623140&User-Agent=com.sonyliv/6.22.4 (Android 14; en_GB; CLK-LX2; Build/HONORCLK-L42)",
+      "url": "https://sonymtmnew.akamaized.net/hls/live/2022321/DAI17ME-KBC/master_lrh-800300010.m3u8?hdnea=exp=1761957003~acl=/*~id=40907598592570638541251078601613~hmac=9c153b28471c104acf986e4e005f94b53c5f1752458aa1773d8317aa75f89084|x-playback-session-id=bc5249d2777bce70d6b9128dc0637952-1761929463303&User-Agent=com.sonyliv/6.22.4 (Android 15; en_GB; TB336FU; Build/AP3A.240905.015.A2)",
       "user_agent": "Unknown"
     },
     {
@@ -20,7 +20,7 @@
       "language": "English",
       "category": "Tennis",
       "title": "ENG | Bublik vs De Minaur - QF - 31 Oct 2025",
-      "url": "https://sonymtmnew.akamaized.net/hls/live/2037139/DAI19ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1761957003~acl=/*~id=40907598592570638541251078601613~hmac=9c153b28471c104acf986e4e005f94b53c5f1752458aa1773d8317aa75f89084|x-playback-session-id=e0bd482fc89b8a6df4e5d10a74b97cb1-1761928623140&User-Agent=com.sonyliv/6.22.4 (Android 24; en_GB; binge; Build/QP1A.191105.004)",
+      "url": "https://sonymtmnew.akamaized.net/hls/live/2037139/DAI19ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1761957003~acl=/*~id=40907598592570638541251078601613~hmac=9c153b28471c104acf986e4e005f94b53c5f1752458aa1773d8317aa75f89084|x-playback-session-id=bc5249d2777bce70d6b9128dc0637952-1761929463303&User-Agent=com.sonyliv/6.22.4 (Android 12; en_GB; N.H352.818.V4; Build/SP1A.210812.016)",
       "user_agent": "Unknown"
     }
   ]
