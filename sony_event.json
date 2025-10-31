@@ -1,6 +1,6 @@
 {
   "api_made_by": "bd coder boy",
-  "updated": "Fri, 31 Oct 2025 15:33:05 GMT",
+  "updated": "Fri, 31 Oct 2025 15:46:14 GMT",
   "total_events": 2,
   "events": [
     {
@@ -10,7 +10,7 @@
       "language": "Hindi",
       "category": "Game show",
       "title": "HIN | Kaun Banega Crorepati - Season 17",
-      "url": "https://sonymtmnew.akamaized.net/hls/live/2022321/DAI17ME-KBC/master_lrh-800300010.m3u8?hdnea=exp=1761957003~acl=/*~id=40907598592570638541251078601613~hmac=9c153b28471c104acf986e4e005f94b53c5f1752458aa1773d8317aa75f89084|x-playback-session-id=9ffd1d97e0787356fabf3f12b5616ccb-1761924606147&User-Agent=com.sonyliv/6.22.4 (Android 14; en_GB; IMPEX evoQ 4K; Build/UKN3.250415.053)",
+      "url": "https://sonymtmnew.akamaized.net/hls/live/2022321/DAI17ME-KBC/master_lrh-800300010.m3u8?hdnea=exp=1761957003~acl=/*~id=40907598592570638541251078601613~hmac=9c153b28471c104acf986e4e005f94b53c5f1752458aa1773d8317aa75f89084|x-playback-session-id=2e27d7d391da1092d6bda3f632f233eb-1761925443560&User-Agent=com.sonyliv/6.22.4 (Android 12; en_GB; M2007J17I; Build/SKQ1.211006.001)",
       "user_agent": "Unknown"
     },
     {
@@ -20,7 +20,7 @@
       "language": "English",
       "category": "Tennis",
       "title": "ENG | Bublik vs De Minaur - QF - 31 Oct 2025",
-      "url": "https://sonymtmnew.akamaized.net/hls/live/2037139/DAI19ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1761957003~acl=/*~id=40907598592570638541251078601613~hmac=9c153b28471c104acf986e4e005f94b53c5f1752458aa1773d8317aa75f89084|x-playback-session-id=9ffd1d97e0787356fabf3f12b5616ccb-1761924606147&User-Agent=com.sonyliv/6.22.4 (Android 13; en_GB; RMX3612; Build/TP1A.220905.001)",
+      "url": "https://sonymtmnew.akamaized.net/hls/live/2037139/DAI19ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1761957003~acl=/*~id=40907598592570638541251078601613~hmac=9c153b28471c104acf986e4e005f94b53c5f1752458aa1773d8317aa75f89084|x-playback-session-id=2e27d7d391da1092d6bda3f632f233eb-1761925443560&User-Agent=com.sonyliv/6.22.4 (Android 11; en_GB; TESLA 4K TV FF; Build/RTT2.220103.001)",
       "user_agent": "Unknown"
     }
   ]
