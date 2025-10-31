@@ -1,6 +1,6 @@
 {
   "api_made_by": "bd coder boy",
-  "updated": "Fri, 31 Oct 2025 17:15:25 GMT",
+  "updated": "Fri, 31 Oct 2025 17:32:41 GMT",
   "total_events": 2,
   "events": [
     {
@@ -10,7 +10,7 @@
       "language": "Hindi",
       "category": "Game show",
       "title": "HIN | Kaun Banega Crorepati - Season 17",
-      "url": "https://sonymtmnew.akamaized.net/hls/live/2022321/DAI17ME-KBC/master_lrh-800300010.m3u8?hdnea=exp=1761957003~acl=/*~id=40907598592570638541251078601613~hmac=9c153b28471c104acf986e4e005f94b53c5f1752458aa1773d8317aa75f89084|x-playback-session-id=4ab578785f2b143eb6563c19aa65644b-1761930724539&User-Agent=com.sonyliv/6.22.4 (Android 11; en_GB; Mi 10; Build/RP1A.200720.011)",
+      "url": "https://sonymtmnew.akamaized.net/hls/live/2022321/DAI17ME-KBC/master_lrh-800300010.m3u8?hdnea=exp=1761957003~acl=/*~id=40907598592570638541251078601613~hmac=9c153b28471c104acf986e4e005f94b53c5f1752458aa1773d8317aa75f89084|x-playback-session-id=4b269b136f873fad90cd5aa71f553cd2-1761931802998&User-Agent=com.sonyliv/6.22.4 (Android 7; en_GB; SM-G977N; Build/N2G48B)",
       "user_agent": "Unknown"
     },
     {
@@ -20,7 +20,7 @@
       "language": "English",
       "category": "Tennis",
       "title": "ENG | Bublik vs De Minaur - QF - 31 Oct 2025",
-      "url": "https://sonymtmnew.akamaized.net/hls/live/2037139/DAI19ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1761957003~acl=/*~id=40907598592570638541251078601613~hmac=9c153b28471c104acf986e4e005f94b53c5f1752458aa1773d8317aa75f89084|x-playback-session-id=4ab578785f2b143eb6563c19aa65644b-1761930724539&User-Agent=com.sonyliv/6.22.4 (Android 10; en_GB; HRY-LX1; Build/HONORHRY-L21)",
+      "url": "https://sonymtmnew.akamaized.net/hls/live/2037139/DAI19ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1761957003~acl=/*~id=40907598592570638541251078601613~hmac=9c153b28471c104acf986e4e005f94b53c5f1752458aa1773d8317aa75f89084|x-playback-session-id=4b269b136f873fad90cd5aa71f553cd2-1761931802998&User-Agent=com.sonyliv/6.22.4 (Android 14; en_GB; SM-A042M; Build/UP1A.231005.007)",
       "user_agent": "Unknown"
     }
   ]
