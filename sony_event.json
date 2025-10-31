@@ -1,6 +1,6 @@
 {
   "api_made_by": "bd coder boy",
-  "updated": "Fri, 31 Oct 2025 09:34:24 GMT",
+  "updated": "Fri, 31 Oct 2025 09:46:02 GMT",
   "total_events": 1,
   "events": [
     {
@@ -10,7 +10,7 @@
       "language": "English",
       "category": "Cricket",
       "title": "ENG | India's Asia Cup Glory 24x7",
-      "url": "https://sonymtmnew.akamaized.net/hls/live/2022315/DAI11ME-AC24X7/master_lrh.m3u8?hdnea=exp=1761935403~acl=/*~id=97281700766102212199333172196223~hmac=4fdc2a0324c7766f30351d8303fc7b9d323587d3f6635a4279fc9db590052099|x-playback-session-id=4bcc55401c27b7ccfb11c2ce8d8f7bdd-1761903004867&User-Agent=com.sonyliv/6.22.4 (Android 11; en_GB; IN2021; Build/RP1A.201005.001)",
+      "url": "https://sonymtmnew.akamaized.net/hls/live/2022315/DAI11ME-AC24X7/master_lrh.m3u8?hdnea=exp=1761935403~acl=/*~id=97281700766102212199333172196223~hmac=4fdc2a0324c7766f30351d8303fc7b9d323587d3f6635a4279fc9db590052099|x-playback-session-id=9bed1eae7fd94e2e9599194b1e7ef067-1761903844919&User-Agent=com.sonyliv/6.22.4 (Android 10; en_GB; Lenovo K11 Power; Build/QODS30.163-3-36)",
       "user_agent": "Unknown"
     }
   ]
