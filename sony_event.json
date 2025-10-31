@@ -1,6 +1,6 @@
 {
   "api_made_by": "bd coder boy",
-  "updated": "Fri, 31 Oct 2025 20:15:12 GMT",
+  "updated": "Fri, 31 Oct 2025 20:33:39 GMT",
   "total_events": 2,
   "events": [
     {
@@ -10,7 +10,7 @@
       "language": "English",
       "category": "Football",
       "title": "ENG | FC Augsburg vs Borussia Dortmund - MD 9 - 1 Nov 2025",
-      "url": "https://sonymtmnew.akamaized.net/hls/live/2094588/DAI04ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1761957003~acl=/*~id=40907598592570638541251078601613~hmac=9c153b28471c104acf986e4e005f94b53c5f1752458aa1773d8317aa75f89084|x-playback-session-id=c9fbd013c62d174b88c808d748990c5b-1761941523500&User-Agent=com.sonyliv/6.22.4 (Android 11; en_GB; SHARP 2K EU Android TV; Build/RTM8.240401.092)",
+      "url": "https://sonymtmnew.akamaized.net/hls/live/2094588/DAI04ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1761978603~acl=/*~id=20527694210223483492391212367718~hmac=cc1d1731244ed01f6fd0f7646294bb9bdf1fb53b099a1e8fa4002a0421178e3c|x-playback-session-id=d8c009fdbce5932694a1e53f9a225758-1761942604349&User-Agent=com.sonyliv/6.22.4 (Android 13; en_GB; android TV; Build/QP1A.191105.004)",
       "user_agent": "Unknown"
     },
     {
@@ -20,7 +20,7 @@
       "language": "English",
       "category": "Tennis",
       "title": "ENG | Medvedev vs Zverev - QF - 31 Oct 2025",
-      "url": "https://sonymtmnew.akamaized.net/hls/live/2037139/DAI19ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1761957003~acl=/*~id=40907598592570638541251078601613~hmac=9c153b28471c104acf986e4e005f94b53c5f1752458aa1773d8317aa75f89084|x-playback-session-id=c9fbd013c62d174b88c808d748990c5b-1761941523500&User-Agent=com.sonyliv/6.22.4 (Android 11; en_GB; HY300; Build/SP1A.210812.015-1744032925)",
+      "url": "https://sonymtmnew.akamaized.net/hls/live/2037139/DAI19ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1761978603~acl=/*~id=20527694210223483492391212367718~hmac=cc1d1731244ed01f6fd0f7646294bb9bdf1fb53b099a1e8fa4002a0421178e3c|x-playback-session-id=d8c009fdbce5932694a1e53f9a225758-1761942604349&User-Agent=com.sonyliv/6.22.4 (Android 15; en_GB; CPH2529; Build/UKQ1.230924.001)",
       "user_agent": "Unknown"
     }
   ]
