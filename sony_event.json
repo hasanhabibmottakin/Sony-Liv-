@@ -1,6 +1,6 @@
 {
   "api_made_by": "bd coder boy",
-  "updated": "Fri, 31 Oct 2025 15:54:53 GMT",
+  "updated": "Fri, 31 Oct 2025 16:16:35 GMT",
   "total_events": 2,
   "events": [
     {
@@ -10,7 +10,7 @@
       "language": "Hindi",
       "category": "Game show",
       "title": "HIN | Kaun Banega Crorepati - Season 17",
-      "url": "https://sonymtmnew.akamaized.net/hls/live/2022321/DAI17ME-KBC/master_lrh-800300010.m3u8?hdnea=exp=1761957003~acl=/*~id=40907598592570638541251078601613~hmac=9c153b28471c104acf986e4e005f94b53c5f1752458aa1773d8317aa75f89084|x-playback-session-id=b03d44fa2334a3ba6f5b978f70821aff-1761925864395&User-Agent=com.sonyliv/6.22.4 (Android 13; en_GB; XS100MINI; Build/QP1A.191105.004)",
+      "url": "https://sonymtmnew.akamaized.net/hls/live/2022321/DAI17ME-KBC/master_lrh-800300010.m3u8?hdnea=exp=1761957003~acl=/*~id=40907598592570638541251078601613~hmac=9c153b28471c104acf986e4e005f94b53c5f1752458aa1773d8317aa75f89084|x-playback-session-id=e944b83faa54067d0abb4a13550196a5-1761927122961&User-Agent=com.sonyliv/6.22.4 (Android 11; en_GB; H0030; Build/RTM8.240401.230)",
       "user_agent": "Unknown"
     },
     {
@@ -20,7 +20,7 @@
       "language": "English",
       "category": "Tennis",
       "title": "ENG | Bublik vs De Minaur - QF - 31 Oct 2025",
-      "url": "https://sonymtmnew.akamaized.net/hls/live/2037139/DAI19ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1761957003~acl=/*~id=40907598592570638541251078601613~hmac=9c153b28471c104acf986e4e005f94b53c5f1752458aa1773d8317aa75f89084|x-playback-session-id=b03d44fa2334a3ba6f5b978f70821aff-1761925864395&User-Agent=com.sonyliv/6.22.4 (Android 9; en_GB; SM-J730GM; Build/PPR1.180610.011)",
+      "url": "https://sonymtmnew.akamaized.net/hls/live/2037139/DAI19ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1761957003~acl=/*~id=40907598592570638541251078601613~hmac=9c153b28471c104acf986e4e005f94b53c5f1752458aa1773d8317aa75f89084|x-playback-session-id=e944b83faa54067d0abb4a13550196a5-1761927122961&User-Agent=com.sonyliv/6.22.4 (Android 14; en_GB; 24115RA8EI; Build/UKQ1.240523.001)",
       "user_agent": "Unknown"
     }
   ]
