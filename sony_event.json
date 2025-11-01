@@ -1,6 +1,6 @@
 {
   "api_made_by": "bd coder boy",
-  "updated": "Sat, 01 Nov 2025 18:56:34 GMT",
+  "updated": "Sat, 01 Nov 2025 19:11:16 GMT",
   "total_events": 1,
   "events": [
     {
@@ -10,7 +10,7 @@
       "language": "English",
       "category": "Football",
       "title": "ENG | Bayern Munich vs Bayer Leverkusen - MD 9 - 1 Nov 2025",
-      "url": "https://sonymtmnew.akamaized.net/hls/live/2022318/DAI14ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1762043403~acl=/*~id=37003352931861642894576116390051~hmac=42ef6bf4db71571233d7302bf46ff4faa6abeeb789ef401f2450a687ef6bbed3|x-playback-session-id=0ed2e628ebf5d791d31119e6971c1dce-1762023063596&User-Agent=com.sonyliv/6.22.4 (Android 9; en_GB; UnionTV; Build/PPR2.180905.006.A1)",
+      "url": "https://sonymtmnew.akamaized.net/hls/live/2022318/DAI14ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1762043403~acl=/*~id=37003352931861642894576116390051~hmac=42ef6bf4db71571233d7302bf46ff4faa6abeeb789ef401f2450a687ef6bbed3|x-playback-session-id=7d6c6695d7a3c47907ea990b74bbf353-1762023903929&User-Agent=com.sonyliv/6.22.4 (Android 12; en_GB; 2109119DG; Build/SKQ1.211006.001)",
       "user_agent": "Unknown"
     }
   ]
