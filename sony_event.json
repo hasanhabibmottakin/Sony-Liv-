@@ -1,6 +1,6 @@
 {
   "api_made_by": "bd coder boy",
-  "updated": "Sat, 01 Nov 2025 22:42:45 GMT",
+  "updated": "Sat, 01 Nov 2025 22:53:07 GMT",
   "total_events": 4,
   "events": [
     {
@@ -10,7 +10,7 @@
       "language": "English",
       "category": "Fight Sports",
       "title": "ENG | UFC Fight Night - Garcia vs Onama - 2 Nov 2025",
-      "url": "https://sonymtmnew.akamaized.net/hls/live/2005444/DAI07ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1762065003~acl=/*~id=24331698130805162739537458725333~hmac=9513bc8e643198418eaed40f9ff9233892ecf455728133ccfbdd5f2d1c925dd7|x-playback-session-id=7e99a2ff02bd8d601c580cf9ff5f4dd2-1762036623028&User-Agent=com.sonyliv/6.22.4 (Android 13; en_GB; CPH2341; Build/TP1A.220624.003)",
+      "url": "https://sonymtmnew.akamaized.net/hls/live/2005444/DAI07ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1762065003~acl=/*~id=24331698130805162739537458725333~hmac=9513bc8e643198418eaed40f9ff9233892ecf455728133ccfbdd5f2d1c925dd7|x-playback-session-id=5783ff29cc6878913b2ee99f3bbcff68-1762037463189&User-Agent=com.sonyliv/6.22.4 (Android 10; en_GB; LM-G850; Build/QKQ1.200216.002)",
       "user_agent": "Unknown"
     },
     {
@@ -20,7 +20,7 @@
       "language": "Hindi",
       "category": "Fight Sports",
       "title": "HIN | UFC Fight Night - Garcia vs Onama - 2 Nov 2025",
-      "url": "https://sonymtmnew.akamaized.net/hls/live/2037140/DAI20ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1762065003~acl=/*~id=24331698130805162739537458725333~hmac=9513bc8e643198418eaed40f9ff9233892ecf455728133ccfbdd5f2d1c925dd7|x-playback-session-id=7e99a2ff02bd8d601c580cf9ff5f4dd2-1762036623028&User-Agent=com.sonyliv/6.22.4 (Android 13; en_GB; TVBOX; Build/NHG47L)",
+      "url": "https://sonymtmnew.akamaized.net/hls/live/2037140/DAI20ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1762065003~acl=/*~id=24331698130805162739537458725333~hmac=9513bc8e643198418eaed40f9ff9233892ecf455728133ccfbdd5f2d1c925dd7|x-playback-session-id=5783ff29cc6878913b2ee99f3bbcff68-1762037463189&User-Agent=com.sonyliv/6.22.4 (Android 8; en_GB; SM-G935F; Build/R16NW)",
       "user_agent": "Unknown"
     },
     {
@@ -30,7 +30,7 @@
       "language": "Tamil",
       "category": "Fight Sports",
       "title": "TAM | UFC Fight Night - Garcia vs Onama - 2 Nov 2025",
-      "url": "https://sonymtmnew.akamaized.net/hls/live/2037143/DAI23ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1762065003~acl=/*~id=24331698130805162739537458725333~hmac=9513bc8e643198418eaed40f9ff9233892ecf455728133ccfbdd5f2d1c925dd7|x-playback-session-id=7e99a2ff02bd8d601c580cf9ff5f4dd2-1762036623028&User-Agent=com.sonyliv/6.22.4 (Android 14; en_GB; V2343; Build/UP1A.231005.007)",
+      "url": "https://sonymtmnew.akamaized.net/hls/live/2037143/DAI23ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1762065003~acl=/*~id=24331698130805162739537458725333~hmac=9513bc8e643198418eaed40f9ff9233892ecf455728133ccfbdd5f2d1c925dd7|x-playback-session-id=5783ff29cc6878913b2ee99f3bbcff68-1762037463189&User-Agent=com.sonyliv/6.22.4 (Android 12; en_GB; 24030PN60G; Build/SKQ1.211006.001)",
       "user_agent": "Unknown"
     },
     {
@@ -40,7 +40,7 @@
       "language": "Telugu",
       "category": "Fight Sports",
       "title": "TEL | UFC Fight Night - Garcia vs Onama - 2 Nov 2025",
-      "url": "https://sonymtmnew.akamaized.net/hls/live/2105080/DAI24ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1762065003~acl=/*~id=24331698130805162739537458725333~hmac=9513bc8e643198418eaed40f9ff9233892ecf455728133ccfbdd5f2d1c925dd7|x-playback-session-id=7e99a2ff02bd8d601c580cf9ff5f4dd2-1762036623028&User-Agent=com.sonyliv/6.22.4 (Android 11; en_GB; VU TV; Build/RTM4.220307.232)",
+      "url": "https://sonymtmnew.akamaized.net/hls/live/2105080/DAI24ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1762065003~acl=/*~id=24331698130805162739537458725333~hmac=9513bc8e643198418eaed40f9ff9233892ecf455728133ccfbdd5f2d1c925dd7|x-playback-session-id=5783ff29cc6878913b2ee99f3bbcff68-1762037463189&User-Agent=com.sonyliv/6.22.4 (Android 10; en_GB; BC-313-2/16; Build/QP1A.191105.004)",
       "user_agent": "Unknown"
     }
   ]
