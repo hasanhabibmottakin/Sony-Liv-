@@ -1,6 +1,6 @@
 {
   "api_made_by": "bd coder boy",
-  "updated": "Sat, 01 Nov 2025 07:53:08 GMT",
+  "updated": "Sat, 01 Nov 2025 08:15:41 GMT",
   "total_events": 2,
   "events": [
     {
@@ -10,7 +10,7 @@
       "language": "English",
       "category": "Cricket",
       "title": "ENG | 3rd ODI - 1 Nov 2025",
-      "url": "https://sonymtmnew.akamaized.net/hls/live/2018457/engvsnz/ENG/std_lrh-800300010.m3u8?hdnea=exp=1762000203~acl=/*~id=55797118801370133989852392420250~hmac=03c81c71991a20d4d49d458bf4b8270f1c8477c5f165d39cd165643506ec6260|x-playback-session-id=587dceacb80a65572397ef13f7fe073e-1761983464838&User-Agent=com.sonyliv/6.22.4 (Android 14; en_GB; CLK-LX2; Build/HONORCLK-L42)",
+      "url": "https://sonymtmnew.akamaized.net/hls/live/2018457/engvsnz/ENG/std_lrh-800300010.m3u8?hdnea=exp=1762000203~acl=/*~id=55797118801370133989852392420250~hmac=03c81c71991a20d4d49d458bf4b8270f1c8477c5f165d39cd165643506ec6260|x-playback-session-id=c65112109b5dc4714cb54995c0de1a17-1761984724008&User-Agent=com.sonyliv/6.22.4 (Android 14; en_GB; Mi A1; Build/AP2A.240905.003)",
       "user_agent": "Unknown"
     },
     {
@@ -20,7 +20,7 @@
       "language": "English",
       "category": "Golf",
       "title": "ENG | LINK Hong Kong Open - Day 3 - 1 Nov 2025",
-      "url": "https://sonymtmnew.akamaized.net/hls/live/2022320/DAI16ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1762000203~acl=/*~id=55797118801370133989852392420250~hmac=03c81c71991a20d4d49d458bf4b8270f1c8477c5f165d39cd165643506ec6260|x-playback-session-id=587dceacb80a65572397ef13f7fe073e-1761983464838&User-Agent=com.sonyliv/6.22.4 (Android 14; en_GB; onn. Streaming Device 4K pro; Build/URO1.250103.029.C1)",
+      "url": "https://sonymtmnew.akamaized.net/hls/live/2022320/DAI16ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1762000203~acl=/*~id=55797118801370133989852392420250~hmac=03c81c71991a20d4d49d458bf4b8270f1c8477c5f165d39cd165643506ec6260|x-playback-session-id=c65112109b5dc4714cb54995c0de1a17-1761984724008&User-Agent=com.sonyliv/6.22.4 (Android 13; en_GB; SM-M135FU; Build/TP1A.220624.014)",
       "user_agent": "Unknown"
     }
   ]
