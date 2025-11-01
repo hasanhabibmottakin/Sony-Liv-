@@ -1,17 +1,6 @@
 {
   "api_made_by": "bd coder boy",
-  "updated": "Sat, 01 Nov 2025 08:55:19 GMT",
-  "total_events": 1,
-  "events": [
-    {
-      "id": "1090492564",
-      "name": "England Tour of New Zealand 2025",
-      "logo": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000010526/1761362695364543_NZvsENG25_3ODI_24oct_Landscape_thumb_Live.jpg",
-      "language": "English",
-      "category": "Cricket",
-      "title": "ENG | 3rd ODI - 1 Nov 2025",
-      "url": "https://sonymtmnew.akamaized.net/hls/live/2018457/engvsnz/ENG/std_lrh-800300010.m3u8?hdnea=exp=1762021803~acl=/*~id=94334571530826044148856585406426~hmac=c54b0801d4b856eec3a9f3ae48fd67cdffd7bb6468839fa75986851409db62b1|x-playback-session-id=fec2e2b0c90548fd9872bd5d255f109f-1761987064467&User-Agent=com.sonyliv/6.22.4 (Android 9; en_GB; Aisen Smart TV; Build/PPR2.180905.006.A1)",
-      "user_agent": "Unknown"
-    }
-  ]
+  "updated": "Sat, 01 Nov 2025 09:13:05 GMT",
+  "total_events": 0,
+  "events": []
 }
