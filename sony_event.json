@@ -1,6 +1,6 @@
 {
   "api_made_by": "bd coder boy",
-  "updated": "Sat, 01 Nov 2025 08:47:40 GMT",
+  "updated": "Sat, 01 Nov 2025 08:55:19 GMT",
   "total_events": 1,
   "events": [
     {
@@ -10,7 +10,7 @@
       "language": "English",
       "category": "Cricket",
       "title": "ENG | 3rd ODI - 1 Nov 2025",
-      "url": "https://sonymtmnew.akamaized.net/hls/live/2018457/engvsnz/ENG/std_lrh-800300010.m3u8?hdnea=exp=1762021803~acl=/*~id=94334571530826044148856585406426~hmac=c54b0801d4b856eec3a9f3ae48fd67cdffd7bb6468839fa75986851409db62b1|x-playback-session-id=0085b69af0eb0156a316a128d5fcfbdb-1761986644081&User-Agent=com.sonyliv/6.22.4 (Android 15; en_GB; SM-G996B; Build/AP3A.240905.015.A2)",
+      "url": "https://sonymtmnew.akamaized.net/hls/live/2018457/engvsnz/ENG/std_lrh-800300010.m3u8?hdnea=exp=1762021803~acl=/*~id=94334571530826044148856585406426~hmac=c54b0801d4b856eec3a9f3ae48fd67cdffd7bb6468839fa75986851409db62b1|x-playback-session-id=fec2e2b0c90548fd9872bd5d255f109f-1761987064467&User-Agent=com.sonyliv/6.22.4 (Android 9; en_GB; Aisen Smart TV; Build/PPR2.180905.006.A1)",
       "user_agent": "Unknown"
     }
   ]
