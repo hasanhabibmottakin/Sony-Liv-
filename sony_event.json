@@ -1,6 +1,6 @@
 {
   "api_made_by": "bd coder boy",
-  "updated": "Sat, 01 Nov 2025 07:27:44 GMT",
+  "updated": "Sat, 01 Nov 2025 07:36:17 GMT",
   "total_events": 2,
   "events": [
     {
@@ -10,7 +10,7 @@
       "language": "English",
       "category": "Cricket",
       "title": "ENG | 3rd ODI - 1 Nov 2025",
-      "url": "https://sonymtmnew.akamaized.net/hls/live/2018457/engvsnz/ENG/std_lrh-800300010.m3u8?hdnea=exp=1762000203~acl=/*~id=55797118801370133989852392420250~hmac=03c81c71991a20d4d49d458bf4b8270f1c8477c5f165d39cd165643506ec6260|x-playback-session-id=539a75f04aad64dc6da5659edd28c907-1761981966623&User-Agent=com.sonyliv/6.22.4 (Android 12; en_GB; SmartTV 4K FFM; Build/STT2.230929.001.080)",
+      "url": "https://sonymtmnew.akamaized.net/hls/live/2018457/engvsnz/ENG/std_lrh-800300010.m3u8?hdnea=exp=1762000203~acl=/*~id=55797118801370133989852392420250~hmac=03c81c71991a20d4d49d458bf4b8270f1c8477c5f165d39cd165643506ec6260|x-playback-session-id=3bf01e14c8284cb9cda5a1a88ec27c57-1761982203056&User-Agent=com.sonyliv/6.22.4 (Android 10; en_GB; RMX2185; Build/QP1A.190711.020)",
       "user_agent": "Unknown"
     },
     {
@@ -20,7 +20,7 @@
       "language": "English",
       "category": "Golf",
       "title": "ENG | LINK Hong Kong Open - Day 3 - 1 Nov 2025",
-      "url": "https://sonymtmnew.akamaized.net/hls/live/2022320/DAI16ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1762000203~acl=/*~id=55797118801370133989852392420250~hmac=03c81c71991a20d4d49d458bf4b8270f1c8477c5f165d39cd165643506ec6260|x-playback-session-id=539a75f04aad64dc6da5659edd28c907-1761981966623&User-Agent=com.sonyliv/6.22.4 (Android 13; en_GB; SM-M325F; Build/TP1A.220624.014)",
+      "url": "https://sonymtmnew.akamaized.net/hls/live/2022320/DAI16ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1762000203~acl=/*~id=55797118801370133989852392420250~hmac=03c81c71991a20d4d49d458bf4b8270f1c8477c5f165d39cd165643506ec6260|x-playback-session-id=3bf01e14c8284cb9cda5a1a88ec27c57-1761982203056&User-Agent=com.sonyliv/6.22.4 (Android 15; en_GB; motorola edge 50 neo; Build/V1UIS35H.11-39-10-3)",
       "user_agent": "Unknown"
     }
   ]
