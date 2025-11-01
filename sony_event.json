@@ -1,6 +1,6 @@
 {
   "api_made_by": "bd coder boy",
-  "updated": "Sat, 01 Nov 2025 02:47:33 GMT",
+  "updated": "Sat, 01 Nov 2025 03:34:52 GMT",
   "total_events": 1,
   "events": [
     {
@@ -10,7 +10,7 @@
       "language": "English",
       "category": "Cricket",
       "title": "ENG | 3rd ODI - 1 Nov 2025",
-      "url": "https://sonymtmnew.akamaized.net/hls/live/2018457/engvsnz/ENG/std_lrh-800300010.m3u8?hdnea=exp=1762000203~acl=/*~id=55797118801370133989852392420250~hmac=03c81c71991a20d4d49d458bf4b8270f1c8477c5f165d39cd165643506ec6260|x-playback-session-id=93179e5697218bccebb3fae1d1100911-1761965043441&User-Agent=com.sonyliv/6.22.4 (Android 9; en_GB; E05i33; Build/PPR2.180905.006.A1)",
+      "url": "https://sonymtmnew.akamaized.net/hls/live/2018457/engvsnz/ENG/std_lrh-800300010.m3u8?hdnea=exp=1762000203~acl=/*~id=55797118801370133989852392420250~hmac=03c81c71991a20d4d49d458bf4b8270f1c8477c5f165d39cd165643506ec6260|x-playback-session-id=1e48e4cbac9905de2ade1818d4237ded-1761967803076&User-Agent=com.sonyliv/6.22.4 (Android 10; en_GB; AGRK-L09; Build/HUAWEIAGRK-L09)",
       "user_agent": "Unknown"
     }
   ]
