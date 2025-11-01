@@ -1,8 +1,18 @@
 {
   "api_made_by": "bd coder boy",
-  "updated": "Sat, 01 Nov 2025 14:10:51 GMT",
-  "total_events": 7,
+  "updated": "Sat, 01 Nov 2025 14:31:13 GMT",
+  "total_events": 8,
   "events": [
+    {
+      "id": "1090492547",
+      "name": "Indian Idol",
+      "logo": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000010532/1761381125610319_IndianIdol_2025_25oct_simulcast_landscape_thumb.jpg",
+      "language": "Hindi",
+      "category": "Reality, Music",
+      "title": "HIN | Indian Idol",
+      "url": "https://sonymtmnew.akamaized.net/hls/live/2094590/DAI25ME-II/master_lrh-800300010.m3u8?hdnea=exp=1762043403~acl=/*~id=37003352931861642894576116390051~hmac=42ef6bf4db71571233d7302bf46ff4faa6abeeb789ef401f2450a687ef6bbed3|x-playback-session-id=c8a94a367b6eae9db701262d34d1477e-1762007404982&User-Agent=com.sonyliv/6.22.4 (Android 11; en_GB; KFQUWI; Build/RS8337.3186N)",
+      "user_agent": "Unknown"
+    },
     {
       "id": "1090493582",
       "name": "ATP Rolex Paris Masters 2025",
@@ -10,7 +20,7 @@
       "language": "English",
       "category": "Tennis",
       "title": "ENG | Auger Aliassime vs Bublik - Semi-Final - 1 Nov 2025",
-      "url": "https://sonymtmnew.akamaized.net/hls/live/2037139/DAI19ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1762021803~acl=/*~id=94334571530826044148856585406426~hmac=c54b0801d4b856eec3a9f3ae48fd67cdffd7bb6468839fa75986851409db62b1|x-playback-session-id=3aaad58e5fe71cf41fa37befd40a9db8-1762005905476&User-Agent=com.sonyliv/6.22.4 (Android 11; en_GB; 211033MI; Build/RP1A.200720.011)",
+      "url": "https://sonymtmnew.akamaized.net/hls/live/2037139/DAI19ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1762043403~acl=/*~id=37003352931861642894576116390051~hmac=42ef6bf4db71571233d7302bf46ff4faa6abeeb789ef401f2450a687ef6bbed3|x-playback-session-id=c8a94a367b6eae9db701262d34d1477e-1762007404982&User-Agent=com.sonyliv/6.22.4 (Android 11; en_GB; HY300-A; Build/SP1A.210812.015)",
       "user_agent": "Unknown"
     },
     {
@@ -20,7 +30,7 @@
       "language": "English",
       "category": "Football",
       "title": "ENG | RB Leipzig vs VfB Stuttgart - MD 9 - 1 Nov 2025",
-      "url": "https://sonymtmnew.akamaized.net/hls/live/2022315/DAI11ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1762021803~acl=/*~id=94334571530826044148856585406426~hmac=c54b0801d4b856eec3a9f3ae48fd67cdffd7bb6468839fa75986851409db62b1|x-playback-session-id=3aaad58e5fe71cf41fa37befd40a9db8-1762005905476&User-Agent=com.sonyliv/6.22.4 (Android 15; en_GB; RMX3941; Build/AP3A.240617.008)",
+      "url": "https://sonymtmnew.akamaized.net/hls/live/2022315/DAI11ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1762043403~acl=/*~id=37003352931861642894576116390051~hmac=42ef6bf4db71571233d7302bf46ff4faa6abeeb789ef401f2450a687ef6bbed3|x-playback-session-id=c8a94a367b6eae9db701262d34d1477e-1762007404982&User-Agent=com.sonyliv/6.22.4 (Android 12; en_GB; moto g(60); Build/S2RIS32.32-20-7-5)",
       "user_agent": "Unknown"
     },
     {
@@ -30,7 +40,7 @@
       "language": "English",
       "category": "Football",
       "title": "ENG | Heidenheim vs Eintracht Frankfurt - MD 9 - 1 Nov 2025",
-      "url": "https://sonymtmnew.akamaized.net/hls/live/2094589/DAI05ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1762021803~acl=/*~id=94334571530826044148856585406426~hmac=c54b0801d4b856eec3a9f3ae48fd67cdffd7bb6468839fa75986851409db62b1|x-playback-session-id=3aaad58e5fe71cf41fa37befd40a9db8-1762005905476&User-Agent=com.sonyliv/6.22.4 (Android 16; en_GB; SM-S906E; Build/BP2A.250605.031.A3)",
+      "url": "https://sonymtmnew.akamaized.net/hls/live/2094589/DAI05ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1762043403~acl=/*~id=37003352931861642894576116390051~hmac=42ef6bf4db71571233d7302bf46ff4faa6abeeb789ef401f2450a687ef6bbed3|x-playback-session-id=c8a94a367b6eae9db701262d34d1477e-1762007404982&User-Agent=com.sonyliv/6.22.4 (Android 11; en_GB; SM-A525F; Build/RP1A.200720.012)",
       "user_agent": "Unknown"
     },
     {
@@ -40,7 +50,7 @@
       "language": "English",
       "category": "Football",
       "title": "ENG | St. Pauli vs Borussia M'gladbach - MD 9 - 1 Nov 2025",
-      "url": "https://sonymtmnew.akamaized.net/hls/live/2022317/DAI13ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1762021803~acl=/*~id=94334571530826044148856585406426~hmac=c54b0801d4b856eec3a9f3ae48fd67cdffd7bb6468839fa75986851409db62b1|x-playback-session-id=3aaad58e5fe71cf41fa37befd40a9db8-1762005905476&User-Agent=com.sonyliv/6.22.4 (Android 8; en_GB; CPH1901; Build/OPM1.171019.026)",
+      "url": "https://sonymtmnew.akamaized.net/hls/live/2022317/DAI13ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1762043403~acl=/*~id=37003352931861642894576116390051~hmac=42ef6bf4db71571233d7302bf46ff4faa6abeeb789ef401f2450a687ef6bbed3|x-playback-session-id=c8a94a367b6eae9db701262d34d1477e-1762007404982&User-Agent=com.sonyliv/6.22.4 (Android 16; en_GB; Pixel 7; Build/BP41.250822.010)",
       "user_agent": "Unknown"
     },
     {
@@ -50,7 +60,7 @@
       "language": "English",
       "category": "Football",
       "title": "ENG | Mainz vs Werder Bremen - MD 9 - 1 Nov 2025",
-      "url": "https://sonymtmnew.akamaized.net/hls/live/2018457/DAI09ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1762021803~acl=/*~id=94334571530826044148856585406426~hmac=c54b0801d4b856eec3a9f3ae48fd67cdffd7bb6468839fa75986851409db62b1|x-playback-session-id=3aaad58e5fe71cf41fa37befd40a9db8-1762005905476&User-Agent=com.sonyliv/6.22.4 (Android 13; en_GB; RMX3785; Build/TP1A.220905.001)",
+      "url": "https://sonymtmnew.akamaized.net/hls/live/2018457/DAI09ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1762043403~acl=/*~id=37003352931861642894576116390051~hmac=42ef6bf4db71571233d7302bf46ff4faa6abeeb789ef401f2450a687ef6bbed3|x-playback-session-id=c8a94a367b6eae9db701262d34d1477e-1762007404982&User-Agent=com.sonyliv/6.22.4 (Android 13; en_GB; CPH2223; Build/TP1A.220905.001)",
       "user_agent": "Unknown"
     },
     {
@@ -60,7 +70,7 @@
       "language": "English",
       "category": "Football",
       "title": "ENG | Union Berlin vs SC Freiburg - MD 9 - 1 Nov 2025",
-      "url": "https://sonymtmnew.akamaized.net/hls/live/2105079/DAI08ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1762021803~acl=/*~id=94334571530826044148856585406426~hmac=c54b0801d4b856eec3a9f3ae48fd67cdffd7bb6468839fa75986851409db62b1|x-playback-session-id=3aaad58e5fe71cf41fa37befd40a9db8-1762005905476&User-Agent=com.sonyliv/6.22.4 (Android 13; en_GB; TECNO BG6; Build/TP1A.220624.014)",
+      "url": "https://sonymtmnew.akamaized.net/hls/live/2105079/DAI08ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1762043403~acl=/*~id=37003352931861642894576116390051~hmac=42ef6bf4db71571233d7302bf46ff4faa6abeeb789ef401f2450a687ef6bbed3|x-playback-session-id=c8a94a367b6eae9db701262d34d1477e-1762007404982&User-Agent=com.sonyliv/6.22.4 (Android 16; en_GB; Redmi K20 Pro; Build/BP2A.250605.031.A2)",
       "user_agent": "Unknown"
     },
     {
@@ -70,7 +80,7 @@
       "language": "English",
       "category": "Football",
       "title": "ENG | Goal Arena - MD 9 - 1 Nov 2025",
-      "url": "https://sonymtmnew.akamaized.net/hls/live/2094588/DAI04ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1762021803~acl=/*~id=94334571530826044148856585406426~hmac=c54b0801d4b856eec3a9f3ae48fd67cdffd7bb6468839fa75986851409db62b1|x-playback-session-id=3aaad58e5fe71cf41fa37befd40a9db8-1762005905476&User-Agent=com.sonyliv/6.22.4 (Android 7; en_GB; C800X; Build/NHG47K)",
+      "url": "https://sonymtmnew.akamaized.net/hls/live/2094588/DAI04ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1762043403~acl=/*~id=37003352931861642894576116390051~hmac=42ef6bf4db71571233d7302bf46ff4faa6abeeb789ef401f2450a687ef6bbed3|x-playback-session-id=c8a94a367b6eae9db701262d34d1477e-1762007404982&User-Agent=com.sonyliv/6.22.4 (Android 13; en_GB; HK1 RBOX K8S; Build/TQ3C.230805.001.B2)",
       "user_agent": "Unknown"
     }
   ]
