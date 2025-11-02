@@ -1,17 +1,6 @@
 {
   "api_made_by": "bd coder boy",
-  "updated": "Sun, 02 Nov 2025 18:48:11 GMT",
-  "total_events": 1,
-  "events": [
-    {
-      "id": "1090493537",
-      "name": "Bundesliga 2025-26",
-      "logo": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000010660/1761826736467395_bliga2526_MD9_VfL-Wolfsburg-vs-Hoffenheim_30oct_landscape_thumb.jpg",
-      "language": "English",
-      "category": "Football",
-      "title": "ENG | VfL Wolfsburg vs Hoffenheim - MD 9 - 2 Nov 2025",
-      "url": "https://sonymtmnew.akamaized.net/hls/live/2094589/DAI05ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1762129804~acl=/*~id=46483921506792666085816837275277~hmac=208c7e9182e14a50dae6206066dc0a5cf73465f99674e698533ea2df65a82b92|x-playback-session-id=b23dc677df2bd68e0511dc34007961e0-1762108624468&User-Agent=com.sonyliv/6.22.4 (Android 11; en_GB; CPH1938; Build/RP1A.200720.011)",
-      "user_agent": "Unknown"
-    }
-  ]
+  "updated": "Sun, 02 Nov 2025 18:56:09 GMT",
+  "total_events": 0,
+  "events": []
 }
