@@ -1,6 +1,6 @@
 {
   "api_made_by": "bd coder boy",
-  "updated": "Sun, 02 Nov 2025 12:23:14 GMT",
+  "updated": "Sun, 02 Nov 2025 12:57:56 GMT",
   "total_events": 1,
   "events": [
     {
@@ -10,7 +10,7 @@
       "language": "English",
       "category": "Tennis",
       "title": "ENG | Patten/Heliovaara vs Glasspool/Cash - Doubles Final - 2 Nov 2025",
-      "url": "https://sonymtmnew.akamaized.net/hls/live/2037139/DAI19ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1762108203~acl=/*~id=53471203641725253511009444873969~hmac=b6a742998ebe2a098baa7201738e25db1ca69d7b6beb812e1d70701e85022ee4|x-playback-session-id=c74de0f7fe1217625ae39ff38f1413a5-1762085944713&User-Agent=com.sonyliv/6.22.4 (Android 14; en_GB; CPH2525; Build/UKQ1.230924.001)",
+      "url": "https://sonymtmnew.akamaized.net/hls/live/2037139/DAI19ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1762108203~acl=/*~id=53471203641725253511009444873969~hmac=b6a742998ebe2a098baa7201738e25db1ca69d7b6beb812e1d70701e85022ee4|x-playback-session-id=7607df79ae96a18fea3ffed0bb97da6b-1762087865090&User-Agent=com.sonyliv/6.22.4 (Android 13; en_GB; SM-N986U1; Build/TP1A.220624.014)",
       "user_agent": "Unknown"
     }
   ]
