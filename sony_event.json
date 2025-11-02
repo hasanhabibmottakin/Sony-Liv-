@@ -1,6 +1,6 @@
 {
   "api_made_by": "bd coder boy",
-  "updated": "Sun, 02 Nov 2025 07:12:16 GMT",
+  "updated": "Sun, 02 Nov 2025 07:28:27 GMT",
   "total_events": 1,
   "events": [
     {
@@ -10,7 +10,7 @@
       "language": "English",
       "category": "Golf",
       "title": "ENG | LINK Hong Kong Open - Day 4 - 2 Nov 2025",
-      "url": "https://sonymtmnew.akamaized.net/hls/live/2022320/DAI16ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1762086603~acl=/*~id=50737645022670006729542416216511~hmac=350cd0a059ccec81aa0e2624937d8764b23e04b96cf9e858bb1eb1086f0d933d|x-playback-session-id=84b3f99b9e1f854df02237fa00e9b451-1762067103666&User-Agent=com.sonyliv/6.22.4 (Android 9; en_GB; itel L5002P; Build/PPR1.180610.011)",
+      "url": "https://sonymtmnew.akamaized.net/hls/live/2022320/DAI16ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1762086603~acl=/*~id=50737645022670006729542416216511~hmac=350cd0a059ccec81aa0e2624937d8764b23e04b96cf9e858bb1eb1086f0d933d|x-playback-session-id=7801102adc86a9b3a694be54f8159164-1762068365046&User-Agent=com.sonyliv/6.22.4 (Android 14; en_GB; CPH2307; Build/UKQ1.230924.001)",
       "user_agent": "Unknown"
     }
   ]
