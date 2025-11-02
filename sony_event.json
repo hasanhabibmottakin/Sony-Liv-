@@ -1,6 +1,6 @@
 {
   "api_made_by": "bd coder boy",
-  "updated": "Sun, 02 Nov 2025 14:43:11 GMT",
+  "updated": "Sun, 02 Nov 2025 14:53:18 GMT",
   "total_events": 3,
   "events": [
     {
@@ -10,7 +10,7 @@
       "language": "Hindi",
       "category": "Reality, Music",
       "title": "HIN | Indian Idol",
-      "url": "https://sonymtmnew.akamaized.net/hls/live/2094590/DAI25ME-II/master_lrh-800300010.m3u8?hdnea=exp=1762129804~acl=/*~id=46483921506792666085816837275277~hmac=208c7e9182e14a50dae6206066dc0a5cf73465f99674e698533ea2df65a82b92|x-playback-session-id=56b942a733518c1ab78e55108a5b64d0-1762094226141&User-Agent=com.sonyliv/6.22.4 (Android 11; en_GB; R3G; Build/RTT7.230505.001)",
+      "url": "https://sonymtmnew.akamaized.net/hls/live/2094590/DAI25ME-II/master_lrh-800300010.m3u8?hdnea=exp=1762129804~acl=/*~id=46483921506792666085816837275277~hmac=208c7e9182e14a50dae6206066dc0a5cf73465f99674e698533ea2df65a82b92|x-playback-session-id=245fa71c726f02543eadcd61a3e47b88-1762095065451&User-Agent=com.sonyliv/6.22.4 (Android 11; en_GB; HAKO Pro; Build/RT)",
       "user_agent": "Unknown"
     },
     {
@@ -20,7 +20,7 @@
       "language": "English",
       "category": "Tennis",
       "title": "ENG | Auger-Aliassime vs Sinner - Singles Final - 2 Nov 2025",
-      "url": "https://sonymtmnew.akamaized.net/hls/live/2037139/DAI19ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1762129804~acl=/*~id=46483921506792666085816837275277~hmac=208c7e9182e14a50dae6206066dc0a5cf73465f99674e698533ea2df65a82b92|x-playback-session-id=56b942a733518c1ab78e55108a5b64d0-1762094226141&User-Agent=com.sonyliv/6.22.4 (Android 7; en_GB; TX3 Max; Build/NHG47L)",
+      "url": "https://sonymtmnew.akamaized.net/hls/live/2037139/DAI19ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1762129804~acl=/*~id=46483921506792666085816837275277~hmac=208c7e9182e14a50dae6206066dc0a5cf73465f99674e698533ea2df65a82b92|x-playback-session-id=245fa71c726f02543eadcd61a3e47b88-1762095065451&User-Agent=com.sonyliv/6.22.4 (Android 14; en_GB; RMX3630; Build/UKQ1.230924.001)",
       "user_agent": "Unknown"
     },
     {
@@ -30,7 +30,7 @@
       "language": "English",
       "category": "Football",
       "title": "ENG | FC Koln vs Hamburger SV - MD 9 - 2 Nov 2025",
-      "url": "https://sonymtmnew.akamaized.net/hls/live/2094588/DAI04ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1762129804~acl=/*~id=46483921506792666085816837275277~hmac=208c7e9182e14a50dae6206066dc0a5cf73465f99674e698533ea2df65a82b92|x-playback-session-id=56b942a733518c1ab78e55108a5b64d0-1762094226141&User-Agent=com.sonyliv/6.22.4 (Android 11; en_GB; Haier Android TV DVB2K; Build/RTM1.210824.181)",
+      "url": "https://sonymtmnew.akamaized.net/hls/live/2094588/DAI04ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1762129804~acl=/*~id=46483921506792666085816837275277~hmac=208c7e9182e14a50dae6206066dc0a5cf73465f99674e698533ea2df65a82b92|x-playback-session-id=245fa71c726f02543eadcd61a3e47b88-1762095065451&User-Agent=com.sonyliv/6.22.4 (Android 14; en_GB; SM-A136B; Build/UP1A.231005.007)",
       "user_agent": "Unknown"
     }
   ]
