@@ -1,18 +1,8 @@
 {
   "api_made_by": "bd coder boy",
-  "updated": "Sun, 02 Nov 2025 17:39:00 GMT",
-  "total_events": 2,
+  "updated": "Sun, 02 Nov 2025 17:47:05 GMT",
+  "total_events": 1,
   "events": [
-    {
-      "id": "1090491643",
-      "name": "India\u2019s Got Talent ",
-      "logo": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000009943/1759813037535349_IGTS11_simulcast_7OCT_Landscape_Thumb_re1.jpg",
-      "language": "Hindi",
-      "category": "Reality",
-      "title": "HIN | India\u2019s Got Talent",
-      "url": "https://sonymtmnew.akamaized.net/hls/live/2037142/DAI22ME-IGT/master_lrh-800300010.m3u8?hdnea=exp=1762129804~acl=/*~id=46483921506792666085816837275277~hmac=208c7e9182e14a50dae6206066dc0a5cf73465f99674e698533ea2df65a82b92|x-playback-session-id=1808746dd189088789f864ca8d5b6ec3-1762105024129&User-Agent=com.sonyliv/6.22.4 (Android 9; en_GB; RMX1941; Build/PPR1.180610.011)",
-      "user_agent": "Unknown"
-    },
     {
       "id": "1090493537",
       "name": "Bundesliga 2025-26",
@@ -20,7 +10,7 @@
       "language": "English",
       "category": "Football",
       "title": "ENG | VfL Wolfsburg vs Hoffenheim - MD 9 - 2 Nov 2025",
-      "url": "https://sonymtmnew.akamaized.net/hls/live/2094589/DAI05ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1762129804~acl=/*~id=46483921506792666085816837275277~hmac=208c7e9182e14a50dae6206066dc0a5cf73465f99674e698533ea2df65a82b92|x-playback-session-id=1808746dd189088789f864ca8d5b6ec3-1762105024129&User-Agent=com.sonyliv/6.22.4 (Android 8; en_GB; SM-C5000; Build/R16NW)",
+      "url": "https://sonymtmnew.akamaized.net/hls/live/2094589/DAI05ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1762129804~acl=/*~id=46483921506792666085816837275277~hmac=208c7e9182e14a50dae6206066dc0a5cf73465f99674e698533ea2df65a82b92|x-playback-session-id=ff07076a506746618bbe2289a0c94525-1762105445212&User-Agent=com.sonyliv/6.22.4 (Android 13; en_GB; SM-G986N; Build/TP1A.220624.014)",
       "user_agent": "Unknown"
     }
   ]
