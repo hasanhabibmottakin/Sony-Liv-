@@ -1,6 +1,6 @@
 {
   "api_made_by": "bd coder boy",
-  "updated": "Sun, 02 Nov 2025 18:15:56 GMT",
+  "updated": "Sun, 02 Nov 2025 18:38:02 GMT",
   "total_events": 1,
   "events": [
     {
@@ -10,7 +10,7 @@
       "language": "English",
       "category": "Football",
       "title": "ENG | VfL Wolfsburg vs Hoffenheim - MD 9 - 2 Nov 2025",
-      "url": "https://sonymtmnew.akamaized.net/hls/live/2094589/DAI05ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1762129804~acl=/*~id=46483921506792666085816837275277~hmac=208c7e9182e14a50dae6206066dc0a5cf73465f99674e698533ea2df65a82b92|x-playback-session-id=e99eb3f20bc42a31ab77d7ba3a4505e4-1762107125588&User-Agent=com.sonyliv/6.22.4 (Android 15; en_GB; SM-A156B; Build/AP3A.240905.015.A2)",
+      "url": "https://sonymtmnew.akamaized.net/hls/live/2094589/DAI05ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1762129804~acl=/*~id=46483921506792666085816837275277~hmac=208c7e9182e14a50dae6206066dc0a5cf73465f99674e698533ea2df65a82b92|x-playback-session-id=472f05e89e9290768bcca0ef8096efc7-1762108204052&User-Agent=com.sonyliv/6.22.4 (Android 15; en_GB; motorola edge 50 neo; Build/V1UIS35H.11-39-28-1)",
       "user_agent": "Unknown"
     }
   ]
