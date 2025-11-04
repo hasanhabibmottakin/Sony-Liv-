@@ -1,26 +1,96 @@
 {
   "api_made_by": "bd coder boy",
-  "updated": "Tue, 04 Nov 2025 15:16:36 GMT",
-  "total_events": 2,
+  "updated": "Tue, 04 Nov 2025 19:27:25 GMT",
+  "total_events": 9,
   "events": [
     {
-      "id": "1090493539",
-      "name": "UEFA Youth League 2025-26",
-      "logo": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000010673/1761881835162917_UYL25_MD4_Liverpool_vs_RealMadrid_landscape_thumb.jpg",
+      "id": "1090493364",
+      "name": "UEFA Champions League 2025-26",
+      "logo": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000010683/1761895868220275_UCL25_MD4_Liverpool_vs_Real_Madrid_31oct_landscape_thumb.jpg",
       "language": "English",
       "category": "Football",
-      "title": "ENG | Liverpool vs Real Madrid - MD 4 - 4 Nov 2025",
-      "url": "https://sonymtmnew.akamaized.net/hls/live/2094589/DAI05ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1762302604~acl=/*~id=35169055263623523527297645252913~hmac=762314cb29b29b18cd2b8bb4bce5d5431535443aea2051bece202958bfc9dabd|x-playback-session-id=9b3fb0c0ea7ad6b1fea4f3aae92a54c7-1762269123845&User-Agent=com.sonyliv/6.22.4 (Android 11; en_GB; 2K SMART TV; Build/RTK2.230523.091)",
+      "title": "ENG | Liverpool vs Real Madrid - MD 4 - 5 Nov 2025",
+      "url": "https://sonymtmnew.akamaized.net/hls/live/2022322/DAI18ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1762302604~acl=/*~id=35169055263623523527297645252913~hmac=762314cb29b29b18cd2b8bb4bce5d5431535443aea2051bece202958bfc9dabd|x-playback-session-id=97ac45e9a999d5ee409acb2a52b024a3-1762284363513&User-Agent=com.sonyliv/6.22.4 (Android 11; en_GB; SM-M022G; Build/RP1A.200720.012)",
       "user_agent": "Unknown"
     },
     {
-      "id": "1090493538",
-      "name": "UEFA Youth League 2025-26",
-      "logo": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000010673/1761881584349917_UYL25_MD4_Paris_vs_BayernMunich_Landscape_thumb.jpg",
+      "id": "1090493364",
+      "name": "UEFA Champions League 2025-26",
+      "logo": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000010683/1761895868220275_UCL25_MD4_Liverpool_vs_Real_Madrid_31oct_landscape_thumb.jpg",
+      "language": "Hindi",
+      "category": "Football",
+      "title": "HIN | Liverpool vs Real Madrid - MD 4 - 5 Nov 2025",
+      "url": "https://sonymtmnew.akamaized.net/hls/live/2037140/DAI20ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1762302604~acl=/*~id=35169055263623523527297645252913~hmac=762314cb29b29b18cd2b8bb4bce5d5431535443aea2051bece202958bfc9dabd|x-playback-session-id=97ac45e9a999d5ee409acb2a52b024a3-1762284363513&User-Agent=com.sonyliv/6.22.4 (Android 15; en_GB; SM-E346B; Build/AP3A.240905.015.A2)",
+      "user_agent": "Unknown"
+    },
+    {
+      "id": "1090493364",
+      "name": "UEFA Champions League 2025-26",
+      "logo": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000010683/1761895868220275_UCL25_MD4_Liverpool_vs_Real_Madrid_31oct_landscape_thumb.jpg",
+      "language": "Tamil",
+      "category": "Football",
+      "title": "TAM | Liverpool vs Real Madrid - MD 4 - 5 Nov 2025",
+      "url": "https://sonymtmnew.akamaized.net/hls/live/2037143/DAI23ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1762302604~acl=/*~id=35169055263623523527297645252913~hmac=762314cb29b29b18cd2b8bb4bce5d5431535443aea2051bece202958bfc9dabd|x-playback-session-id=97ac45e9a999d5ee409acb2a52b024a3-1762284363513&User-Agent=com.sonyliv/6.22.4 (Android 13; en_GB; Redmi Note 5 Pro; Build/TQ3C.230805.001.A4)",
+      "user_agent": "Unknown"
+    },
+    {
+      "id": "1090493364",
+      "name": "UEFA Champions League 2025-26",
+      "logo": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000010683/1761895868220275_UCL25_MD4_Liverpool_vs_Real_Madrid_31oct_landscape_thumb.jpg",
+      "language": "Telugu",
+      "category": "Football",
+      "title": "TEL | Liverpool vs Real Madrid - MD 4 - 5 Nov 2025",
+      "url": "https://sonymtmnew.akamaized.net/hls/live/2105080/DAI24ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1762302604~acl=/*~id=35169055263623523527297645252913~hmac=762314cb29b29b18cd2b8bb4bce5d5431535443aea2051bece202958bfc9dabd|x-playback-session-id=97ac45e9a999d5ee409acb2a52b024a3-1762284363513&User-Agent=com.sonyliv/6.22.4 (Android 14; en_GB; V2338; Build/UP1A.231005.007)",
+      "user_agent": "Unknown"
+    },
+    {
+      "id": "1090493362",
+      "name": "UEFA Champions League 2025-26",
+      "logo": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000010685/1761894704148290_UCL_25_26_MD4_Slavia-Prague-vs-Arsenal_landscape_thumb.jpg",
       "language": "English",
       "category": "Football",
-      "title": "ENG | Paris vs Bayern Munich - MD 4 - 4 Nov 2025",
-      "url": "https://sonymtmnew.akamaized.net/hls/live/2022316/DAI12ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1762302604~acl=/*~id=35169055263623523527297645252913~hmac=762314cb29b29b18cd2b8bb4bce5d5431535443aea2051bece202958bfc9dabd|x-playback-session-id=9b3fb0c0ea7ad6b1fea4f3aae92a54c7-1762269123845&User-Agent=com.sonyliv/6.22.4 (Android 11; en_GB; Pixel TV 11; Build/RSV1.210329.052)",
+      "title": "ENG | Slavia Praha vs Arsenal - MD 4 - 4 Nov 2025",
+      "url": "https://sonymtmnew.akamaized.net/hls/live/2105079/DAI08ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1762302604~acl=/*~id=35169055263623523527297645252913~hmac=762314cb29b29b18cd2b8bb4bce5d5431535443aea2051bece202958bfc9dabd|x-playback-session-id=97ac45e9a999d5ee409acb2a52b024a3-1762284363513&User-Agent=com.sonyliv/6.22.4 (Android 9; en_GB; ASUS_X01AD; Build/WW_Phone-202011271133)",
+      "user_agent": "Unknown"
+    },
+    {
+      "id": "1090493362",
+      "name": "UEFA Champions League 2025-26",
+      "logo": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000010685/1761894704148290_UCL_25_26_MD4_Slavia-Prague-vs-Arsenal_landscape_thumb.jpg",
+      "language": "Hindi",
+      "category": "Football",
+      "title": "HIN | Slavia Praha vs Arsenal - MD 4 - 4 Nov 2025",
+      "url": "https://sonymtmnew.akamaized.net/hls/live/2094588/DAI04ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1762302604~acl=/*~id=35169055263623523527297645252913~hmac=762314cb29b29b18cd2b8bb4bce5d5431535443aea2051bece202958bfc9dabd|x-playback-session-id=97ac45e9a999d5ee409acb2a52b024a3-1762284363513&User-Agent=com.sonyliv/6.22.4 (Android 9; en_GB; NM368_816; Build/PPR2.180905.006.A1)",
+      "user_agent": "Unknown"
+    },
+    {
+      "id": "1090493362",
+      "name": "UEFA Champions League 2025-26",
+      "logo": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000010685/1761894704148290_UCL_25_26_MD4_Slavia-Prague-vs-Arsenal_landscape_thumb.jpg",
+      "language": "Tamil",
+      "category": "Football",
+      "title": "TAM | Slavia Praha vs Arsenal - MD 4 - 4 Nov 2025",
+      "url": "https://sonymtmnew.akamaized.net/hls/live/2022319/DAI15ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1762302604~acl=/*~id=35169055263623523527297645252913~hmac=762314cb29b29b18cd2b8bb4bce5d5431535443aea2051bece202958bfc9dabd|x-playback-session-id=97ac45e9a999d5ee409acb2a52b024a3-1762284363513&User-Agent=com.sonyliv/6.22.4 (Android 11; en_GB; SWTV-22AE-FHD; Build/RTM8.240401.091)",
+      "user_agent": "Unknown"
+    },
+    {
+      "id": "1090493362",
+      "name": "UEFA Champions League 2025-26",
+      "logo": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000010685/1761894704148290_UCL_25_26_MD4_Slavia-Prague-vs-Arsenal_landscape_thumb.jpg",
+      "language": "Telugu",
+      "category": "Football",
+      "title": "TEL | Slavia Praha vs Arsenal - MD 4 - 4 Nov 2025",
+      "url": "https://sonymtmnew.akamaized.net/hls/live/2037141/DAI21ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1762302604~acl=/*~id=35169055263623523527297645252913~hmac=762314cb29b29b18cd2b8bb4bce5d5431535443aea2051bece202958bfc9dabd|x-playback-session-id=97ac45e9a999d5ee409acb2a52b024a3-1762284363513&User-Agent=com.sonyliv/6.22.4 (Android 14; en_GB; V2238; Build/UP1A.231005.007_INMOD1)",
+      "user_agent": "Unknown"
+    },
+    {
+      "id": "1090493361",
+      "name": "UEFA Champions League 2025-26",
+      "logo": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000010683/1761894305930275_UCL25_MD4_Napoli_vs_Frankfurt_31oct_landscape_thumb.jpg",
+      "language": "English",
+      "category": "Football",
+      "title": "ENG | Napoli vs Frankfurt - MD 4 - 4 Nov 2025",
+      "url": "https://sonymtmnew.akamaized.net/hls/live/2018458/DAI10ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1762302604~acl=/*~id=35169055263623523527297645252913~hmac=762314cb29b29b18cd2b8bb4bce5d5431535443aea2051bece202958bfc9dabd|x-playback-session-id=97ac45e9a999d5ee409acb2a52b024a3-1762284363513&User-Agent=com.sonyliv/6.22.4 (Android 15; en_GB; RMX3939; Build/AP3A.240905.015.A2)",
       "user_agent": "Unknown"
     }
   ]
