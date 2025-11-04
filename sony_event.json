@@ -1,47 +1,6 @@
 {
   "api_made_by": "bd coder boy",
-  "updated": "Tue, 04 Nov 2025 22:54:20 GMT",
-  "total_events": 4,
-  "events": [
-    {
-      "id": "1090493364",
-      "name": "UEFA Champions League 2025-26",
-      "logo": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000010683/1761895868220275_UCL25_MD4_Liverpool_vs_Real_Madrid_31oct_landscape_thumb.jpg",
-      "language": "English",
-      "category": "Football",
-      "title": "ENG | Liverpool vs Real Madrid - MD 4 - 5 Nov 2025",
-      "url": "https://sonymtmnew.akamaized.net/hls/live/2022322/DAI18ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1762324204~acl=/*~id=33705628155161277162041238345077~hmac=82bd249a8cd58b5f55b2a480606213b97cd4ce2af4b3c6f0860dc307ba91ed73|x-playback-session-id=4d75abfe97c7466113bcf71bee53a492-1762296663767&User-Agent=com.sonyliv/6.22.4 (Android 8; en_GB; SM-G960F; Build/R16NW)",
-      "user_agent": "Unknown"
-    },
-    {
-      "id": "1090493364",
-      "name": "UEFA Champions League 2025-26",
-      "logo": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000010683/1761895868220275_UCL25_MD4_Liverpool_vs_Real_Madrid_31oct_landscape_thumb.jpg",
-      "language": "Hindi",
-      "category": "Football",
-      "title": "HIN | Liverpool vs Real Madrid - MD 4 - 5 Nov 2025",
-      "url": "https://sonymtmnew.akamaized.net/hls/live/2037140/DAI20ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1762324204~acl=/*~id=33705628155161277162041238345077~hmac=82bd249a8cd58b5f55b2a480606213b97cd4ce2af4b3c6f0860dc307ba91ed73|x-playback-session-id=4d75abfe97c7466113bcf71bee53a492-1762296663767&User-Agent=com.sonyliv/6.22.4 (Android 10; en_GB; Primo HM5; Build/QP1A.190711.020)",
-      "user_agent": "Unknown"
-    },
-    {
-      "id": "1090493364",
-      "name": "UEFA Champions League 2025-26",
-      "logo": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000010683/1761895868220275_UCL25_MD4_Liverpool_vs_Real_Madrid_31oct_landscape_thumb.jpg",
-      "language": "Tamil",
-      "category": "Football",
-      "title": "TAM | Liverpool vs Real Madrid - MD 4 - 5 Nov 2025",
-      "url": "https://sonymtmnew.akamaized.net/hls/live/2037143/DAI23ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1762324204~acl=/*~id=33705628155161277162041238345077~hmac=82bd249a8cd58b5f55b2a480606213b97cd4ce2af4b3c6f0860dc307ba91ed73|x-playback-session-id=4d75abfe97c7466113bcf71bee53a492-1762296663767&User-Agent=com.sonyliv/6.22.4 (Android 9; en_GB; Smart TV; Build/PPR1.180610.011)",
-      "user_agent": "Unknown"
-    },
-    {
-      "id": "1090493364",
-      "name": "UEFA Champions League 2025-26",
-      "logo": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000010683/1761895868220275_UCL25_MD4_Liverpool_vs_Real_Madrid_31oct_landscape_thumb.jpg",
-      "language": "Telugu",
-      "category": "Football",
-      "title": "TEL | Liverpool vs Real Madrid - MD 4 - 5 Nov 2025",
-      "url": "https://sonymtmnew.akamaized.net/hls/live/2105080/DAI24ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1762324204~acl=/*~id=33705628155161277162041238345077~hmac=82bd249a8cd58b5f55b2a480606213b97cd4ce2af4b3c6f0860dc307ba91ed73|x-playback-session-id=4d75abfe97c7466113bcf71bee53a492-1762296663767&User-Agent=com.sonyliv/6.22.4 (Android 15; en_GB; ELI-NX9; Build/HONORELI-N39I)",
-      "user_agent": "Unknown"
-    }
-  ]
+  "updated": "Tue, 04 Nov 2025 23:12:41 GMT",
+  "total_events": 0,
+  "events": []
 }
