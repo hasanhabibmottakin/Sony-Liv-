@@ -1,6 +1,6 @@
 {
   "api_made_by": "bd coder boy",
-  "updated": "Tue, 04 Nov 2025 13:56:54 GMT",
+  "updated": "Tue, 04 Nov 2025 14:17:43 GMT",
   "total_events": 1,
   "events": [
     {
@@ -10,7 +10,7 @@
       "language": "English",
       "category": "Football",
       "title": "ENG | Paris vs Bayern Munich - MD 4 - 4 Nov 2025",
-      "url": "https://sonymtmnew.akamaized.net/hls/live/2022316/DAI12ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1762281004~acl=/*~id=13795592749903797183206147900738~hmac=9a5f8bb2c17e5fc266519d6061ca430ab45d4a87820cce1c46752081c722cc40|x-playback-session-id=667f4ee0024e400d989edb9fef215ca7-1762264264310&User-Agent=com.sonyliv/6.22.4 (Android 10; en_GB; SM-A107F; Build/QP1A.190711.020)",
+      "url": "https://sonymtmnew.akamaized.net/hls/live/2022316/DAI12ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1762281004~acl=/*~id=13795592749903797183206147900738~hmac=9a5f8bb2c17e5fc266519d6061ca430ab45d4a87820cce1c46752081c722cc40|x-playback-session-id=d435196cd3b075ee767a5fc1502170b9-1762265523660&User-Agent=com.sonyliv/6.22.4 (Android 20; en_GB; TX20 PRO; Build/QP1A.191105.004)",
       "user_agent": "Unknown"
     }
   ]
