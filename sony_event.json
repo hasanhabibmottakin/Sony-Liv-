@@ -1,6 +1,17 @@
 {
   "api_made_by": "bd coder boy",
-  "updated": "Tue, 04 Nov 2025 11:53:12 GMT",
-  "total_events": 0,
-  "events": []
+  "updated": "Tue, 04 Nov 2025 12:29:12 GMT",
+  "total_events": 1,
+  "events": [
+    {
+      "id": "1090493538",
+      "name": "UEFA Youth League 2025-26",
+      "logo": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000010673/1761881584349917_UYL25_MD4_Paris_vs_BayernMunich_Landscape_thumb.jpg",
+      "language": "English",
+      "category": "Football",
+      "title": "ENG | Paris vs Bayern Munich - MD 4 - 4 Nov 2025",
+      "url": "https://sonymtmnew.akamaized.net/hls/live/2022316/DAI12ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1762281004~acl=/*~id=13795592749903797183206147900738~hmac=9a5f8bb2c17e5fc266519d6061ca430ab45d4a87820cce1c46752081c722cc40|x-playback-session-id=b64b7119a7f05311f4d7e9d4acfe73b8-1762259170651&User-Agent=com.sonyliv/6.22.4 (Android 15; en_GB; Redmi Note 7; Build/AP4A.250205.002)",
+      "user_agent": "Unknown"
+    }
+  ]
 }
