@@ -1,7 +1,7 @@
 {
   "api_made_by": "bd coder boy",
-  "updated": "Tue, 04 Nov 2025 22:11:51 GMT",
-  "total_events": 10,
+  "updated": "Tue, 04 Nov 2025 22:34:15 GMT",
+  "total_events": 4,
   "events": [
     {
       "id": "1090493364",
@@ -10,7 +10,7 @@
       "language": "English",
       "category": "Football",
       "title": "ENG | Liverpool vs Real Madrid - MD 4 - 5 Nov 2025",
-      "url": "https://sonymtmnew.akamaized.net/hls/live/2022322/DAI18ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1762324204~acl=/*~id=33705628155161277162041238345077~hmac=82bd249a8cd58b5f55b2a480606213b97cd4ce2af4b3c6f0860dc307ba91ed73|x-playback-session-id=73b20117ee2010a929cfb952ab4531d8-1762293903008&User-Agent=com.sonyliv/6.22.4 (Android 12; en_GB; RMX3624; Build/SP1A.210812.016)",
+      "url": "https://sonymtmnew.akamaized.net/hls/live/2022322/DAI18ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1762324204~acl=/*~id=33705628155161277162041238345077~hmac=82bd249a8cd58b5f55b2a480606213b97cd4ce2af4b3c6f0860dc307ba91ed73|x-playback-session-id=a8a3b0c43ed3fb9ca02d0cdc0b4b7bac-1762295403044&User-Agent=com.sonyliv/6.22.4 (Android 5; en_GB; XT1033; Build/LPBS23.13-56-2)",
       "user_agent": "Unknown"
     },
     {
@@ -20,7 +20,7 @@
       "language": "Hindi",
       "category": "Football",
       "title": "HIN | Liverpool vs Real Madrid - MD 4 - 5 Nov 2025",
-      "url": "https://sonymtmnew.akamaized.net/hls/live/2037140/DAI20ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1762324204~acl=/*~id=33705628155161277162041238345077~hmac=82bd249a8cd58b5f55b2a480606213b97cd4ce2af4b3c6f0860dc307ba91ed73|x-playback-session-id=73b20117ee2010a929cfb952ab4531d8-1762293903008&User-Agent=com.sonyliv/6.22.4 (Android 10; en_GB; CLT-L29; Build/HUAWEICLT-L29)",
+      "url": "https://sonymtmnew.akamaized.net/hls/live/2037140/DAI20ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1762324204~acl=/*~id=33705628155161277162041238345077~hmac=82bd249a8cd58b5f55b2a480606213b97cd4ce2af4b3c6f0860dc307ba91ed73|x-playback-session-id=a8a3b0c43ed3fb9ca02d0cdc0b4b7bac-1762295403044&User-Agent=com.sonyliv/6.22.4 (Android 8; en_GB; SM-M305F; Build/M1AJQ)",
       "user_agent": "Unknown"
     },
     {
@@ -30,7 +30,7 @@
       "language": "Tamil",
       "category": "Football",
       "title": "TAM | Liverpool vs Real Madrid - MD 4 - 5 Nov 2025",
-      "url": "https://sonymtmnew.akamaized.net/hls/live/2037143/DAI23ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1762324204~acl=/*~id=33705628155161277162041238345077~hmac=82bd249a8cd58b5f55b2a480606213b97cd4ce2af4b3c6f0860dc307ba91ed73|x-playback-session-id=73b20117ee2010a929cfb952ab4531d8-1762293903008&User-Agent=com.sonyliv/6.22.4 (Android 15; en_GB; SM-S918U1; Build/AP3A.240905.015.A2)",
+      "url": "https://sonymtmnew.akamaized.net/hls/live/2037143/DAI23ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1762324204~acl=/*~id=33705628155161277162041238345077~hmac=82bd249a8cd58b5f55b2a480606213b97cd4ce2af4b3c6f0860dc307ba91ed73|x-playback-session-id=a8a3b0c43ed3fb9ca02d0cdc0b4b7bac-1762295403044&User-Agent=com.sonyliv/6.22.4 (Android 7; en_GB; G011A; Build/N2G48H)",
       "user_agent": "Unknown"
     },
     {
@@ -40,67 +40,7 @@
       "language": "Telugu",
       "category": "Football",
       "title": "TEL | Liverpool vs Real Madrid - MD 4 - 5 Nov 2025",
-      "url": "https://sonymtmnew.akamaized.net/hls/live/2105080/DAI24ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1762324204~acl=/*~id=33705628155161277162041238345077~hmac=82bd249a8cd58b5f55b2a480606213b97cd4ce2af4b3c6f0860dc307ba91ed73|x-playback-session-id=73b20117ee2010a929cfb952ab4531d8-1762293903008&User-Agent=com.sonyliv/6.22.4 (Android 12; en_GB; M2004J19C; Build/SP1A.210812.016)",
-      "user_agent": "Unknown"
-    },
-    {
-      "id": "1090493368",
-      "name": "UEFA Champions League 2025-26",
-      "logo": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000010685/1761895599192290_UCL_25_26_MD4_PSG_vs_Bayern_landscape_thumb.jpg",
-      "language": "English",
-      "category": "Football",
-      "title": "ENG | PSG vs Bayern - MD 4 - 5 Nov 2025",
-      "url": "https://sonymtmnew.akamaized.net/hls/live/2022318/DAI14ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1762324204~acl=/*~id=33705628155161277162041238345077~hmac=82bd249a8cd58b5f55b2a480606213b97cd4ce2af4b3c6f0860dc307ba91ed73|x-playback-session-id=73b20117ee2010a929cfb952ab4531d8-1762293903008&User-Agent=com.sonyliv/6.22.4 (Android 14; en_GB; 22101317C; Build/UKQ1.240624.001)",
-      "user_agent": "Unknown"
-    },
-    {
-      "id": "1090493365",
-      "name": "UEFA Champions League 2025-26",
-      "logo": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000010683/1761896529179275_UCL25_MD4_Tottenham_vs_Copenhagen_31oct_landscape_thumb.jpg",
-      "language": "English",
-      "category": "Football",
-      "title": "ENG | Tottenham vs Copengahen - MD 4 - 5 Nov 2025",
-      "url": "https://sonymtmnew.akamaized.net/hls/live/2022315/DAI11ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1762324204~acl=/*~id=33705628155161277162041238345077~hmac=82bd249a8cd58b5f55b2a480606213b97cd4ce2af4b3c6f0860dc307ba91ed73|x-playback-session-id=73b20117ee2010a929cfb952ab4531d8-1762293903008&User-Agent=com.sonyliv/6.22.4 (Android 13; en_GB; CPH2293; Build/TP1A.220905.001)",
-      "user_agent": "Unknown"
-    },
-    {
-      "id": "1090493367",
-      "name": "UEFA Champions League 2025-26",
-      "logo": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000010683/1761895545019275_UCL25_MD4_Juventus_vs_Sporting_CP_31oct_landscape_thumb.jpg",
-      "language": "English",
-      "category": "Football",
-      "title": "ENG | Juventus vs Sporting CP - MD 4 - 5 Nov 2025",
-      "url": "https://sonymtmnew.akamaized.net/hls/live/2022317/DAI13ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1762324204~acl=/*~id=33705628155161277162041238345077~hmac=82bd249a8cd58b5f55b2a480606213b97cd4ce2af4b3c6f0860dc307ba91ed73|x-playback-session-id=73b20117ee2010a929cfb952ab4531d8-1762293903008&User-Agent=com.sonyliv/6.22.4 (Android 11; en_GB; AKAI 4K SMART TV; Build/RTT2.220103.001)",
-      "user_agent": "Unknown"
-    },
-    {
-      "id": "1090493363",
-      "name": "UEFA Champions League 2025-26",
-      "logo": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000010683/1761901137971275_UCL25_MD4_Atleti_vs_Union_SG_31oct_landscape_thumb.jpg",
-      "language": "English",
-      "category": "Football",
-      "title": "ENG | Atletico vs Union SG - MD 4 - 5 Nov 2025",
-      "url": "https://sonymtmnew.akamaized.net/hls/live/2094587/DAI03ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1762324204~acl=/*~id=33705628155161277162041238345077~hmac=82bd249a8cd58b5f55b2a480606213b97cd4ce2af4b3c6f0860dc307ba91ed73|x-playback-session-id=73b20117ee2010a929cfb952ab4531d8-1762293903008&User-Agent=com.sonyliv/6.22.4 (Android 14; en_GB; RMX3890; Build/UKQ1.230917.001)",
-      "user_agent": "Unknown"
-    },
-    {
-      "id": "1090493369",
-      "name": "UEFA Champions League 2025-26",
-      "logo": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000010683/1761895289300275_UCL25_MD4_Bodo_Glimt_vs_Monaco_31oct_landscape_thumb.jpg",
-      "language": "English",
-      "category": "Football",
-      "title": "ENG | Bodo/Glimt vs Monaco - MD 4 - 5 Nov 2025",
-      "url": "https://sonymtmnew.akamaized.net/hls/live/2005445/DAI06ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1762324204~acl=/*~id=33705628155161277162041238345077~hmac=82bd249a8cd58b5f55b2a480606213b97cd4ce2af4b3c6f0860dc307ba91ed73|x-playback-session-id=73b20117ee2010a929cfb952ab4531d8-1762293903008&User-Agent=com.sonyliv/6.22.4 (Android 9; en_GB; BVL-AN16; Build/PQ3A.190605.07141716)",
-      "user_agent": "Unknown"
-    },
-    {
-      "id": "1090493366",
-      "name": "UEFA Champions League 2025-26",
-      "logo": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000010683/1761896274187275_UCL25_MD4_Olympiacos_vs_PSV_31oct_landscape_thumb.jpg",
-      "language": "English",
-      "category": "Football",
-      "title": "ENG | Olympiacos vs PSV - MD 4 - 5 Nov 2025",
-      "url": "https://sonymtmnew.akamaized.net/hls/live/2018457/DAI09ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1762324204~acl=/*~id=33705628155161277162041238345077~hmac=82bd249a8cd58b5f55b2a480606213b97cd4ce2af4b3c6f0860dc307ba91ed73|x-playback-session-id=73b20117ee2010a929cfb952ab4531d8-1762293903008&User-Agent=com.sonyliv/6.22.4 (Android 12; en_GB; RMX3371; Build/RKQ1.211119.001)",
+      "url": "https://sonymtmnew.akamaized.net/hls/live/2105080/DAI24ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1762324204~acl=/*~id=33705628155161277162041238345077~hmac=82bd249a8cd58b5f55b2a480606213b97cd4ce2af4b3c6f0860dc307ba91ed73|x-playback-session-id=a8a3b0c43ed3fb9ca02d0cdc0b4b7bac-1762295403044&User-Agent=com.sonyliv/6.22.4 (Android 10; en_GB; BRAVIA 4K VH21; Build/QTG3.200305.006.S362)",
       "user_agent": "Unknown"
     }
   ]
