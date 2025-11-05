@@ -1,8 +1,18 @@
 {
   "api_made_by": "bd coder boy",
-  "updated": "Wed, 05 Nov 2025 19:15:44 GMT",
-  "total_events": 9,
+  "updated": "Wed, 05 Nov 2025 19:28:23 GMT",
+  "total_events": 15,
   "events": [
+    {
+      "id": "1090493375",
+      "name": "UEFA Champions League 2025-26",
+      "logo": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000010683/1761897690653275_UCL25_MD4_Club_Brugge_vs_Barcelona_31oct_landscape_thumb.jpg",
+      "language": "English",
+      "category": "Football",
+      "title": "ENG | Club Brugge vs Barcelona - MD 4 - 6 Nov 2025",
+      "url": "https://sonymtmnew.akamaized.net/hls/live/2022318/DAI14ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1762389004~acl=/*~id=60298950625824384293452528779761~hmac=8964c3b96e7dcb503679e4fb41cacb4e0679a10c975f8dd290ce051c458e1602|x-playback-session-id=4898f2bd5a2edb5b728fc664097f5f12-1762370771761&User-Agent=com.sonyliv/6.22.4 (Android 11; en_GB; C00; Build/RTM8.240401.135)",
+      "user_agent": "Unknown"
+    },
     {
       "id": "1090493371",
       "name": "UEFA Champions League 2025-26",
@@ -10,7 +20,7 @@
       "language": "English",
       "category": "Football",
       "title": "ENG | Qarabag vs Chelsea - MD 4 - 5 Nov 2025",
-      "url": "https://sonymtmnew.akamaized.net/hls/live/2105079/DAI08ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1762389004~acl=/*~id=60298950625824384293452528779761~hmac=8964c3b96e7dcb503679e4fb41cacb4e0679a10c975f8dd290ce051c458e1602|x-playback-session-id=c47d7765b0ee112d2563de3e81a4b59d-1762369930281&User-Agent=com.sonyliv/6.22.4 (Android 9; en_GB; SM-A530F; Build/PPR1.180610.011)",
+      "url": "https://sonymtmnew.akamaized.net/hls/live/2105079/DAI08ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1762389004~acl=/*~id=60298950625824384293452528779761~hmac=8964c3b96e7dcb503679e4fb41cacb4e0679a10c975f8dd290ce051c458e1602|x-playback-session-id=4898f2bd5a2edb5b728fc664097f5f12-1762370771761&User-Agent=com.sonyliv/6.22.4 (Android 7; en_GB; LM-X210; Build/N2G47H)",
       "user_agent": "Unknown"
     },
     {
@@ -20,7 +30,7 @@
       "language": "Hindi",
       "category": "Football",
       "title": "HIN | Qarabag vs Chelsea - MD 4 - 5 Nov 2025",
-      "url": "https://sonymtmnew.akamaized.net/hls/live/2094588/DAI04ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1762389004~acl=/*~id=60298950625824384293452528779761~hmac=8964c3b96e7dcb503679e4fb41cacb4e0679a10c975f8dd290ce051c458e1602|x-playback-session-id=c47d7765b0ee112d2563de3e81a4b59d-1762369930281&User-Agent=com.sonyliv/6.22.4 (Android 7; en_GB; MBOX; Build/NHG47K)",
+      "url": "https://sonymtmnew.akamaized.net/hls/live/2094588/DAI04ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1762389004~acl=/*~id=60298950625824384293452528779761~hmac=8964c3b96e7dcb503679e4fb41cacb4e0679a10c975f8dd290ce051c458e1602|x-playback-session-id=4898f2bd5a2edb5b728fc664097f5f12-1762370771761&User-Agent=com.sonyliv/6.22.4 (Android 9; en_GB; V1945A; Build/PKQ1.190626.001)",
       "user_agent": "Unknown"
     },
     {
@@ -30,7 +40,7 @@
       "language": "Tamil",
       "category": "Football",
       "title": "TAM | Qarabag vs Chelsea - MD 4 - 5 Nov 2025",
-      "url": "https://sonymtmnew.akamaized.net/hls/live/2022319/DAI15ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1762389004~acl=/*~id=60298950625824384293452528779761~hmac=8964c3b96e7dcb503679e4fb41cacb4e0679a10c975f8dd290ce051c458e1602|x-playback-session-id=c47d7765b0ee112d2563de3e81a4b59d-1762369930281&User-Agent=com.sonyliv/6.22.4 (Android 15; en_GB; BVL-N49; Build/HONORBVL-N49)",
+      "url": "https://sonymtmnew.akamaized.net/hls/live/2022319/DAI15ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1762389004~acl=/*~id=60298950625824384293452528779761~hmac=8964c3b96e7dcb503679e4fb41cacb4e0679a10c975f8dd290ce051c458e1602|x-playback-session-id=4898f2bd5a2edb5b728fc664097f5f12-1762370771761&User-Agent=com.sonyliv/6.22.4 (Android 13; en_GB; SM-M225FV; Build/TP1A.220624.014)",
       "user_agent": "Unknown"
     },
     {
@@ -40,7 +50,7 @@
       "language": "Telugu",
       "category": "Football",
       "title": "TEL | Qarabag vs Chelsea - MD 4 - 5 Nov 2025",
-      "url": "https://sonymtmnew.akamaized.net/hls/live/2037141/DAI21ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1762389004~acl=/*~id=60298950625824384293452528779761~hmac=8964c3b96e7dcb503679e4fb41cacb4e0679a10c975f8dd290ce051c458e1602|x-playback-session-id=c47d7765b0ee112d2563de3e81a4b59d-1762369930281&User-Agent=com.sonyliv/6.22.4 (Android 14; en_GB; RMX3997; Build/UP1A.231005.007)",
+      "url": "https://sonymtmnew.akamaized.net/hls/live/2037141/DAI21ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1762389004~acl=/*~id=60298950625824384293452528779761~hmac=8964c3b96e7dcb503679e4fb41cacb4e0679a10c975f8dd290ce051c458e1602|x-playback-session-id=4898f2bd5a2edb5b728fc664097f5f12-1762370771761&User-Agent=com.sonyliv/6.22.4 (Android 13; en_GB; LAVA LZX409; Build/TP1A.220624.014)",
       "user_agent": "Unknown"
     },
     {
@@ -50,7 +60,7 @@
       "language": "English",
       "category": "Football",
       "title": "ENG | Man City vs Dortmund - MD 4 - 6 Nov 2025",
-      "url": "https://sonymtmnew.akamaized.net/hls/live/2022322/DAI18ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1762389004~acl=/*~id=60298950625824384293452528779761~hmac=8964c3b96e7dcb503679e4fb41cacb4e0679a10c975f8dd290ce051c458e1602|x-playback-session-id=c47d7765b0ee112d2563de3e81a4b59d-1762369930281&User-Agent=com.sonyliv/6.22.4 (Android 10; en_GB; RMX1992; Build/QKQ1.191201.002)",
+      "url": "https://sonymtmnew.akamaized.net/hls/live/2022322/DAI18ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1762389004~acl=/*~id=60298950625824384293452528779761~hmac=8964c3b96e7dcb503679e4fb41cacb4e0679a10c975f8dd290ce051c458e1602|x-playback-session-id=4898f2bd5a2edb5b728fc664097f5f12-1762370771761&User-Agent=com.sonyliv/6.22.4 (Android 13; en_GB; 2201117TG; Build/TKQ1.221114.001)",
       "user_agent": "Unknown"
     },
     {
@@ -60,7 +70,7 @@
       "language": "Hindi",
       "category": "Football",
       "title": "HIN | Man City vs Dortmund - MD 4 - 6 Nov 2025",
-      "url": "https://sonymtmnew.akamaized.net/hls/live/2037140/DAI20ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1762389004~acl=/*~id=60298950625824384293452528779761~hmac=8964c3b96e7dcb503679e4fb41cacb4e0679a10c975f8dd290ce051c458e1602|x-playback-session-id=c47d7765b0ee112d2563de3e81a4b59d-1762369930281&User-Agent=com.sonyliv/6.22.4 (Android 11; en_GB; ohm; Build/RD2A.211001.002)",
+      "url": "https://sonymtmnew.akamaized.net/hls/live/2037140/DAI20ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1762389004~acl=/*~id=60298950625824384293452528779761~hmac=8964c3b96e7dcb503679e4fb41cacb4e0679a10c975f8dd290ce051c458e1602|x-playback-session-id=4898f2bd5a2edb5b728fc664097f5f12-1762370771761&User-Agent=com.sonyliv/6.22.4 (Android 11; en_GB; projector; Build/RP1A.201005.006)",
       "user_agent": "Unknown"
     },
     {
@@ -70,7 +80,7 @@
       "language": "Tamil",
       "category": "Football",
       "title": "TAM | Man City vs Dortmund - MD 4 - 6 Nov 2025",
-      "url": "https://sonymtmnew.akamaized.net/hls/live/2037143/DAI23ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1762389004~acl=/*~id=60298950625824384293452528779761~hmac=8964c3b96e7dcb503679e4fb41cacb4e0679a10c975f8dd290ce051c458e1602|x-playback-session-id=c47d7765b0ee112d2563de3e81a4b59d-1762369930281&User-Agent=com.sonyliv/6.22.4 (Android 11; en_GB; V2035; Build/RP1A.200720.012)",
+      "url": "https://sonymtmnew.akamaized.net/hls/live/2037143/DAI23ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1762389004~acl=/*~id=60298950625824384293452528779761~hmac=8964c3b96e7dcb503679e4fb41cacb4e0679a10c975f8dd290ce051c458e1602|x-playback-session-id=4898f2bd5a2edb5b728fc664097f5f12-1762370771761&User-Agent=com.sonyliv/6.22.4 (Android 10; en_GB; RMX2161; Build/QP1A.190711.020)",
       "user_agent": "Unknown"
     },
     {
@@ -80,7 +90,57 @@
       "language": "Telugu",
       "category": "Football",
       "title": "TEL | Man City vs Dortmund - MD 4 - 6 Nov 2025",
-      "url": "https://sonymtmnew.akamaized.net/hls/live/2105080/DAI24ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1762389004~acl=/*~id=60298950625824384293452528779761~hmac=8964c3b96e7dcb503679e4fb41cacb4e0679a10c975f8dd290ce051c458e1602|x-playback-session-id=c47d7765b0ee112d2563de3e81a4b59d-1762369930281&User-Agent=com.sonyliv/6.22.4 (Android 9; en_GB; SM-G998B; Build/SKQ1.220617.001)",
+      "url": "https://sonymtmnew.akamaized.net/hls/live/2105080/DAI24ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1762389004~acl=/*~id=60298950625824384293452528779761~hmac=8964c3b96e7dcb503679e4fb41cacb4e0679a10c975f8dd290ce051c458e1602|x-playback-session-id=4898f2bd5a2edb5b728fc664097f5f12-1762370771761&User-Agent=com.sonyliv/6.22.4 (Android 10; en_GB; Spider; Build/QP1A.191105.004)",
+      "user_agent": "Unknown"
+    },
+    {
+      "id": "1090493377",
+      "name": "UEFA Champions League 2025-26",
+      "logo": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000010683/1761899728869275_UCL25_MD4_Inter_vs_Kairat_Almaty_31oct_landscape_thumb.jpg",
+      "language": "English",
+      "category": "Football",
+      "title": "ENG | Inter vs Kairat Almaty - MD 4 - 6 Nov 2025",
+      "url": "https://sonymtmnew.akamaized.net/hls/live/2022317/DAI13ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1762389004~acl=/*~id=60298950625824384293452528779761~hmac=8964c3b96e7dcb503679e4fb41cacb4e0679a10c975f8dd290ce051c458e1602|x-playback-session-id=4898f2bd5a2edb5b728fc664097f5f12-1762370771761&User-Agent=com.sonyliv/6.22.4 (Android 13; en_GB; 21091116UG; Build/TP1A.220624.014)",
+      "user_agent": "Unknown"
+    },
+    {
+      "id": "1090493373",
+      "name": "UEFA Champions League 2025-26",
+      "logo": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000010683/1761900958442275_UCL25_MD4_Newcastle_vs_Athletic_Club_31oct_landscape_thumb.jpg",
+      "language": "English",
+      "category": "Football",
+      "title": "ENG | Newcastle vs Athletic Club - MD 4 - 6 Nov 2025",
+      "url": "https://sonymtmnew.akamaized.net/hls/live/2022315/DAI11ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1762389004~acl=/*~id=60298950625824384293452528779761~hmac=8964c3b96e7dcb503679e4fb41cacb4e0679a10c975f8dd290ce051c458e1602|x-playback-session-id=4898f2bd5a2edb5b728fc664097f5f12-1762370771761&User-Agent=com.sonyliv/6.22.4 (Android 13; en_GB; Pixel 5; Build/TQ3A.230705.001.B4)",
+      "user_agent": "Unknown"
+    },
+    {
+      "id": "1090493376",
+      "name": "UEFA Champions League 2025-26",
+      "logo": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000010683/1761897418775275_UCL25_MD4_Benfica_vs_Leverkusen_31oct_landscape_thumb.jpg",
+      "language": "English",
+      "category": "Football",
+      "title": "ENG | Benfica vs Leverkusen - MD 4 - 6 Nov 2025",
+      "url": "https://sonymtmnew.akamaized.net/hls/live/2005445/DAI06ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1762389004~acl=/*~id=60298950625824384293452528779761~hmac=8964c3b96e7dcb503679e4fb41cacb4e0679a10c975f8dd290ce051c458e1602|x-playback-session-id=4898f2bd5a2edb5b728fc664097f5f12-1762370771761&User-Agent=com.sonyliv/6.22.4 (Android 9; en_GB; JSS_814A; Build/PPR2.180905.006.A1)",
+      "user_agent": "Unknown"
+    },
+    {
+      "id": "1090493378",
+      "name": "UEFA Champions League 2025-26",
+      "logo": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000010683/1761899981009275_UCL25_MD4_Marseille_vs_Atalanta_31oct_landscape_thumb.jpg",
+      "language": "English",
+      "category": "Football",
+      "title": "ENG | Marseille vs Atlanta - MD 4 - 6 Nov 2025",
+      "url": "https://sonymtmnew.akamaized.net/hls/live/2018457/DAI09ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1762389004~acl=/*~id=60298950625824384293452528779761~hmac=8964c3b96e7dcb503679e4fb41cacb4e0679a10c975f8dd290ce051c458e1602|x-playback-session-id=4898f2bd5a2edb5b728fc664097f5f12-1762370771761&User-Agent=com.sonyliv/6.22.4 (Android 7; en_GB; Lenovo TB-7304X; Build/NRD90M)",
+      "user_agent": "Unknown"
+    },
+    {
+      "id": "1090493374",
+      "name": "UEFA Champions League 2025-26",
+      "logo": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000010683/1761897130375275_UCL25_MD4_Ajax_vs_Galatasaray_31oct_landscape_thumb.jpg",
+      "language": "English",
+      "category": "Football",
+      "title": "ENG | Ajax vs Galatasaray - MD 4 - 6 Nov 2025",
+      "url": "https://sonymtmnew.akamaized.net/hls/live/2094587/DAI03ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1762389004~acl=/*~id=60298950625824384293452528779761~hmac=8964c3b96e7dcb503679e4fb41cacb4e0679a10c975f8dd290ce051c458e1602|x-playback-session-id=4898f2bd5a2edb5b728fc664097f5f12-1762370771761&User-Agent=com.sonyliv/6.22.4 (Android 11; en_GB; JMSD200A; Build/23.1.11)",
       "user_agent": "Unknown"
     },
     {
@@ -90,7 +150,7 @@
       "language": "English",
       "category": "Football",
       "title": "ENG | Pafos vs Villareal - MD 4 - 5 Nov 2025",
-      "url": "https://sonymtmnew.akamaized.net/hls/live/2018458/DAI10ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1762389004~acl=/*~id=60298950625824384293452528779761~hmac=8964c3b96e7dcb503679e4fb41cacb4e0679a10c975f8dd290ce051c458e1602|x-playback-session-id=c47d7765b0ee112d2563de3e81a4b59d-1762369930281&User-Agent=com.sonyliv/6.22.4 (Android 15; en_GB; RMX5106; Build/UKQ1.231108.001)",
+      "url": "https://sonymtmnew.akamaized.net/hls/live/2018458/DAI10ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1762389004~acl=/*~id=60298950625824384293452528779761~hmac=8964c3b96e7dcb503679e4fb41cacb4e0679a10c975f8dd290ce051c458e1602|x-playback-session-id=4898f2bd5a2edb5b728fc664097f5f12-1762370771761&User-Agent=com.sonyliv/6.22.4 (Android 13; en_GB; corsola; Build/R139-16328.25.0)",
       "user_agent": "Unknown"
     }
   ]
