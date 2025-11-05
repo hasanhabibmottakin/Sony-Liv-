@@ -1,6 +1,6 @@
 {
   "api_made_by": "bd coder boy",
-  "updated": "Wed, 05 Nov 2025 13:41:41 GMT",
+  "updated": "Wed, 05 Nov 2025 13:55:48 GMT",
   "total_events": 1,
   "events": [
     {
@@ -10,7 +10,7 @@
       "language": "English",
       "category": "Football",
       "title": "ENG | Ajax vs Galatasaray - MD 4 - 5 Nov 2025",
-      "url": "https://sonymtmnew.akamaized.net/hls/live/2022316/DAI12ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1762367404~acl=/*~id=26289733837448412541812110539728~hmac=d5dc5dee26342edf4f4b8d2ea2bc8c7c9b3494ffdc5784ee6d88dad26f104776|x-playback-session-id=8e9561a456760c37a3a03f0d80c4821d-1762349404741&User-Agent=com.sonyliv/6.22.4 (Android 13; en_GB; CPH2577; Build/TP1A.220905.001)",
+      "url": "https://sonymtmnew.akamaized.net/hls/live/2022316/DAI12ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1762367404~acl=/*~id=26289733837448412541812110539728~hmac=d5dc5dee26342edf4f4b8d2ea2bc8c7c9b3494ffdc5784ee6d88dad26f104776|x-playback-session-id=1039a363d240c7b21714889c333af42a-1762350673248&User-Agent=com.sonyliv/6.22.4 (Android 11; en_GB; HY300A; Build/OC)",
       "user_agent": "Unknown"
     }
   ]
