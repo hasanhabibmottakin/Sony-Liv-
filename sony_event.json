@@ -1,26 +1,96 @@
 {
   "api_made_by": "bd coder boy",
-  "updated": "Wed, 05 Nov 2025 14:51:30 GMT",
-  "total_events": 2,
+  "updated": "Wed, 05 Nov 2025 19:15:44 GMT",
+  "total_events": 9,
   "events": [
     {
-      "id": "1090493756",
-      "name": "UEFA Youth League 2025-26",
-      "logo": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000010673/1761882111470917_UYL25_MD4_Ajax_vs_Galatasaray_landscape_thumb.jpg",
+      "id": "1090493371",
+      "name": "UEFA Champions League 2025-26",
+      "logo": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000010685/1761900383088290_UCL_25_26_MD4_Qarabag-vs-Chelsea_landscape_thumb.jpg",
       "language": "English",
       "category": "Football",
-      "title": "ENG | Ajax vs Galatasaray - MD 4 - 5 Nov 2025",
-      "url": "https://sonymtmnew.akamaized.net/hls/live/2022316/DAI12ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1762389004~acl=/*~id=60298950625824384293452528779761~hmac=8964c3b96e7dcb503679e4fb41cacb4e0679a10c975f8dd290ce051c458e1602|x-playback-session-id=e0b254344090a5fdffb649b6a28e254b-1762353845260&User-Agent=com.sonyliv/6.22.4 (Android 14; en_GB; LE2101; Build/UKQ1.230924.001)",
+      "title": "ENG | Qarabag vs Chelsea - MD 4 - 5 Nov 2025",
+      "url": "https://sonymtmnew.akamaized.net/hls/live/2105079/DAI08ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1762389004~acl=/*~id=60298950625824384293452528779761~hmac=8964c3b96e7dcb503679e4fb41cacb4e0679a10c975f8dd290ce051c458e1602|x-playback-session-id=c47d7765b0ee112d2563de3e81a4b59d-1762369930281&User-Agent=com.sonyliv/6.22.4 (Android 9; en_GB; SM-A530F; Build/PPR1.180610.011)",
       "user_agent": "Unknown"
     },
     {
-      "id": "1090493757",
-      "name": "UEFA Youth League 2025-26",
-      "logo": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000010856/176229113741485_UYL25_MD4_Newcastle_vs_Athleti-Club_landscape_thumb_re1.jpg",
+      "id": "1090493371",
+      "name": "UEFA Champions League 2025-26",
+      "logo": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000010685/1761900383088290_UCL_25_26_MD4_Qarabag-vs-Chelsea_landscape_thumb.jpg",
+      "language": "Hindi",
+      "category": "Football",
+      "title": "HIN | Qarabag vs Chelsea - MD 4 - 5 Nov 2025",
+      "url": "https://sonymtmnew.akamaized.net/hls/live/2094588/DAI04ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1762389004~acl=/*~id=60298950625824384293452528779761~hmac=8964c3b96e7dcb503679e4fb41cacb4e0679a10c975f8dd290ce051c458e1602|x-playback-session-id=c47d7765b0ee112d2563de3e81a4b59d-1762369930281&User-Agent=com.sonyliv/6.22.4 (Android 7; en_GB; MBOX; Build/NHG47K)",
+      "user_agent": "Unknown"
+    },
+    {
+      "id": "1090493371",
+      "name": "UEFA Champions League 2025-26",
+      "logo": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000010685/1761900383088290_UCL_25_26_MD4_Qarabag-vs-Chelsea_landscape_thumb.jpg",
+      "language": "Tamil",
+      "category": "Football",
+      "title": "TAM | Qarabag vs Chelsea - MD 4 - 5 Nov 2025",
+      "url": "https://sonymtmnew.akamaized.net/hls/live/2022319/DAI15ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1762389004~acl=/*~id=60298950625824384293452528779761~hmac=8964c3b96e7dcb503679e4fb41cacb4e0679a10c975f8dd290ce051c458e1602|x-playback-session-id=c47d7765b0ee112d2563de3e81a4b59d-1762369930281&User-Agent=com.sonyliv/6.22.4 (Android 15; en_GB; BVL-N49; Build/HONORBVL-N49)",
+      "user_agent": "Unknown"
+    },
+    {
+      "id": "1090493371",
+      "name": "UEFA Champions League 2025-26",
+      "logo": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000010685/1761900383088290_UCL_25_26_MD4_Qarabag-vs-Chelsea_landscape_thumb.jpg",
+      "language": "Telugu",
+      "category": "Football",
+      "title": "TEL | Qarabag vs Chelsea - MD 4 - 5 Nov 2025",
+      "url": "https://sonymtmnew.akamaized.net/hls/live/2037141/DAI21ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1762389004~acl=/*~id=60298950625824384293452528779761~hmac=8964c3b96e7dcb503679e4fb41cacb4e0679a10c975f8dd290ce051c458e1602|x-playback-session-id=c47d7765b0ee112d2563de3e81a4b59d-1762369930281&User-Agent=com.sonyliv/6.22.4 (Android 14; en_GB; RMX3997; Build/UP1A.231005.007)",
+      "user_agent": "Unknown"
+    },
+    {
+      "id": "1090493372",
+      "name": "UEFA Champions League 2025-26",
+      "logo": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000010685/1761902905893290_UCL_25_26_MD4_Man-City-vs-Dortmund_landscape_thumb.jpg",
       "language": "English",
       "category": "Football",
-      "title": "ENG | Newcastle vs Athletic Club - MD 4 - 5 Nov 2025",
-      "url": "https://sonymtmnew.akamaized.net/hls/live/2094589/DAI05ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1762389004~acl=/*~id=60298950625824384293452528779761~hmac=8964c3b96e7dcb503679e4fb41cacb4e0679a10c975f8dd290ce051c458e1602|x-playback-session-id=e0b254344090a5fdffb649b6a28e254b-1762353845260&User-Agent=com.sonyliv/6.22.4 (Android 15; en_GB; I2306; Build/AP3A.240905.015.A2)",
+      "title": "ENG | Man City vs Dortmund - MD 4 - 6 Nov 2025",
+      "url": "https://sonymtmnew.akamaized.net/hls/live/2022322/DAI18ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1762389004~acl=/*~id=60298950625824384293452528779761~hmac=8964c3b96e7dcb503679e4fb41cacb4e0679a10c975f8dd290ce051c458e1602|x-playback-session-id=c47d7765b0ee112d2563de3e81a4b59d-1762369930281&User-Agent=com.sonyliv/6.22.4 (Android 10; en_GB; RMX1992; Build/QKQ1.191201.002)",
+      "user_agent": "Unknown"
+    },
+    {
+      "id": "1090493372",
+      "name": "UEFA Champions League 2025-26",
+      "logo": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000010685/1761902905893290_UCL_25_26_MD4_Man-City-vs-Dortmund_landscape_thumb.jpg",
+      "language": "Hindi",
+      "category": "Football",
+      "title": "HIN | Man City vs Dortmund - MD 4 - 6 Nov 2025",
+      "url": "https://sonymtmnew.akamaized.net/hls/live/2037140/DAI20ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1762389004~acl=/*~id=60298950625824384293452528779761~hmac=8964c3b96e7dcb503679e4fb41cacb4e0679a10c975f8dd290ce051c458e1602|x-playback-session-id=c47d7765b0ee112d2563de3e81a4b59d-1762369930281&User-Agent=com.sonyliv/6.22.4 (Android 11; en_GB; ohm; Build/RD2A.211001.002)",
+      "user_agent": "Unknown"
+    },
+    {
+      "id": "1090493372",
+      "name": "UEFA Champions League 2025-26",
+      "logo": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000010685/1761902905893290_UCL_25_26_MD4_Man-City-vs-Dortmund_landscape_thumb.jpg",
+      "language": "Tamil",
+      "category": "Football",
+      "title": "TAM | Man City vs Dortmund - MD 4 - 6 Nov 2025",
+      "url": "https://sonymtmnew.akamaized.net/hls/live/2037143/DAI23ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1762389004~acl=/*~id=60298950625824384293452528779761~hmac=8964c3b96e7dcb503679e4fb41cacb4e0679a10c975f8dd290ce051c458e1602|x-playback-session-id=c47d7765b0ee112d2563de3e81a4b59d-1762369930281&User-Agent=com.sonyliv/6.22.4 (Android 11; en_GB; V2035; Build/RP1A.200720.012)",
+      "user_agent": "Unknown"
+    },
+    {
+      "id": "1090493372",
+      "name": "UEFA Champions League 2025-26",
+      "logo": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000010685/1761902905893290_UCL_25_26_MD4_Man-City-vs-Dortmund_landscape_thumb.jpg",
+      "language": "Telugu",
+      "category": "Football",
+      "title": "TEL | Man City vs Dortmund - MD 4 - 6 Nov 2025",
+      "url": "https://sonymtmnew.akamaized.net/hls/live/2105080/DAI24ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1762389004~acl=/*~id=60298950625824384293452528779761~hmac=8964c3b96e7dcb503679e4fb41cacb4e0679a10c975f8dd290ce051c458e1602|x-playback-session-id=c47d7765b0ee112d2563de3e81a4b59d-1762369930281&User-Agent=com.sonyliv/6.22.4 (Android 9; en_GB; SM-G998B; Build/SKQ1.220617.001)",
+      "user_agent": "Unknown"
+    },
+    {
+      "id": "1090493370",
+      "name": "UEFA Champions League 2025-26",
+      "logo": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000010683/1761896860911275_UCL25_MD4_Pafos_vs_Villarreal_31oct_landscape_thumb.jpg",
+      "language": "English",
+      "category": "Football",
+      "title": "ENG | Pafos vs Villareal - MD 4 - 5 Nov 2025",
+      "url": "https://sonymtmnew.akamaized.net/hls/live/2018458/DAI10ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1762389004~acl=/*~id=60298950625824384293452528779761~hmac=8964c3b96e7dcb503679e4fb41cacb4e0679a10c975f8dd290ce051c458e1602|x-playback-session-id=c47d7765b0ee112d2563de3e81a4b59d-1762369930281&User-Agent=com.sonyliv/6.22.4 (Android 15; en_GB; RMX5106; Build/UKQ1.231108.001)",
       "user_agent": "Unknown"
     }
   ]
