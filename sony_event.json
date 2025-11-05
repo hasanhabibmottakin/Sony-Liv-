@@ -1,6 +1,6 @@
 {
   "api_made_by": "bd coder boy",
-  "updated": "Wed, 05 Nov 2025 07:20:58 GMT",
+  "updated": "Wed, 05 Nov 2025 07:37:14 GMT",
   "total_events": 1,
   "events": [
     {
@@ -10,7 +10,7 @@
       "language": "English",
       "category": "Cricket",
       "title": "ENG | 1st T20I - 5 Nov 2025",
-      "url": "https://sonymtmnew.akamaized.net/hls/live/2018457/wivsnz/ENG/std_lrh-800300010.m3u8?hdnea=exp=1762345804~acl=/*~id=62571897067377722815982083803241~hmac=920693ef1790653ecda31ab3f9c4e576bb32c170891811f357e8b5bdd3c6a825|x-playback-session-id=67f4c8878ef93542c1fb62769fdf13ec-1762327144549&User-Agent=com.sonyliv/6.22.4 (Android 12; en_GB; SM-G991B; Build/SP1A.210812.016)",
+      "url": "https://sonymtmnew.akamaized.net/hls/live/2018457/wivsnz/ENG/std_lrh-800300010.m3u8?hdnea=exp=1762345804~acl=/*~id=62571897067377722815982083803241~hmac=920693ef1790653ecda31ab3f9c4e576bb32c170891811f357e8b5bdd3c6a825|x-playback-session-id=ff602a328152f629232b779b87297257-1762328225127&User-Agent=com.sonyliv/6.22.4 (Android 12; en_GB; SM-G973F; Build/SP1A.210812.016)",
       "user_agent": "Unknown"
     }
   ]
