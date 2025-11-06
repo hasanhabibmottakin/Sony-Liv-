@@ -1,6 +1,6 @@
 {
   "api_made_by": "bd coder boy",
-  "updated": "Thu, 06 Nov 2025 20:55:24 GMT",
+  "updated": "Thu, 06 Nov 2025 21:12:48 GMT",
   "total_events": 1,
   "events": [
     {
@@ -10,7 +10,7 @@
       "language": "English",
       "category": "Football",
       "title": "ENG | Aston Villa vs M. Tel-Aviv - MD 4 - 7 Nov 2025",
-      "url": "https://sonymtmnew.akamaized.net/hls/live/2094588/DAI04ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1762497004~acl=/*~id=48204b0390cc49888b8507685173f43c-1755427161715~hmac=0b0302116d9743935e6cca25b853aeb49b4be43d484cd67af1f35110b8f3a008|x-playback-session-id=66a0cfce7a61cf29d1a4f17a5a94ae6a-1762462264177&User-Agent=com.sonyliv/6.22.4 (Android 13; en_GB; POCOPHONE F1; Build/TKQ1.221114.001)",
+      "url": "https://sonymtmnew.akamaized.net/hls/live/2094588/DAI04ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1762497004~acl=/*~id=48204b0390cc49888b8507685173f43c-1755427161715~hmac=0b0302116d9743935e6cca25b853aeb49b4be43d484cd67af1f35110b8f3a008|x-playback-session-id=d0d23909f08d1d544b0fbd44c91b6eb4-1762463104175&User-Agent=com.sonyliv/6.22.4 (Android 9; en_GB; Nexus Player; Build/PI)",
       "user_agent": "Unknown"
     }
   ]
