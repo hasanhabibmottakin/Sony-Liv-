@@ -1,6 +1,6 @@
 {
   "api_made_by": "bd coder boy",
-  "updated": "Thu, 06 Nov 2025 08:19:08 GMT",
+  "updated": "Thu, 06 Nov 2025 08:44:40 GMT",
   "total_events": 2,
   "events": [
     {
@@ -10,7 +10,7 @@
       "language": "English",
       "category": "Cricket",
       "title": "ENG | 2nd T20I - 6 Nov 2025",
-      "url": "https://sonymtmnew.akamaized.net/hls/live/2018457/wivsnz/ENG/std_lrh-800300010.m3u8?hdnea=exp=1762449533~acl=/*~id=48204b0390cc49888b8507685173f43c-1755427161715~hmac=2fa093228c994074a8a49da9bb8be5e73976fac4699ccef7d639857faa9567a9|x-playback-session-id=a0e01cce113d0d71ab6ddcd1f7a4341e-1762416725307&User-Agent=com.sonyliv/6.22.4 (Android 10; en_GB; Infinix X692; Build/QP1A.190711.020)",
+      "url": "https://sonymtmnew.akamaized.net/hls/live/2018457/wivsnz/ENG/std_lrh-800300010.m3u8?hdnea=exp=1762449533~acl=/*~id=48204b0390cc49888b8507685173f43c-1755427161715~hmac=2fa093228c994074a8a49da9bb8be5e73976fac4699ccef7d639857faa9567a9|x-playback-session-id=652dabcfb5ca7ffd77caa4343650fa53-1762418645668&User-Agent=com.sonyliv/6.22.4 (Android 10; en_GB; LM-G850; Build/QKQ1.200216.002)",
       "user_agent": "Unknown"
     },
     {
@@ -20,7 +20,7 @@
       "language": "English",
       "category": "Golf",
       "title": "ENG | Moutai Singapore Open - Day 1 - 6 Nov 2025",
-      "url": "https://sonymtmnew.akamaized.net/hls/live/2022320/DAI16ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1762449533~acl=/*~id=48204b0390cc49888b8507685173f43c-1755427161715~hmac=2fa093228c994074a8a49da9bb8be5e73976fac4699ccef7d639857faa9567a9|x-playback-session-id=a0e01cce113d0d71ab6ddcd1f7a4341e-1762416725307&User-Agent=com.sonyliv/6.22.4 (Android 15; en_GB; SM-A145R; Build/AP3A.240905.015.A2)",
+      "url": "https://sonymtmnew.akamaized.net/hls/live/2022320/DAI16ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1762449533~acl=/*~id=48204b0390cc49888b8507685173f43c-1755427161715~hmac=2fa093228c994074a8a49da9bb8be5e73976fac4699ccef7d639857faa9567a9|x-playback-session-id=652dabcfb5ca7ffd77caa4343650fa53-1762418645668&User-Agent=com.sonyliv/6.22.4 (Android 10; en_GB; dolphin; Build/NRD91N)",
       "user_agent": "Unknown"
     }
   ]
