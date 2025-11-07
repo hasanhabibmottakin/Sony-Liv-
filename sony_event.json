@@ -1,6 +1,6 @@
 {
   "api_made_by": "bd coder boy",
-  "updated": "Fri, 07 Nov 2025 21:24:25 GMT",
+  "updated": "Fri, 07 Nov 2025 21:34:49 GMT",
   "total_events": 1,
   "events": [
     {
@@ -10,7 +10,7 @@
       "language": "English",
       "category": "Football",
       "title": "ENG | Werder Bremen vs VfL Wolfsburg - MD 10 - 8 Nov 2025",
-      "url": "https://sonymtmnew.akamaized.net/hls/live/2094588/DAI04ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1762583405~acl=/*~id=48204b0390cc49888b8507685173f43c-1755427161715~hmac=974a4f0b4eed05b31869e38d142331fdd1128c92991ffa95a75de3f1fe39f6d3|x-playback-session-id=e606db180d1949c84dda044553cdd0dc-1762550343636&User-Agent=com.sonyliv/6.22.4 (Android 9; en_GB; AFTKA; Build/PS7688.4591N)",
+      "url": "https://sonymtmnew.akamaized.net/hls/live/2094588/DAI04ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1762583405~acl=/*~id=48204b0390cc49888b8507685173f43c-1755427161715~hmac=974a4f0b4eed05b31869e38d142331fdd1128c92991ffa95a75de3f1fe39f6d3|x-playback-session-id=c2f37e5cf242f5d73ddaaebcc3913203-1762551002868&User-Agent=com.sonyliv/6.22.4 (Android 11; en_GB; ohm; Build/RQ2A.210505.003)",
       "user_agent": "Unknown"
     }
   ]
