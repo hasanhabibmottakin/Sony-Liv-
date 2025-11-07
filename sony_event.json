@@ -1,6 +1,6 @@
 {
   "api_made_by": "bd coder boy",
-  "updated": "Fri, 07 Nov 2025 16:51:28 GMT",
+  "updated": "Fri, 07 Nov 2025 17:12:05 GMT",
   "total_events": 1,
   "events": [
     {
@@ -10,7 +10,7 @@
       "language": "Hindi",
       "category": "Game show",
       "title": "HIN | Kaun Banega Crorepati - Season 17",
-      "url": "https://sonymtmnew.akamaized.net/hls/live/2022321/DAI17ME-KBC/master_lrh-800300010.m3u8?hdnea=exp=1762561804~acl=/*~id=48204b0390cc49888b8507685173f43c-1755427161715~hmac=20bcc571339bdc5551870bbfa6924ef5c37acc41290d2e9f5f1e69bb9e07adc7|x-playback-session-id=fab1270514d99a659c4aa78c53fb67cc-1762534264264&User-Agent=com.sonyliv/6.22.4 (Android 12; en_GB; SM-A125U; Build/SP1A.210812.016)",
+      "url": "https://sonymtmnew.akamaized.net/hls/live/2022321/DAI17ME-KBC/master_lrh-800300010.m3u8?hdnea=exp=1762561804~acl=/*~id=48204b0390cc49888b8507685173f43c-1755427161715~hmac=20bcc571339bdc5551870bbfa6924ef5c37acc41290d2e9f5f1e69bb9e07adc7|x-playback-session-id=1a02859a195a8edff026740301937d92-1762535104408&User-Agent=com.sonyliv/6.22.4 (Android 5; en_GB; Lenovo TB3-710F; Build/LRX21M)",
       "user_agent": "Unknown"
     }
   ]
