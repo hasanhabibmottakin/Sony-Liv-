@@ -1,6 +1,6 @@
 {
   "api_made_by": "bd coder boy",
-  "updated": "Sat, 08 Nov 2025 14:31:13 GMT",
+  "updated": "Sat, 08 Nov 2025 14:43:17 GMT",
   "total_events": 6,
   "events": [
     {
@@ -10,7 +10,7 @@
       "language": "Hindi",
       "category": "Reality, Music",
       "title": "HIN | Indian Idol",
-      "url": "https://sonymtmnew.akamaized.net/hls/live/2094590/DAI25ME-II/master_lrh-800300010.m3u8?hdnea=exp=1762648205~acl=/*~id=48204b0390cc49888b8507685173f43c-1755427161715~hmac=da40a610f8c09cf8ffe4d547b97908fde6eb79900807e0d9750e0fe4db5eca50|x-playback-session-id=e242511d8468271aeceaae99b7c518c8-1762612204419&User-Agent=com.sonyliv/6.22.4 (Android 11; en_GB; AI PONT; Build/RTM6.230109.216)",
+      "url": "https://sonymtmnew.akamaized.net/hls/live/2094590/DAI25ME-II/master_lrh-800300010.m3u8?hdnea=exp=1762648205~acl=/*~id=48204b0390cc49888b8507685173f43c-1755427161715~hmac=da40a610f8c09cf8ffe4d547b97908fde6eb79900807e0d9750e0fe4db5eca50|x-playback-session-id=5c679fcb4b8c829341c89c082ad9d4c5-1762612625041&User-Agent=com.sonyliv/6.22.4 (Android 10; en_GB; H40; Build/QP1A.191105.004)",
       "user_agent": "Unknown"
     },
     {
@@ -20,7 +20,7 @@
       "language": "English",
       "category": "Football",
       "title": "ENG | Union Berlin vs Bayern Munich - MD 10 - 8 Nov 2025",
-      "url": "https://sonymtmnew.akamaized.net/hls/live/2094589/DAI05ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1762648205~acl=/*~id=48204b0390cc49888b8507685173f43c-1755427161715~hmac=da40a610f8c09cf8ffe4d547b97908fde6eb79900807e0d9750e0fe4db5eca50|x-playback-session-id=e242511d8468271aeceaae99b7c518c8-1762612204419&User-Agent=com.sonyliv/6.22.4 (Android 11; en_GB; R4; Build/RTT7.221026.001)",
+      "url": "https://sonymtmnew.akamaized.net/hls/live/2094589/DAI05ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1762648205~acl=/*~id=48204b0390cc49888b8507685173f43c-1755427161715~hmac=da40a610f8c09cf8ffe4d547b97908fde6eb79900807e0d9750e0fe4db5eca50|x-playback-session-id=5c679fcb4b8c829341c89c082ad9d4c5-1762612625041&User-Agent=com.sonyliv/6.22.4 (Android 14; en_GB; ELI-NX9; Build/HONORELI-N39I)",
       "user_agent": "Unknown"
     },
     {
@@ -30,7 +30,7 @@
       "language": "English",
       "category": "Football",
       "title": "ENG | Hamburger SV vs Borussia Dortmund - MD 10 - 8 Nov 2025",
-      "url": "https://sonymtmnew.akamaized.net/hls/live/2018457/DAI09ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1762648205~acl=/*~id=48204b0390cc49888b8507685173f43c-1755427161715~hmac=da40a610f8c09cf8ffe4d547b97908fde6eb79900807e0d9750e0fe4db5eca50|x-playback-session-id=e242511d8468271aeceaae99b7c518c8-1762612204419&User-Agent=com.sonyliv/6.22.4 (Android 15; en_GB; SM-S711W; Build/AP3A.240905.015.A2)",
+      "url": "https://sonymtmnew.akamaized.net/hls/live/2018457/DAI09ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1762648205~acl=/*~id=48204b0390cc49888b8507685173f43c-1755427161715~hmac=da40a610f8c09cf8ffe4d547b97908fde6eb79900807e0d9750e0fe4db5eca50|x-playback-session-id=5c679fcb4b8c829341c89c082ad9d4c5-1762612625041&User-Agent=com.sonyliv/6.22.4 (Android 10; en_GB; CLT-L29; Build/HUAWEICLT-L29)",
       "user_agent": "Unknown"
     },
     {
@@ -40,7 +40,7 @@
       "language": "English",
       "category": "Football",
       "title": "ENG | Bayer Leverkusen vs Heidenheim - MD 10 - 8 Nov 2025",
-      "url": "https://sonymtmnew.akamaized.net/hls/live/2105079/DAI08ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1762648205~acl=/*~id=48204b0390cc49888b8507685173f43c-1755427161715~hmac=da40a610f8c09cf8ffe4d547b97908fde6eb79900807e0d9750e0fe4db5eca50|x-playback-session-id=e242511d8468271aeceaae99b7c518c8-1762612204419&User-Agent=com.sonyliv/6.22.4 (Android 6; en_GB; BLA-AL00; Build/V417IR)",
+      "url": "https://sonymtmnew.akamaized.net/hls/live/2105079/DAI08ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1762648205~acl=/*~id=48204b0390cc49888b8507685173f43c-1755427161715~hmac=da40a610f8c09cf8ffe4d547b97908fde6eb79900807e0d9750e0fe4db5eca50|x-playback-session-id=5c679fcb4b8c829341c89c082ad9d4c5-1762612625041&User-Agent=com.sonyliv/6.22.4 (Android 8; en_GB; ANE-AL00; Build/HUAWEIANE-AL00)",
       "user_agent": "Unknown"
     },
     {
@@ -50,7 +50,7 @@
       "language": "English",
       "category": "Football",
       "title": "ENG | Goal Arena - MD 10 - 8 Nov 2025",
-      "url": "https://sonymtmnew.akamaized.net/hls/live/2094588/DAI04ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1762648205~acl=/*~id=48204b0390cc49888b8507685173f43c-1755427161715~hmac=da40a610f8c09cf8ffe4d547b97908fde6eb79900807e0d9750e0fe4db5eca50|x-playback-session-id=e242511d8468271aeceaae99b7c518c8-1762612204419&User-Agent=com.sonyliv/6.22.4 (Android 15; en_GB; V2240; Build/AP3A.240905.015.A2)",
+      "url": "https://sonymtmnew.akamaized.net/hls/live/2094588/DAI04ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1762648205~acl=/*~id=48204b0390cc49888b8507685173f43c-1755427161715~hmac=da40a610f8c09cf8ffe4d547b97908fde6eb79900807e0d9750e0fe4db5eca50|x-playback-session-id=5c679fcb4b8c829341c89c082ad9d4c5-1762612625041&User-Agent=com.sonyliv/6.22.4 (Android 14; en_GB; V2302; Build/UP1A.231005.007_NONFC)",
       "user_agent": "Unknown"
     },
     {
@@ -60,7 +60,7 @@
       "language": "English",
       "category": "Football",
       "title": "ENG | Hoffenheim vs RB Leipzig - MD 10 - 8 Nov 2025",
-      "url": "https://sonymtmnew.akamaized.net/hls/live/2022315/DAI11ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1762648205~acl=/*~id=48204b0390cc49888b8507685173f43c-1755427161715~hmac=da40a610f8c09cf8ffe4d547b97908fde6eb79900807e0d9750e0fe4db5eca50|x-playback-session-id=e242511d8468271aeceaae99b7c518c8-1762612204419&User-Agent=com.sonyliv/6.22.4 (Android 13; en_GB; 23106RN0DA; Build/TP1A.220624.014)",
+      "url": "https://sonymtmnew.akamaized.net/hls/live/2022315/DAI11ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1762648205~acl=/*~id=48204b0390cc49888b8507685173f43c-1755427161715~hmac=da40a610f8c09cf8ffe4d547b97908fde6eb79900807e0d9750e0fe4db5eca50|x-playback-session-id=5c679fcb4b8c829341c89c082ad9d4c5-1762612625041&User-Agent=com.sonyliv/6.22.4 (Android 11; en_GB; M2010J19SI; Build/RKQ1.201004.002)",
       "user_agent": "Unknown"
     }
   ]
