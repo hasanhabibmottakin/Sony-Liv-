@@ -1,6 +1,6 @@
 {
   "api_made_by": "bd coder boy",
-  "updated": "Sat, 08 Nov 2025 17:46:42 GMT",
+  "updated": "Sat, 08 Nov 2025 17:54:18 GMT",
   "total_events": 2,
   "events": [
     {
@@ -10,7 +10,7 @@
       "language": "Hindi",
       "category": "Reality",
       "title": "HIN | India\u2019s Got Talent",
-      "url": "https://sonymtmnew.akamaized.net/hls/live/2037142/DAI22ME-IGT/master_lrh-800300010.m3u8?hdnea=exp=1762648205~acl=/*~id=48204b0390cc49888b8507685173f43c-1755427161715~hmac=da40a610f8c09cf8ffe4d547b97908fde6eb79900807e0d9750e0fe4db5eca50|x-playback-session-id=c45da19fb2095b055f4a9c1e5fb14a4e-1762623846586&User-Agent=com.sonyliv/6.22.4 (Android 13; en_GB; jacuzzi; Build/R142-16433.12.0)",
+      "url": "https://sonymtmnew.akamaized.net/hls/live/2037142/DAI22ME-IGT/master_lrh-800300010.m3u8?hdnea=exp=1762648205~acl=/*~id=48204b0390cc49888b8507685173f43c-1755427161715~hmac=da40a610f8c09cf8ffe4d547b97908fde6eb79900807e0d9750e0fe4db5eca50|x-playback-session-id=4cc0ee46bd31515efa9055df365bf772-1762624265915&User-Agent=com.sonyliv/6.22.4 (Android 13; en_GB; SM-A516N; Build/TP1A.220624.014)",
       "user_agent": "Unknown"
     },
     {
@@ -20,7 +20,7 @@
       "language": "English",
       "category": "Football",
       "title": "ENG | Borussia M'gladbach vs FC Koln - MD 10 - 8 Nov 2025",
-      "url": "https://sonymtmnew.akamaized.net/hls/live/2022317/DAI13ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1762648205~acl=/*~id=48204b0390cc49888b8507685173f43c-1755427161715~hmac=da40a610f8c09cf8ffe4d547b97908fde6eb79900807e0d9750e0fe4db5eca50|x-playback-session-id=c45da19fb2095b055f4a9c1e5fb14a4e-1762623846586&User-Agent=com.sonyliv/6.22.4 (Android 9; en_GB; AFTSS; Build/PS7704.5024N)",
+      "url": "https://sonymtmnew.akamaized.net/hls/live/2022317/DAI13ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1762648205~acl=/*~id=48204b0390cc49888b8507685173f43c-1755427161715~hmac=da40a610f8c09cf8ffe4d547b97908fde6eb79900807e0d9750e0fe4db5eca50|x-playback-session-id=4cc0ee46bd31515efa9055df365bf772-1762624265915&User-Agent=com.sonyliv/6.22.4 (Android 14; en_GB; SM-S908B; Build/UP1A.231005.007)",
       "user_agent": "Unknown"
     }
   ]
