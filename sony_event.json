@@ -1,6 +1,6 @@
 {
   "api_made_by": "bd coder boy",
-  "updated": "Sat, 08 Nov 2025 04:55:26 GMT",
+  "updated": "Sat, 08 Nov 2025 05:13:12 GMT",
   "total_events": 1,
   "events": [
     {
@@ -10,7 +10,7 @@
       "language": "English",
       "category": "Golf",
       "title": "ENG | Moutai Singapore Open - Day 3 - 8 Nov 2025",
-      "url": "https://sonymtmnew.akamaized.net/hls/live/2022320/DAI16ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1762605004~acl=/*~id=48204b0390cc49888b8507685173f43c-1755427161715~hmac=1aad53b5b29267e409dfaa012ff1d36df34e3a155a5897c689ec360ace884345|x-playback-session-id=17d5b88751cc81f1600a415bda1f2d5a-1762577464000&User-Agent=com.sonyliv/6.22.4 (Android 13; en_GB; M1908C3JGG; Build/TP1A.220624.014)",
+      "url": "https://sonymtmnew.akamaized.net/hls/live/2022320/DAI16ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1762605004~acl=/*~id=48204b0390cc49888b8507685173f43c-1755427161715~hmac=1aad53b5b29267e409dfaa012ff1d36df34e3a155a5897c689ec360ace884345|x-playback-session-id=5c72a8d7e1914c5555e9a4f06a8e99df-1762578724789&User-Agent=com.sonyliv/6.22.4 (Android 11; en_GB; SM-A426B; Build/RP1A.200720.012)",
       "user_agent": "Unknown"
     }
   ]
