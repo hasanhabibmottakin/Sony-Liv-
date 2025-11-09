@@ -1,6 +1,6 @@
 {
   "api_made_by": "bd coder boy",
-  "updated": "Sun, 09 Nov 2025 12:23:42 GMT",
+  "updated": "Sun, 09 Nov 2025 12:58:40 GMT",
   "total_events": 1,
   "events": [
     {
@@ -10,7 +10,7 @@
       "language": "English",
       "category": "Tennis",
       "title": "ENG | Granollers/Zeballos vs Putz/Krawietz - Group Stage - 9 Nov 2025",
-      "url": "https://sonymtmnew.akamaized.net/hls/live/2037139/DAI19ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1762713006~acl=/*~id=48204b0390cc49888b8507685173f43c-1755427161715~hmac=f2a20b55c188badaee8d2877a14ef200c58bca915425266da8f7e36d4a9487cd|x-playback-session-id=ba3d4007c0254e7f22fa1586d1ba3fac-1762690744432&User-Agent=com.sonyliv/6.22.4 (Android 11; en_GB; SWTV-22AE-FHD; Build/RTM9.241015.157)",
+      "url": "https://sonymtmnew.akamaized.net/hls/live/2037139/DAI19ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1762734605~acl=/*~id=48204b0390cc49888b8507685173f43c-1755427161715~hmac=abb07b608a2ffb0eb92c75f5f7e3959ede343ed4f18ea11fcd905c8149641557|x-playback-session-id=151cb96bf592533275b17c3896af98df-1762692664227&User-Agent=com.sonyliv/6.22.4 (Android 14; en_GB; SM-G990E; Build/UP1A.231005.007)",
       "user_agent": "Unknown"
     }
   ]
