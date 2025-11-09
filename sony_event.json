@@ -1,8 +1,18 @@
 {
   "api_made_by": "bd coder boy",
-  "updated": "Sun, 09 Nov 2025 14:10:37 GMT",
-  "total_events": 2,
+  "updated": "Sun, 09 Nov 2025 14:30:07 GMT",
+  "total_events": 3,
   "events": [
+    {
+      "id": "1090492547",
+      "name": "Indian Idol",
+      "logo": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000010994/1762531903315772_idol25_7nov_Simulcast_Landscape_thumb.jpg",
+      "language": "Hindi",
+      "category": "Reality, Music",
+      "title": "HIN | Indian Idol",
+      "url": "https://sonymtmnew.akamaized.net/hls/live/2094590/DAI25ME-II/master_lrh-800300010.m3u8?hdnea=exp=1762734605~acl=/*~id=48204b0390cc49888b8507685173f43c-1755427161715~hmac=abb07b608a2ffb0eb92c75f5f7e3959ede343ed4f18ea11fcd905c8149641557|x-playback-session-id=71cd96298a6373fd17ab1fdd5fb35f5a-1762698366410&User-Agent=com.sonyliv/6.22.4 (Android 16; en_GB; SM-S938W; Build/BP2A.250605.031.A3)",
+      "user_agent": "Unknown"
+    },
     {
       "id": "1090494274",
       "name": "Nitto ATP Finals 2025",
@@ -10,7 +20,7 @@
       "language": "English",
       "category": "Tennis",
       "title": "ENG | Alcaraz vs Alex De Minaur - Group Stage - 9 Nov 2025",
-      "url": "https://sonymtmnew.akamaized.net/hls/live/2037139/DAI19ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1762734605~acl=/*~id=48204b0390cc49888b8507685173f43c-1755427161715~hmac=abb07b608a2ffb0eb92c75f5f7e3959ede343ed4f18ea11fcd905c8149641557|x-playback-session-id=73723d795bbb862cd3150be40d9085d8-1762697104082&User-Agent=com.sonyliv/6.22.4 (Android 16; en_GB; SM-A266B; Build/BP2A.250605.031.A3)",
+      "url": "https://sonymtmnew.akamaized.net/hls/live/2037139/DAI19ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1762734605~acl=/*~id=48204b0390cc49888b8507685173f43c-1755427161715~hmac=abb07b608a2ffb0eb92c75f5f7e3959ede343ed4f18ea11fcd905c8149641557|x-playback-session-id=71cd96298a6373fd17ab1fdd5fb35f5a-1762698366410&User-Agent=com.sonyliv/6.22.4 (Android 12; en_GB; RMX3516; Build/SP1A.210812.016)",
       "user_agent": "Unknown"
     },
     {
@@ -20,7 +30,7 @@
       "language": "English",
       "category": "Football",
       "title": "ENG | SC Freiburg vs St. Pauli - MD 10 - 9 Nov 2025",
-      "url": "https://sonymtmnew.akamaized.net/hls/live/2094588/DAI04ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1762734605~acl=/*~id=48204b0390cc49888b8507685173f43c-1755427161715~hmac=abb07b608a2ffb0eb92c75f5f7e3959ede343ed4f18ea11fcd905c8149641557|x-playback-session-id=73723d795bbb862cd3150be40d9085d8-1762697104082&User-Agent=com.sonyliv/6.22.4 (Android 13; en_GB; moto g14; Build/TLBS33.78-180-1-3)",
+      "url": "https://sonymtmnew.akamaized.net/hls/live/2094588/DAI04ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1762734605~acl=/*~id=48204b0390cc49888b8507685173f43c-1755427161715~hmac=abb07b608a2ffb0eb92c75f5f7e3959ede343ed4f18ea11fcd905c8149641557|x-playback-session-id=71cd96298a6373fd17ab1fdd5fb35f5a-1762698366410&User-Agent=com.sonyliv/6.22.4 (Android 14; en_GB; M2101K6P; Build/AP2A.240905.003)",
       "user_agent": "Unknown"
     }
   ]
