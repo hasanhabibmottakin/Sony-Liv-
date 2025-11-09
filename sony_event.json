@@ -1,6 +1,6 @@
 {
   "api_made_by": "bd coder boy",
-  "updated": "Sun, 09 Nov 2025 17:10:46 GMT",
+  "updated": "Sun, 09 Nov 2025 17:29:12 GMT",
   "total_events": 3,
   "events": [
     {
@@ -10,7 +10,7 @@
       "language": "Hindi",
       "category": "Reality",
       "title": "HIN | India\u2019s Got Talent",
-      "url": "https://sonymtmnew.akamaized.net/hls/live/2037142/DAI22ME-IGT/master_lrh-800300010.m3u8?hdnea=exp=1762734605~acl=/*~id=48204b0390cc49888b8507685173f43c-1755427161715~hmac=abb07b608a2ffb0eb92c75f5f7e3959ede343ed4f18ea11fcd905c8149641557|x-playback-session-id=4c2b1d66a6b5a26d9d2a8277f3722de9-1762707903763&User-Agent=com.sonyliv/6.22.4 (Android 9; en_GB; 32S; Build/PPR1.180610.011)",
+      "url": "https://sonymtmnew.akamaized.net/hls/live/2037142/DAI22ME-IGT/master_lrh-800300010.m3u8?hdnea=exp=1762734605~acl=/*~id=48204b0390cc49888b8507685173f43c-1755427161715~hmac=abb07b608a2ffb0eb92c75f5f7e3959ede343ed4f18ea11fcd905c8149641557|x-playback-session-id=a00d8781b1ec8a4afa87e6ca54007ea9-1762709164043&User-Agent=com.sonyliv/6.22.4 (Android 14; en_GB; itel A6610L; Build/UP1A.231005.007)",
       "user_agent": "Unknown"
     },
     {
@@ -20,7 +20,7 @@
       "language": "English",
       "category": "Tennis",
       "title": "ENG | Cash/Glasspool vs Bolelli/Vavassori - Group Stage - 9 Nov 2025",
-      "url": "https://sonymtmnew.akamaized.net/hls/live/2037139/DAI19ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1762734605~acl=/*~id=48204b0390cc49888b8507685173f43c-1755427161715~hmac=abb07b608a2ffb0eb92c75f5f7e3959ede343ed4f18ea11fcd905c8149641557|x-playback-session-id=4c2b1d66a6b5a26d9d2a8277f3722de9-1762707903763&User-Agent=com.sonyliv/6.22.4 (Android 12; en_GB; moto g(30); Build/S0RCS32.41-10-19-14)",
+      "url": "https://sonymtmnew.akamaized.net/hls/live/2037139/DAI19ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1762734605~acl=/*~id=48204b0390cc49888b8507685173f43c-1755427161715~hmac=abb07b608a2ffb0eb92c75f5f7e3959ede343ed4f18ea11fcd905c8149641557|x-playback-session-id=a00d8781b1ec8a4afa87e6ca54007ea9-1762709164043&User-Agent=com.sonyliv/6.22.4 (Android 7; en_GB; AFTN; Build/NS6709)",
       "user_agent": "Unknown"
     },
     {
@@ -30,7 +30,7 @@
       "language": "English",
       "category": "Football",
       "title": "ENG | VfB Stuttgart vs FC Augsburg - MD 10 - 9 Nov 2025",
-      "url": "https://sonymtmnew.akamaized.net/hls/live/2094589/DAI05ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1762734605~acl=/*~id=48204b0390cc49888b8507685173f43c-1755427161715~hmac=abb07b608a2ffb0eb92c75f5f7e3959ede343ed4f18ea11fcd905c8149641557|x-playback-session-id=4c2b1d66a6b5a26d9d2a8277f3722de9-1762707903763&User-Agent=com.sonyliv/6.22.4 (Android 11; en_GB; T81; Build/RP1A.201005.001)",
+      "url": "https://sonymtmnew.akamaized.net/hls/live/2094589/DAI05ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1762734605~acl=/*~id=48204b0390cc49888b8507685173f43c-1755427161715~hmac=abb07b608a2ffb0eb92c75f5f7e3959ede343ed4f18ea11fcd905c8149641557|x-playback-session-id=a00d8781b1ec8a4afa87e6ca54007ea9-1762709164043&User-Agent=com.sonyliv/6.22.4 (Android 10; en_GB; 92I6CH; Build/O11019)",
       "user_agent": "Unknown"
     }
   ]
