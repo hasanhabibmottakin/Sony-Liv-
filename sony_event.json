@@ -1,18 +1,8 @@
 {
   "api_made_by": "bd coder boy",
-  "updated": "Sun, 09 Nov 2025 16:14:12 GMT",
-  "total_events": 4,
+  "updated": "Sun, 09 Nov 2025 16:35:08 GMT",
+  "total_events": 3,
   "events": [
-    {
-      "id": "1090492547",
-      "name": "Indian Idol",
-      "logo": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000010994/1762531903315772_idol25_7nov_Simulcast_Landscape_thumb.jpg",
-      "language": "Hindi",
-      "category": "Reality, Music",
-      "title": "HIN | Indian Idol",
-      "url": "https://sonymtmnew.akamaized.net/hls/live/2094590/DAI25ME-II/master_lrh-800300010.m3u8?hdnea=exp=1762734605~acl=/*~id=48204b0390cc49888b8507685173f43c-1755427161715~hmac=abb07b608a2ffb0eb92c75f5f7e3959ede343ed4f18ea11fcd905c8149641557|x-playback-session-id=80f90a65e42ce265bacb914c6a31e981-1762704303645&User-Agent=com.sonyliv/6.22.4 (Android 16; en_GB; A142; Build/BP2A.250605.031.A3)",
-      "user_agent": "Unknown"
-    },
     {
       "id": "1090491643",
       "name": "India\u2019s Got Talent ",
@@ -20,7 +10,7 @@
       "language": "Hindi",
       "category": "Reality",
       "title": "HIN | India\u2019s Got Talent",
-      "url": "https://sonymtmnew.akamaized.net/hls/live/2037142/DAI22ME-IGT/master_lrh-800300010.m3u8?hdnea=exp=1762734605~acl=/*~id=48204b0390cc49888b8507685173f43c-1755427161715~hmac=abb07b608a2ffb0eb92c75f5f7e3959ede343ed4f18ea11fcd905c8149641557|x-playback-session-id=80f90a65e42ce265bacb914c6a31e981-1762704303645&User-Agent=com.sonyliv/6.22.4 (Android 12; en_GB; VIP7100 A; Build/STTC.230104.002)",
+      "url": "https://sonymtmnew.akamaized.net/hls/live/2037142/DAI22ME-IGT/master_lrh-800300010.m3u8?hdnea=exp=1762734605~acl=/*~id=48204b0390cc49888b8507685173f43c-1755427161715~hmac=abb07b608a2ffb0eb92c75f5f7e3959ede343ed4f18ea11fcd905c8149641557|x-playback-session-id=0053bafd48abde542231505f50124851-1762705804330&User-Agent=com.sonyliv/6.22.4 (Android 11; en_GB; 2K PA Google TV; Build/RTM9.241015.156)",
       "user_agent": "Unknown"
     },
     {
@@ -30,7 +20,7 @@
       "language": "English",
       "category": "Football",
       "title": "ENG | SC Freiburg vs St. Pauli - MD 10 - 9 Nov 2025",
-      "url": "https://sonymtmnew.akamaized.net/hls/live/2094588/DAI04ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1762734605~acl=/*~id=48204b0390cc49888b8507685173f43c-1755427161715~hmac=abb07b608a2ffb0eb92c75f5f7e3959ede343ed4f18ea11fcd905c8149641557|x-playback-session-id=80f90a65e42ce265bacb914c6a31e981-1762704303645&User-Agent=com.sonyliv/6.22.4 (Android 8; en_GB; BRAVIA 2K GB ATV3; Build/OPR2.170623.027.S34)",
+      "url": "https://sonymtmnew.akamaized.net/hls/live/2094588/DAI04ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1762734605~acl=/*~id=48204b0390cc49888b8507685173f43c-1755427161715~hmac=abb07b608a2ffb0eb92c75f5f7e3959ede343ed4f18ea11fcd905c8149641557|x-playback-session-id=0053bafd48abde542231505f50124851-1762705804330&User-Agent=com.sonyliv/6.22.4 (Android 15; en_GB; I2403; Build/AP3A.240905.015.A2)",
       "user_agent": "Unknown"
     },
     {
@@ -40,7 +30,7 @@
       "language": "English",
       "category": "Football",
       "title": "ENG | VfB Stuttgart vs FC Augsburg - MD 10 - 9 Nov 2025",
-      "url": "https://sonymtmnew.akamaized.net/hls/live/2094589/DAI05ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1762734605~acl=/*~id=48204b0390cc49888b8507685173f43c-1755427161715~hmac=abb07b608a2ffb0eb92c75f5f7e3959ede343ed4f18ea11fcd905c8149641557|x-playback-session-id=80f90a65e42ce265bacb914c6a31e981-1762704303645&User-Agent=com.sonyliv/6.22.4 (Android 13; en_GB; SM-G998B; Build/TP1A.220624.014)",
+      "url": "https://sonymtmnew.akamaized.net/hls/live/2094589/DAI05ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1762734605~acl=/*~id=48204b0390cc49888b8507685173f43c-1755427161715~hmac=abb07b608a2ffb0eb92c75f5f7e3959ede343ed4f18ea11fcd905c8149641557|x-playback-session-id=0053bafd48abde542231505f50124851-1762705804330&User-Agent=com.sonyliv/6.22.4 (Android 9; en_GB; SM-G977N; Build/PQ3A.190705.08061357)",
       "user_agent": "Unknown"
     }
   ]
