@@ -1,6 +1,6 @@
 {
   "api_made_by": "bd coder boy",
-  "updated": "Sun, 09 Nov 2025 19:52:58 GMT",
+  "updated": "Sun, 09 Nov 2025 20:13:12 GMT",
   "total_events": 2,
   "events": [
     {
@@ -10,7 +10,7 @@
       "language": "English",
       "category": "Tennis",
       "title": "ENG | Alexander Zverev vs Ben Shelton - Group Stage - 10 Nov 2025",
-      "url": "https://sonymtmnew.akamaized.net/hls/live/2037139/DAI19ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1762756205~acl=/*~id=48204b0390cc49888b8507685173f43c-1755427161715~hmac=34fb84f139941e694900c7b67a15c5234f92299108590ceb5c83304afbcb923d|x-playback-session-id=ebbea17cb6794974bbd1c4fb2254bcee-1762717863176&User-Agent=com.sonyliv/6.22.4 (Android 7; en_GB; SM-G9810; Build/QP1A.190711.020)",
+      "url": "https://sonymtmnew.akamaized.net/hls/live/2037139/DAI19ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1762756205~acl=/*~id=48204b0390cc49888b8507685173f43c-1755427161715~hmac=34fb84f139941e694900c7b67a15c5234f92299108590ceb5c83304afbcb923d|x-playback-session-id=982871cda3814b74106ce01f1b6a28b5-1762718703195&User-Agent=com.sonyliv/6.22.4 (Android 8; en_GB; FireBoltt 202; Build/PPR1.180610.011)",
       "user_agent": "Unknown"
     },
     {
@@ -20,7 +20,7 @@
       "language": "English",
       "category": "Football",
       "title": "ENG | Eintracht Frankfurt vs Mainz - MD 10 - 10 Nov 2025",
-      "url": "https://sonymtmnew.akamaized.net/hls/live/2018457/DAI09ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1762756205~acl=/*~id=48204b0390cc49888b8507685173f43c-1755427161715~hmac=34fb84f139941e694900c7b67a15c5234f92299108590ceb5c83304afbcb923d|x-playback-session-id=ebbea17cb6794974bbd1c4fb2254bcee-1762717863176&User-Agent=com.sonyliv/6.22.4 (Android 10; en_GB; Z30; Build/QP1A.190711.020)",
+      "url": "https://sonymtmnew.akamaized.net/hls/live/2018457/DAI09ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1762756205~acl=/*~id=48204b0390cc49888b8507685173f43c-1755427161715~hmac=34fb84f139941e694900c7b67a15c5234f92299108590ceb5c83304afbcb923d|x-playback-session-id=982871cda3814b74106ce01f1b6a28b5-1762718703195&User-Agent=com.sonyliv/6.22.4 (Android 9; en_GB; SM-S9160; Build/PQ3A.190705.08272029)",
       "user_agent": "Unknown"
     }
   ]
