@@ -1,7 +1,7 @@
 {
   "api_made_by": "bd coder boy",
-  "updated": "Sun, 09 Nov 2025 02:49:25 GMT",
-  "total_events": 5,
+  "updated": "Sun, 09 Nov 2025 03:36:22 GMT",
+  "total_events": 2,
   "events": [
     {
       "id": "1090494212",
@@ -10,47 +10,17 @@
       "language": "English",
       "category": "Cricket",
       "title": "ENG | 3rd T20I - 9 Nov 2025",
-      "url": "https://sonymtmnew.akamaized.net/hls/live/2018457/wivsnz/ENG/std_lrh-800300010.m3u8?hdnea=exp=1762691405~acl=/*~id=48204b0390cc49888b8507685173f43c-1755427161715~hmac=d386dd3dffe3e9e140d5a2a62ec7f7bffc66ce3c90cdc8c252ff53cfb70b5265|x-playback-session-id=6fc58dcc1b983efab7e0445e73ec77cb-1762655165176&User-Agent=com.sonyliv/6.22.4 (Android 14; en_GB; itel A507LMU; Build/UP1A.231005.007)",
+      "url": "https://sonymtmnew.akamaized.net/hls/live/2018457/wivsnz/ENG/std_lrh-800300010.m3u8?hdnea=exp=1762691405~acl=/*~id=48204b0390cc49888b8507685173f43c-1755427161715~hmac=d386dd3dffe3e9e140d5a2a62ec7f7bffc66ce3c90cdc8c252ff53cfb70b5265|x-playback-session-id=08e9b1073511ac61053a7e926f944a80-1762658765629&User-Agent=com.sonyliv/6.22.4 (Android 7; en_GB; SM-N950N; Build/NMF26X)",
       "user_agent": "Unknown"
     },
     {
-      "id": "1090494215",
-      "name": "UFC Fight Night - Bonfim vs Brown",
-      "logo": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000010874/176232315977883_UFC_Fight_Night_BONFIM_vs_BROWN_landscape_thumb.jpg",
+      "id": "1090494214",
+      "name": "Asian Tour 2025",
+      "logo": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000010656/1761824493004210_Asian_tour_Moutai_Singapore_Open_day4_30oct_landscape_thumb.jpg",
       "language": "English",
-      "category": "Fight Sports",
-      "title": "ENG | UFC Fight Night - Bonfim vs Brown - 9 Nov 2025",
-      "url": "https://sonymtmnew.akamaized.net/hls/live/2094587/DAI03ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1762691405~acl=/*~id=48204b0390cc49888b8507685173f43c-1755427161715~hmac=d386dd3dffe3e9e140d5a2a62ec7f7bffc66ce3c90cdc8c252ff53cfb70b5265|x-playback-session-id=6fc58dcc1b983efab7e0445e73ec77cb-1762655165176&User-Agent=com.sonyliv/6.22.4 (Android 10; en_GB; CPH2185; Build/QP1A.190711.020)",
-      "user_agent": "Unknown"
-    },
-    {
-      "id": "1090494215",
-      "name": "UFC Fight Night - Bonfim vs Brown",
-      "logo": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000010874/176232315977883_UFC_Fight_Night_BONFIM_vs_BROWN_landscape_thumb.jpg",
-      "language": "Hindi",
-      "category": "Fight Sports",
-      "title": "HIN | UFC Fight Night - Bonfim vs Brown - 9 Nov 2025",
-      "url": "https://sonymtmnew.akamaized.net/hls/live/2005445/DAI06ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1762691405~acl=/*~id=48204b0390cc49888b8507685173f43c-1755427161715~hmac=d386dd3dffe3e9e140d5a2a62ec7f7bffc66ce3c90cdc8c252ff53cfb70b5265|x-playback-session-id=6fc58dcc1b983efab7e0445e73ec77cb-1762655165176&User-Agent=com.sonyliv/6.22.4 (Android 12; en_GB; Infinix X671; Build/SP1A.210812.016)",
-      "user_agent": "Unknown"
-    },
-    {
-      "id": "1090494215",
-      "name": "UFC Fight Night - Bonfim vs Brown",
-      "logo": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000010874/176232315977883_UFC_Fight_Night_BONFIM_vs_BROWN_landscape_thumb.jpg",
-      "language": "Tamil",
-      "category": "Fight Sports",
-      "title": "TAM | UFC Fight Night - Bonfim vs Brown - 9 Nov 2025",
-      "url": "https://sonymtmnew.akamaized.net/hls/live/2022316/DAI12ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1762691405~acl=/*~id=48204b0390cc49888b8507685173f43c-1755427161715~hmac=d386dd3dffe3e9e140d5a2a62ec7f7bffc66ce3c90cdc8c252ff53cfb70b5265|x-playback-session-id=6fc58dcc1b983efab7e0445e73ec77cb-1762655165176&User-Agent=com.sonyliv/6.22.4 (Android 13; en_GB; SM-A057F; Build/TP1A.220624.014)",
-      "user_agent": "Unknown"
-    },
-    {
-      "id": "1090494215",
-      "name": "UFC Fight Night - Bonfim vs Brown",
-      "logo": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000010874/176232315977883_UFC_Fight_Night_BONFIM_vs_BROWN_landscape_thumb.jpg",
-      "language": "Telugu",
-      "category": "Fight Sports",
-      "title": "TEL | UFC Fight Night - Bonfim vs Brown - 9 Nov 2025",
-      "url": "https://sonymtmnew.akamaized.net/hls/live/2018458/DAI10ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1762691405~acl=/*~id=48204b0390cc49888b8507685173f43c-1755427161715~hmac=d386dd3dffe3e9e140d5a2a62ec7f7bffc66ce3c90cdc8c252ff53cfb70b5265|x-playback-session-id=6fc58dcc1b983efab7e0445e73ec77cb-1762655165176&User-Agent=com.sonyliv/6.22.4 (Android 9; en_GB; 4K-Smart; Build/PPR1.180610.011)",
+      "category": "Golf",
+      "title": "ENG | Moutai Singapore Open - Day 4 - 9 Nov 2025",
+      "url": "https://sonymtmnew.akamaized.net/hls/live/2022320/DAI16ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1762691405~acl=/*~id=48204b0390cc49888b8507685173f43c-1755427161715~hmac=d386dd3dffe3e9e140d5a2a62ec7f7bffc66ce3c90cdc8c252ff53cfb70b5265|x-playback-session-id=08e9b1073511ac61053a7e926f944a80-1762658765629&User-Agent=com.sonyliv/6.22.4 (Android 14; en_GB; K2401/K2401P/k2401M; Build/QP1A.191105.004)",
       "user_agent": "Unknown"
     }
   ]
