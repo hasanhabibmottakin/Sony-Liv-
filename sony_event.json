@@ -1,6 +1,6 @@
 {
   "api_made_by": "bd coder boy",
-  "updated": "Mon, 10 Nov 2025 16:58:21 GMT",
+  "updated": "Mon, 10 Nov 2025 17:18:49 GMT",
   "total_events": 2,
   "events": [
     {
@@ -10,7 +10,7 @@
       "language": "Hindi",
       "category": "Game show",
       "title": "HIN | Kaun Banega Crorepati - Season 17",
-      "url": "https://sonymtmnew.akamaized.net/hls/live/2022321/DAI17ME-KBC/master_lrh-800300010.m3u8?hdnea=exp=1762821005~acl=/*~id=48204b0390cc49888b8507685173f43c-1755427161715~hmac=cebb52f9f11af49f8978c123269619222b7d3b4d789e99b4af71371355a79a50|x-playback-session-id=1fc9288092d10a9006bba4097d25c9a2-1762793885945&User-Agent=com.sonyliv/6.22.4 (Android 15; en_GB; SM-E176B; Build/AP3A.240905.015.A2)",
+      "url": "https://sonymtmnew.akamaized.net/hls/live/2022321/DAI17ME-KBC/master_lrh-800300010.m3u8?hdnea=exp=1762821005~acl=/*~id=48204b0390cc49888b8507685173f43c-1755427161715~hmac=cebb52f9f11af49f8978c123269619222b7d3b4d789e99b4af71371355a79a50|x-playback-session-id=9f3725f535794e8a5a65c016c0c8e698-1762794725557&User-Agent=com.sonyliv/6.22.4 (Android 15; en_GB; SM-A346E; Build/AP3A.240905.015.A2)",
       "user_agent": "Unknown"
     },
     {
@@ -20,7 +20,7 @@
       "language": "English",
       "category": "Tennis",
       "title": "ENG | Heliovaara/Patten vs Harrison/King - Group Stage - 10 Nov 2025",
-      "url": "https://sonymtmnew.akamaized.net/hls/live/2037139/DAI19ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1762821005~acl=/*~id=48204b0390cc49888b8507685173f43c-1755427161715~hmac=cebb52f9f11af49f8978c123269619222b7d3b4d789e99b4af71371355a79a50|x-playback-session-id=1fc9288092d10a9006bba4097d25c9a2-1762793885945&User-Agent=com.sonyliv/6.22.4 (Android 9; en_GB; M1; Build/PPR2.180905.006.A1)",
+      "url": "https://sonymtmnew.akamaized.net/hls/live/2037139/DAI19ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1762821005~acl=/*~id=48204b0390cc49888b8507685173f43c-1755427161715~hmac=cebb52f9f11af49f8978c123269619222b7d3b4d789e99b4af71371355a79a50|x-playback-session-id=9f3725f535794e8a5a65c016c0c8e698-1762794725557&User-Agent=com.sonyliv/6.22.4 (Android 14; en_GB; SM-M166P; Build/UP1A.231005.007)",
       "user_agent": "Unknown"
     }
   ]
