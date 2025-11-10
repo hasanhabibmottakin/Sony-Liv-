@@ -1,6 +1,6 @@
 {
   "api_made_by": "bd coder boy",
-  "updated": "Mon, 10 Nov 2025 18:19:43 GMT",
+  "updated": "Mon, 10 Nov 2025 18:45:13 GMT",
   "total_events": 1,
   "events": [
     {
@@ -10,7 +10,7 @@
       "language": "English",
       "category": "Tennis",
       "title": "ENG | Heliovaara/Patten vs Harrison/King - Group Stage - 10 Nov 2025",
-      "url": "https://sonymtmnew.akamaized.net/hls/live/2037139/DAI19ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1762821005~acl=/*~id=48204b0390cc49888b8507685173f43c-1755427161715~hmac=cebb52f9f11af49f8978c123269619222b7d3b4d789e99b4af71371355a79a50|x-playback-session-id=f55d582f31b68ddab84490e154d0d1d1-1762798744098&User-Agent=com.sonyliv/6.22.4 (Android 8; en_GB; vivo 1823; Build/O11019)",
+      "url": "https://sonymtmnew.akamaized.net/hls/live/2037139/DAI19ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1762842605~acl=/*~id=48204b0390cc49888b8507685173f43c-1755427161715~hmac=75f5edc3aaf19c234285279fc475c190068e8c33f248bad607d7b5a58c8fd130|x-playback-session-id=d2745e30b8a484000f6a3c17961dbcb9-1762800244156&User-Agent=com.sonyliv/6.22.4 (Android 9; en_GB; SM-S9280; Build/PQ3A.190605.03202111)",
       "user_agent": "Unknown"
     }
   ]
