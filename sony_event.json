@@ -1,6 +1,6 @@
 {
   "api_made_by": "bd coder boy",
-  "updated": "Mon, 10 Nov 2025 01:06:43 GMT",
+  "updated": "Mon, 10 Nov 2025 02:54:18 GMT",
   "total_events": 1,
   "events": [
     {
@@ -10,7 +10,7 @@
       "language": "English",
       "category": "Cricket",
       "title": "ENG | 4th T20I - 10 Nov 2025",
-      "url": "https://sonymtmnew.akamaized.net/hls/live/2018457/wivsnz/ENG/std_lrh-800300010.m3u8?hdnea=exp=1762756205~acl=/*~id=48204b0390cc49888b8507685173f43c-1755427161715~hmac=34fb84f139941e694900c7b67a15c5234f92299108590ceb5c83304afbcb923d|x-playback-session-id=47a2b89a6bf699fd0c9d5012102aa6f5-1762736705149&User-Agent=com.sonyliv/6.22.4 (Android 12; en_GB; HBP-LX9; Build/HUAWEIHBP-L29)",
+      "url": "https://sonymtmnew.akamaized.net/hls/live/2018457/wivsnz/ENG/std_lrh-800300010.m3u8?hdnea=exp=1762756205~acl=/*~id=48204b0390cc49888b8507685173f43c-1755427161715~hmac=34fb84f139941e694900c7b67a15c5234f92299108590ceb5c83304afbcb923d|x-playback-session-id=ad4a33cf0bad6d02a2dba1bbc537bfab-1762743065172&User-Agent=com.sonyliv/6.22.4 (Android 13; en_GB; Bengal for arm64; Build/TKQ1.230110.001)",
       "user_agent": "Unknown"
     }
   ]
