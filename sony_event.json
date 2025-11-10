@@ -1,6 +1,6 @@
 {
   "api_made_by": "bd coder boy",
-  "updated": "Mon, 10 Nov 2025 19:27:21 GMT",
+  "updated": "Mon, 10 Nov 2025 19:36:56 GMT",
   "total_events": 1,
   "events": [
     {
@@ -10,7 +10,7 @@
       "language": "English",
       "category": "Tennis",
       "title": "ENG | Sinner vs Auger-Aliassime - Group Stage - 10 Nov 2025",
-      "url": "https://sonymtmnew.akamaized.net/hls/live/2037139/DAI19ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1762842605~acl=/*~id=48204b0390cc49888b8507685173f43c-1755427161715~hmac=75f5edc3aaf19c234285279fc475c190068e8c33f248bad607d7b5a58c8fd130|x-playback-session-id=56cddeddd5fa196bdd040900902bee3c-1762802764910&User-Agent=com.sonyliv/6.22.4 (Android 11; en_GB; SM-A022F; Build/RP1A.200720.012)",
+      "url": "https://sonymtmnew.akamaized.net/hls/live/2037139/DAI19ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1762842605~acl=/*~id=48204b0390cc49888b8507685173f43c-1755427161715~hmac=75f5edc3aaf19c234285279fc475c190068e8c33f248bad607d7b5a58c8fd130|x-playback-session-id=b189c30ff384ee731f3bf8f95732ee2c-1762803004946&User-Agent=com.sonyliv/6.22.4 (Android 11; en_GB; H96_MAX_M5; Build/RQ3A.210705.001)",
       "user_agent": "Unknown"
     }
   ]
