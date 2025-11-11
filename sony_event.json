@@ -1,8 +1,18 @@
 {
   "api_made_by": "bd coder boy",
-  "updated": "Tue, 11 Nov 2025 15:14:24 GMT",
-  "total_events": 1,
+  "updated": "Tue, 11 Nov 2025 15:35:03 GMT",
+  "total_events": 2,
   "events": [
+    {
+      "id": "1090486148",
+      "name": "Kaun Banega Crorepati",
+      "logo": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000011097/1762835974505499_kbc25_11NOV_simulcast_landscape_thumb_re1.jpg",
+      "language": "Hindi",
+      "category": "Game show",
+      "title": "HIN | Kaun Banega Crorepati - Season 17",
+      "url": "https://sonymtmnew.akamaized.net/hls/live/2022321/DAI17ME-KBC/master_lrh-800300010.m3u8?hdnea=exp=1762907405~acl=/*~id=48204b0390cc49888b8507685173f43c-1755427161715~hmac=7b2c6bc86b7ff0c259a0982e9d63c93bac00f11c65d4e82ee65f56aab3755417|x-playback-session-id=73700f7c64cd1da1a036bb283d0d5c77-1762875005411&User-Agent=com.sonyliv/6.22.4 (Android 9; en_GB; PIXEL 2 XL; Build/PPR1.180720.122)",
+      "user_agent": "Unknown"
+    },
     {
       "id": "1090494412",
       "name": "Nitto ATP Finals 2025",
@@ -10,7 +20,7 @@
       "language": "English",
       "category": "Tennis",
       "title": "ENG | Alcaraz vs Fritz - 11 Nov 2025",
-      "url": "https://sonymtmnew.akamaized.net/hls/live/2037139/DAI19ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1762907405~acl=/*~id=48204b0390cc49888b8507685173f43c-1755427161715~hmac=7b2c6bc86b7ff0c259a0982e9d63c93bac00f11c65d4e82ee65f56aab3755417|x-playback-session-id=5cbdf0c8de389ac8bbcd431c0fc4d27c-1762873924971&User-Agent=com.sonyliv/6.22.4 (Android 16; en_GB; CPH2381; Build/BP2A.250605.031.A2)",
+      "url": "https://sonymtmnew.akamaized.net/hls/live/2037139/DAI19ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1762907405~acl=/*~id=48204b0390cc49888b8507685173f43c-1755427161715~hmac=7b2c6bc86b7ff0c259a0982e9d63c93bac00f11c65d4e82ee65f56aab3755417|x-playback-session-id=73700f7c64cd1da1a036bb283d0d5c77-1762875005411&User-Agent=com.sonyliv/6.22.4 (Android 11; en_GB; CPH2285; Build/RP1A.200720.011)",
       "user_agent": "Unknown"
     }
   ]
