@@ -1,6 +1,6 @@
 {
   "api_made_by": "bd coder boy",
-  "updated": "Tue, 11 Nov 2025 15:46:56 GMT",
+  "updated": "Tue, 11 Nov 2025 15:55:24 GMT",
   "total_events": 2,
   "events": [
     {
@@ -10,7 +10,7 @@
       "language": "Hindi",
       "category": "Game show",
       "title": "HIN | Kaun Banega Crorepati - Season 17",
-      "url": "https://sonymtmnew.akamaized.net/hls/live/2022321/DAI17ME-KBC/master_lrh-800300010.m3u8?hdnea=exp=1762907405~acl=/*~id=48204b0390cc49888b8507685173f43c-1755427161715~hmac=7b2c6bc86b7ff0c259a0982e9d63c93bac00f11c65d4e82ee65f56aab3755417|x-playback-session-id=29173c60424cfd3cc0a1d2205dd2abac-1762875844198&User-Agent=com.sonyliv/6.22.4 (Android 13; en_GB; OPD2305; Build/SP1A.210812.016)",
+      "url": "https://sonymtmnew.akamaized.net/hls/live/2022321/DAI17ME-KBC/master_lrh-800300010.m3u8?hdnea=exp=1762907405~acl=/*~id=48204b0390cc49888b8507685173f43c-1755427161715~hmac=7b2c6bc86b7ff0c259a0982e9d63c93bac00f11c65d4e82ee65f56aab3755417|x-playback-session-id=ae83cd3fda7507086c9a457bb49e8557-1762876263890&User-Agent=com.sonyliv/6.22.4 (Android 11; en_GB; Android 11 RTC Mini PC; Build/RD2A.211001.002)",
       "user_agent": "Unknown"
     },
     {
@@ -20,7 +20,7 @@
       "language": "English",
       "category": "Tennis",
       "title": "ENG | Alcaraz vs Fritz - 11 Nov 2025",
-      "url": "https://sonymtmnew.akamaized.net/hls/live/2037139/DAI19ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1762907405~acl=/*~id=48204b0390cc49888b8507685173f43c-1755427161715~hmac=7b2c6bc86b7ff0c259a0982e9d63c93bac00f11c65d4e82ee65f56aab3755417|x-playback-session-id=29173c60424cfd3cc0a1d2205dd2abac-1762875844198&User-Agent=com.sonyliv/6.22.4 (Android 11; en_GB; TESLA 4K TV FF; Build/RTT2.220103.001)",
+      "url": "https://sonymtmnew.akamaized.net/hls/live/2037139/DAI19ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1762907405~acl=/*~id=48204b0390cc49888b8507685173f43c-1755427161715~hmac=7b2c6bc86b7ff0c259a0982e9d63c93bac00f11c65d4e82ee65f56aab3755417|x-playback-session-id=ae83cd3fda7507086c9a457bb49e8557-1762876263890&User-Agent=com.sonyliv/6.22.4 (Android 15; en_GB; I2304; Build/AP3A.240905.015.A2)",
       "user_agent": "Unknown"
     }
   ]
