@@ -1,6 +1,6 @@
 {
   "api_made_by": "bd coder boy",
-  "updated": "Wed, 12 Nov 2025 14:40:02 GMT",
+  "updated": "Wed, 12 Nov 2025 14:53:37 GMT",
   "total_events": 1,
   "events": [
     {
@@ -10,7 +10,7 @@
       "language": "English",
       "category": "Tennis",
       "title": "ENG | Shelton vs Auger-Aliassime  - 12 Nov 2025",
-      "url": "https://sonymtmnew.akamaized.net/hls/live/2037139/DAI19ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1762993800~acl=/*~id=48204b0390cc49888b8507685173f43c-1755427161715~hmac=4a2bad06c4e380f46f4e86c9fb5890b20c36499a19b9c0d35a55a3c4debac870|x-playback-session-id=ad97c2d4faec79c76ebe1d47de22d5b5-1762958224008&User-Agent=com.sonyliv/6.22.4 (Android 9; en_GB; p281; Build/PPR1.180610.011)",
+      "url": "https://sonymtmnew.akamaized.net/hls/live/2037139/DAI19ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1762993800~acl=/*~id=48204b0390cc49888b8507685173f43c-1755427161715~hmac=4a2bad06c4e380f46f4e86c9fb5890b20c36499a19b9c0d35a55a3c4debac870|x-playback-session-id=bd095fdb7dc2562ef00c07a0096008dd-1762959064602&User-Agent=com.sonyliv/6.22.4 (Android 11; en_GB; vivo 1818; Build/RP1A.200720.012)",
       "user_agent": "Unknown"
     }
   ]
