@@ -1,7 +1,7 @@
 {
   "api_made_by": "bd coder boy",
-  "updated": "Thu, 13 Nov 2025 21:38:16 GMT",
-  "total_events": 6,
+  "updated": "Thu, 13 Nov 2025 21:46:23 GMT",
+  "total_events": 5,
   "events": [
     {
       "id": "1090494520",
@@ -10,7 +10,7 @@
       "language": "English",
       "category": "Football",
       "title": "ENG | Republic of Ireland vs Portugal - MD 9 - 14 Nov 2025",
-      "url": "https://sonymtmnew.akamaized.net/hls/live/2022317/DAI13ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1763101800~acl=/*~id=48204b0390cc49888b8507685173f43c-1755427161715~hmac=634103df67e54d62597494774a03fff271c1da0df3a1b486497381c79eac164f|x-playback-session-id=f3f920b33acd1ee28d01632a42b16b60-1763069823593&User-Agent=com.sonyliv/6.22.4 (Android 9; en_GB; SM-G955W; Build/PPR1.180610.011)",
+      "url": "https://sonymtmnew.akamaized.net/hls/live/2022317/DAI13ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1763101800~acl=/*~id=48204b0390cc49888b8507685173f43c-1755427161715~hmac=634103df67e54d62597494774a03fff271c1da0df3a1b486497381c79eac164f|x-playback-session-id=0b5aae1f8bc1cf3f3c236a181805e750-1763070244589&User-Agent=com.sonyliv/6.22.4 (Android 9; en_GB; TLG32; Build/PPR1.180610.011)",
       "user_agent": "Unknown"
     },
     {
@@ -20,17 +20,7 @@
       "language": "English",
       "category": "Football",
       "title": "ENG | England vs Serbia - MD 9 - 14 Nov 2025",
-      "url": "https://sonymtmnew.akamaized.net/hls/live/2037141/DAI21ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1763101800~acl=/*~id=48204b0390cc49888b8507685173f43c-1755427161715~hmac=634103df67e54d62597494774a03fff271c1da0df3a1b486497381c79eac164f|x-playback-session-id=f3f920b33acd1ee28d01632a42b16b60-1763069823593&User-Agent=com.sonyliv/6.22.4 (Android 14; en_GB; 22021211RG; Build/UKQ1.231207.002)",
-      "user_agent": "Unknown"
-    },
-    {
-      "id": "1090494496",
-      "name": "Nitto ATP Finals 2025",
-      "logo": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000011157/1762963451503878_nitto_ATP25_group_stage_Alcaraz_vs_Musetti_12nov_landscape_thumb.jpg",
-      "language": "English",
-      "category": "Tennis",
-      "title": "ENG | Alcaraz vs Musetti - Group Stage - 14 Nov 2025",
-      "url": "https://sonymtmnew.akamaized.net/hls/live/2037139/DAI19ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1763101800~acl=/*~id=48204b0390cc49888b8507685173f43c-1755427161715~hmac=634103df67e54d62597494774a03fff271c1da0df3a1b486497381c79eac164f|x-playback-session-id=f3f920b33acd1ee28d01632a42b16b60-1763069823593&User-Agent=com.sonyliv/6.22.4 (Android 15; en_GB; SM-A536B; Build/AP3A.240905.015.A2)",
+      "url": "https://sonymtmnew.akamaized.net/hls/live/2037141/DAI21ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1763101800~acl=/*~id=48204b0390cc49888b8507685173f43c-1755427161715~hmac=634103df67e54d62597494774a03fff271c1da0df3a1b486497381c79eac164f|x-playback-session-id=0b5aae1f8bc1cf3f3c236a181805e750-1763070244589&User-Agent=com.sonyliv/6.22.4 (Android 10; en_GB; ELS-N39; Build/HUAWEIELS-N39)",
       "user_agent": "Unknown"
     },
     {
@@ -40,7 +30,7 @@
       "language": "English",
       "category": "Football",
       "title": "ENG | France vs Ukraine - MD 9 - 14 Nov 2025",
-      "url": "https://sonymtmnew.akamaized.net/hls/live/2018457/DAI09ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1763101800~acl=/*~id=48204b0390cc49888b8507685173f43c-1755427161715~hmac=634103df67e54d62597494774a03fff271c1da0df3a1b486497381c79eac164f|x-playback-session-id=f3f920b33acd1ee28d01632a42b16b60-1763069823593&User-Agent=com.sonyliv/6.22.4 (Android 7; en_GB; SM-G611F; Build/NMF26X)",
+      "url": "https://sonymtmnew.akamaized.net/hls/live/2018457/DAI09ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1763101800~acl=/*~id=48204b0390cc49888b8507685173f43c-1755427161715~hmac=634103df67e54d62597494774a03fff271c1da0df3a1b486497381c79eac164f|x-playback-session-id=0b5aae1f8bc1cf3f3c236a181805e750-1763070244589&User-Agent=com.sonyliv/6.22.4 (Android 10; en_GB; Lenovo TB-X606V; Build/QP1A.190711.020)",
       "user_agent": "Unknown"
     },
     {
@@ -50,7 +40,7 @@
       "language": "English",
       "category": "Football",
       "title": "ENG | Moldova vs Italy - MD 9 - 14 Nov 2025",
-      "url": "https://sonymtmnew.akamaized.net/hls/live/2005445/DAI06ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1763101800~acl=/*~id=48204b0390cc49888b8507685173f43c-1755427161715~hmac=634103df67e54d62597494774a03fff271c1da0df3a1b486497381c79eac164f|x-playback-session-id=f3f920b33acd1ee28d01632a42b16b60-1763069823593&User-Agent=com.sonyliv/6.22.4 (Android 13; en_GB; 220333QNY; Build/TKQ1.221114.001)",
+      "url": "https://sonymtmnew.akamaized.net/hls/live/2005445/DAI06ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1763101800~acl=/*~id=48204b0390cc49888b8507685173f43c-1755427161715~hmac=634103df67e54d62597494774a03fff271c1da0df3a1b486497381c79eac164f|x-playback-session-id=0b5aae1f8bc1cf3f3c236a181805e750-1763070244589&User-Agent=com.sonyliv/6.22.4 (Android 15; en_GB; moto g34 5G; Build/V1UG35H.75-14-9)",
       "user_agent": "Unknown"
     },
     {
@@ -60,7 +50,7 @@
       "language": "English",
       "category": "Football",
       "title": "ENG | Andorra vs Albania - MD 9 - 14 Nov 2025",
-      "url": "https://sonymtmnew.akamaized.net/hls/live/2022319/DAI15ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1763101800~acl=/*~id=48204b0390cc49888b8507685173f43c-1755427161715~hmac=634103df67e54d62597494774a03fff271c1da0df3a1b486497381c79eac164f|x-playback-session-id=f3f920b33acd1ee28d01632a42b16b60-1763069823593&User-Agent=com.sonyliv/6.22.4 (Android 15; en_GB; motorola edge 60 pro; Build/V2VV35.58-78-5)",
+      "url": "https://sonymtmnew.akamaized.net/hls/live/2022319/DAI15ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1763101800~acl=/*~id=48204b0390cc49888b8507685173f43c-1755427161715~hmac=634103df67e54d62597494774a03fff271c1da0df3a1b486497381c79eac164f|x-playback-session-id=0b5aae1f8bc1cf3f3c236a181805e750-1763070244589&User-Agent=com.sonyliv/6.22.4 (Android 11; en_GB; VU 4K Google TV; Build/RTK2.230523.098)",
       "user_agent": "Unknown"
     }
   ]
