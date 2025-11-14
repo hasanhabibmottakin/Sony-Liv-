@@ -1,6 +1,6 @@
 {
   "api_made_by": "bd coder boy",
-  "updated": "Fri, 14 Nov 2025 18:19:21 GMT",
+  "updated": "Fri, 14 Nov 2025 18:45:43 GMT",
   "total_events": 2,
   "events": [
     {
@@ -10,17 +10,17 @@
       "language": "English",
       "category": "Football",
       "title": "ENG | Finland vs Malta - MD 9 - 14 Nov 2025",
-      "url": "https://sonymtmnew.akamaized.net/hls/live/2018458/DAI10ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1763166600~acl=/*~id=48204b0390cc49888b8507685173f43c-1755427161715~hmac=5c2c1e7c8ece54612c6efae316b400d6e4ef6fae6b0dabf0ff055480d5853db8|x-playback-session-id=f7c062927490f45cdf3b12c3990265ad-1763144345925&User-Agent=com.sonyliv/6.22.4 (Android 15; en_GB; Infinix X6853; Build/AP3A.240905.015.A2)",
+      "url": "https://sonymtmnew.akamaized.net/hls/live/2018458/DAI10ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1763188200~acl=/*~id=48204b0390cc49888b8507685173f43c-1755427161715~hmac=785ed23452b3631642a25f3b61e9507d07f67ccd8ada6ba7595f0c7a29c2f89e|x-playback-session-id=db3e589d1c5d6d04307b03af6483904a-1763145845388&User-Agent=com.sonyliv/6.22.4 (Android 10; en_GB; MBOX; Build/NHG47K)",
       "user_agent": "Unknown"
     },
     {
       "id": "1090494568",
       "name": "Nitto ATP Finals 2025",
-      "logo": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000011089/1762779609232352_nitto_atp_finals_group-stage_landscape_thumb-3.jpg",
+      "logo": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000011090/1762774745294255_ATP_FINALS_Zverev-vs-Auger-Aliassime_landscape_thumb.jpg",
       "language": "English",
       "category": "Tennis",
-      "title": "ENG | Salisbury/Skupski vs Harrison/King - Group Stage - 14 Nov 2025",
-      "url": "https://sonymtmnew.akamaized.net/hls/live/2037139/DAI19ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1763166600~acl=/*~id=48204b0390cc49888b8507685173f43c-1755427161715~hmac=5c2c1e7c8ece54612c6efae316b400d6e4ef6fae6b0dabf0ff055480d5853db8|x-playback-session-id=f7c062927490f45cdf3b12c3990265ad-1763144345925&User-Agent=com.sonyliv/6.22.4 (Android 13; en_GB; RMP2205; Build/SP1A.210812.016)",
+      "title": "ENG | Alexander Zverev vs Felix Auger-Alliassime - Group Stage - 15 Nov 2025",
+      "url": "https://sonymtmnew.akamaized.net/hls/live/2037139/DAI19ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1763188200~acl=/*~id=48204b0390cc49888b8507685173f43c-1755427161715~hmac=785ed23452b3631642a25f3b61e9507d07f67ccd8ada6ba7595f0c7a29c2f89e|x-playback-session-id=db3e589d1c5d6d04307b03af6483904a-1763145845388&User-Agent=com.sonyliv/6.22.4 (Android 14; en_GB; G27; Build/UP1A.231005.007)",
       "user_agent": "Unknown"
     }
   ]
