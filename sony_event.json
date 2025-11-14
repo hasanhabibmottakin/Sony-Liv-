@@ -1,6 +1,6 @@
 {
   "api_made_by": "bd coder boy",
-  "updated": "Fri, 14 Nov 2025 12:27:35 GMT",
+  "updated": "Fri, 14 Nov 2025 13:06:00 GMT",
   "total_events": 2,
   "events": [
     {
@@ -10,17 +10,17 @@
       "language": "English",
       "category": "Cricket",
       "title": "ENG | India A vs UAE - 14 Nov 2025",
-      "url": "https://sonymtmnew.akamaized.net/hls/live/2037141/DAI21-criclive/std_lrh-800300010.m3u8?hdnea=exp=1763145000~acl=/*~id=48204b0390cc49888b8507685173f43c-1755427161715~hmac=026b443bd90819d85322f882600ef31cf06f2c9ed6556b28cd6ba8199da5faa4|x-playback-session-id=b17cf9cd7c495c6a5c347dd56d337422-1763123165343&User-Agent=com.sonyliv/6.22.4 (Android 5; en_GB; SM-G9880; Build/LMY47I)",
+      "url": "https://sonymtmnew.akamaized.net/hls/live/2037141/DAI21-criclive/std_lrh-800300010.m3u8?hdnea=exp=1763166600~acl=/*~id=48204b0390cc49888b8507685173f43c-1755427161715~hmac=5c2c1e7c8ece54612c6efae316b400d6e4ef6fae6b0dabf0ff055480d5853db8|x-playback-session-id=386a7006b72f4d8532ca29b70ed8017c-1763125503522&User-Agent=com.sonyliv/6.22.4 (Android 15; en_GB; RMX3930; Build/AP3A.240905.015.A2)",
       "user_agent": "Unknown"
     },
     {
       "id": "1090494567",
       "name": "Nitto ATP Finals 2025",
-      "logo": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000011089/1762779609232352_nitto_atp_finals_group-stage_landscape_thumb-3.jpg",
+      "logo": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000011090/1762770886201255_ATP_FINALS_Sinner-vs-Shelton_landscape_thumb.jpg",
       "language": "English",
       "category": "Tennis",
-      "title": "ENG | Heliovaara/Patten vs Arevalo-Gonzalez/Pavic - Group Stage - 14 Nov 2025",
-      "url": "https://sonymtmnew.akamaized.net/hls/live/2037139/DAI19ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1763145000~acl=/*~id=48204b0390cc49888b8507685173f43c-1755427161715~hmac=026b443bd90819d85322f882600ef31cf06f2c9ed6556b28cd6ba8199da5faa4|x-playback-session-id=b17cf9cd7c495c6a5c347dd56d337422-1763123165343&User-Agent=com.sonyliv/6.22.4 (Android 13; en_GB; RMX3624; Build/TP1A.220624.014)",
+      "title": "ENG | Sinner vs Shelton - Group Stage - 14 Nov 2025",
+      "url": "https://sonymtmnew.akamaized.net/hls/live/2037139/DAI19ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1763166600~acl=/*~id=48204b0390cc49888b8507685173f43c-1755427161715~hmac=5c2c1e7c8ece54612c6efae316b400d6e4ef6fae6b0dabf0ff055480d5853db8|x-playback-session-id=386a7006b72f4d8532ca29b70ed8017c-1763125503522&User-Agent=com.sonyliv/6.22.4 (Android 9; en_GB; AFTMAN001; Build/PS7706.5106N)",
       "user_agent": "Unknown"
     }
   ]
