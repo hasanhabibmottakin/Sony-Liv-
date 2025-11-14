@@ -1,6 +1,6 @@
 {
   "api_made_by": "bd coder boy",
-  "updated": "Fri, 14 Nov 2025 11:11:36 GMT",
+  "updated": "Fri, 14 Nov 2025 11:28:40 GMT",
   "total_events": 2,
   "events": [
     {
@@ -10,7 +10,7 @@
       "language": "English",
       "category": "Cricket",
       "title": "ENG | India A vs UAE - 14 Nov 2025",
-      "url": "https://sonymtmnew.akamaized.net/hls/live/2037141/DAI21-criclive/std_lrh-800300010.m3u8?hdnea=exp=1763145000~acl=/*~id=48204b0390cc49888b8507685173f43c-1755427161715~hmac=026b443bd90819d85322f882600ef31cf06f2c9ed6556b28cd6ba8199da5faa4|x-playback-session-id=7cb3f29df321629b36cb6198aef0fee2-1763118304890&User-Agent=com.sonyliv/6.22.4 (Android 9; en_GB; MarQ 2K Android TV; Build/PTO6.200910.002)",
+      "url": "https://sonymtmnew.akamaized.net/hls/live/2037141/DAI21-criclive/std_lrh-800300010.m3u8?hdnea=exp=1763145000~acl=/*~id=48204b0390cc49888b8507685173f43c-1755427161715~hmac=026b443bd90819d85322f882600ef31cf06f2c9ed6556b28cd6ba8199da5faa4|x-playback-session-id=da7c064bb93d7ec7fb652a3f1908448c-1763119145211&User-Agent=com.sonyliv/6.22.4 (Android 11; en_GB; viva; Build/RP1A.200720.011)",
       "user_agent": "Unknown"
     },
     {
@@ -20,7 +20,7 @@
       "language": "English",
       "category": "Tennis",
       "title": "ENG | Heliovaara/Patten vs Arevalo-Gonzalez/Pavic - Group Stage - 14 Nov 2025",
-      "url": "https://sonymtmnew.akamaized.net/hls/live/2037139/DAI19ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1763145000~acl=/*~id=48204b0390cc49888b8507685173f43c-1755427161715~hmac=026b443bd90819d85322f882600ef31cf06f2c9ed6556b28cd6ba8199da5faa4|x-playback-session-id=7cb3f29df321629b36cb6198aef0fee2-1763118304890&User-Agent=com.sonyliv/6.22.4 (Android 14; en_GB; SH classic; Build/QP1A.191105.004)",
+      "url": "https://sonymtmnew.akamaized.net/hls/live/2037139/DAI19ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1763145000~acl=/*~id=48204b0390cc49888b8507685173f43c-1755427161715~hmac=026b443bd90819d85322f882600ef31cf06f2c9ed6556b28cd6ba8199da5faa4|x-playback-session-id=da7c064bb93d7ec7fb652a3f1908448c-1763119145211&User-Agent=com.sonyliv/6.22.4 (Android 12; en_GB; POCO M2 Pro; Build/SQ3A.220705.004)",
       "user_agent": "Unknown"
     }
   ]
