@@ -1,7 +1,7 @@
 {
   "api_made_by": "bd coder boy",
-  "updated": "Fri, 14 Nov 2025 16:17:28 GMT",
-  "total_events": 1,
+  "updated": "Fri, 14 Nov 2025 16:43:48 GMT",
+  "total_events": 3,
   "events": [
     {
       "id": "1090491950",
@@ -10,7 +10,27 @@
       "language": "Hindi",
       "category": "Game show",
       "title": "HIN | E70. Kaun Banega Crorepati - Season 17",
-      "url": "https://sonymtmnew.akamaized.net/hls/live/2043696/DAI26ME-KBC/master_lrh-800300010.m3u8?hdnea=exp=1763166600~acl=/*~id=48204b0390cc49888b8507685173f43c-1755427161715~hmac=5c2c1e7c8ece54612c6efae316b400d6e4ef6fae6b0dabf0ff055480d5853db8|x-playback-session-id=af4506ec15483c7abc656ab7df2f3842-1763136724484&User-Agent=com.sonyliv/6.22.4 (Android 14; en_GB; RMX3561; Build/UKQ1.230924.001)",
+      "url": "https://sonymtmnew.akamaized.net/hls/live/2043696/DAI26ME-KBC/master_lrh-800300010.m3u8?hdnea=exp=1763166600~acl=/*~id=48204b0390cc49888b8507685173f43c-1755427161715~hmac=5c2c1e7c8ece54612c6efae316b400d6e4ef6fae6b0dabf0ff055480d5853db8|x-playback-session-id=571c81f91089c59b7655089b6544a48f-1763138224785&User-Agent=com.sonyliv/6.22.4 (Android 9; en_GB; Lenovo L78051; Build/PKQ1.190110.001)",
+      "user_agent": "Unknown"
+    },
+    {
+      "id": "1090494569",
+      "name": "European Qualifiers For 2026 FIFA World Cup",
+      "logo": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000010902/1762354789267408_EQFs_MD9_Finland_vs_Malta_3nov_landscape_thumb.jpg",
+      "language": "English",
+      "category": "Football",
+      "title": "ENG | Finland vs Malta - MD 9 - 14 Nov 2025",
+      "url": "https://sonymtmnew.akamaized.net/hls/live/2018458/DAI10ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1763166600~acl=/*~id=48204b0390cc49888b8507685173f43c-1755427161715~hmac=5c2c1e7c8ece54612c6efae316b400d6e4ef6fae6b0dabf0ff055480d5853db8|x-playback-session-id=571c81f91089c59b7655089b6544a48f-1763138224785&User-Agent=com.sonyliv/6.22.4 (Android 15; en_GB; SM-S918N; Build/AP3A.240905.015.A2)",
+      "user_agent": "Unknown"
+    },
+    {
+      "id": "1090494568",
+      "name": "Nitto ATP Finals 2025",
+      "logo": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000011089/1762779609232352_nitto_atp_finals_group-stage_landscape_thumb-3.jpg",
+      "language": "English",
+      "category": "Tennis",
+      "title": "ENG | Salisbury/Skupski vs Harrison/King - Group Stage - 14 Nov 2025",
+      "url": "https://sonymtmnew.akamaized.net/hls/live/2037139/DAI19ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1763166600~acl=/*~id=48204b0390cc49888b8507685173f43c-1755427161715~hmac=5c2c1e7c8ece54612c6efae316b400d6e4ef6fae6b0dabf0ff055480d5853db8|x-playback-session-id=571c81f91089c59b7655089b6544a48f-1763138224785&User-Agent=com.sonyliv/6.22.4 (Android 11; en_GB; vivo 1818; Build/RP1A.200720.012)",
       "user_agent": "Unknown"
     }
   ]
