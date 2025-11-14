@@ -1,18 +1,8 @@
 {
   "api_made_by": "bd coder boy",
-  "updated": "Fri, 14 Nov 2025 17:53:36 GMT",
-  "total_events": 3,
+  "updated": "Fri, 14 Nov 2025 18:19:21 GMT",
+  "total_events": 2,
   "events": [
-    {
-      "id": "1090491950",
-      "name": "Kaun Banega Crorepati",
-      "logo": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000011261/1763126682821468_KBC25_14nov_live_landscape_Thumb.jpg",
-      "language": "Hindi",
-      "category": "Game show",
-      "title": "HIN | E70. Kaun Banega Crorepati - Season 17",
-      "url": "https://sonymtmnew.akamaized.net/hls/live/2043696/DAI26ME-KBC/master_lrh-800300010.m3u8?hdnea=exp=1763166600~acl=/*~id=48204b0390cc49888b8507685173f43c-1755427161715~hmac=5c2c1e7c8ece54612c6efae316b400d6e4ef6fae6b0dabf0ff055480d5853db8|x-playback-session-id=e39708b52d75dc3613413e8581e9ecb2-1763142664335&User-Agent=com.sonyliv/6.22.4 (Android 15; en_GB; SM-S901E; Build/AP3A.240905.015.A2)",
-      "user_agent": "Unknown"
-    },
     {
       "id": "1090494569",
       "name": "European Qualifiers For 2026 FIFA World Cup",
@@ -20,7 +10,7 @@
       "language": "English",
       "category": "Football",
       "title": "ENG | Finland vs Malta - MD 9 - 14 Nov 2025",
-      "url": "https://sonymtmnew.akamaized.net/hls/live/2018458/DAI10ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1763166600~acl=/*~id=48204b0390cc49888b8507685173f43c-1755427161715~hmac=5c2c1e7c8ece54612c6efae316b400d6e4ef6fae6b0dabf0ff055480d5853db8|x-playback-session-id=e39708b52d75dc3613413e8581e9ecb2-1763142664335&User-Agent=com.sonyliv/6.22.4 (Android 13; en_GB; RMX3392; Build/TP1A.220905.001)",
+      "url": "https://sonymtmnew.akamaized.net/hls/live/2018458/DAI10ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1763166600~acl=/*~id=48204b0390cc49888b8507685173f43c-1755427161715~hmac=5c2c1e7c8ece54612c6efae316b400d6e4ef6fae6b0dabf0ff055480d5853db8|x-playback-session-id=f7c062927490f45cdf3b12c3990265ad-1763144345925&User-Agent=com.sonyliv/6.22.4 (Android 15; en_GB; Infinix X6853; Build/AP3A.240905.015.A2)",
       "user_agent": "Unknown"
     },
     {
@@ -30,7 +20,7 @@
       "language": "English",
       "category": "Tennis",
       "title": "ENG | Salisbury/Skupski vs Harrison/King - Group Stage - 14 Nov 2025",
-      "url": "https://sonymtmnew.akamaized.net/hls/live/2037139/DAI19ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1763166600~acl=/*~id=48204b0390cc49888b8507685173f43c-1755427161715~hmac=5c2c1e7c8ece54612c6efae316b400d6e4ef6fae6b0dabf0ff055480d5853db8|x-playback-session-id=e39708b52d75dc3613413e8581e9ecb2-1763142664335&User-Agent=com.sonyliv/6.22.4 (Android 8; en_GB; SM-T580; Build/M1AJQ)",
+      "url": "https://sonymtmnew.akamaized.net/hls/live/2037139/DAI19ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1763166600~acl=/*~id=48204b0390cc49888b8507685173f43c-1755427161715~hmac=5c2c1e7c8ece54612c6efae316b400d6e4ef6fae6b0dabf0ff055480d5853db8|x-playback-session-id=f7c062927490f45cdf3b12c3990265ad-1763144345925&User-Agent=com.sonyliv/6.22.4 (Android 13; en_GB; RMP2205; Build/SP1A.210812.016)",
       "user_agent": "Unknown"
     }
   ]
