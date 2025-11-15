@@ -1,8 +1,18 @@
 {
   "api_made_by": "bd coder boy",
-  "updated": "Sat, 15 Nov 2025 19:21:37 GMT",
+  "updated": "Sat, 15 Nov 2025 19:34:24 GMT",
   "total_events": 6,
   "events": [
+    {
+      "id": "1090494842",
+      "name": "Nitto ATP Finals 2025",
+      "logo": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000011318/1763190856171173_ATP_NITTO_SF_Alcaraz_vs_Auger-Aliassime_live_Landscape_thumb.jpg",
+      "language": "English",
+      "category": "Tennis",
+      "title": "ENG | Alcaraz vs Auger-Aliassime - Semi-Finals - 16 Nov 2025",
+      "url": "https://sonymtmnew.akamaized.net/hls/live/2037139/DAI19ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1763274600~acl=/*~id=48204b0390cc49888b8507685173f43c-1755427161715~hmac=7c5bb872763fcafe788291f1328412d4a8337aac38a58fcf06e5de18e64daf14|x-playback-session-id=f8f6e20e811f9fb1a73fdc23f5081156-1763235004751&User-Agent=com.sonyliv/6.22.4 (Android 14; en_GB; SM-X806B; Build/UP1A.231005.007)",
+      "user_agent": "Unknown"
+    },
     {
       "id": "1090494758",
       "name": "European Qualifiers For 2026 FIFA World Cup",
@@ -10,7 +20,7 @@
       "language": "English",
       "category": "Football",
       "title": "ENG | Denmark vs Belarus - MD 9 - 16 Nov 2025",
-      "url": "https://sonymtmnew.akamaized.net/hls/live/2094587/DAI03ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1763274600~acl=/*~id=48204b0390cc49888b8507685173f43c-1755427161715~hmac=7c5bb872763fcafe788291f1328412d4a8337aac38a58fcf06e5de18e64daf14|x-playback-session-id=507cd25e626d3d8bd8bc92fc260fa3b8-1763234344435&User-Agent=com.sonyliv/6.22.4 (Android 9; en_GB; SM-X810N; Build/PQ3A.190705.03031718)",
+      "url": "https://sonymtmnew.akamaized.net/hls/live/2094587/DAI03ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1763274600~acl=/*~id=48204b0390cc49888b8507685173f43c-1755427161715~hmac=7c5bb872763fcafe788291f1328412d4a8337aac38a58fcf06e5de18e64daf14|x-playback-session-id=f8f6e20e811f9fb1a73fdc23f5081156-1763235004751&User-Agent=com.sonyliv/6.22.4 (Android 14; en_GB; V2205; Build/UP1A.231005.007_NONFC)",
       "user_agent": "Unknown"
     },
     {
@@ -20,7 +30,7 @@
       "language": "English",
       "category": "Football",
       "title": "ENG | Switzerland vs Sweden - MD 9 - 16 Nov 2025",
-      "url": "https://sonymtmnew.akamaized.net/hls/live/2018457/DAI09ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1763274600~acl=/*~id=48204b0390cc49888b8507685173f43c-1755427161715~hmac=7c5bb872763fcafe788291f1328412d4a8337aac38a58fcf06e5de18e64daf14|x-playback-session-id=507cd25e626d3d8bd8bc92fc260fa3b8-1763234344435&User-Agent=com.sonyliv/6.22.4 (Android 15; en_GB; ASUS_AI2205_C; Build/AQ3A.240812.002)",
+      "url": "https://sonymtmnew.akamaized.net/hls/live/2018457/DAI09ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1763274600~acl=/*~id=48204b0390cc49888b8507685173f43c-1755427161715~hmac=7c5bb872763fcafe788291f1328412d4a8337aac38a58fcf06e5de18e64daf14|x-playback-session-id=f8f6e20e811f9fb1a73fdc23f5081156-1763235004751&User-Agent=com.sonyliv/6.22.4 (Android 11; en_GB; AI PONT; Build/RTM6.230109.272)",
       "user_agent": "Unknown"
     },
     {
@@ -30,7 +40,7 @@
       "language": "English",
       "category": "Football",
       "title": "ENG | Greece vs Scotland - MD 9 - 16 Nov 2025",
-      "url": "https://sonymtmnew.akamaized.net/hls/live/2005445/DAI06ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1763274600~acl=/*~id=48204b0390cc49888b8507685173f43c-1755427161715~hmac=7c5bb872763fcafe788291f1328412d4a8337aac38a58fcf06e5de18e64daf14|x-playback-session-id=507cd25e626d3d8bd8bc92fc260fa3b8-1763234344435&User-Agent=com.sonyliv/6.22.4 (Android 14; en_GB; CPH2399; Build/UKQ1.230924.001)",
+      "url": "https://sonymtmnew.akamaized.net/hls/live/2005445/DAI06ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1763274600~acl=/*~id=48204b0390cc49888b8507685173f43c-1755427161715~hmac=7c5bb872763fcafe788291f1328412d4a8337aac38a58fcf06e5de18e64daf14|x-playback-session-id=f8f6e20e811f9fb1a73fdc23f5081156-1763235004751&User-Agent=com.sonyliv/6.22.4 (Android 14; en_GB; SM-M558B; Build/UP1A.231005.007)",
       "user_agent": "Unknown"
     },
     {
@@ -40,7 +50,7 @@
       "language": "English",
       "category": "Football",
       "title": "ENG | Bosnia-Herzegovina vs Romania - MD 9 - 16 Nov 2025",
-      "url": "https://sonymtmnew.akamaized.net/hls/live/2022320/DAI16ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1763274600~acl=/*~id=48204b0390cc49888b8507685173f43c-1755427161715~hmac=7c5bb872763fcafe788291f1328412d4a8337aac38a58fcf06e5de18e64daf14|x-playback-session-id=507cd25e626d3d8bd8bc92fc260fa3b8-1763234344435&User-Agent=com.sonyliv/6.22.4 (Android 15; en_GB; SM-X526B; Build/AP3A.240905.015.A2)",
+      "url": "https://sonymtmnew.akamaized.net/hls/live/2022320/DAI16ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1763274600~acl=/*~id=48204b0390cc49888b8507685173f43c-1755427161715~hmac=7c5bb872763fcafe788291f1328412d4a8337aac38a58fcf06e5de18e64daf14|x-playback-session-id=f8f6e20e811f9fb1a73fdc23f5081156-1763235004751&User-Agent=com.sonyliv/6.22.4 (Android 11; en_GB; V2059; Build/RP1A.200720.012)",
       "user_agent": "Unknown"
     },
     {
@@ -50,17 +60,7 @@
       "language": "English",
       "category": "Football",
       "title": "ENG | Slovenia vs Kosovo - MD 9 - 16 Nov 2025",
-      "url": "https://sonymtmnew.akamaized.net/hls/live/2022317/DAI13ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1763274600~acl=/*~id=48204b0390cc49888b8507685173f43c-1755427161715~hmac=7c5bb872763fcafe788291f1328412d4a8337aac38a58fcf06e5de18e64daf14|x-playback-session-id=507cd25e626d3d8bd8bc92fc260fa3b8-1763234344435&User-Agent=com.sonyliv/6.22.4 (Android 11; en_GB; Toshiba TV; Build/RTM8.240401.118)",
-      "user_agent": "Unknown"
-    },
-    {
-      "id": "1090494842",
-      "name": "Nitto ATP Finals 2025",
-      "logo": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000011314/1763186314655382_1762779590126352_nitto_atp_finals_Semi-Final_landscape_thumb-3.jpg",
-      "language": "English",
-      "category": "Tennis",
-      "title": "ENG | Skupski/Sallisbury vs Cash/Glasspool - Semi-Finals - 15 Nov 2025",
-      "url": "https://sonymtmnew.akamaized.net/hls/live/2037139/DAI19ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1763274600~acl=/*~id=48204b0390cc49888b8507685173f43c-1755427161715~hmac=7c5bb872763fcafe788291f1328412d4a8337aac38a58fcf06e5de18e64daf14|x-playback-session-id=507cd25e626d3d8bd8bc92fc260fa3b8-1763234344435&User-Agent=com.sonyliv/6.22.4 (Android 13; en_GB; SM-A325N; Build/TP1A.220624.014)",
+      "url": "https://sonymtmnew.akamaized.net/hls/live/2022317/DAI13ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1763274600~acl=/*~id=48204b0390cc49888b8507685173f43c-1755427161715~hmac=7c5bb872763fcafe788291f1328412d4a8337aac38a58fcf06e5de18e64daf14|x-playback-session-id=f8f6e20e811f9fb1a73fdc23f5081156-1763235004751&User-Agent=com.sonyliv/6.22.4 (Android 9; en_GB; AFTSS; Build/PS7688.4591N)",
       "user_agent": "Unknown"
     }
   ]
