@@ -1,6 +1,6 @@
 {
   "api_made_by": "bd coder boy",
-  "updated": "Sat, 15 Nov 2025 16:54:05 GMT",
+  "updated": "Sat, 15 Nov 2025 17:10:36 GMT",
   "total_events": 6,
   "events": [
     {
@@ -10,7 +10,7 @@
       "language": "English",
       "category": "Football",
       "title": "ENG | Georgia vs Spain - MD 9 - 15 Nov 2025",
-      "url": "https://sonymtmnew.akamaized.net/hls/live/2105079/DAI08ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1763253000~acl=/*~id=48204b0390cc49888b8507685173f43c-1755427161715~hmac=97ecdc71a084162ff900ebc63dd3b6f2df0e13020ca3ab5f2518cb247c6d52ef|x-playback-session-id=0daadbf88ff72208de2dc554a96731a3-1763225464163&User-Agent=com.sonyliv/6.22.4 (Android 14; en_GB; SM-S918B; Build/UP1A.231005.007)",
+      "url": "https://sonymtmnew.akamaized.net/hls/live/2105079/DAI08ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1763253000~acl=/*~id=48204b0390cc49888b8507685173f43c-1755427161715~hmac=97ecdc71a084162ff900ebc63dd3b6f2df0e13020ca3ab5f2518cb247c6d52ef|x-playback-session-id=711e0450442e03068a1bf56e47f7bc85-1763226304739&User-Agent=com.sonyliv/6.22.4 (Android 11; en_GB; RMX2061; Build/RKQ1.201112.002)",
       "user_agent": "Unknown"
     },
     {
@@ -20,27 +20,7 @@
       "language": "Hindi",
       "category": "Reality",
       "title": "HIN | India\u2019s Got Talent",
-      "url": "https://sonymtmnew.akamaized.net/hls/live/2037142/DAI22ME-IGT/master_lrh-800300010.m3u8?hdnea=exp=1763253000~acl=/*~id=48204b0390cc49888b8507685173f43c-1755427161715~hmac=97ecdc71a084162ff900ebc63dd3b6f2df0e13020ca3ab5f2518cb247c6d52ef|x-playback-session-id=0daadbf88ff72208de2dc554a96731a3-1763225464163&User-Agent=com.sonyliv/6.22.4 (Android 15; en_GB; V2222; Build/AP3A.240905.015.A2_CS)",
-      "user_agent": "Unknown"
-    },
-    {
-      "id": "1090494703",
-      "name": "European Qualifiers For 2026 FIFA World Cup",
-      "logo": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000010902/1762356531356408_EQFs_MD9_Cyprus_vs_Austria_3nov_landscape_thumb.jpg",
-      "language": "English",
-      "category": "Football",
-      "title": "ENG | Cyprus vs Austria - MD 9 - 15 Nov 2025",
-      "url": "https://sonymtmnew.akamaized.net/hls/live/2018458/DAI10ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1763253000~acl=/*~id=48204b0390cc49888b8507685173f43c-1755427161715~hmac=97ecdc71a084162ff900ebc63dd3b6f2df0e13020ca3ab5f2518cb247c6d52ef|x-playback-session-id=0daadbf88ff72208de2dc554a96731a3-1763225464163&User-Agent=com.sonyliv/6.22.4 (Android 7; en_GB; SM-A510F; Build/NRD90M)",
-      "user_agent": "Unknown"
-    },
-    {
-      "id": "1090494705",
-      "name": "European Qualifiers For 2026 FIFA World Cup",
-      "logo": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000010902/1762356954665408_EQFs_MD9_Liechtenstein_vs_Wales_3nov_landscape_thumb.jpg",
-      "language": "English",
-      "category": "Football",
-      "title": "ENG | Liechtenstein vs Wales - MD 9 - 15 Nov 2025",
-      "url": "https://sonymtmnew.akamaized.net/hls/live/2094588/DAI04ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1763253000~acl=/*~id=48204b0390cc49888b8507685173f43c-1755427161715~hmac=97ecdc71a084162ff900ebc63dd3b6f2df0e13020ca3ab5f2518cb247c6d52ef|x-playback-session-id=0daadbf88ff72208de2dc554a96731a3-1763225464163&User-Agent=com.sonyliv/6.22.4 (Android 13; en_GB; RMX3762; Build/TP1A.220624.014)",
+      "url": "https://sonymtmnew.akamaized.net/hls/live/2037142/DAI22ME-IGT/master_lrh-800300010.m3u8?hdnea=exp=1763253000~acl=/*~id=48204b0390cc49888b8507685173f43c-1755427161715~hmac=97ecdc71a084162ff900ebc63dd3b6f2df0e13020ca3ab5f2518cb247c6d52ef|x-playback-session-id=711e0450442e03068a1bf56e47f7bc85-1763226304739&User-Agent=com.sonyliv/6.22.4 (Android 11; en_GB; 40D; Build/RTM6.230109.086)",
       "user_agent": "Unknown"
     },
     {
@@ -50,7 +30,27 @@
       "language": "English",
       "category": "Football",
       "title": "ENG | Turkiye vs Bulgaria - MD 9 - 15 Nov 2025",
-      "url": "https://sonymtmnew.akamaized.net/hls/live/2022319/DAI15ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1763253000~acl=/*~id=48204b0390cc49888b8507685173f43c-1755427161715~hmac=97ecdc71a084162ff900ebc63dd3b6f2df0e13020ca3ab5f2518cb247c6d52ef|x-playback-session-id=0daadbf88ff72208de2dc554a96731a3-1763225464163&User-Agent=com.sonyliv/6.22.4 (Android 14; en_GB; SM-A526B; Build/UP1A.231005.007)",
+      "url": "https://sonymtmnew.akamaized.net/hls/live/2022319/DAI15ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1763253000~acl=/*~id=48204b0390cc49888b8507685173f43c-1755427161715~hmac=97ecdc71a084162ff900ebc63dd3b6f2df0e13020ca3ab5f2518cb247c6d52ef|x-playback-session-id=711e0450442e03068a1bf56e47f7bc85-1763226304739&User-Agent=com.sonyliv/6.22.4 (Android 13; en_GB; LAVA LZX414; Build/TP1A.220624.014)",
+      "user_agent": "Unknown"
+    },
+    {
+      "id": "1090494703",
+      "name": "European Qualifiers For 2026 FIFA World Cup",
+      "logo": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000010902/1762356531356408_EQFs_MD9_Cyprus_vs_Austria_3nov_landscape_thumb.jpg",
+      "language": "English",
+      "category": "Football",
+      "title": "ENG | Cyprus vs Austria - MD 9 - 15 Nov 2025",
+      "url": "https://sonymtmnew.akamaized.net/hls/live/2018458/DAI10ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1763253000~acl=/*~id=48204b0390cc49888b8507685173f43c-1755427161715~hmac=97ecdc71a084162ff900ebc63dd3b6f2df0e13020ca3ab5f2518cb247c6d52ef|x-playback-session-id=711e0450442e03068a1bf56e47f7bc85-1763226304739&User-Agent=com.sonyliv/6.22.4 (Android 11; en_GB; RMX2002; Build/RP1A.200720.011)",
+      "user_agent": "Unknown"
+    },
+    {
+      "id": "1090494705",
+      "name": "European Qualifiers For 2026 FIFA World Cup",
+      "logo": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000010902/1762356954665408_EQFs_MD9_Liechtenstein_vs_Wales_3nov_landscape_thumb.jpg",
+      "language": "English",
+      "category": "Football",
+      "title": "ENG | Liechtenstein vs Wales - MD 9 - 15 Nov 2025",
+      "url": "https://sonymtmnew.akamaized.net/hls/live/2094588/DAI04ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1763253000~acl=/*~id=48204b0390cc49888b8507685173f43c-1755427161715~hmac=97ecdc71a084162ff900ebc63dd3b6f2df0e13020ca3ab5f2518cb247c6d52ef|x-playback-session-id=711e0450442e03068a1bf56e47f7bc85-1763226304739&User-Agent=com.sonyliv/6.22.4 (Android 13; en_GB; TB301XU; Build/TP1A.220624.014)",
       "user_agent": "Unknown"
     },
     {
@@ -60,7 +60,7 @@
       "language": "English",
       "category": "Tennis",
       "title": "ENG | Skupski/Sallisbury vs Cash/Glasspool - Semi-Finals - 15 Nov 2025",
-      "url": "https://sonymtmnew.akamaized.net/hls/live/2037139/DAI19ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1763253000~acl=/*~id=48204b0390cc49888b8507685173f43c-1755427161715~hmac=97ecdc71a084162ff900ebc63dd3b6f2df0e13020ca3ab5f2518cb247c6d52ef|x-playback-session-id=0daadbf88ff72208de2dc554a96731a3-1763225464163&User-Agent=com.sonyliv/6.22.4 (Android 13; en_GB; TECNO CI7n; Build/TP1A.220624.014)",
+      "url": "https://sonymtmnew.akamaized.net/hls/live/2037139/DAI19ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1763253000~acl=/*~id=48204b0390cc49888b8507685173f43c-1755427161715~hmac=97ecdc71a084162ff900ebc63dd3b6f2df0e13020ca3ab5f2518cb247c6d52ef|x-playback-session-id=711e0450442e03068a1bf56e47f7bc85-1763226304739&User-Agent=com.sonyliv/6.22.4 (Android 13; en_GB; moto g52; Build/T2SRS33.72-22-4-11)",
       "user_agent": "Unknown"
     }
   ]
