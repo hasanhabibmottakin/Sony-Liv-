@@ -1,6 +1,6 @@
 {
   "api_made_by": "bd coder boy",
-  "updated": "Sat, 15 Nov 2025 06:43:39 GMT",
+  "updated": "Sat, 15 Nov 2025 06:54:02 GMT",
   "total_events": 1,
   "events": [
     {
@@ -10,7 +10,7 @@
       "language": "English",
       "category": "Cricket",
       "title": "ENG | Bangladesh A vs Hong Kong China - 15 Nov 2025",
-      "url": "https://sonymtmnew.akamaized.net/hls/live/2037140/DAI20-criclive/std_lrh-800300010.m3u8?hdnea=exp=1763231400~acl=/*~id=48204b0390cc49888b8507685173f43c-1755427161715~hmac=60d2e86bf56ac8937dbd43c6b86e455be4577f431882edd52edb548a5266dc53|x-playback-session-id=b336116c95f5a8db0909214b12bd1d57-1763188624764&User-Agent=com.sonyliv/6.22.4 (Android 14; en_GB; 22127PC95I; Build/UP1A.231005.007)",
+      "url": "https://sonymtmnew.akamaized.net/hls/live/2037140/DAI20-criclive/std_lrh-800300010.m3u8?hdnea=exp=1763231400~acl=/*~id=48204b0390cc49888b8507685173f43c-1755427161715~hmac=60d2e86bf56ac8937dbd43c6b86e455be4577f431882edd52edb548a5266dc53|x-playback-session-id=ace3a74229020c51f258e61df2c4828a-1763189464831&User-Agent=com.sonyliv/6.22.4 (Android 6; en_GB; Lenovo TB-X103F; Build/LenovoTB-X103F)",
       "user_agent": "Unknown"
     }
   ]
