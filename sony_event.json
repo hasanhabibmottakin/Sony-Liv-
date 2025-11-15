@@ -1,7 +1,7 @@
 {
   "api_made_by": "bd coder boy",
-  "updated": "Sat, 15 Nov 2025 13:26:45 GMT",
-  "total_events": 2,
+  "updated": "Sat, 15 Nov 2025 13:39:41 GMT",
+  "total_events": 3,
   "events": [
     {
       "id": "1090494834",
@@ -10,7 +10,17 @@
       "language": "English",
       "category": "Cricket",
       "title": "ENG | Sri Lanka A vs Afghanistan A - 15 Nov 2025",
-      "url": "https://sonymtmnew.akamaized.net/hls/live/2037141/DAI21-criclive/std_lrh-800300010.m3u8?hdnea=exp=1763253000~acl=/*~id=48204b0390cc49888b8507685173f43c-1755427161715~hmac=97ecdc71a084162ff900ebc63dd3b6f2df0e13020ca3ab5f2518cb247c6d52ef|x-playback-session-id=dbbdbe3d309e44fba25077db5fddb163-1763212744576&User-Agent=com.sonyliv/6.22.4 (Android 8; en_GB; SM-A260G; Build/OPR6)",
+      "url": "https://sonymtmnew.akamaized.net/hls/live/2037141/DAI21-criclive/std_lrh-800300010.m3u8?hdnea=exp=1763253000~acl=/*~id=48204b0390cc49888b8507685173f43c-1755427161715~hmac=97ecdc71a084162ff900ebc63dd3b6f2df0e13020ca3ab5f2518cb247c6d52ef|x-playback-session-id=1fc851ff0df8d37ca52aa3683845edb3-1763213824627&User-Agent=com.sonyliv/6.22.4 (Android 11; en_GB; TECNO BD4i; Build/RP1A.200720.011)",
+      "user_agent": "Unknown"
+    },
+    {
+      "id": "1090494702",
+      "name": "European Qualifiers For 2026 FIFA World Cup",
+      "logo": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000010902/1762356230196408_EQFs_MD9_Kazakhstan_vs_Belgium_3nov_landscape_thumb.jpg",
+      "language": "English",
+      "category": "Football",
+      "title": "ENG | Kazakhstan vs Belgium - MD 9 - 15 Nov 2025",
+      "url": "https://sonymtmnew.akamaized.net/hls/live/2022315/DAI11ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1763253000~acl=/*~id=48204b0390cc49888b8507685173f43c-1755427161715~hmac=97ecdc71a084162ff900ebc63dd3b6f2df0e13020ca3ab5f2518cb247c6d52ef|x-playback-session-id=1fc851ff0df8d37ca52aa3683845edb3-1763213824627&User-Agent=com.sonyliv/6.22.4 (Android 15; en_GB; M-KOPA X2; Build/AP3A.240905.015.A2)",
       "user_agent": "Unknown"
     },
     {
@@ -20,7 +30,7 @@
       "language": "English",
       "category": "Tennis",
       "title": "ENG | Sinner vs De Minaur - Semi-Finals - 15 Nov 2025",
-      "url": "https://sonymtmnew.akamaized.net/hls/live/2037139/DAI19ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1763253000~acl=/*~id=48204b0390cc49888b8507685173f43c-1755427161715~hmac=97ecdc71a084162ff900ebc63dd3b6f2df0e13020ca3ab5f2518cb247c6d52ef|x-playback-session-id=dbbdbe3d309e44fba25077db5fddb163-1763212744576&User-Agent=com.sonyliv/6.22.4 (Android 15; en_GB; V2422; Build/AP3A.240905.015.A2)",
+      "url": "https://sonymtmnew.akamaized.net/hls/live/2037139/DAI19ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1763253000~acl=/*~id=48204b0390cc49888b8507685173f43c-1755427161715~hmac=97ecdc71a084162ff900ebc63dd3b6f2df0e13020ca3ab5f2518cb247c6d52ef|x-playback-session-id=1fc851ff0df8d37ca52aa3683845edb3-1763213824627&User-Agent=com.sonyliv/6.22.4 (Android 7; en_GB; AOSP on r33a6; Build/NHG47L)",
       "user_agent": "Unknown"
     }
   ]
