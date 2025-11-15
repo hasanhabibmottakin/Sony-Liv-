@@ -1,7 +1,7 @@
 {
   "api_made_by": "bd coder boy",
-  "updated": "Sat, 15 Nov 2025 17:37:47 GMT",
-  "total_events": 6,
+  "updated": "Sat, 15 Nov 2025 17:45:37 GMT",
+  "total_events": 5,
   "events": [
     {
       "id": "1090494704",
@@ -10,17 +10,7 @@
       "language": "English",
       "category": "Football",
       "title": "ENG | Georgia vs Spain - MD 9 - 15 Nov 2025",
-      "url": "https://sonymtmnew.akamaized.net/hls/live/2105079/DAI08ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1763253000~acl=/*~id=48204b0390cc49888b8507685173f43c-1755427161715~hmac=97ecdc71a084162ff900ebc63dd3b6f2df0e13020ca3ab5f2518cb247c6d52ef|x-playback-session-id=1cb331086f8a296efef44622867d0227-1763228224717&User-Agent=com.sonyliv/6.22.4 (Android 14; en_GB; V2336; Build/UP1A.231005.007)",
-      "user_agent": "Unknown"
-    },
-    {
-      "id": "1090491643",
-      "name": "India\u2019s Got Talent ",
-      "logo": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000011344/1763214681994274_IGT25_GWR_spl_15nov_simulcast_landscape_thumb.jpg",
-      "language": "Hindi",
-      "category": "Reality",
-      "title": "HIN | India\u2019s Got Talent",
-      "url": "https://sonymtmnew.akamaized.net/hls/live/2037142/DAI22ME-IGT/master_lrh-800300010.m3u8?hdnea=exp=1763253000~acl=/*~id=48204b0390cc49888b8507685173f43c-1755427161715~hmac=97ecdc71a084162ff900ebc63dd3b6f2df0e13020ca3ab5f2518cb247c6d52ef|x-playback-session-id=1cb331086f8a296efef44622867d0227-1763228224717&User-Agent=com.sonyliv/6.22.4 (Android 11; en_GB; AI PONT; Build/RTO2.240131.001)",
+      "url": "https://sonymtmnew.akamaized.net/hls/live/2105079/DAI08ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1763253000~acl=/*~id=48204b0390cc49888b8507685173f43c-1755427161715~hmac=97ecdc71a084162ff900ebc63dd3b6f2df0e13020ca3ab5f2518cb247c6d52ef|x-playback-session-id=932ed69c9e221f95386c37e6da3b8733-1763228645384&User-Agent=com.sonyliv/6.22.4 (Android 9; en_GB; DUK-L09; Build/HUAWEIDUK-L09)",
       "user_agent": "Unknown"
     },
     {
@@ -30,7 +20,7 @@
       "language": "English",
       "category": "Football",
       "title": "ENG | Turkiye vs Bulgaria - MD 9 - 15 Nov 2025",
-      "url": "https://sonymtmnew.akamaized.net/hls/live/2022319/DAI15ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1763253000~acl=/*~id=48204b0390cc49888b8507685173f43c-1755427161715~hmac=97ecdc71a084162ff900ebc63dd3b6f2df0e13020ca3ab5f2518cb247c6d52ef|x-playback-session-id=1cb331086f8a296efef44622867d0227-1763228224717&User-Agent=com.sonyliv/6.22.4 (Android 8; en_GB; 19A; Build/OPR5.170623.014)",
+      "url": "https://sonymtmnew.akamaized.net/hls/live/2022319/DAI15ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1763253000~acl=/*~id=48204b0390cc49888b8507685173f43c-1755427161715~hmac=97ecdc71a084162ff900ebc63dd3b6f2df0e13020ca3ab5f2518cb247c6d52ef|x-playback-session-id=932ed69c9e221f95386c37e6da3b8733-1763228645384&User-Agent=com.sonyliv/6.22.4 (Android 16; en_GB; Pixel 6 Pro; Build/BP2A.250605.031.A2)",
       "user_agent": "Unknown"
     },
     {
@@ -40,7 +30,7 @@
       "language": "English",
       "category": "Football",
       "title": "ENG | Cyprus vs Austria - MD 9 - 15 Nov 2025",
-      "url": "https://sonymtmnew.akamaized.net/hls/live/2018458/DAI10ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1763253000~acl=/*~id=48204b0390cc49888b8507685173f43c-1755427161715~hmac=97ecdc71a084162ff900ebc63dd3b6f2df0e13020ca3ab5f2518cb247c6d52ef|x-playback-session-id=1cb331086f8a296efef44622867d0227-1763228224717&User-Agent=com.sonyliv/6.22.4 (Android 15; en_GB; 23122PCD1I; Build/AQ3A.240912.001)",
+      "url": "https://sonymtmnew.akamaized.net/hls/live/2018458/DAI10ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1763253000~acl=/*~id=48204b0390cc49888b8507685173f43c-1755427161715~hmac=97ecdc71a084162ff900ebc63dd3b6f2df0e13020ca3ab5f2518cb247c6d52ef|x-playback-session-id=932ed69c9e221f95386c37e6da3b8733-1763228645384&User-Agent=com.sonyliv/6.22.4 (Android 7; en_GB; Micromax Q4310; Build/NRD90M)",
       "user_agent": "Unknown"
     },
     {
@@ -50,7 +40,7 @@
       "language": "English",
       "category": "Football",
       "title": "ENG | Liechtenstein vs Wales - MD 9 - 15 Nov 2025",
-      "url": "https://sonymtmnew.akamaized.net/hls/live/2094588/DAI04ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1763253000~acl=/*~id=48204b0390cc49888b8507685173f43c-1755427161715~hmac=97ecdc71a084162ff900ebc63dd3b6f2df0e13020ca3ab5f2518cb247c6d52ef|x-playback-session-id=1cb331086f8a296efef44622867d0227-1763228224717&User-Agent=com.sonyliv/6.22.4 (Android 11; en_GB; HY300A; Build/OC)",
+      "url": "https://sonymtmnew.akamaized.net/hls/live/2094588/DAI04ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1763253000~acl=/*~id=48204b0390cc49888b8507685173f43c-1755427161715~hmac=97ecdc71a084162ff900ebc63dd3b6f2df0e13020ca3ab5f2518cb247c6d52ef|x-playback-session-id=932ed69c9e221f95386c37e6da3b8733-1763228645384&User-Agent=com.sonyliv/6.22.4 (Android 15; en_GB; RMX5110; Build/UKQ1.231108.001)",
       "user_agent": "Unknown"
     },
     {
@@ -60,7 +50,7 @@
       "language": "English",
       "category": "Tennis",
       "title": "ENG | Skupski/Sallisbury vs Cash/Glasspool - Semi-Finals - 15 Nov 2025",
-      "url": "https://sonymtmnew.akamaized.net/hls/live/2037139/DAI19ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1763253000~acl=/*~id=48204b0390cc49888b8507685173f43c-1755427161715~hmac=97ecdc71a084162ff900ebc63dd3b6f2df0e13020ca3ab5f2518cb247c6d52ef|x-playback-session-id=1cb331086f8a296efef44622867d0227-1763228224717&User-Agent=com.sonyliv/6.22.4 (Android 11; en_GB; H96; Build/RP1A.201105.002)",
+      "url": "https://sonymtmnew.akamaized.net/hls/live/2037139/DAI19ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1763253000~acl=/*~id=48204b0390cc49888b8507685173f43c-1755427161715~hmac=97ecdc71a084162ff900ebc63dd3b6f2df0e13020ca3ab5f2518cb247c6d52ef|x-playback-session-id=932ed69c9e221f95386c37e6da3b8733-1763228645384&User-Agent=com.sonyliv/6.22.4 (Android 9; en_GB; 32S; Build/PPR1.180610.011)",
       "user_agent": "Unknown"
     }
   ]
