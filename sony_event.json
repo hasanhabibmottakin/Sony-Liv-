@@ -1,18 +1,8 @@
 {
   "api_made_by": "bd coder boy",
-  "updated": "Sun, 16 Nov 2025 17:53:12 GMT",
-  "total_events": 7,
+  "updated": "Sun, 16 Nov 2025 18:17:54 GMT",
+  "total_events": 5,
   "events": [
-    {
-      "id": "1090494965",
-      "name": "DP World Asia Cup Rising Stars Men's 2025",
-      "logo": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000011345/1763214650539370_ACC25_INDA_vs_PAKA_live_Landscape_thumb.jpg",
-      "language": "English",
-      "category": "Cricket",
-      "title": "ENG | India A vs Pakistan A - 16 Nov 2025",
-      "url": "https://sonymtmnew.akamaized.net/hls/live/2037141/DAI21-criclive/master.m3u8?hdnea=exp=1763347882~acl=/*~id=f71a4c359d7c033f4a1bd05c37bef6eb-1763304681944~hmac=062e0c588e9cc3565eeaf809fec4d3905a81a51a56ec7dc9db300b7f6af8b776|x-playback-session-id=35faf4762d01ee10581272da5bb7e7dc-1763315464117&User-Agent=com.sonyliv/6.22.4 (Android 7; en_GB; TECNO i3; Build/NRD90M)",
-      "user_agent": "Unknown"
-    },
     {
       "id": "1090494884",
       "name": "European Qualifiers For 2026 FIFA World Cup",
@@ -20,7 +10,7 @@
       "language": "English",
       "category": "Football",
       "title": "ENG | Albania vs England - MD 10 - 16 Nov 2025",
-      "url": "https://sonymtmnew.akamaized.net/hls/live/2094588/DAI04ME-V3/master.m3u8?hdnea=exp=1763347882~acl=/*~id=f71a4c359d7c033f4a1bd05c37bef6eb-1763304681944~hmac=062e0c588e9cc3565eeaf809fec4d3905a81a51a56ec7dc9db300b7f6af8b776|x-playback-session-id=35faf4762d01ee10581272da5bb7e7dc-1763315464117&User-Agent=com.sonyliv/6.22.4 (Android 16; en_GB; SM-A546S; Build/BP2A.250605.031.A3)",
+      "url": "https://sonymtmnew.akamaized.net/hls/live/2094588/DAI04ME-V3/master.m3u8?hdnea=exp=1763347882~acl=/*~id=f71a4c359d7c033f4a1bd05c37bef6eb-1763304681944~hmac=062e0c588e9cc3565eeaf809fec4d3905a81a51a56ec7dc9db300b7f6af8b776|x-playback-session-id=55b45c8e5521226a760d9330a163604a-1763316723802&User-Agent=com.sonyliv/6.22.4 (Android 9; en_GB; SM-G9880; Build/PQ3A.190605.03202111)",
       "user_agent": "Unknown"
     },
     {
@@ -30,17 +20,7 @@
       "language": "English",
       "category": "Football",
       "title": "ENG | Azerbaijan vs France - MD 10 - 16 Nov 2025",
-      "url": "https://sonymtmnew.akamaized.net/hls/live/2022319/DAI15ME-V3/master.m3u8?hdnea=exp=1763347882~acl=/*~id=f71a4c359d7c033f4a1bd05c37bef6eb-1763304681944~hmac=062e0c588e9cc3565eeaf809fec4d3905a81a51a56ec7dc9db300b7f6af8b776|x-playback-session-id=35faf4762d01ee10581272da5bb7e7dc-1763315464117&User-Agent=com.sonyliv/6.22.4 (Android 13; en_GB; TECNO CK6; Build/TP1A.220624.014)",
-      "user_agent": "Unknown"
-    },
-    {
-      "id": "1090491643",
-      "name": "India\u2019s Got Talent ",
-      "logo": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000011344/1763214681994274_IGT25_GWR_spl_15nov_simulcast_landscape_thumb.jpg",
-      "language": "Hindi",
-      "category": "Reality",
-      "title": "HIN | India\u2019s Got Talent",
-      "url": "https://sonymtmnew.akamaized.net/hls/live/2037142/DAI22ME-IGT/master.m3u8?hdnea=exp=1763347882~acl=/*~id=f71a4c359d7c033f4a1bd05c37bef6eb-1763304681944~hmac=062e0c588e9cc3565eeaf809fec4d3905a81a51a56ec7dc9db300b7f6af8b776|x-playback-session-id=35faf4762d01ee10581272da5bb7e7dc-1763315464117&User-Agent=com.sonyliv/6.22.4 (Android 9; en_GB; moto g(8) power lite; Build/POD29.348-23)",
+      "url": "https://sonymtmnew.akamaized.net/hls/live/2022319/DAI15ME-V3/master.m3u8?hdnea=exp=1763347882~acl=/*~id=f71a4c359d7c033f4a1bd05c37bef6eb-1763304681944~hmac=062e0c588e9cc3565eeaf809fec4d3905a81a51a56ec7dc9db300b7f6af8b776|x-playback-session-id=55b45c8e5521226a760d9330a163604a-1763316723802&User-Agent=com.sonyliv/6.22.4 (Android 9; en_GB; KFMAWI; Build/PS7331.4463N)",
       "user_agent": "Unknown"
     },
     {
@@ -50,7 +30,7 @@
       "language": "English",
       "category": "Tennis",
       "title": "ENG | Alcaraz vs Sinner - Final - 16 Nov 2025",
-      "url": "https://sonymtmnew.akamaized.net/hls/live/2037139/DAI19ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1763347882~acl=/*~id=f71a4c359d7c033f4a1bd05c37bef6eb-1763304681944~hmac=062e0c588e9cc3565eeaf809fec4d3905a81a51a56ec7dc9db300b7f6af8b776|x-playback-session-id=35faf4762d01ee10581272da5bb7e7dc-1763315464117&User-Agent=com.sonyliv/6.22.4 (Android 14; en_GB; TECNO KL5; Build/UP1A.231005.007)",
+      "url": "https://sonymtmnew.akamaized.net/hls/live/2037139/DAI19ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1763347882~acl=/*~id=f71a4c359d7c033f4a1bd05c37bef6eb-1763304681944~hmac=062e0c588e9cc3565eeaf809fec4d3905a81a51a56ec7dc9db300b7f6af8b776|x-playback-session-id=55b45c8e5521226a760d9330a163604a-1763316723802&User-Agent=com.sonyliv/6.22.4 (Android 15; en_GB; SM-M536B; Build/AP3A.240905.015.A2)",
       "user_agent": "Unknown"
     },
     {
@@ -60,7 +40,7 @@
       "language": "English",
       "category": "Football",
       "title": "ENG | Serbia vs Latvia - MD 10 - 16 Nov 2025",
-      "url": "https://sonymtmnew.akamaized.net/hls/live/2022320/DAI16ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1763347882~acl=/*~id=f71a4c359d7c033f4a1bd05c37bef6eb-1763304681944~hmac=062e0c588e9cc3565eeaf809fec4d3905a81a51a56ec7dc9db300b7f6af8b776|x-playback-session-id=35faf4762d01ee10581272da5bb7e7dc-1763315464117&User-Agent=com.sonyliv/6.22.4 (Android 14; en_GB; LE2121; Build/UKQ1.230924.001)",
+      "url": "https://sonymtmnew.akamaized.net/hls/live/2022320/DAI16ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1763347882~acl=/*~id=f71a4c359d7c033f4a1bd05c37bef6eb-1763304681944~hmac=062e0c588e9cc3565eeaf809fec4d3905a81a51a56ec7dc9db300b7f6af8b776|x-playback-session-id=55b45c8e5521226a760d9330a163604a-1763316723802&User-Agent=com.sonyliv/6.22.4 (Android 14; en_GB; BRAVIA VU31; Build/UKR1.240726.001)",
       "user_agent": "Unknown"
     },
     {
@@ -70,7 +50,7 @@
       "language": "English",
       "category": "Football",
       "title": "ENG | Ukraine vs Iceland - MD 10 - 16 Nov 2025",
-      "url": "https://sonymtmnew.akamaized.net/hls/live/2094587/DAI03ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1763347882~acl=/*~id=f71a4c359d7c033f4a1bd05c37bef6eb-1763304681944~hmac=062e0c588e9cc3565eeaf809fec4d3905a81a51a56ec7dc9db300b7f6af8b776|x-playback-session-id=35faf4762d01ee10581272da5bb7e7dc-1763315464117&User-Agent=com.sonyliv/6.22.4 (Android 12; en_GB; Pixel 3 XL; Build/SP1A.210812.016.C2)",
+      "url": "https://sonymtmnew.akamaized.net/hls/live/2094587/DAI03ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1763347882~acl=/*~id=f71a4c359d7c033f4a1bd05c37bef6eb-1763304681944~hmac=062e0c588e9cc3565eeaf809fec4d3905a81a51a56ec7dc9db300b7f6af8b776|x-playback-session-id=55b45c8e5521226a760d9330a163604a-1763316723802&User-Agent=com.sonyliv/6.22.4 (Android 14; en_GB; 2K SMART TV; Build/UKN3.250415.018)",
       "user_agent": "Unknown"
     }
   ]
