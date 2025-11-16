@@ -1,6 +1,6 @@
 {
   "api_made_by": "bd coder boy",
-  "updated": "Sun, 16 Nov 2025 20:32:56 GMT",
+  "updated": "Sun, 16 Nov 2025 20:45:07 GMT",
   "total_events": 2,
   "events": [
     {
@@ -10,7 +10,7 @@
       "language": "English",
       "category": "Football",
       "title": "ENG | Italy vs Norway - MD 10 - 17 Nov 2025",
-      "url": "https://sonymtmnew.akamaized.net/hls/live/2022317/DAI13ME-V3/master.m3u8?hdnea=exp=1763361001~acl=/*~id=8612a40fe286b0c994fb84a0dd1faa09-1763317800169~hmac=28490aa54f771f3ecc2de85e6532b9d6b0367a15aa62388c1629bbc8c5b599ac|x-playback-session-id=4acdcbdfd2da8b6a97ba705fafa6078a-1763325004758&User-Agent=com.sonyliv/6.22.4 (Android 13; en_GB; Nokia T10; Build/TP1A.220624.014)",
+      "url": "https://sonymtmnew.akamaized.net/hls/live/2022317/DAI13ME-V3/master.m3u8?hdnea=exp=1763361001~acl=/*~id=8612a40fe286b0c994fb84a0dd1faa09-1763317800169~hmac=28490aa54f771f3ecc2de85e6532b9d6b0367a15aa62388c1629bbc8c5b599ac|x-playback-session-id=884e1de29f24bb17889d90d7108719f5-1763325844745&User-Agent=com.sonyliv/6.22.4 (Android 14; en_GB; I2305; Build/UP1A.231005.007)",
       "user_agent": "Unknown"
     },
     {
@@ -20,7 +20,7 @@
       "language": "English",
       "category": "Football",
       "title": "ENG | Israel vs Moldova - MD 10 - 17 Nov 2025",
-      "url": "https://sonymtmnew.akamaized.net/hls/live/2005445/DAI06ME-V3/master.m3u8?hdnea=exp=1763361001~acl=/*~id=8612a40fe286b0c994fb84a0dd1faa09-1763317800169~hmac=28490aa54f771f3ecc2de85e6532b9d6b0367a15aa62388c1629bbc8c5b599ac|x-playback-session-id=4acdcbdfd2da8b6a97ba705fafa6078a-1763325004758&User-Agent=com.sonyliv/6.22.4 (Android 14; en_GB; AndroidTV; Build/PPR1.180610.011)",
+      "url": "https://sonymtmnew.akamaized.net/hls/live/2005445/DAI06ME-V3/master.m3u8?hdnea=exp=1763361001~acl=/*~id=8612a40fe286b0c994fb84a0dd1faa09-1763317800169~hmac=28490aa54f771f3ecc2de85e6532b9d6b0367a15aa62388c1629bbc8c5b599ac|x-playback-session-id=884e1de29f24bb17889d90d7108719f5-1763325844745&User-Agent=com.sonyliv/6.22.4 (Android 12; en_GB; M2007J3SI; Build/SKQ1.211006.001)",
       "user_agent": "Unknown"
     }
   ]
