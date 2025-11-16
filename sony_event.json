@@ -1,27 +1,6 @@
 {
   "api_made_by": "bd coder boy",
-  "updated": "Sun, 16 Nov 2025 21:53:25 GMT",
-  "total_events": 2,
-  "events": [
-    {
-      "id": "1090494889",
-      "name": "European Qualifiers For 2026 FIFA World Cup",
-      "logo": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000010926/1762169466218493_EQ2526_MD10_Italy-vs-Norway_3nov_landscape_thumb.jpg",
-      "language": "English",
-      "category": "Football",
-      "title": "ENG | Italy vs Norway - MD 10 - 17 Nov 2025",
-      "url": "https://sonymtmnew.akamaized.net/hls/live/2022317/DAI13ME-V3/master.m3u8?hdnea=exp=1763361001~acl=/*~id=8612a40fe286b0c994fb84a0dd1faa09-1763317800169~hmac=28490aa54f771f3ecc2de85e6532b9d6b0367a15aa62388c1629bbc8c5b599ac|x-playback-session-id=b97488b8c0e505c754c7b48647cb8cb5-1763329863575&User-Agent=com.sonyliv/6.22.4 (Android 9; en_GB; AI PONT; Build/PTO1.210922.001)",
-      "user_agent": "Unknown"
-    },
-    {
-      "id": "1090494888",
-      "name": "European Qualifiers For 2026 FIFA World Cup",
-      "logo": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000010926/1762169319559493_EQ2526_MD10_Israel-vs-Moldova_3nov_landscape_thumb.jpg",
-      "language": "English",
-      "category": "Football",
-      "title": "ENG | Israel vs Moldova - MD 10 - 17 Nov 2025",
-      "url": "https://sonymtmnew.akamaized.net/hls/live/2005445/DAI06ME-V3/master.m3u8?hdnea=exp=1763361001~acl=/*~id=8612a40fe286b0c994fb84a0dd1faa09-1763317800169~hmac=28490aa54f771f3ecc2de85e6532b9d6b0367a15aa62388c1629bbc8c5b599ac|x-playback-session-id=b97488b8c0e505c754c7b48647cb8cb5-1763329863575&User-Agent=com.sonyliv/6.22.4 (Android 10; en_GB; TX3MINI; Build/NHG47L)",
-      "user_agent": "Unknown"
-    }
-  ]
+  "updated": "Sun, 16 Nov 2025 22:12:13 GMT",
+  "total_events": 0,
+  "events": []
 }
