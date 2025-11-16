@@ -1,7 +1,7 @@
 {
   "api_made_by": "bd coder boy",
-  "updated": "Sun, 16 Nov 2025 16:15:52 GMT",
-  "total_events": 4,
+  "updated": "Sun, 16 Nov 2025 16:37:01 GMT",
+  "total_events": 8,
   "events": [
     {
       "id": "1090494965",
@@ -10,17 +10,27 @@
       "language": "English",
       "category": "Cricket",
       "title": "ENG | India A vs Pakistan A - 16 Nov 2025",
-      "url": "https://sonymtmnew.akamaized.net/hls/live/2037141/DAI21-criclive/master.m3u8?hdnea=exp=1763339401~acl=/*~id=48204b0390cc49888b8507685173f43c-1755427161715~hmac=28a28369eef7cadc489e34e2b1a706d642e8e4730b8bdbe7ab3cde2b04bf2847|x-playback-session-id=f18398b25f55e5796956b2389fab32ef-1763309525569&User-Agent=com.sonyliv/6.22.4 (Android 11; en_GB; X96mini; Build/D9 PRO 5G)",
+      "url": "https://sonymtmnew.akamaized.net/hls/live/2037141/DAI21-criclive/master.m3u8?hdnea=exp=1763339401~acl=/*~id=48204b0390cc49888b8507685173f43c-1755427161715~hmac=28a28369eef7cadc489e34e2b1a706d642e8e4730b8bdbe7ab3cde2b04bf2847|x-playback-session-id=2d7ef595448658cde0be9686529f3c28-1763310604768&User-Agent=com.sonyliv/6.22.4 (Android 11; en_GB; SPPL 4K GSmartTV FF; Build/RTT2.220103.001)",
       "user_agent": "Unknown"
     },
     {
-      "id": "1090492547",
-      "name": "Indian Idol",
-      "logo": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000011324/1763195193845998_II_Farhan_spl_15nov_Live_Landscape_thumb_01.jpg",
-      "language": "Hindi",
-      "category": "Reality, Music",
-      "title": "HIN | Indian Idol",
-      "url": "https://sonymtmnew.akamaized.net/hls/live/2094590/DAI25ME-II/master_lrh-800300010.m3u8?hdnea=exp=1763339401~acl=/*~id=48204b0390cc49888b8507685173f43c-1755427161715~hmac=28a28369eef7cadc489e34e2b1a706d642e8e4730b8bdbe7ab3cde2b04bf2847|x-playback-session-id=f18398b25f55e5796956b2389fab32ef-1763309525569&User-Agent=com.sonyliv/6.22.4 (Android 16; en_GB; Pixel 7; Build/BP3A.250905.014)",
+      "id": "1090494884",
+      "name": "European Qualifiers For 2026 FIFA World Cup",
+      "logo": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000010926/1762154708831493_EQ2526_MD10_Albania-vs-England_3nov_landscape_thumb.jpg",
+      "language": "English",
+      "category": "Football",
+      "title": "ENG | Albania vs England - MD 10 - 16 Nov 2025",
+      "url": "https://sonymtmnew.akamaized.net/hls/live/2094588/DAI04ME-V3/master.m3u8?hdnea=exp=1763339401~acl=/*~id=48204b0390cc49888b8507685173f43c-1755427161715~hmac=28a28369eef7cadc489e34e2b1a706d642e8e4730b8bdbe7ab3cde2b04bf2847|x-playback-session-id=2d7ef595448658cde0be9686529f3c28-1763310604768&User-Agent=com.sonyliv/6.22.4 (Android 16; en_GB; Pixel 6; Build/BP3A.250905.014)",
+      "user_agent": "Unknown"
+    },
+    {
+      "id": "1090494885",
+      "name": "European Qualifiers For 2026 FIFA World Cup",
+      "logo": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000010926/1762158780606493_EQ2526_MD10_Azerbaijan-vs-France_3nov_landscape_thumb.jpg",
+      "language": "English",
+      "category": "Football",
+      "title": "ENG | Azerbaijan vs France - MD 10 - 16 Nov 2025",
+      "url": "https://sonymtmnew.akamaized.net/hls/live/2022319/DAI15ME-V3/master.m3u8?hdnea=exp=1763339401~acl=/*~id=48204b0390cc49888b8507685173f43c-1755427161715~hmac=28a28369eef7cadc489e34e2b1a706d642e8e4730b8bdbe7ab3cde2b04bf2847|x-playback-session-id=2d7ef595448658cde0be9686529f3c28-1763310604768&User-Agent=com.sonyliv/6.22.4 (Android 13; en_GB; 22087RA4DI; Build/TP1A.220624.014)",
       "user_agent": "Unknown"
     },
     {
@@ -30,7 +40,37 @@
       "language": "Hindi",
       "category": "Reality",
       "title": "HIN | India\u2019s Got Talent",
-      "url": "https://sonymtmnew.akamaized.net/hls/live/2037142/DAI22ME-IGT/master.m3u8?hdnea=exp=1763339401~acl=/*~id=48204b0390cc49888b8507685173f43c-1755427161715~hmac=28a28369eef7cadc489e34e2b1a706d642e8e4730b8bdbe7ab3cde2b04bf2847|x-playback-session-id=f18398b25f55e5796956b2389fab32ef-1763309525569&User-Agent=com.sonyliv/6.22.4 (Android 11; en_GB; LAVA Z3 UP; Build/RP1A.200720.011)",
+      "url": "https://sonymtmnew.akamaized.net/hls/live/2037142/DAI22ME-IGT/master.m3u8?hdnea=exp=1763339401~acl=/*~id=48204b0390cc49888b8507685173f43c-1755427161715~hmac=28a28369eef7cadc489e34e2b1a706d642e8e4730b8bdbe7ab3cde2b04bf2847|x-playback-session-id=2d7ef595448658cde0be9686529f3c28-1763310604768&User-Agent=com.sonyliv/6.22.4 (Android 11; en_GB; NS 2K SmartTV; Build/RTM9.241015.130)",
+      "user_agent": "Unknown"
+    },
+    {
+      "id": "1090494972",
+      "name": "Nitto ATP Finals 2025",
+      "logo": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000011367/1763249324657329_NittoATPFinals2025_final_alcaraz_vs_sinner_16nov_landscape_thumb.jpg",
+      "language": "English",
+      "category": "Tennis",
+      "title": "ENG | Alcaraz vs Sinner - Final - 16 Nov 2025",
+      "url": "https://sonymtmnew.akamaized.net/hls/live/2037139/DAI19ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1763339401~acl=/*~id=48204b0390cc49888b8507685173f43c-1755427161715~hmac=28a28369eef7cadc489e34e2b1a706d642e8e4730b8bdbe7ab3cde2b04bf2847|x-playback-session-id=2d7ef595448658cde0be9686529f3c28-1763310604768&User-Agent=com.sonyliv/6.22.4 (Android 14; en_GB; Tablet; Build/UP1A.231105.003.A1)",
+      "user_agent": "Unknown"
+    },
+    {
+      "id": "1090494886",
+      "name": "European Qualifiers For 2026 FIFA World Cup",
+      "logo": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000010926/1762164326758493_EQ2526_MD10_Serbia-vs-Latvia_3nov_landscape_thumb.jpg",
+      "language": "English",
+      "category": "Football",
+      "title": "ENG | Serbia vs Latvia - MD 10 - 16 Nov 2025",
+      "url": "https://sonymtmnew.akamaized.net/hls/live/2022320/DAI16ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1763339401~acl=/*~id=48204b0390cc49888b8507685173f43c-1755427161715~hmac=28a28369eef7cadc489e34e2b1a706d642e8e4730b8bdbe7ab3cde2b04bf2847|x-playback-session-id=2d7ef595448658cde0be9686529f3c28-1763310604768&User-Agent=com.sonyliv/6.22.4 (Android 14; en_GB; 5G PRO; Build/PPR1.180610.011)",
+      "user_agent": "Unknown"
+    },
+    {
+      "id": "1090494887",
+      "name": "European Qualifiers For 2026 FIFA World Cup",
+      "logo": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000010926/1762164483112493_EQ2526_MD10_Ukraine-vs-Iceland_3nov_landscape_thumb.jpg",
+      "language": "English",
+      "category": "Football",
+      "title": "ENG | Ukraine vs Iceland - MD 10 - 16 Nov 2025",
+      "url": "https://sonymtmnew.akamaized.net/hls/live/2094587/DAI03ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1763339401~acl=/*~id=48204b0390cc49888b8507685173f43c-1755427161715~hmac=28a28369eef7cadc489e34e2b1a706d642e8e4730b8bdbe7ab3cde2b04bf2847|x-playback-session-id=2d7ef595448658cde0be9686529f3c28-1763310604768&User-Agent=com.sonyliv/6.22.4 (Android 7; en_GB; XT1663; Build/NRD90M)",
       "user_agent": "Unknown"
     },
     {
@@ -40,7 +80,7 @@
       "language": "English",
       "category": "Tennis",
       "title": "ENG | Heliovaara/Patten vs Salisbury/Skupski - Final - 16 Nov 2025",
-      "url": "https://sonymtmnew.akamaized.net/hls/live/2037139/DAI19ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1763339401~acl=/*~id=48204b0390cc49888b8507685173f43c-1755427161715~hmac=28a28369eef7cadc489e34e2b1a706d642e8e4730b8bdbe7ab3cde2b04bf2847|x-playback-session-id=f18398b25f55e5796956b2389fab32ef-1763309525569&User-Agent=com.sonyliv/6.22.4 (Android 12; en_GB; M2004J19C; Build/SP1A.210812.016)",
+      "url": "https://sonymtmnew.akamaized.net/hls/live/2037139/DAI19ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1763339401~acl=/*~id=48204b0390cc49888b8507685173f43c-1755427161715~hmac=28a28369eef7cadc489e34e2b1a706d642e8e4730b8bdbe7ab3cde2b04bf2847|x-playback-session-id=2d7ef595448658cde0be9686529f3c28-1763310604768&User-Agent=com.sonyliv/6.22.4 (Android 14; en_GB; SM-A165F; Build/UP1A.231005.007)",
       "user_agent": "Unknown"
     }
   ]
