@@ -1,8 +1,18 @@
 {
   "api_made_by": "bd coder boy",
-  "updated": "Sun, 16 Nov 2025 13:47:20 GMT",
-  "total_events": 3,
+  "updated": "Sun, 16 Nov 2025 13:55:05 GMT",
+  "total_events": 4,
   "events": [
+    {
+      "id": "1090494965",
+      "name": "DP World Asia Cup Rising Stars Men's 2025",
+      "logo": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000011345/1763214650539370_ACC25_INDA_vs_PAKA_live_Landscape_thumb.jpg",
+      "language": "English",
+      "category": "Cricket",
+      "title": "ENG | India A vs Pakistan A - 16 Nov 2025",
+      "url": "https://sonymtmnew.akamaized.net/hls/live/2037141/DAI21-criclive/master.m3u8?hdnea=exp=1763339401~acl=/*~id=48204b0390cc49888b8507685173f43c-1755427161715~hmac=28a28369eef7cadc489e34e2b1a706d642e8e4730b8bdbe7ab3cde2b04bf2847|x-playback-session-id=68fe8ced662a1e7e54d42280e81fc325-1763301066674&User-Agent=com.sonyliv/6.22.4 (Android 13; en_GB; SM-G988W; Build/TP1A.220624.014)",
+      "user_agent": "Unknown"
+    },
     {
       "id": "1090494883",
       "name": "European Qualifiers For 2026 FIFA World Cup",
@@ -10,7 +20,7 @@
       "language": "English",
       "category": "Football",
       "title": "ENG | Portugal vs Armenia - MD 10 - 16 Nov 2025",
-      "url": "https://sonymtmnew.akamaized.net/hls/live/2105079/DAI08ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1763339401~acl=/*~id=48204b0390cc49888b8507685173f43c-1755427161715~hmac=28a28369eef7cadc489e34e2b1a706d642e8e4730b8bdbe7ab3cde2b04bf2847|x-playback-session-id=8d9b656806d7fe357016fccd308a9b6f-1763300643727&User-Agent=com.sonyliv/6.22.4 (Android 15; en_GB; CPH2735; Build/AP3A.240617.008)",
+      "url": "https://sonymtmnew.akamaized.net/hls/live/2105079/DAI08ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1763339401~acl=/*~id=48204b0390cc49888b8507685173f43c-1755427161715~hmac=28a28369eef7cadc489e34e2b1a706d642e8e4730b8bdbe7ab3cde2b04bf2847|x-playback-session-id=68fe8ced662a1e7e54d42280e81fc325-1763301066674&User-Agent=com.sonyliv/6.22.4 (Android 14; en_GB; FNE-NX9; Build/HONORFNE-N29)",
       "user_agent": "Unknown"
     },
     {
@@ -20,7 +30,7 @@
       "language": "English",
       "category": "Football",
       "title": "ENG | Hungary vs Republic of Ireland - MD 10 - 16 Nov 2025",
-      "url": "https://sonymtmnew.akamaized.net/hls/live/2018458/DAI10ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1763339401~acl=/*~id=48204b0390cc49888b8507685173f43c-1755427161715~hmac=28a28369eef7cadc489e34e2b1a706d642e8e4730b8bdbe7ab3cde2b04bf2847|x-playback-session-id=8d9b656806d7fe357016fccd308a9b6f-1763300643727&User-Agent=com.sonyliv/6.22.4 (Android 16; en_GB; SM-S928W; Build/BP2A.250605.031.A3)",
+      "url": "https://sonymtmnew.akamaized.net/hls/live/2018458/DAI10ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1763339401~acl=/*~id=48204b0390cc49888b8507685173f43c-1755427161715~hmac=28a28369eef7cadc489e34e2b1a706d642e8e4730b8bdbe7ab3cde2b04bf2847|x-playback-session-id=68fe8ced662a1e7e54d42280e81fc325-1763301066674&User-Agent=com.sonyliv/6.22.4 (Android 14; en_GB; moto g35 5G; Build/UOAS34.216-174-1-1)",
       "user_agent": "Unknown"
     },
     {
@@ -30,7 +40,7 @@
       "language": "English",
       "category": "Tennis",
       "title": "ENG | Heliovaara/Patten vs Salisbury/Skupski - Final - 16 Nov 2025",
-      "url": "https://sonymtmnew.akamaized.net/hls/live/2037139/DAI19ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1763339401~acl=/*~id=48204b0390cc49888b8507685173f43c-1755427161715~hmac=28a28369eef7cadc489e34e2b1a706d642e8e4730b8bdbe7ab3cde2b04bf2847|x-playback-session-id=8d9b656806d7fe357016fccd308a9b6f-1763300643727&User-Agent=com.sonyliv/6.22.4 (Android 13; en_GB; AC2001; Build/TQ3A.230901.001.B1)",
+      "url": "https://sonymtmnew.akamaized.net/hls/live/2037139/DAI19ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1763339401~acl=/*~id=48204b0390cc49888b8507685173f43c-1755427161715~hmac=28a28369eef7cadc489e34e2b1a706d642e8e4730b8bdbe7ab3cde2b04bf2847|x-playback-session-id=68fe8ced662a1e7e54d42280e81fc325-1763301066674&User-Agent=com.sonyliv/6.22.4 (Android 9; en_GB; BRAVIA 4K GB; Build/PTT1.190515.001.S38)",
       "user_agent": "Unknown"
     }
   ]
