@@ -1,6 +1,6 @@
 {
   "api_made_by": "bd coder boy",
-  "updated": "Sun, 16 Nov 2025 19:42:36 GMT",
+  "updated": "Sun, 16 Nov 2025 19:53:08 GMT",
   "total_events": 3,
   "events": [
     {
@@ -10,7 +10,7 @@
       "language": "English",
       "category": "Football",
       "title": "ENG | Italy vs Norway - MD 10 - 17 Nov 2025",
-      "url": "https://sonymtmnew.akamaized.net/hls/live/2022317/DAI13ME-V3/master.m3u8?hdnea=exp=1763347882~acl=/*~id=f71a4c359d7c033f4a1bd05c37bef6eb-1763304681944~hmac=062e0c588e9cc3565eeaf809fec4d3905a81a51a56ec7dc9db300b7f6af8b776|x-playback-session-id=bdf772aade1fc02dc6e21b1e28d76ea2-1763321824862&User-Agent=com.sonyliv/6.22.4 (Android 11; en_GB; X88pro10.r1.00.6330.xy.d4; Build/RP1A.201105.002)",
+      "url": "https://sonymtmnew.akamaized.net/hls/live/2022317/DAI13ME-V3/master.m3u8?hdnea=exp=1763347882~acl=/*~id=f71a4c359d7c033f4a1bd05c37bef6eb-1763304681944~hmac=062e0c588e9cc3565eeaf809fec4d3905a81a51a56ec7dc9db300b7f6af8b776|x-playback-session-id=f0c02d163ac0daa4f659d00fed99bfc3-1763322664559&User-Agent=com.sonyliv/6.22.4 (Android 15; en_GB; SM-X710; Build/AP3A.240905.015.A2)",
       "user_agent": "Unknown"
     },
     {
@@ -20,7 +20,7 @@
       "language": "English",
       "category": "Tennis",
       "title": "ENG | Alcaraz vs Sinner - Final - 16 Nov 2025",
-      "url": "https://sonymtmnew.akamaized.net/hls/live/2037139/DAI19ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1763347882~acl=/*~id=f71a4c359d7c033f4a1bd05c37bef6eb-1763304681944~hmac=062e0c588e9cc3565eeaf809fec4d3905a81a51a56ec7dc9db300b7f6af8b776|x-playback-session-id=bdf772aade1fc02dc6e21b1e28d76ea2-1763321824862&User-Agent=com.sonyliv/6.22.4 (Android 9; en_GB; AmlogicS905X3; Build/PPR1.180610.011)",
+      "url": "https://sonymtmnew.akamaized.net/hls/live/2037139/DAI19ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1763347882~acl=/*~id=f71a4c359d7c033f4a1bd05c37bef6eb-1763304681944~hmac=062e0c588e9cc3565eeaf809fec4d3905a81a51a56ec7dc9db300b7f6af8b776|x-playback-session-id=f0c02d163ac0daa4f659d00fed99bfc3-1763322664559&User-Agent=com.sonyliv/6.22.4 (Android 15; en_GB; V2451; Build/AP3A.240905.015.A2_D2_V000L1)",
       "user_agent": "Unknown"
     },
     {
@@ -30,7 +30,7 @@
       "language": "English",
       "category": "Football",
       "title": "ENG | Israel vs Moldova - MD 10 - 17 Nov 2025",
-      "url": "https://sonymtmnew.akamaized.net/hls/live/2005445/DAI06ME-V3/master.m3u8?hdnea=exp=1763347882~acl=/*~id=f71a4c359d7c033f4a1bd05c37bef6eb-1763304681944~hmac=062e0c588e9cc3565eeaf809fec4d3905a81a51a56ec7dc9db300b7f6af8b776|x-playback-session-id=bdf772aade1fc02dc6e21b1e28d76ea2-1763321824862&User-Agent=com.sonyliv/6.22.4 (Android 13; en_GB; SM-X115; Build/TP1A.220624.014)",
+      "url": "https://sonymtmnew.akamaized.net/hls/live/2005445/DAI06ME-V3/master.m3u8?hdnea=exp=1763347882~acl=/*~id=f71a4c359d7c033f4a1bd05c37bef6eb-1763304681944~hmac=062e0c588e9cc3565eeaf809fec4d3905a81a51a56ec7dc9db300b7f6af8b776|x-playback-session-id=f0c02d163ac0daa4f659d00fed99bfc3-1763322664559&User-Agent=com.sonyliv/6.22.4 (Android 12; en_GB; RMP2108; Build/RKQ1.211119.001)",
       "user_agent": "Unknown"
     }
   ]
