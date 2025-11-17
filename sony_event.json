@@ -1,6 +1,6 @@
 {
   "api_made_by": "bd coder boy",
-  "updated": "Mon, 17 Nov 2025 15:57:27 GMT",
+  "updated": "Mon, 17 Nov 2025 16:26:06 GMT",
   "total_events": 2,
   "events": [
     {
@@ -10,7 +10,7 @@
       "language": "Hindi",
       "category": "Game show",
       "title": "HIN | E71. Kaun Banega Crorepati - Season 17",
-      "url": "https://sonymtmnew.akamaized.net/hls/live/2043696/DAI26ME-KBC/master_lrh-800300010.m3u8?hdnea=exp=1763425801~acl=/*~id=eea123e5274c5cf4970f3c2dcfebe0f7-1763382600152~hmac=d8609ccd160d4dec5844e6d489af72fe95a2a22b92ec40595c2abab86dbebcc3|x-playback-session-id=a863f0b965117947f1078f33cb6c065c-1763394664607&User-Agent=com.sonyliv/6.22.4 (Android 14; en_GB; unknown; Build/UP1A.231105.003.A1)",
+      "url": "https://sonymtmnew.akamaized.net/hls/live/2043696/DAI26ME-KBC/master_lrh-800300010.m3u8?hdnea=exp=1763425801~acl=/*~id=eea123e5274c5cf4970f3c2dcfebe0f7-1763382600152~hmac=d8609ccd160d4dec5844e6d489af72fe95a2a22b92ec40595c2abab86dbebcc3|x-playback-session-id=cdb1f6e0e0163f0281a9d974dd840415-1763396344069&User-Agent=com.sonyliv/6.22.4 (Android 8; en_GB; vivo 1823; Build/O11019)",
       "user_agent": "Unknown"
     },
     {
@@ -20,7 +20,7 @@
       "language": "English",
       "category": "Cricket",
       "title": "ENG | Bangladesh A vs Afghanistan A - 17 Nov 2025",
-      "url": "https://sonymtmnew.akamaized.net/hls/live/2037141/DAI21-criclive/std_lrh-800300010.m3u8?hdnea=exp=1763425801~acl=/*~id=eea123e5274c5cf4970f3c2dcfebe0f7-1763382600152~hmac=d8609ccd160d4dec5844e6d489af72fe95a2a22b92ec40595c2abab86dbebcc3|x-playback-session-id=a863f0b965117947f1078f33cb6c065c-1763394664607&User-Agent=com.sonyliv/6.22.4 (Android 11; en_GB; WALTON GSMART 2KTV; Build/RTM8.240401.055)",
+      "url": "https://sonymtmnew.akamaized.net/hls/live/2037141/DAI21-criclive/std_lrh-800300010.m3u8?hdnea=exp=1763425801~acl=/*~id=eea123e5274c5cf4970f3c2dcfebe0f7-1763382600152~hmac=d8609ccd160d4dec5844e6d489af72fe95a2a22b92ec40595c2abab86dbebcc3|x-playback-session-id=cdb1f6e0e0163f0281a9d974dd840415-1763396344069&User-Agent=com.sonyliv/6.22.4 (Android 13; en_GB; CPH2023; Build/TP1A.220905.001)",
       "user_agent": "Unknown"
     }
   ]
