@@ -1,6 +1,6 @@
 {
   "api_made_by": "bd coder boy",
-  "updated": "Mon, 17 Nov 2025 16:49:43 GMT",
+  "updated": "Mon, 17 Nov 2025 17:00:43 GMT",
   "total_events": 3,
   "events": [
     {
@@ -10,7 +10,7 @@
       "language": "Hindi",
       "category": "Game show",
       "title": "HIN | E71. Kaun Banega Crorepati - Season 17",
-      "url": "https://sonymtmnew.akamaized.net/hls/live/2043696/DAI26ME-KBC/master_lrh-800300010.m3u8?hdnea=exp=1763425801~acl=/*~id=eea123e5274c5cf4970f3c2dcfebe0f7-1763382600152~hmac=d8609ccd160d4dec5844e6d489af72fe95a2a22b92ec40595c2abab86dbebcc3|x-playback-session-id=a7c3ffd91fc1d0f6ab3b5307a7411570-1763397843708&User-Agent=com.sonyliv/6.22.4 (Android 9; en_GB; SM-A507FN; Build/PPR1.180610.011)",
+      "url": "https://sonymtmnew.akamaized.net/hls/live/2043696/DAI26ME-KBC/master_lrh-800300010.m3u8?hdnea=exp=1763425801~acl=/*~id=eea123e5274c5cf4970f3c2dcfebe0f7-1763382600152~hmac=d8609ccd160d4dec5844e6d489af72fe95a2a22b92ec40595c2abab86dbebcc3|x-playback-session-id=ebe87bc0ea6d706953d9bfc1d5a9acdd-1763398683793&User-Agent=com.sonyliv/6.22.4 (Android 11; en_GB; 2K SMART TV; Build/RTK5.250429.016)",
       "user_agent": "Unknown"
     },
     {
@@ -20,7 +20,7 @@
       "language": "English",
       "category": "Cricket",
       "title": "ENG | Bangladesh A vs Afghanistan A - 17 Nov 2025",
-      "url": "https://sonymtmnew.akamaized.net/hls/live/2037141/DAI21-criclive/std_lrh-800300010.m3u8?hdnea=exp=1763425801~acl=/*~id=eea123e5274c5cf4970f3c2dcfebe0f7-1763382600152~hmac=d8609ccd160d4dec5844e6d489af72fe95a2a22b92ec40595c2abab86dbebcc3|x-playback-session-id=a7c3ffd91fc1d0f6ab3b5307a7411570-1763397843708&User-Agent=com.sonyliv/6.22.4 (Android 15; en_GB; V2144; Build/AP3A.240905.015.A2)",
+      "url": "https://sonymtmnew.akamaized.net/hls/live/2037141/DAI21-criclive/std_lrh-800300010.m3u8?hdnea=exp=1763425801~acl=/*~id=eea123e5274c5cf4970f3c2dcfebe0f7-1763382600152~hmac=d8609ccd160d4dec5844e6d489af72fe95a2a22b92ec40595c2abab86dbebcc3|x-playback-session-id=ebe87bc0ea6d706953d9bfc1d5a9acdd-1763398683793&User-Agent=com.sonyliv/6.22.4 (Android 15; en_GB; SM-X620; Build/AP3A.240905.015.A2)",
       "user_agent": "Unknown"
     },
     {
@@ -30,7 +30,7 @@
       "language": "English",
       "category": "Football",
       "title": "ENG | Finland vs Andorra - 17 Nov 2025",
-      "url": "https://sonymtmnew.akamaized.net/hls/live/2018457/DAI09ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1763425801~acl=/*~id=eea123e5274c5cf4970f3c2dcfebe0f7-1763382600152~hmac=d8609ccd160d4dec5844e6d489af72fe95a2a22b92ec40595c2abab86dbebcc3|x-playback-session-id=a7c3ffd91fc1d0f6ab3b5307a7411570-1763397843708&User-Agent=com.sonyliv/6.22.4 (Android 10; en_GB; Acer One 8 T4-82L; Build/QP1A.190711.020)",
+      "url": "https://sonymtmnew.akamaized.net/hls/live/2018457/DAI09ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1763425801~acl=/*~id=eea123e5274c5cf4970f3c2dcfebe0f7-1763382600152~hmac=d8609ccd160d4dec5844e6d489af72fe95a2a22b92ec40595c2abab86dbebcc3|x-playback-session-id=ebe87bc0ea6d706953d9bfc1d5a9acdd-1763398683793&User-Agent=com.sonyliv/6.22.4 (Android 11; en_GB; Redmi Note 9 Pro; Build/RKQ1.200826.002)",
       "user_agent": "Unknown"
     }
   ]
