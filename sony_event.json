@@ -1,6 +1,6 @@
 {
   "api_made_by": "bd coder boy",
-  "updated": "Tue, 18 Nov 2025 08:58:16 GMT",
+  "updated": "Tue, 18 Nov 2025 09:24:01 GMT",
   "total_events": 1,
   "events": [
     {
@@ -10,7 +10,7 @@
       "language": "English",
       "category": "Cricket",
       "title": "ENG | Pakistan Shaheens vs UAE - 18 Nov 2025",
-      "url": "https://sonymtmnew.akamaized.net/hls/live/2037140/DAI20-criclive/master.m3u8?hdnea=exp=1763490601~acl=/*~id=1b767eceb85932449c936340225435f3-1763447400115~hmac=6de35930751c4530e6a449e056213ad76db0a17fb7183f419de3c555392e6db9|x-playback-session-id=4ac425896bec5877b324ab7acd8fa96e-1763456285124&User-Agent=com.sonyliv/6.22.4 (Android 15; en_GB; NX729J; Build/AQ3A.240812.002)",
+      "url": "https://sonymtmnew.akamaized.net/hls/live/2037140/DAI20-criclive/master.m3u8?hdnea=exp=1763490601~acl=/*~id=1b767eceb85932449c936340225435f3-1763447400115~hmac=6de35930751c4530e6a449e056213ad76db0a17fb7183f419de3c555392e6db9|x-playback-session-id=c43e567778279f85a69dc113dac89703-1763457546179&User-Agent=com.sonyliv/6.22.4 (Android 12; en_GB; CPH2409; Build/RKQ1.211119.001)",
       "user_agent": "Unknown"
     }
   ]
