@@ -1,6 +1,6 @@
 {
   "api_made_by": "bd coder boy",
-  "updated": "Tue, 18 Nov 2025 19:45:31 GMT",
+  "updated": "Tue, 18 Nov 2025 19:53:22 GMT",
   "total_events": 10,
   "events": [
     {
@@ -10,7 +10,7 @@
       "language": "English",
       "category": "Football",
       "title": "ENG | Spain vs Turkiye - MD 10 - 19 Nov 2025",
-      "url": "https://sonymtmnew.akamaized.net/hls/live/2022317/DAI13ME-V3/master.m3u8?hdnea=exp=1763520401~acl=/*~id=59e167a2efaf93fadd59aedd68f0517b-1763477200460~hmac=af57b7b58a79d3b49519b9079d45839d902ee6e69879e5239ea0af140e43412c|x-playback-session-id=498d0871af8886d24b89229f7fca99c2-1763494625049&User-Agent=com.sonyliv/6.22.4 (Android 14; en_GB; V2239; Build/UP1A.231005.007)",
+      "url": "https://sonymtmnew.akamaized.net/hls/live/2022317/DAI13ME-V3/master.m3u8?hdnea=exp=1763533801~acl=/*~id=d358e12cc793d22c45ded761cfa86747-1763490600123~hmac=acaa5cb63be76a3c37f31cbee370af69fd57bf6d24c03c9cfc6178e3442474b4|x-playback-session-id=459583b9cf94578327ee45a4f318971f-1763495465933&User-Agent=com.sonyliv/6.22.4 (Android 13; en_GB; LAVA LZX414; Build/TP1A.220624.014)",
       "user_agent": "Unknown"
     },
     {
@@ -20,7 +20,7 @@
       "language": "English",
       "category": "Football",
       "title": "ENG | Belgium vs Liechtenstein - MD 10 - 19 Nov 2025",
-      "url": "https://sonymtmnew.akamaized.net/hls/live/2094588/DAI04ME-V3/master.m3u8?hdnea=exp=1763520401~acl=/*~id=59e167a2efaf93fadd59aedd68f0517b-1763477200460~hmac=af57b7b58a79d3b49519b9079d45839d902ee6e69879e5239ea0af140e43412c|x-playback-session-id=498d0871af8886d24b89229f7fca99c2-1763494625049&User-Agent=com.sonyliv/6.22.4 (Android 12; en_GB; 2201116TI; Build/SP1A.210812.016)",
+      "url": "https://sonymtmnew.akamaized.net/hls/live/2094588/DAI04ME-V3/master.m3u8?hdnea=exp=1763533801~acl=/*~id=d358e12cc793d22c45ded761cfa86747-1763490600123~hmac=acaa5cb63be76a3c37f31cbee370af69fd57bf6d24c03c9cfc6178e3442474b4|x-playback-session-id=459583b9cf94578327ee45a4f318971f-1763495465933&User-Agent=com.sonyliv/6.22.4 (Android 9; en_GB; hi352l_zsnin; Build/PPR1.180610.011)",
       "user_agent": "Unknown"
     },
     {
@@ -30,7 +30,7 @@
       "language": "English",
       "category": "Football",
       "title": "ENG | Scotland vs Denmark - MD 10 - 19 Nov 2025",
-      "url": "https://sonymtmnew.akamaized.net/hls/live/2005445/DAI06ME-V3/master.m3u8?hdnea=exp=1763520401~acl=/*~id=59e167a2efaf93fadd59aedd68f0517b-1763477200460~hmac=af57b7b58a79d3b49519b9079d45839d902ee6e69879e5239ea0af140e43412c|x-playback-session-id=498d0871af8886d24b89229f7fca99c2-1763494625049&User-Agent=com.sonyliv/6.22.4 (Android 11; en_GB; RMX3461; Build/RKQ1.210614.002)",
+      "url": "https://sonymtmnew.akamaized.net/hls/live/2005445/DAI06ME-V3/master.m3u8?hdnea=exp=1763533801~acl=/*~id=d358e12cc793d22c45ded761cfa86747-1763490600123~hmac=acaa5cb63be76a3c37f31cbee370af69fd57bf6d24c03c9cfc6178e3442474b4|x-playback-session-id=459583b9cf94578327ee45a4f318971f-1763495465933&User-Agent=com.sonyliv/6.22.4 (Android 13; en_GB; RMX3630; Build/TP1A.220905.001)",
       "user_agent": "Unknown"
     },
     {
@@ -40,7 +40,7 @@
       "language": "English",
       "category": "Football",
       "title": "ENG | Kosovo vs Switzerland - MD 10 - 19 Nov 2025",
-      "url": "https://sonymtmnew.akamaized.net/hls/live/2094589/DAI05ME-V3/master.m3u8?hdnea=exp=1763520401~acl=/*~id=59e167a2efaf93fadd59aedd68f0517b-1763477200460~hmac=af57b7b58a79d3b49519b9079d45839d902ee6e69879e5239ea0af140e43412c|x-playback-session-id=498d0871af8886d24b89229f7fca99c2-1763494625049&User-Agent=com.sonyliv/6.22.4 (Android 11; en_GB; 2K NSTV; Build/RTM8.240401.055)",
+      "url": "https://sonymtmnew.akamaized.net/hls/live/2094589/DAI05ME-V3/master.m3u8?hdnea=exp=1763533801~acl=/*~id=d358e12cc793d22c45ded761cfa86747-1763490600123~hmac=acaa5cb63be76a3c37f31cbee370af69fd57bf6d24c03c9cfc6178e3442474b4|x-playback-session-id=459583b9cf94578327ee45a4f318971f-1763495465933&User-Agent=com.sonyliv/6.22.4 (Android 14; en_GB; AndroidTV; Build/UP1A.231105.003.A1)",
       "user_agent": "Unknown"
     },
     {
@@ -50,7 +50,7 @@
       "language": "English",
       "category": "Football",
       "title": "ENG | Wales vs North Macedonia - MD 10 - 19 Nov 2025",
-      "url": "https://sonymtmnew.akamaized.net/hls/live/2022315/DAI11ME-V3/master.m3u8?hdnea=exp=1763520401~acl=/*~id=59e167a2efaf93fadd59aedd68f0517b-1763477200460~hmac=af57b7b58a79d3b49519b9079d45839d902ee6e69879e5239ea0af140e43412c|x-playback-session-id=498d0871af8886d24b89229f7fca99c2-1763494625049&User-Agent=com.sonyliv/6.22.4 (Android 16; en_GB; M2006J10C; Build/BP2A.250605.031.A3)",
+      "url": "https://sonymtmnew.akamaized.net/hls/live/2022315/DAI11ME-V3/master.m3u8?hdnea=exp=1763533801~acl=/*~id=d358e12cc793d22c45ded761cfa86747-1763490600123~hmac=acaa5cb63be76a3c37f31cbee370af69fd57bf6d24c03c9cfc6178e3442474b4|x-playback-session-id=459583b9cf94578327ee45a4f318971f-1763495465933&User-Agent=com.sonyliv/6.22.4 (Android 12; en_GB; MIBOX4; Build/STTC.230106.001)",
       "user_agent": "Unknown"
     },
     {
@@ -60,7 +60,7 @@
       "language": "English",
       "category": "Football",
       "title": "ENG | Sweden vs Slovenia - MD 10 - 19 Nov 2025",
-      "url": "https://sonymtmnew.akamaized.net/hls/live/2018457/DAI09ME-V3/master.m3u8?hdnea=exp=1763520401~acl=/*~id=59e167a2efaf93fadd59aedd68f0517b-1763477200460~hmac=af57b7b58a79d3b49519b9079d45839d902ee6e69879e5239ea0af140e43412c|x-playback-session-id=498d0871af8886d24b89229f7fca99c2-1763494625049&User-Agent=com.sonyliv/6.22.4 (Android 15; en_GB; CPH2569; Build/AP3A.240617.008)",
+      "url": "https://sonymtmnew.akamaized.net/hls/live/2018457/DAI09ME-V3/master.m3u8?hdnea=exp=1763533801~acl=/*~id=d358e12cc793d22c45ded761cfa86747-1763490600123~hmac=acaa5cb63be76a3c37f31cbee370af69fd57bf6d24c03c9cfc6178e3442474b4|x-playback-session-id=459583b9cf94578327ee45a4f318971f-1763495465933&User-Agent=com.sonyliv/6.22.4 (Android 12; en_GB; Lenovo TB-X6C6X; Build/SP1A.210812.016)",
       "user_agent": "Unknown"
     },
     {
@@ -70,7 +70,7 @@
       "language": "English",
       "category": "Football",
       "title": "ENG | Austria vs Bosnia-Herzegovina - MD 10 - 19 Nov 2025",
-      "url": "https://sonymtmnew.akamaized.net/hls/live/2018458/DAI10ME-V3/master.m3u8?hdnea=exp=1763520401~acl=/*~id=59e167a2efaf93fadd59aedd68f0517b-1763477200460~hmac=af57b7b58a79d3b49519b9079d45839d902ee6e69879e5239ea0af140e43412c|x-playback-session-id=498d0871af8886d24b89229f7fca99c2-1763494625049&User-Agent=com.sonyliv/6.22.4 (Android 14; en_GB; SWTV-24AE-4K; Build/UKN4.250714.064)",
+      "url": "https://sonymtmnew.akamaized.net/hls/live/2018458/DAI10ME-V3/master.m3u8?hdnea=exp=1763533801~acl=/*~id=d358e12cc793d22c45ded761cfa86747-1763490600123~hmac=acaa5cb63be76a3c37f31cbee370af69fd57bf6d24c03c9cfc6178e3442474b4|x-playback-session-id=459583b9cf94578327ee45a4f318971f-1763495465933&User-Agent=com.sonyliv/6.22.4 (Android 9; en_GB; 2203121C; Build/PQ3A.190605.03081104)",
       "user_agent": "Unknown"
     },
     {
@@ -80,7 +80,7 @@
       "language": "English",
       "category": "Football",
       "title": "ENG | Bulgaria vs Georgia - MD 10 - 19 Nov 2025",
-      "url": "https://sonymtmnew.akamaized.net/hls/live/2022319/DAI15ME-V3/master.m3u8?hdnea=exp=1763520401~acl=/*~id=59e167a2efaf93fadd59aedd68f0517b-1763477200460~hmac=af57b7b58a79d3b49519b9079d45839d902ee6e69879e5239ea0af140e43412c|x-playback-session-id=498d0871af8886d24b89229f7fca99c2-1763494625049&User-Agent=com.sonyliv/6.22.4 (Android 13; en_GB; moto g32; Build/T2SNS33.73-22-3-10)",
+      "url": "https://sonymtmnew.akamaized.net/hls/live/2022319/DAI15ME-V3/master.m3u8?hdnea=exp=1763533801~acl=/*~id=d358e12cc793d22c45ded761cfa86747-1763490600123~hmac=acaa5cb63be76a3c37f31cbee370af69fd57bf6d24c03c9cfc6178e3442474b4|x-playback-session-id=459583b9cf94578327ee45a4f318971f-1763495465933&User-Agent=com.sonyliv/6.22.4 (Android 15; en_GB; 2312DRAABI; Build/AP3A.240905.015.A2)",
       "user_agent": "Unknown"
     },
     {
@@ -90,7 +90,7 @@
       "language": "English",
       "category": "Football",
       "title": "ENG | Belarus vs Greece - MD 10 - 19 Nov 2025",
-      "url": "https://sonymtmnew.akamaized.net/hls/live/2105079/DAI08ME-V3/master.m3u8?hdnea=exp=1763520401~acl=/*~id=59e167a2efaf93fadd59aedd68f0517b-1763477200460~hmac=af57b7b58a79d3b49519b9079d45839d902ee6e69879e5239ea0af140e43412c|x-playback-session-id=498d0871af8886d24b89229f7fca99c2-1763494625049&User-Agent=com.sonyliv/6.22.4 (Android 16; en_GB; Pixel 6 Pro; Build/BP2A.250605.031.A2)",
+      "url": "https://sonymtmnew.akamaized.net/hls/live/2105079/DAI08ME-V3/master.m3u8?hdnea=exp=1763533801~acl=/*~id=d358e12cc793d22c45ded761cfa86747-1763490600123~hmac=acaa5cb63be76a3c37f31cbee370af69fd57bf6d24c03c9cfc6178e3442474b4|x-playback-session-id=459583b9cf94578327ee45a4f318971f-1763495465933&User-Agent=com.sonyliv/6.22.4 (Android 10; en_GB; android_tv_box; Build/QQ2A.200305.004.A1)",
       "user_agent": "Unknown"
     },
     {
@@ -100,7 +100,7 @@
       "language": "English",
       "category": "Football",
       "title": "ENG | Romania vs San Marino - MD 10 - 19 Nov 2025",
-      "url": "https://sonymtmnew.akamaized.net/hls/live/2094587/DAI03ME-V3/master.m3u8?hdnea=exp=1763520401~acl=/*~id=59e167a2efaf93fadd59aedd68f0517b-1763477200460~hmac=af57b7b58a79d3b49519b9079d45839d902ee6e69879e5239ea0af140e43412c|x-playback-session-id=498d0871af8886d24b89229f7fca99c2-1763494625049&User-Agent=com.sonyliv/6.22.4 (Android 11; en_GB; HK1RBOX-X4; Build/RQ3A.210805.001.A1)",
+      "url": "https://sonymtmnew.akamaized.net/hls/live/2094587/DAI03ME-V3/master.m3u8?hdnea=exp=1763533801~acl=/*~id=d358e12cc793d22c45ded761cfa86747-1763490600123~hmac=acaa5cb63be76a3c37f31cbee370af69fd57bf6d24c03c9cfc6178e3442474b4|x-playback-session-id=459583b9cf94578327ee45a4f318971f-1763495465933&User-Agent=com.sonyliv/6.22.4 (Android 14; en_GB; LXX511; Build/UP1A.231005.007)",
       "user_agent": "Unknown"
     }
   ]
