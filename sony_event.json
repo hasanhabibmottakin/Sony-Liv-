@@ -1,17 +1,6 @@
 {
   "api_made_by": "bd coder boy",
-  "updated": "Tue, 18 Nov 2025 12:28:46 GMT",
-  "total_events": 1,
-  "events": [
-    {
-      "id": "1090495227",
-      "name": "DP World Asia Cup Rising Stars Men's 2025",
-      "logo": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000011491/1763445532668281_ACC25_PAKS_vs_UAE_live_landscape_thumb_re1.jpg",
-      "language": "English",
-      "category": "Cricket",
-      "title": "ENG | Pakistan Shaheens vs UAE - 18 Nov 2025",
-      "url": "https://sonymtmnew.akamaized.net/hls/live/2037140/DAI20-criclive/master.m3u8?hdnea=exp=1763509261~acl=/*~id=a3eb130a31b645d98c1739374f97773d-1761792639936~hmac=4a2748f9262ea1d308b6eee74e5b57fdbc03adab57be65ccc2bdc08d87ab78ee|x-playback-session-id=8edb41c72f23b73a3bd634b26b46f571-1763467817814&User-Agent=com.sonyliv/6.22.4 (Android 14; en_GB; 24074PCD2I; Build/UKQ1.240116.001)",
-      "user_agent": "Unknown"
-    }
-  ]
+  "updated": "Tue, 18 Nov 2025 13:08:15 GMT",
+  "total_events": 0,
+  "events": []
 }
