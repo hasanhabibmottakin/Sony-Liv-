@@ -1,6 +1,6 @@
 {
   "api_made_by": "bd coder boy",
-  "updated": "Wed, 19 Nov 2025 11:53:10 GMT",
+  "updated": "Wed, 19 Nov 2025 12:28:17 GMT",
   "total_events": 2,
   "events": [
     {
@@ -10,7 +10,7 @@
       "language": "English",
       "category": "Cricket",
       "title": "ENG | Afghanistan A vs Hong Kong China - 19 Nov 2025",
-      "url": "https://sonymtmnew.akamaized.net/hls/live/2037140/DAI20-criclive/master.m3u8?hdnea=exp=1763577001~acl=/*~id=0881e1ec1c44de543998822653760660-1763533800105~hmac=f843bd194284189f861460c54f92f08bfd23c8b687ee54524043c14ce0c567a0|x-playback-session-id=d8583fa8e85b18c06493def9f39dd51e-1763553063331&User-Agent=com.sonyliv/6.22.4 (Android 8; en_GB; AGS2-L09; Build/HUAWEIAGS2-L09)",
+      "url": "https://sonymtmnew.akamaized.net/hls/live/2037140/DAI20-criclive/master.m3u8?hdnea=exp=1763577001~acl=/*~id=0881e1ec1c44de543998822653760660-1763533800105~hmac=f843bd194284189f861460c54f92f08bfd23c8b687ee54524043c14ce0c567a0|x-playback-session-id=60b31e2f4a5eb210d802e0f21c254dc3-1763555164375&User-Agent=com.sonyliv/6.22.4 (Android 15; en_GB; motorola edge 60 stylus; Build/V2VB35.29-127-3)",
       "user_agent": "Unknown"
     },
     {
@@ -20,7 +20,7 @@
       "language": "English",
       "category": "Golf",
       "title": "ENG | PIF Saudi International - Day 1 - 19 Nov 2025",
-      "url": "https://sonymtmnew.akamaized.net/hls/live/2022320/DAI16ME-V3/master.m3u8?hdnea=exp=1763577001~acl=/*~id=0881e1ec1c44de543998822653760660-1763533800105~hmac=f843bd194284189f861460c54f92f08bfd23c8b687ee54524043c14ce0c567a0|x-playback-session-id=d8583fa8e85b18c06493def9f39dd51e-1763553063331&User-Agent=com.sonyliv/6.22.4 (Android 15; en_GB; V2511; Build/AP3A.240905.015.A2_V000L1)",
+      "url": "https://sonymtmnew.akamaized.net/hls/live/2022320/DAI16ME-V3/master.m3u8?hdnea=exp=1763577001~acl=/*~id=0881e1ec1c44de543998822653760660-1763533800105~hmac=f843bd194284189f861460c54f92f08bfd23c8b687ee54524043c14ce0c567a0|x-playback-session-id=60b31e2f4a5eb210d802e0f21c254dc3-1763555164375&User-Agent=com.sonyliv/6.22.4 (Android 9; en_GB; SHG07; Build/PQ3A.190605.07021633)",
       "user_agent": "Unknown"
     }
   ]
