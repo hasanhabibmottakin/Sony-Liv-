@@ -1,17 +1,6 @@
 {
   "api_made_by": "bd coder boy",
-  "updated": "Wed, 19 Nov 2025 18:20:17 GMT",
-  "total_events": 1,
-  "events": [
-    {
-      "id": "1090495408",
-      "name": "DP World Asia Cup Rising Stars Men's 2025",
-      "logo": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000011480/1763404513508453_ACRS25_SL_A_VS_BAN_A_17nov_Landscape_thumb.jpg",
-      "language": "English",
-      "category": "Cricket",
-      "title": "ENG | Sri Lanka A vs Bangladesh A - 19 Nov 2025",
-      "url": "https://sonymtmnew.akamaized.net/hls/live/2037141/DAI21-criclive/master.m3u8?hdnea=exp=1763598601~acl=/*~id=2e63fbf949cfdcab7185bfb30fcdab6b-1763555400131~hmac=e7efa4f6f65e1f583c49fb565e8d1fc2e78aff972898c67ba15846816b64221f|x-playback-session-id=201d3f9744fe0f3c0bd1debba7191eb6-1763575924779&User-Agent=com.sonyliv/6.22.4 (Android 11; en_GB; 220233L2I; Build/RP1A.200720.011)",
-      "user_agent": "Unknown"
-    }
-  ]
+  "updated": "Wed, 19 Nov 2025 18:47:15 GMT",
+  "total_events": 0,
+  "events": []
 }
