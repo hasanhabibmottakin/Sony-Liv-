@@ -1,7 +1,7 @@
 {
   "api_made_by": "bd coder boy",
-  "updated": "Wed, 19 Nov 2025 10:15:21 GMT",
-  "total_events": 3,
+  "updated": "Wed, 19 Nov 2025 10:40:06 GMT",
+  "total_events": 2,
   "events": [
     {
       "id": "1090495322",
@@ -10,17 +10,7 @@
       "language": "English",
       "category": "Cricket",
       "title": "ENG | Afghanistan A vs Hong Kong China - 19 Nov 2025",
-      "url": "https://sonymtmnew.akamaized.net/hls/live/2037140/DAI20-criclive/master.m3u8?hdnea=exp=1763577001~acl=/*~id=0881e1ec1c44de543998822653760660-1763533800105~hmac=f843bd194284189f861460c54f92f08bfd23c8b687ee54524043c14ce0c567a0|x-playback-session-id=54460efcfe7278dd77db8f7a987f2189-1763546704759&User-Agent=com.sonyliv/6.22.4 (Android 11; en_GB; realme Smart TV; Build/RTM5.220609.106)",
-      "user_agent": "Unknown"
-    },
-    {
-      "id": "1090495305",
-      "name": "West Indies Tour of New Zealand 2025",
-      "logo": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000011489/1763440769781214_NZvsWI25_2nd_ODI_landscape_thumb.jpg",
-      "language": "English",
-      "category": "Cricket",
-      "title": "ENG | 2nd ODI - 19 Nov 2025",
-      "url": "https://sonymtmnew.akamaized.net/hls/live/2018457/wivsnz/ENG/master.m3u8?hdnea=exp=1763577001~acl=/*~id=0881e1ec1c44de543998822653760660-1763533800105~hmac=f843bd194284189f861460c54f92f08bfd23c8b687ee54524043c14ce0c567a0|x-playback-session-id=54460efcfe7278dd77db8f7a987f2189-1763546704759&User-Agent=com.sonyliv/6.22.4 (Android 14; en_GB; CPH2773; Build/UP1A.231005.007)",
+      "url": "https://sonymtmnew.akamaized.net/hls/live/2037140/DAI20-criclive/master.m3u8?hdnea=exp=1763577001~acl=/*~id=0881e1ec1c44de543998822653760660-1763533800105~hmac=f843bd194284189f861460c54f92f08bfd23c8b687ee54524043c14ce0c567a0|x-playback-session-id=c0181f2d49658ba44a0a7558ad779fc6-1763548624433&User-Agent=com.sonyliv/6.22.4 (Android 9; en_GB; SM-S9280; Build/PQ3A.190705.08272029)",
       "user_agent": "Unknown"
     },
     {
@@ -30,7 +20,7 @@
       "language": "English",
       "category": "Golf",
       "title": "ENG | PIF Saudi International - Day 1 - 19 Nov 2025",
-      "url": "https://sonymtmnew.akamaized.net/hls/live/2022320/DAI16ME-V3/master.m3u8?hdnea=exp=1763577001~acl=/*~id=0881e1ec1c44de543998822653760660-1763533800105~hmac=f843bd194284189f861460c54f92f08bfd23c8b687ee54524043c14ce0c567a0|x-playback-session-id=54460efcfe7278dd77db8f7a987f2189-1763546704759&User-Agent=com.sonyliv/6.22.4 (Android 12; en_GB; V2065; Build/SP1A.210812.003)",
+      "url": "https://sonymtmnew.akamaized.net/hls/live/2022320/DAI16ME-V3/master.m3u8?hdnea=exp=1763577001~acl=/*~id=0881e1ec1c44de543998822653760660-1763533800105~hmac=f843bd194284189f861460c54f92f08bfd23c8b687ee54524043c14ce0c567a0|x-playback-session-id=c0181f2d49658ba44a0a7558ad779fc6-1763548624433&User-Agent=com.sonyliv/6.22.4 (Android 11; en_GB; CPH2321; Build/RP1A.200720.011)",
       "user_agent": "Unknown"
     }
   ]
