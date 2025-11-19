@@ -1,6 +1,6 @@
 {
   "api_made_by": "bd coder boy",
-  "updated": "Wed, 19 Nov 2025 10:52:03 GMT",
+  "updated": "Wed, 19 Nov 2025 11:12:08 GMT",
   "total_events": 2,
   "events": [
     {
@@ -10,7 +10,7 @@
       "language": "English",
       "category": "Cricket",
       "title": "ENG | Afghanistan A vs Hong Kong China - 19 Nov 2025",
-      "url": "https://sonymtmnew.akamaized.net/hls/live/2037140/DAI20-criclive/master.m3u8?hdnea=exp=1763577001~acl=/*~id=0881e1ec1c44de543998822653760660-1763533800105~hmac=f843bd194284189f861460c54f92f08bfd23c8b687ee54524043c14ce0c567a0|x-playback-session-id=4bf8979e8e4788680e7e32681a68eb70-1763549463395&User-Agent=com.sonyliv/6.22.4 (Android 12; en_GB; RMX3381; Build/SP1A.210812.016)",
+      "url": "https://sonymtmnew.akamaized.net/hls/live/2037140/DAI20-criclive/master.m3u8?hdnea=exp=1763577001~acl=/*~id=0881e1ec1c44de543998822653760660-1763533800105~hmac=f843bd194284189f861460c54f92f08bfd23c8b687ee54524043c14ce0c567a0|x-playback-session-id=6d06aad7dd8beceb4c2f4ef0f8e265b0-1763550304255&User-Agent=com.sonyliv/6.22.4 (Android 14; en_GB; 24076RP19I; Build/UP1A.231005.007)",
       "user_agent": "Unknown"
     },
     {
@@ -20,7 +20,7 @@
       "language": "English",
       "category": "Golf",
       "title": "ENG | PIF Saudi International - Day 1 - 19 Nov 2025",
-      "url": "https://sonymtmnew.akamaized.net/hls/live/2022320/DAI16ME-V3/master.m3u8?hdnea=exp=1763577001~acl=/*~id=0881e1ec1c44de543998822653760660-1763533800105~hmac=f843bd194284189f861460c54f92f08bfd23c8b687ee54524043c14ce0c567a0|x-playback-session-id=4bf8979e8e4788680e7e32681a68eb70-1763549463395&User-Agent=com.sonyliv/6.22.4 (Android 9; en_GB; STK-LX1; Build/HUAWEISTK-LX1)",
+      "url": "https://sonymtmnew.akamaized.net/hls/live/2022320/DAI16ME-V3/master.m3u8?hdnea=exp=1763577001~acl=/*~id=0881e1ec1c44de543998822653760660-1763533800105~hmac=f843bd194284189f861460c54f92f08bfd23c8b687ee54524043c14ce0c567a0|x-playback-session-id=6d06aad7dd8beceb4c2f4ef0f8e265b0-1763550304255&User-Agent=com.sonyliv/6.22.4 (Android 14; en_GB; moto g45 5G; Build/U1UG34.23-110-2)",
       "user_agent": "Unknown"
     }
   ]
