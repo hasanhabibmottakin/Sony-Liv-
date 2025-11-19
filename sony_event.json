@@ -1,6 +1,6 @@
 {
   "api_made_by": "bd coder boy",
-  "updated": "Wed, 19 Nov 2025 15:33:23 GMT",
+  "updated": "Wed, 19 Nov 2025 15:45:29 GMT",
   "total_events": 2,
   "events": [
     {
@@ -10,7 +10,7 @@
       "language": "Hindi",
       "category": "Game show",
       "title": "HIN | E73. Kaun Banega Crorepati - Season 17",
-      "url": "https://sonymtmnew.akamaized.net/hls/live/2043696/DAI26ME-KBC/master.m3u8?hdnea=exp=1763598601~acl=/*~id=2e63fbf949cfdcab7185bfb30fcdab6b-1763555400131~hmac=e7efa4f6f65e1f583c49fb565e8d1fc2e78aff972898c67ba15846816b64221f|x-playback-session-id=d6c1d7b1465327bc4680ea9fc35c49c4-1763566206152&User-Agent=com.sonyliv/6.22.4 (Android 11; en_GB; 2201116SI; Build/RKQ1.211001.001)",
+      "url": "https://sonymtmnew.akamaized.net/hls/live/2043696/DAI26ME-KBC/master.m3u8?hdnea=exp=1763598601~acl=/*~id=2e63fbf949cfdcab7185bfb30fcdab6b-1763555400131~hmac=e7efa4f6f65e1f583c49fb565e8d1fc2e78aff972898c67ba15846816b64221f|x-playback-session-id=1e0fbe04426db472ea8ed9bb36801a0a-1763567045494&User-Agent=com.sonyliv/6.22.4 (Android 15; en_GB; CPH2661; Build/UKQ1.231108.001)",
       "user_agent": "Unknown"
     },
     {
@@ -20,7 +20,7 @@
       "language": "English",
       "category": "Cricket",
       "title": "ENG | Sri Lanka A vs Bangladesh A - 19 Nov 2025",
-      "url": "https://sonymtmnew.akamaized.net/hls/live/2037141/DAI21-criclive/master.m3u8?hdnea=exp=1763598601~acl=/*~id=2e63fbf949cfdcab7185bfb30fcdab6b-1763555400131~hmac=e7efa4f6f65e1f583c49fb565e8d1fc2e78aff972898c67ba15846816b64221f|x-playback-session-id=d6c1d7b1465327bc4680ea9fc35c49c4-1763566206152&User-Agent=com.sonyliv/6.22.4 (Android 14; en_GB; 23124RN87C; Build/UP1A.231005.007)",
+      "url": "https://sonymtmnew.akamaized.net/hls/live/2037141/DAI21-criclive/master.m3u8?hdnea=exp=1763598601~acl=/*~id=2e63fbf949cfdcab7185bfb30fcdab6b-1763555400131~hmac=e7efa4f6f65e1f583c49fb565e8d1fc2e78aff972898c67ba15846816b64221f|x-playback-session-id=1e0fbe04426db472ea8ed9bb36801a0a-1763567045494&User-Agent=com.sonyliv/6.22.4 (Android 10; en_GB; SM-J600G; Build/QP1A.190711.020)",
       "user_agent": "Unknown"
     }
   ]
