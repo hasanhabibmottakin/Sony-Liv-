@@ -1,16 +1,16 @@
 {
   "api_made_by": "bd coder boy",
-  "updated": "Wed, 19 Nov 2025 13:41:31 GMT",
+  "updated": "Wed, 19 Nov 2025 13:55:41 GMT",
   "total_events": 1,
   "events": [
     {
-      "id": "1090495306",
-      "name": "Asian Tour 2025",
-      "logo": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000011490/1763442979064963_asiantour2024_PIF_Saudi_International_day1_18nov_Landscape_thumb.jpg",
+      "id": "1090495408",
+      "name": "DP World Asia Cup Rising Stars Men's 2025",
+      "logo": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000011480/1763404513508453_ACRS25_SL_A_VS_BAN_A_17nov_Landscape_thumb.jpg",
       "language": "English",
-      "category": "Golf",
-      "title": "ENG | PIF Saudi International - Day 1 - 19 Nov 2025",
-      "url": "https://sonymtmnew.akamaized.net/hls/live/2022320/DAI16ME-V3/master.m3u8?hdnea=exp=1763598601~acl=/*~id=2e63fbf949cfdcab7185bfb30fcdab6b-1763555400131~hmac=e7efa4f6f65e1f583c49fb565e8d1fc2e78aff972898c67ba15846816b64221f|x-playback-session-id=838eebb167e2759c829b5aec5eb15594-1763559425298&User-Agent=com.sonyliv/6.22.4 (Android 13; en_GB; NE2211; Build/SKQ1.221119.001)",
+      "category": "Cricket",
+      "title": "ENG | Sri Lanka A vs Bangladesh A - 19 Nov 2025",
+      "url": "https://sonymtmnew.akamaized.net/hls/live/2037141/DAI21-criclive/master.m3u8?hdnea=exp=1763598601~acl=/*~id=2e63fbf949cfdcab7185bfb30fcdab6b-1763555400131~hmac=e7efa4f6f65e1f583c49fb565e8d1fc2e78aff972898c67ba15846816b64221f|x-playback-session-id=d166d6ee2e9f3e802e8cfa025c042ea6-1763560266942&User-Agent=com.sonyliv/6.22.4 (Android 16; en_GB; SM-M366B; Build/BP2A.250605.031.A3)",
       "user_agent": "Unknown"
     }
   ]
