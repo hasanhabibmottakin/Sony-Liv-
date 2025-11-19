@@ -1,6 +1,6 @@
 {
   "api_made_by": "bd coder boy",
-  "updated": "Wed, 19 Nov 2025 09:40:55 GMT",
+  "updated": "Wed, 19 Nov 2025 09:53:01 GMT",
   "total_events": 3,
   "events": [
     {
@@ -10,7 +10,7 @@
       "language": "English",
       "category": "Cricket",
       "title": "ENG | Afghanistan A vs Hong Kong China - 19 Nov 2025",
-      "url": "https://sonymtmnew.akamaized.net/hls/live/2037140/DAI20-criclive/master.m3u8?hdnea=exp=1763577001~acl=/*~id=0881e1ec1c44de543998822653760660-1763533800105~hmac=f843bd194284189f861460c54f92f08bfd23c8b687ee54524043c14ce0c567a0|x-playback-session-id=8b91fb5776950338f5e979db73b5d4e3-1763545025736&User-Agent=com.sonyliv/6.22.4 (Android 13; en_GB; Redmi Note 7 Pro; Build/TSV1.220628.057)",
+      "url": "https://sonymtmnew.akamaized.net/hls/live/2037140/DAI20-criclive/master.m3u8?hdnea=exp=1763577001~acl=/*~id=0881e1ec1c44de543998822653760660-1763533800105~hmac=f843bd194284189f861460c54f92f08bfd23c8b687ee54524043c14ce0c567a0|x-playback-session-id=4f00d7afab1920a040b13c95a5633840-1763545864964&User-Agent=com.sonyliv/6.22.4 (Android 9; en_GB; D-805XATV HD; Build/PI)",
       "user_agent": "Unknown"
     },
     {
@@ -20,7 +20,7 @@
       "language": "English",
       "category": "Cricket",
       "title": "ENG | 2nd ODI - 19 Nov 2025",
-      "url": "https://sonymtmnew.akamaized.net/hls/live/2018457/wivsnz/ENG/master.m3u8?hdnea=exp=1763577001~acl=/*~id=0881e1ec1c44de543998822653760660-1763533800105~hmac=f843bd194284189f861460c54f92f08bfd23c8b687ee54524043c14ce0c567a0|x-playback-session-id=8b91fb5776950338f5e979db73b5d4e3-1763545025736&User-Agent=com.sonyliv/6.22.4 (Android 9; en_GB; G82U8; Build/PQ3A.190605.07021633)",
+      "url": "https://sonymtmnew.akamaized.net/hls/live/2018457/wivsnz/ENG/master.m3u8?hdnea=exp=1763577001~acl=/*~id=0881e1ec1c44de543998822653760660-1763533800105~hmac=f843bd194284189f861460c54f92f08bfd23c8b687ee54524043c14ce0c567a0|x-playback-session-id=4f00d7afab1920a040b13c95a5633840-1763545864964&User-Agent=com.sonyliv/6.22.4 (Android 9; en_GB; SM-J600GF; Build/PPR1.180610.011)",
       "user_agent": "Unknown"
     },
     {
@@ -30,7 +30,7 @@
       "language": "English",
       "category": "Golf",
       "title": "ENG | PIF Saudi International - Day 1 - 19 Nov 2025",
-      "url": "https://sonymtmnew.akamaized.net/hls/live/2022320/DAI16ME-V3/master.m3u8?hdnea=exp=1763577001~acl=/*~id=0881e1ec1c44de543998822653760660-1763533800105~hmac=f843bd194284189f861460c54f92f08bfd23c8b687ee54524043c14ce0c567a0|x-playback-session-id=8b91fb5776950338f5e979db73b5d4e3-1763545025736&User-Agent=com.sonyliv/6.22.4 (Android 15; en_GB; RMX5078; Build/AP3A.240617.008)",
+      "url": "https://sonymtmnew.akamaized.net/hls/live/2022320/DAI16ME-V3/master.m3u8?hdnea=exp=1763577001~acl=/*~id=0881e1ec1c44de543998822653760660-1763533800105~hmac=f843bd194284189f861460c54f92f08bfd23c8b687ee54524043c14ce0c567a0|x-playback-session-id=4f00d7afab1920a040b13c95a5633840-1763545864964&User-Agent=com.sonyliv/6.22.4 (Android 9; en_GB; G576D; Build/PQ3A.190705.09121607)",
       "user_agent": "Unknown"
     }
   ]
