@@ -1,6 +1,6 @@
 {
   "api_made_by": "bd coder boy",
-  "updated": "Thu, 20 Nov 2025 12:29:52 GMT",
+  "updated": "Thu, 20 Nov 2025 13:08:02 GMT",
   "total_events": 1,
   "events": [
     {
@@ -10,7 +10,7 @@
       "language": "English",
       "category": "Golf",
       "title": "ENG | PIF Saudi International - Day 2 - 20 Nov 2025",
-      "url": "https://sonymtmnew.akamaized.net/hls/live/2022320/DAI16ME-V3/master.m3u8?hdnea=exp=1763663401~acl=/*~id=edbfbed6dcbe1b4e6cf150be9883f009-1763620200119~hmac=847279147d13f04219e2df8fb4e0962250a8b96589d1edc1cd6825ab6bb17974|x-playback-session-id=e930e80bfd9b76312911993c689b658d-1763641564759&User-Agent=com.sonyliv/6.22.4 (Android 15; en_GB; V2417; Build/AP3A.240905.015.A2)",
+      "url": "https://sonymtmnew.akamaized.net/hls/live/2022320/DAI16ME-V3/master.m3u8?hdnea=exp=1763685001~acl=/*~id=c8c6449627c85871a0e3201b4fe2631c-1763641800143~hmac=dbdea2e3d399a883dcb2ffabef7ced1baa6438fe21d25e3782c280e2129cf47c|x-playback-session-id=9e6f3e50a178683ee6e21c4548a45b35-1763643905221&User-Agent=com.sonyliv/6.22.4 (Android 9; en_GB; E6910; Build/4.101VZ.0132.a)",
       "user_agent": "Unknown"
     }
   ]
