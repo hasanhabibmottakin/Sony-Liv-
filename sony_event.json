@@ -1,8 +1,18 @@
 {
   "api_made_by": "bd coder boy",
-  "updated": "Fri, 21 Nov 2025 08:57:29 GMT",
-  "total_events": 1,
+  "updated": "Fri, 21 Nov 2025 09:20:10 GMT",
+  "total_events": 2,
   "events": [
+    {
+      "id": "1090495608",
+      "name": "DP World Asia Cup Rising Stars Men's 2025",
+      "logo": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000011626/1763700088654728_ACC_SF_BAN-A_vs_IND-A_Live_Landscape_thumb_re2.jpg",
+      "language": "English",
+      "category": "Cricket",
+      "title": "ENG | Bangladesh A vs India A - Semi-final - 21 Nov 2025",
+      "url": "https://sonymtmnew.akamaized.net/hls/live/2037140/DAI20-criclive/master.m3u8?hdnea=exp=1763749801~acl=/*~id=d82b6e467ea62b5b03c96482f761efee-1763706600142~hmac=341c526d42f3a9e8abf5841c8ec7ea75694c43c058a5d1ae320eddc9e4167904|x-playback-session-id=18d69b84cdd01b865981b9bb5d31b3c6-1763715487387&User-Agent=com.sonyliv/6.22.4 (Android 11; en_GB; MBOX; Build/QP1A.191105.004)",
+      "user_agent": "Unknown"
+    },
     {
       "id": "1090495539",
       "name": "Asian Tour 2025",
@@ -10,7 +20,7 @@
       "language": "English",
       "category": "Golf",
       "title": "ENG | PIF Saudi International - Day 3 - 21 Nov 2025",
-      "url": "https://sonymtmnew.akamaized.net/hls/live/2022320/DAI16ME-V3/master.m3u8?hdnea=exp=1763749801~acl=/*~id=d82b6e467ea62b5b03c96482f761efee-1763706600142~hmac=341c526d42f3a9e8abf5841c8ec7ea75694c43c058a5d1ae320eddc9e4167904|x-playback-session-id=6a0f0dcccab459403956b61842bfcfaa-1763715064971&User-Agent=com.sonyliv/6.22.4 (Android 11; en_GB; Haier Android TV FF Pro; Build/RTM3.211215.022)",
+      "url": "https://sonymtmnew.akamaized.net/hls/live/2022320/DAI16ME-V3/master.m3u8?hdnea=exp=1763749801~acl=/*~id=d82b6e467ea62b5b03c96482f761efee-1763706600142~hmac=341c526d42f3a9e8abf5841c8ec7ea75694c43c058a5d1ae320eddc9e4167904|x-playback-session-id=18d69b84cdd01b865981b9bb5d31b3c6-1763715487387&User-Agent=com.sonyliv/6.22.4 (Android 14; en_GB; SM-A136B; Build/UP1A.231005.007)",
       "user_agent": "Unknown"
     }
   ]
