@@ -1,6 +1,6 @@
 {
   "api_made_by": "bd coder boy",
-  "updated": "Fri, 21 Nov 2025 19:37:07 GMT",
+  "updated": "Fri, 21 Nov 2025 19:44:37 GMT",
   "total_events": 1,
   "events": [
     {
@@ -10,7 +10,7 @@
       "language": "English",
       "category": "Football",
       "title": "ENG | Mainz vs Hoffenheim - MD 11 - 22 Nov 2025",
-      "url": "https://sonymtmnew.akamaized.net/hls/live/2094588/DAI04ME-V3/master.m3u8?hdnea=exp=1763793001~acl=/*~id=a15784bb65e433551a133f24859e1aeb-1763749800163~hmac=95c8694555a9783b74d91f0748ecab5b32bd13715b2c803db0d4476618abc603|x-playback-session-id=6531239e0e5447d14cad75caa4336cd1-1763753403732&User-Agent=com.sonyliv/6.22.4 (Android 5; en_GB; SM-T235; Build/LMY47X)",
+      "url": "https://sonymtmnew.akamaized.net/hls/live/2094588/DAI04ME-V3/master.m3u8?hdnea=exp=1763793001~acl=/*~id=a15784bb65e433551a133f24859e1aeb-1763749800163~hmac=95c8694555a9783b74d91f0748ecab5b32bd13715b2c803db0d4476618abc603|x-playback-session-id=cdc67345b843eedad7b5228982f56b84-1763753824585&User-Agent=com.sonyliv/6.22.4 (Android 6; en_GB; SM-C7018; Build/MMB29M)",
       "user_agent": "Unknown"
     }
   ]
