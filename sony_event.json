@@ -1,6 +1,6 @@
 {
   "api_made_by": "bd coder boy",
-  "updated": "Sat, 22 Nov 2025 17:14:21 GMT",
+  "updated": "Sat, 22 Nov 2025 17:29:54 GMT",
   "total_events": 1,
   "events": [
     {
@@ -10,7 +10,7 @@
       "language": "English",
       "category": "Football",
       "title": "ENG | FC Koln vs Eintracht Frankfurt - MD 11 - 22 Nov 2025",
-      "url": "https://sonymtmnew.akamaized.net/hls/live/2022318/DAI14ME-V3/master.m3u8?hdnea=exp=1763857801~acl=/*~id=770bf8491e7035d806b5b6b74c5e0eaf-1763814600231~hmac=503124d130f549dfedca50e3f5e9f77e932ce937eee352a5ee0cd813bb551060|x-playback-session-id=e554cba84b6581c61f261774c3d08b24-1763831525949&User-Agent=com.sonyliv/6.22.4 (Android 10; en_GB; TX20 Pro; Build/QP1A.191105.004)",
+      "url": "https://sonymtmnew.akamaized.net/hls/live/2022318/DAI14ME-V3/master.m3u8?hdnea=exp=1763857801~acl=/*~id=770bf8491e7035d806b5b6b74c5e0eaf-1763814600231~hmac=503124d130f549dfedca50e3f5e9f77e932ce937eee352a5ee0cd813bb551060|x-playback-session-id=c2483fa864d094c66af77f75216f58d7-1763832364200&User-Agent=com.sonyliv/6.22.4 (Android 11; en_GB; Lenovo TB-J606L; Build/RKQ1.210303.002)",
       "user_agent": "Unknown"
     }
   ]
