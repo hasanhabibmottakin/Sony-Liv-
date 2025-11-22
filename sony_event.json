@@ -1,6 +1,6 @@
 {
   "api_made_by": "bd coder boy",
-  "updated": "Sat, 22 Nov 2025 06:18:32 GMT",
+  "updated": "Sat, 22 Nov 2025 06:43:13 GMT",
   "total_events": 1,
   "events": [
     {
@@ -10,7 +10,7 @@
       "language": "English",
       "category": "Cricket",
       "title": "ENG | 3rd ODI - 22 Nov 2025",
-      "url": "https://sonymtmnew.akamaized.net/hls/live/2018457/wivsnz/ENG/master.m3u8?hdnea=exp=1763814601~acl=/*~id=418553e3857090856eebe915101d3fb1-1763771400136~hmac=08047748b299e22cd1307d20b771aac2206d60397b93c61aa5abe97fc8708f08|x-playback-session-id=df167955c201cea80b4dff30852df701-1763791925434&User-Agent=com.sonyliv/6.22.4 (Android 13; en_GB; dedede; Build/R140-16371.61.0)",
+      "url": "https://sonymtmnew.akamaized.net/hls/live/2018457/wivsnz/ENG/master.m3u8?hdnea=exp=1763836201~acl=/*~id=92b7e609901b82fe3dda913eba68c621-1763793000127~hmac=a174e8c7e0d64884a13f2e59eeb60b66d219ec11a334ff49e744c1f11b2673a3|x-playback-session-id=8d40e50ded8a493cc530ea9b0aa9d6a0-1763793424553&User-Agent=com.sonyliv/6.22.4 (Android 9; en_GB; ELISTA_SMART_TV; Build/PPR1.180610.011)",
       "user_agent": "Unknown"
     }
   ]
