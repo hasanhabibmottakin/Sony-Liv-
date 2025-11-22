@@ -1,6 +1,6 @@
 {
   "api_made_by": "bd coder boy",
-  "updated": "Sat, 22 Nov 2025 11:42:48 GMT",
+  "updated": "Sat, 22 Nov 2025 11:52:51 GMT",
   "total_events": 1,
   "events": [
     {
@@ -10,7 +10,7 @@
       "language": "English",
       "category": "Golf",
       "title": "ENG | PIF Saudi International - Day 4 - 22 Nov 2025",
-      "url": "https://sonymtmnew.akamaized.net/hls/live/2022320/DAI16ME-V3/master.m3u8?hdnea=exp=1763836201~acl=/*~id=92b7e609901b82fe3dda913eba68c621-1763793000127~hmac=a174e8c7e0d64884a13f2e59eeb60b66d219ec11a334ff49e744c1f11b2673a3|x-playback-session-id=11620f243041e9c152f36a47594261e6-1763811425644&User-Agent=com.sonyliv/6.22.4 (Android 14; en_GB; HMD CREST; Build/QP1A.190711.020)",
+      "url": "https://sonymtmnew.akamaized.net/hls/live/2022320/DAI16ME-V3/master.m3u8?hdnea=exp=1763836201~acl=/*~id=92b7e609901b82fe3dda913eba68c621-1763793000127~hmac=a174e8c7e0d64884a13f2e59eeb60b66d219ec11a334ff49e744c1f11b2673a3|x-playback-session-id=3a6e5f72e65be3238de599dbe447b78d-1763811843961&User-Agent=com.sonyliv/6.22.4 (Android 11; en_GB; MiTV-MOOQ3; Build/RTM4.220307.164)",
       "user_agent": "Unknown"
     }
   ]
