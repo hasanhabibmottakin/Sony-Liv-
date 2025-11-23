@@ -1,6 +1,6 @@
 {
   "api_made_by": "bd coder boy",
-  "updated": "Sun, 23 Nov 2025 17:31:17 GMT",
+  "updated": "Sun, 23 Nov 2025 17:43:26 GMT",
   "total_events": 2,
   "events": [
     {
@@ -10,7 +10,7 @@
       "language": "English",
       "category": "Cricket",
       "title": "ENG | Bangladesh A vs Pakistan Shaheens - Final - 23 Nov 2025",
-      "url": "https://sonymtmnew.akamaized.net/hls/live/2037140/DAI20-criclive/master.m3u8?hdnea=exp=1763944202~acl=/*~id=21d6cbe8ec2c695f9c20659afee7676d-1763901000131~hmac=e737245b86e2f38aefda2bb72be7b0e6e2751b73f9d70c965be107ec84984eaa|x-playback-session-id=07f96b1edb0ba38b82f82381b1d94117-1763919004588&User-Agent=com.sonyliv/6.22.4 (Android 7; en_GB; VM PRO1; Build/VM_PRO1)",
+      "url": "https://sonymtmnew.akamaized.net/hls/live/2037140/DAI20-criclive/master.m3u8?hdnea=exp=1763944202~acl=/*~id=21d6cbe8ec2c695f9c20659afee7676d-1763901000131~hmac=e737245b86e2f38aefda2bb72be7b0e6e2751b73f9d70c965be107ec84984eaa|x-playback-session-id=1c88035486ac5483f93aaa49184b05ac-1763919424257&User-Agent=com.sonyliv/6.22.4 (Android 11; en_GB; TS PROJECTOR; Build/SP1A.210812.015-1731665251)",
       "user_agent": "Unknown"
     },
     {
@@ -20,7 +20,7 @@
       "language": "English",
       "category": "Football",
       "title": "ENG | St. Pauli vs Union Berlin - MD 11 - 23 Nov 2025",
-      "url": "https://sonymtmnew.akamaized.net/hls/live/2094589/DAI05ME-V3/master.m3u8?hdnea=exp=1763944202~acl=/*~id=21d6cbe8ec2c695f9c20659afee7676d-1763901000131~hmac=e737245b86e2f38aefda2bb72be7b0e6e2751b73f9d70c965be107ec84984eaa|x-playback-session-id=07f96b1edb0ba38b82f82381b1d94117-1763919004588&User-Agent=com.sonyliv/6.22.4 (Android 11; en_GB; X88pro10.r1.00.6330.xy.d4; Build/RP1A.201105.002)",
+      "url": "https://sonymtmnew.akamaized.net/hls/live/2094589/DAI05ME-V3/master.m3u8?hdnea=exp=1763944202~acl=/*~id=21d6cbe8ec2c695f9c20659afee7676d-1763901000131~hmac=e737245b86e2f38aefda2bb72be7b0e6e2751b73f9d70c965be107ec84984eaa|x-playback-session-id=1c88035486ac5483f93aaa49184b05ac-1763919424257&User-Agent=com.sonyliv/6.22.4 (Android 13; en_GB; SM-G781U1; Build/TP1A.220624.014)",
       "user_agent": "Unknown"
     }
   ]
