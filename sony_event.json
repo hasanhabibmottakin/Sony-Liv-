@@ -1,18 +1,8 @@
 {
   "api_made_by": "bd coder boy",
-  "updated": "Sun, 23 Nov 2025 16:16:13 GMT",
-  "total_events": 4,
+  "updated": "Sun, 23 Nov 2025 16:38:41 GMT",
+  "total_events": 3,
   "events": [
-    {
-      "id": "1090492547",
-      "name": "Indian Idol",
-      "logo": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000011708/1763806012000221_II_Karishma_spl_22nov_Live_Landscape_thumb.jpg",
-      "language": "Hindi",
-      "category": "Reality, Music",
-      "title": "HIN | Indian Idol",
-      "url": "https://sonymtmnew.akamaized.net/hls/live/2094590/DAI25ME-II/master.m3u8?hdnea=exp=1763944202~acl=/*~id=21d6cbe8ec2c695f9c20659afee7676d-1763901000131~hmac=e737245b86e2f38aefda2bb72be7b0e6e2751b73f9d70c965be107ec84984eaa|x-playback-session-id=0fe841eb0ff8f0329bcde5d608c126f7-1763914324949&User-Agent=com.sonyliv/6.22.4 (Android 12; en_GB; Redmi 3S; Build/SQ3A.220605.009.A1)",
-      "user_agent": "Unknown"
-    },
     {
       "id": "1090495814",
       "name": "DP World Asia Cup Rising Stars Men's 2025",
@@ -20,7 +10,7 @@
       "language": "English",
       "category": "Cricket",
       "title": "ENG | Bangladesh A vs Pakistan Shaheens - Final - 23 Nov 2025",
-      "url": "https://sonymtmnew.akamaized.net/hls/live/2037140/DAI20-criclive/master.m3u8?hdnea=exp=1763944202~acl=/*~id=21d6cbe8ec2c695f9c20659afee7676d-1763901000131~hmac=e737245b86e2f38aefda2bb72be7b0e6e2751b73f9d70c965be107ec84984eaa|x-playback-session-id=0fe841eb0ff8f0329bcde5d608c126f7-1763914324949&User-Agent=com.sonyliv/6.22.4 (Android 6; en_GB; TV358_DTMB; Build/MRA58K)",
+      "url": "https://sonymtmnew.akamaized.net/hls/live/2037140/DAI20-criclive/master.m3u8?hdnea=exp=1763944202~acl=/*~id=21d6cbe8ec2c695f9c20659afee7676d-1763901000131~hmac=e737245b86e2f38aefda2bb72be7b0e6e2751b73f9d70c965be107ec84984eaa|x-playback-session-id=cbf045fe92ac51cf3f7d3f757ec932c4-1763915824132&User-Agent=com.sonyliv/6.22.4 (Android 11; en_GB; SM-A326U; Build/RP1A.200720.012)",
       "user_agent": "Unknown"
     },
     {
@@ -30,7 +20,7 @@
       "language": "English",
       "category": "Football",
       "title": "ENG | RB Leipzig vs Werder Bremen - MD 11 - 23 Nov 2025",
-      "url": "https://sonymtmnew.akamaized.net/hls/live/2094588/DAI04ME-V3/master.m3u8?hdnea=exp=1763944202~acl=/*~id=21d6cbe8ec2c695f9c20659afee7676d-1763901000131~hmac=e737245b86e2f38aefda2bb72be7b0e6e2751b73f9d70c965be107ec84984eaa|x-playback-session-id=0fe841eb0ff8f0329bcde5d608c126f7-1763914324949&User-Agent=com.sonyliv/6.22.4 (Android 9; en_GB; RMX1833; Build/PPR1.180610.011)",
+      "url": "https://sonymtmnew.akamaized.net/hls/live/2094588/DAI04ME-V3/master.m3u8?hdnea=exp=1763944202~acl=/*~id=21d6cbe8ec2c695f9c20659afee7676d-1763901000131~hmac=e737245b86e2f38aefda2bb72be7b0e6e2751b73f9d70c965be107ec84984eaa|x-playback-session-id=cbf045fe92ac51cf3f7d3f757ec932c4-1763915824132&User-Agent=com.sonyliv/6.22.4 (Android 13; en_GB; V2046; Build/TP1A.220624.014)",
       "user_agent": "Unknown"
     },
     {
@@ -40,7 +30,7 @@
       "language": "English",
       "category": "Football",
       "title": "ENG | St. Pauli vs Union Berlin - MD 11 - 23 Nov 2025",
-      "url": "https://sonymtmnew.akamaized.net/hls/live/2094589/DAI05ME-V3/master.m3u8?hdnea=exp=1763944202~acl=/*~id=21d6cbe8ec2c695f9c20659afee7676d-1763901000131~hmac=e737245b86e2f38aefda2bb72be7b0e6e2751b73f9d70c965be107ec84984eaa|x-playback-session-id=0fe841eb0ff8f0329bcde5d608c126f7-1763914324949&User-Agent=com.sonyliv/6.22.4 (Android 9; en_GB; ASUS_Z01QD; Build/PPR1.180720.122)",
+      "url": "https://sonymtmnew.akamaized.net/hls/live/2094589/DAI05ME-V3/master.m3u8?hdnea=exp=1763944202~acl=/*~id=21d6cbe8ec2c695f9c20659afee7676d-1763901000131~hmac=e737245b86e2f38aefda2bb72be7b0e6e2751b73f9d70c965be107ec84984eaa|x-playback-session-id=cbf045fe92ac51cf3f7d3f757ec932c4-1763915824132&User-Agent=com.sonyliv/6.22.4 (Android 14; en_GB; moto g35 5G; Build/UOAS34.216-230-1)",
       "user_agent": "Unknown"
     }
   ]
