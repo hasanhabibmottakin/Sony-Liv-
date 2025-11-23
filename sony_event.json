@@ -1,6 +1,6 @@
 {
   "api_made_by": "bd coder boy",
-  "updated": "Sun, 23 Nov 2025 18:18:02 GMT",
+  "updated": "Sun, 23 Nov 2025 18:42:55 GMT",
   "total_events": 2,
   "events": [
     {
@@ -10,7 +10,7 @@
       "language": "English",
       "category": "Cricket",
       "title": "ENG | Bangladesh A vs Pakistan Shaheens - Final - 23 Nov 2025",
-      "url": "https://sonymtmnew.akamaized.net/hls/live/2037140/DAI20-criclive/master.m3u8?hdnea=exp=1763944202~acl=/*~id=21d6cbe8ec2c695f9c20659afee7676d-1763901000131~hmac=e737245b86e2f38aefda2bb72be7b0e6e2751b73f9d70c965be107ec84984eaa|x-playback-session-id=64fb454d82c4603df8d11038e9cf3394-1763921523733&User-Agent=com.sonyliv/6.22.4 (Android 11; en_GB; moto g stylus (2021); Build/RPCS31.Q2-109-16-26)",
+      "url": "https://sonymtmnew.akamaized.net/hls/live/2037140/DAI20-criclive/master.m3u8?hdnea=exp=1763965802~acl=/*~id=7a7de14636e4327c5e51290b614d9273-1763922600396~hmac=3cf695cc3f717ec09b301e7a3ef18e5e2f13edfcd5c162479710219a2ca4db3c|x-playback-session-id=789cac7ad16eb6d35fd03ce979ddfc08-1763923024375&User-Agent=com.sonyliv/6.22.4 (Android 9; en_GB; ampere; Build/PPR1.180610.011)",
       "user_agent": "Unknown"
     },
     {
@@ -20,7 +20,7 @@
       "language": "English",
       "category": "Football",
       "title": "ENG | St. Pauli vs Union Berlin - MD 11 - 23 Nov 2025",
-      "url": "https://sonymtmnew.akamaized.net/hls/live/2094589/DAI05ME-V3/master.m3u8?hdnea=exp=1763944202~acl=/*~id=21d6cbe8ec2c695f9c20659afee7676d-1763901000131~hmac=e737245b86e2f38aefda2bb72be7b0e6e2751b73f9d70c965be107ec84984eaa|x-playback-session-id=64fb454d82c4603df8d11038e9cf3394-1763921523733&User-Agent=com.sonyliv/6.22.4 (Android 10; en_GB; V2024; Build/QP1A.190711.020)",
+      "url": "https://sonymtmnew.akamaized.net/hls/live/2094589/DAI05ME-V3/master.m3u8?hdnea=exp=1763965802~acl=/*~id=7a7de14636e4327c5e51290b614d9273-1763922600396~hmac=3cf695cc3f717ec09b301e7a3ef18e5e2f13edfcd5c162479710219a2ca4db3c|x-playback-session-id=789cac7ad16eb6d35fd03ce979ddfc08-1763923024375&User-Agent=com.sonyliv/6.22.4 (Android 11; en_GB; LAVA LMX04; Build/LAVA_LMX04_SW_V01_HW_V1.0_20210810)",
       "user_agent": "Unknown"
     }
   ]
