@@ -1,6 +1,6 @@
 {
   "api_made_by": "bd coder boy",
-  "updated": "Sun, 23 Nov 2025 14:43:29 GMT",
+  "updated": "Sun, 23 Nov 2025 14:53:03 GMT",
   "total_events": 3,
   "events": [
     {
@@ -10,7 +10,7 @@
       "language": "Hindi",
       "category": "Reality, Music",
       "title": "HIN | Indian Idol",
-      "url": "https://sonymtmnew.akamaized.net/hls/live/2094590/DAI25ME-II/master.m3u8?hdnea=exp=1763944202~acl=/*~id=21d6cbe8ec2c695f9c20659afee7676d-1763901000131~hmac=e737245b86e2f38aefda2bb72be7b0e6e2751b73f9d70c965be107ec84984eaa|x-playback-session-id=82401ce80340240aacdc5303c5eeef44-1763908626373&User-Agent=com.sonyliv/6.22.4 (Android 11; en_GB; V2111; Build/RP1A.200720.012_NONFC)",
+      "url": "https://sonymtmnew.akamaized.net/hls/live/2094590/DAI25ME-II/master.m3u8?hdnea=exp=1763944202~acl=/*~id=21d6cbe8ec2c695f9c20659afee7676d-1763901000131~hmac=e737245b86e2f38aefda2bb72be7b0e6e2751b73f9d70c965be107ec84984eaa|x-playback-session-id=d601cf873a96c540c2afbc971256ec80-1763909464649&User-Agent=com.sonyliv/6.22.4 (Android 14; en_GB; V2114; Build/UP1A.231005.007)",
       "user_agent": "Unknown"
     },
     {
@@ -20,7 +20,7 @@
       "language": "English",
       "category": "Cricket",
       "title": "ENG | Bangladesh A vs Pakistan Shaheens - Final - 23 Nov 2025",
-      "url": "https://sonymtmnew.akamaized.net/hls/live/2037140/DAI20-criclive/master.m3u8?hdnea=exp=1763944202~acl=/*~id=21d6cbe8ec2c695f9c20659afee7676d-1763901000131~hmac=e737245b86e2f38aefda2bb72be7b0e6e2751b73f9d70c965be107ec84984eaa|x-playback-session-id=82401ce80340240aacdc5303c5eeef44-1763908626373&User-Agent=com.sonyliv/6.22.4 (Android 9; en_GB; AI PONT; Build/PTO1.210705.001)",
+      "url": "https://sonymtmnew.akamaized.net/hls/live/2037140/DAI20-criclive/master.m3u8?hdnea=exp=1763944202~acl=/*~id=21d6cbe8ec2c695f9c20659afee7676d-1763901000131~hmac=e737245b86e2f38aefda2bb72be7b0e6e2751b73f9d70c965be107ec84984eaa|x-playback-session-id=d601cf873a96c540c2afbc971256ec80-1763909464649&User-Agent=com.sonyliv/6.22.4 (Android 13; en_GB; itel S666LN; Build/TP1A.220624.014)",
       "user_agent": "Unknown"
     },
     {
@@ -30,7 +30,7 @@
       "language": "English",
       "category": "Football",
       "title": "ENG | RB Leipzig vs Werder Bremen - MD 11 - 23 Nov 2025",
-      "url": "https://sonymtmnew.akamaized.net/hls/live/2094588/DAI04ME-V3/master.m3u8?hdnea=exp=1763944202~acl=/*~id=21d6cbe8ec2c695f9c20659afee7676d-1763901000131~hmac=e737245b86e2f38aefda2bb72be7b0e6e2751b73f9d70c965be107ec84984eaa|x-playback-session-id=82401ce80340240aacdc5303c5eeef44-1763908626373&User-Agent=com.sonyliv/6.22.4 (Android 11; en_GB; SM-M307FN; Build/RP1A.200720.012)",
+      "url": "https://sonymtmnew.akamaized.net/hls/live/2094588/DAI04ME-V3/master.m3u8?hdnea=exp=1763944202~acl=/*~id=21d6cbe8ec2c695f9c20659afee7676d-1763901000131~hmac=e737245b86e2f38aefda2bb72be7b0e6e2751b73f9d70c965be107ec84984eaa|x-playback-session-id=d601cf873a96c540c2afbc971256ec80-1763909464649&User-Agent=com.sonyliv/6.22.4 (Android 10; en_GB; CPH1877; Build/QKQ1.190918.001)",
       "user_agent": "Unknown"
     }
   ]
