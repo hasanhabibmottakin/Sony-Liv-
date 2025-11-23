@@ -1,7 +1,7 @@
 {
   "api_made_by": "bd coder boy",
-  "updated": "Sun, 23 Nov 2025 18:42:55 GMT",
-  "total_events": 2,
+  "updated": "Sun, 23 Nov 2025 18:54:46 GMT",
+  "total_events": 1,
   "events": [
     {
       "id": "1090495814",
@@ -10,17 +10,7 @@
       "language": "English",
       "category": "Cricket",
       "title": "ENG | Bangladesh A vs Pakistan Shaheens - Final - 23 Nov 2025",
-      "url": "https://sonymtmnew.akamaized.net/hls/live/2037140/DAI20-criclive/master.m3u8?hdnea=exp=1763965802~acl=/*~id=7a7de14636e4327c5e51290b614d9273-1763922600396~hmac=3cf695cc3f717ec09b301e7a3ef18e5e2f13edfcd5c162479710219a2ca4db3c|x-playback-session-id=789cac7ad16eb6d35fd03ce979ddfc08-1763923024375&User-Agent=com.sonyliv/6.22.4 (Android 9; en_GB; ampere; Build/PPR1.180610.011)",
-      "user_agent": "Unknown"
-    },
-    {
-      "id": "1090495718",
-      "name": "Bundesliga 2025-26",
-      "logo": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000011125/1762498676323558_Bliga2526_MD11_St-Pauli-vs-Union-Berlin_6nov_landscape_thumb.jpg",
-      "language": "English",
-      "category": "Football",
-      "title": "ENG | St. Pauli vs Union Berlin - MD 11 - 23 Nov 2025",
-      "url": "https://sonymtmnew.akamaized.net/hls/live/2094589/DAI05ME-V3/master.m3u8?hdnea=exp=1763965802~acl=/*~id=7a7de14636e4327c5e51290b614d9273-1763922600396~hmac=3cf695cc3f717ec09b301e7a3ef18e5e2f13edfcd5c162479710219a2ca4db3c|x-playback-session-id=789cac7ad16eb6d35fd03ce979ddfc08-1763923024375&User-Agent=com.sonyliv/6.22.4 (Android 11; en_GB; LAVA LMX04; Build/LAVA_LMX04_SW_V01_HW_V1.0_20210810)",
+      "url": "https://sonymtmnew.akamaized.net/hls/live/2037140/DAI20-criclive/master.m3u8?hdnea=exp=1763965802~acl=/*~id=7a7de14636e4327c5e51290b614d9273-1763922600396~hmac=3cf695cc3f717ec09b301e7a3ef18e5e2f13edfcd5c162479710219a2ca4db3c|x-playback-session-id=d04579528b2b5f71f5715c5f5fe36f25-1763923864021&User-Agent=com.sonyliv/6.22.4 (Android 12; en_GB; CPH2385; Build/SP1A.210812.016)",
       "user_agent": "Unknown"
     }
   ]
