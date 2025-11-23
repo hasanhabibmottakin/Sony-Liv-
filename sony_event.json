@@ -1,6 +1,6 @@
 {
   "api_made_by": "bd coder boy",
-  "updated": "Sun, 23 Nov 2025 19:26:46 GMT",
+  "updated": "Sun, 23 Nov 2025 19:36:14 GMT",
   "total_events": 1,
   "events": [
     {
@@ -10,7 +10,7 @@
       "language": "English",
       "category": "Cricket",
       "title": "ENG | Bangladesh A vs Pakistan Shaheens - Final - 23 Nov 2025",
-      "url": "https://sonymtmnew.akamaized.net/hls/live/2037140/DAI20-criclive/master.m3u8?hdnea=exp=1763965802~acl=/*~id=7a7de14636e4327c5e51290b614d9273-1763922600396~hmac=3cf695cc3f717ec09b301e7a3ef18e5e2f13edfcd5c162479710219a2ca4db3c|x-playback-session-id=f0e57abd173b4245fc8c398b567c4dd0-1763925965812&User-Agent=com.sonyliv/6.22.4 (Android 11; en_GB; 211033MI; Build/RP1A.200720.011)",
+      "url": "https://sonymtmnew.akamaized.net/hls/live/2037140/DAI20-criclive/master.m3u8?hdnea=exp=1763965802~acl=/*~id=7a7de14636e4327c5e51290b614d9273-1763922600396~hmac=3cf695cc3f717ec09b301e7a3ef18e5e2f13edfcd5c162479710219a2ca4db3c|x-playback-session-id=ba2fab563c7c3d8fb10e116814000fb2-1763926205635&User-Agent=com.sonyliv/6.22.4 (Android 13; en_GB; CPH2483; Build/SP1A.210812.016)",
       "user_agent": "Unknown"
     }
   ]
