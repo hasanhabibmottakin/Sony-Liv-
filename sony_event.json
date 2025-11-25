@@ -1,6 +1,6 @@
 {
   "api_made_by": "bd coder boy",
-  "updated": "Tue, 25 Nov 2025 13:44:20 GMT",
+  "updated": "Tue, 25 Nov 2025 13:56:16 GMT",
   "total_events": 1,
   "events": [
     {
@@ -10,7 +10,7 @@
       "language": "English",
       "category": "Football",
       "title": "ENG | Chelsea vs Barcelona - MD 5 - 25 Nov 2025",
-      "url": "https://sonymtmnew.akamaized.net/hls/live/2022316/DAI12ME-V3/master.m3u8?hdnea=exp=1764117002~acl=/*~id=47653bf28e75fb8b2eaf0e70a7ae1bf4-1764073800125~hmac=8b534aa8e1afc184b98881b55bd04054d4d88eb9352662beb9062020ad403463|x-playback-session-id=41e003fe5660431e0c918d358c3b6d0c-1764078243449&User-Agent=com.sonyliv/6.22.4 (Android 16; en_GB; Pixel 7a; Build/BP3A.251005.004.B1)",
+      "url": "https://sonymtmnew.akamaized.net/hls/live/2022316/DAI12ME-V3/master.m3u8?hdnea=exp=1764117002~acl=/*~id=47653bf28e75fb8b2eaf0e70a7ae1bf4-1764073800125~hmac=8b534aa8e1afc184b98881b55bd04054d4d88eb9352662beb9062020ad403463|x-playback-session-id=99d6f51950982b680847eadb6a0fad81-1764078665051&User-Agent=com.sonyliv/6.22.4 (Android 12; en_GB; TVBOX; Build/TVBOX)",
       "user_agent": "Unknown"
     }
   ]
