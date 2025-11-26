@@ -1,7 +1,7 @@
 {
   "api_made_by": "bd coder boy",
-  "updated": "Wed, 26 Nov 2025 15:55:22 GMT",
-  "total_events": 2,
+  "updated": "Wed, 26 Nov 2025 16:18:16 GMT",
+  "total_events": 6,
   "events": [
     {
       "id": "1090491950",
@@ -10,7 +10,47 @@
       "language": "Hindi",
       "category": "Game show",
       "title": "HIN | E78. Kaun Banega Crorepati - Season 17",
-      "url": "https://sonymtmnew.akamaized.net/hls/live/2043696/DAI26ME-KBC/master.m3u8?hdnea=exp=1764203402~acl=/*~id=72225b2d8d4096c6175fc8a1b4324bfd-1764160200123~hmac=dda2192d843c7dae63b6ed0c4c0d53ad504805a758cb7920587f50d835ce0316|x-playback-session-id=180002c9bc7b3cd3f9528c6af12ca936-1764172264631&User-Agent=com.sonyliv/6.22.4 (Android 10; en_GB; BRAVIA 4K VH21; Build/QTG3.200305.006.S376)",
+      "url": "https://sonymtmnew.akamaized.net/hls/live/2043696/DAI26ME-KBC/master.m3u8?hdnea=exp=1764203402~acl=/*~id=72225b2d8d4096c6175fc8a1b4324bfd-1764160200123~hmac=dda2192d843c7dae63b6ed0c4c0d53ad504805a758cb7920587f50d835ce0316|x-playback-session-id=fd3108e3fb59e83e66fc32444dc2dc3b-1764173523585&User-Agent=com.sonyliv/6.22.4 (Android 13; en_GB; AEOP519; Build/TP1A.220624.014)",
+      "user_agent": "Unknown"
+    },
+    {
+      "id": "1090495956",
+      "name": "UEFA Champions League 2025-26",
+      "logo": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000011524/1763478538368274_UCL2526_MD5_Pafos_vs_Monaco_14nov_landscape_thumb.jpg",
+      "language": "English",
+      "category": "Football",
+      "title": "ENG | Pafos vs Monaco - MD 5 - 26 Nov 2025",
+      "url": "https://sonymtmnew.akamaized.net/hls/live/2105079/DAI08ME-V3/master.m3u8?hdnea=exp=1764203402~acl=/*~id=72225b2d8d4096c6175fc8a1b4324bfd-1764160200123~hmac=dda2192d843c7dae63b6ed0c4c0d53ad504805a758cb7920587f50d835ce0316|x-playback-session-id=fd3108e3fb59e83e66fc32444dc2dc3b-1764173523585&User-Agent=com.sonyliv/6.22.4 (Android 12; en_GB; UHD Google TV STB; Build/STTB.220726.001)",
+      "user_agent": "Unknown"
+    },
+    {
+      "id": "1090495956",
+      "name": "UEFA Champions League 2025-26",
+      "logo": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000011524/1763478538368274_UCL2526_MD5_Pafos_vs_Monaco_14nov_landscape_thumb.jpg",
+      "language": "Hindi",
+      "category": "Football",
+      "title": "HIN | Pafos vs Monaco - MD 5 - 26 Nov 2025",
+      "url": "https://sonymtmnew.akamaized.net/hls/live/2094588/DAI04ME-V3/master.m3u8?hdnea=exp=1764203402~acl=/*~id=72225b2d8d4096c6175fc8a1b4324bfd-1764160200123~hmac=dda2192d843c7dae63b6ed0c4c0d53ad504805a758cb7920587f50d835ce0316|x-playback-session-id=fd3108e3fb59e83e66fc32444dc2dc3b-1764173523585&User-Agent=com.sonyliv/6.22.4 (Android 9; en_GB; XQ-BE42; Build/PQ3A.190605.03202111)",
+      "user_agent": "Unknown"
+    },
+    {
+      "id": "1090495956",
+      "name": "UEFA Champions League 2025-26",
+      "logo": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000011524/1763478538368274_UCL2526_MD5_Pafos_vs_Monaco_14nov_landscape_thumb.jpg",
+      "language": "Tamil",
+      "category": "Football",
+      "title": "TAM | Pafos vs Monaco - MD 5 - 26 Nov 2025",
+      "url": "https://sonymtmnew.akamaized.net/hls/live/2022319/DAI15ME-V3/master.m3u8?hdnea=exp=1764203402~acl=/*~id=72225b2d8d4096c6175fc8a1b4324bfd-1764160200123~hmac=dda2192d843c7dae63b6ed0c4c0d53ad504805a758cb7920587f50d835ce0316|x-playback-session-id=fd3108e3fb59e83e66fc32444dc2dc3b-1764173523585&User-Agent=com.sonyliv/6.22.4 (Android 10; en_GB; Z1 MAX; Build/QP1A.191105.004)",
+      "user_agent": "Unknown"
+    },
+    {
+      "id": "1090495956",
+      "name": "UEFA Champions League 2025-26",
+      "logo": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000011524/1763478538368274_UCL2526_MD5_Pafos_vs_Monaco_14nov_landscape_thumb.jpg",
+      "language": "Telugu",
+      "category": "Football",
+      "title": "TEL | Pafos vs Monaco - MD 5 - 26 Nov 2025",
+      "url": "https://sonymtmnew.akamaized.net/hls/live/2037141/DAI21ME-V3/master.m3u8?hdnea=exp=1764203402~acl=/*~id=72225b2d8d4096c6175fc8a1b4324bfd-1764160200123~hmac=dda2192d843c7dae63b6ed0c4c0d53ad504805a758cb7920587f50d835ce0316|x-playback-session-id=fd3108e3fb59e83e66fc32444dc2dc3b-1764173523585&User-Agent=com.sonyliv/6.22.4 (Android 12; en_GB; SM-E025F; Build/SP1A.210812.016)",
       "user_agent": "Unknown"
     },
     {
@@ -20,7 +60,7 @@
       "language": "English",
       "category": "Football",
       "title": "ENG | Frankfurt vs Atalanta - MD 5 - 26 Nov 2025",
-      "url": "https://sonymtmnew.akamaized.net/hls/live/2094589/DAI05ME-V3/master.m3u8?hdnea=exp=1764203402~acl=/*~id=72225b2d8d4096c6175fc8a1b4324bfd-1764160200123~hmac=dda2192d843c7dae63b6ed0c4c0d53ad504805a758cb7920587f50d835ce0316|x-playback-session-id=180002c9bc7b3cd3f9528c6af12ca936-1764172264631&User-Agent=com.sonyliv/6.22.4 (Android 11; en_GB; WALTON Android TV; Build/RTO3.231013.002)",
+      "url": "https://sonymtmnew.akamaized.net/hls/live/2094589/DAI05ME-V3/master.m3u8?hdnea=exp=1764203402~acl=/*~id=72225b2d8d4096c6175fc8a1b4324bfd-1764160200123~hmac=dda2192d843c7dae63b6ed0c4c0d53ad504805a758cb7920587f50d835ce0316|x-playback-session-id=fd3108e3fb59e83e66fc32444dc2dc3b-1764173523585&User-Agent=com.sonyliv/6.22.4 (Android 9; en_GB; mt9255tek; Build/PPR2.180905.006.A1)",
       "user_agent": "Unknown"
     }
   ]
