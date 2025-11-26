@@ -1,6 +1,6 @@
 {
   "api_made_by": "bd coder boy",
-  "updated": "Wed, 26 Nov 2025 13:11:24 GMT",
+  "updated": "Wed, 26 Nov 2025 13:47:13 GMT",
   "total_events": 1,
   "events": [
     {
@@ -10,7 +10,7 @@
       "language": "English",
       "category": "Football",
       "title": "ENG | Arsenal vs Bayern Munich - MD 5 - 26 Nov 2025",
-      "url": "https://sonymtmnew.akamaized.net/hls/live/2022316/DAI12ME-V3/master.m3u8?hdnea=exp=1764203402~acl=/*~id=72225b2d8d4096c6175fc8a1b4324bfd-1764160200123~hmac=dda2192d843c7dae63b6ed0c4c0d53ad504805a758cb7920587f50d835ce0316|x-playback-session-id=26ae8c4edf2d97649d802df206051ca2-1764162304616&User-Agent=com.sonyliv/6.22.4 (Android 13; en_GB; SM-M215G; Build/TP1A.220624.014)",
+      "url": "https://sonymtmnew.akamaized.net/hls/live/2022316/DAI12ME-V3/master.m3u8?hdnea=exp=1764203402~acl=/*~id=72225b2d8d4096c6175fc8a1b4324bfd-1764160200123~hmac=dda2192d843c7dae63b6ed0c4c0d53ad504805a758cb7920587f50d835ce0316|x-playback-session-id=6ca39654366a7d4a10ea6743594e6330-1764164644032&User-Agent=com.sonyliv/6.22.4 (Android 9; en_GB; Lin62; Build/NHG47K)",
       "user_agent": "Unknown"
     }
   ]
