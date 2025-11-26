@@ -1,27 +1,6 @@
 {
   "api_made_by": "bd coder boy",
-  "updated": "Wed, 26 Nov 2025 22:34:11 GMT",
-  "total_events": 2,
-  "events": [
-    {
-      "id": "1090496129",
-      "name": "UEFA Champions League 2025-26",
-      "logo": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000011524/1763481588677274_UCL2526_MD5_Arsenal_vs_Bayern_14nov_landscape_thumb.jpg",
-      "language": "English",
-      "category": "Football",
-      "title": "ENG | Arsenal vs Bayern Munich - MD 5 - 27 Nov 2025",
-      "url": "https://sonymtmnew.akamaized.net/hls/live/2022322/DAI18ME-V3/master.m3u8?hdnea=exp=1764225002~acl=/*~id=c2c966612bc735ab892546d9cad9de9c-1764181800138~hmac=7078c5ca3ba51e4ec4e5e211a22e477beadc655062637ff04007ac62cc96998f|x-playback-session-id=09f82b453af6704f3a54648769e47b1d-1764196206255&User-Agent=com.sonyliv/6.22.4 (Android 15; en_GB; SM-S916U1; Build/AP3A.240905.015.A2)",
-      "user_agent": "Unknown"
-    },
-    {
-      "id": "1090496129",
-      "name": "UEFA Champions League 2025-26",
-      "logo": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000011524/1763481588677274_UCL2526_MD5_Arsenal_vs_Bayern_14nov_landscape_thumb.jpg",
-      "language": "Hindi",
-      "category": "Football",
-      "title": "HIN | Arsenal vs Bayern Munich - MD 5 - 27 Nov 2025",
-      "url": "https://sonymtmnew.akamaized.net/hls/live/2037140/DAI20ME-V3/master.m3u8?hdnea=exp=1764225002~acl=/*~id=c2c966612bc735ab892546d9cad9de9c-1764181800138~hmac=7078c5ca3ba51e4ec4e5e211a22e477beadc655062637ff04007ac62cc96998f|x-playback-session-id=09f82b453af6704f3a54648769e47b1d-1764196206255&User-Agent=com.sonyliv/6.22.4 (Android 11; en_GB; MiTV-AYFR0; Build/RTT0.211222.001)",
-      "user_agent": "Unknown"
-    }
-  ]
+  "updated": "Wed, 26 Nov 2025 22:45:42 GMT",
+  "total_events": 0,
+  "events": []
 }
