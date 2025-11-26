@@ -1,6 +1,6 @@
 {
   "api_made_by": "bd coder boy",
-  "updated": "Wed, 26 Nov 2025 19:35:17 GMT",
+  "updated": "Wed, 26 Nov 2025 19:42:56 GMT",
   "total_events": 34,
   "events": [
     {
@@ -10,7 +10,7 @@
       "language": "English",
       "category": "Football",
       "title": "ENG | Arsenal vs Bayern Munich - MD 5 - 27 Nov 2025",
-      "url": "https://sonymtmnew.akamaized.net/hls/live/2022322/DAI18ME-V3/master.m3u8?hdnea=exp=1764225002~acl=/*~id=c2c966612bc735ab892546d9cad9de9c-1764181800138~hmac=7078c5ca3ba51e4ec4e5e211a22e477beadc655062637ff04007ac62cc96998f|x-playback-session-id=28c6d7e6a0d18085c91503c5359022e0-1764185403504&User-Agent=com.sonyliv/6.22.4 (Android 9; en_GB; 23116PN5BC; Build/PQ3A.190605.07021633)",
+      "url": "https://sonymtmnew.akamaized.net/hls/live/2022322/DAI18ME-V3/master.m3u8?hdnea=exp=1764225002~acl=/*~id=c2c966612bc735ab892546d9cad9de9c-1764181800138~hmac=7078c5ca3ba51e4ec4e5e211a22e477beadc655062637ff04007ac62cc96998f|x-playback-session-id=8256afb1df6d2932fad77dfce56b9423-1764185824572&User-Agent=com.sonyliv/6.22.4 (Android 9; en_GB; SM-N9860; Build/PQ3A.190605.07021633)",
       "user_agent": "Unknown"
     },
     {
@@ -20,47 +20,7 @@
       "language": "Hindi",
       "category": "Football",
       "title": "HIN | Arsenal vs Bayern Munich - MD 5 - 27 Nov 2025",
-      "url": "https://sonymtmnew.akamaized.net/hls/live/2037140/DAI20ME-V3/master.m3u8?hdnea=exp=1764225002~acl=/*~id=c2c966612bc735ab892546d9cad9de9c-1764181800138~hmac=7078c5ca3ba51e4ec4e5e211a22e477beadc655062637ff04007ac62cc96998f|x-playback-session-id=28c6d7e6a0d18085c91503c5359022e0-1764185403504&User-Agent=com.sonyliv/6.22.4 (Android 13; en_GB; SM-A528B; Build/TP1A.220624.014)",
-      "user_agent": "Unknown"
-    },
-    {
-      "id": "1090495984",
-      "name": "UEFA Champions League 2025-26",
-      "logo": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000011524/1763482312836274_UCL2526_MD5_Liverpool_vs_PSV_14nov_landscape_thumb.jpg",
-      "language": "English",
-      "category": "Football",
-      "title": "ENG | Liverpool vs PSV - MD 5 - 27 Nov 2025",
-      "url": "https://sonymtmnew.akamaized.net/hls/live/2022317/DAI13ME-V3/master.m3u8?hdnea=exp=1764225002~acl=/*~id=c2c966612bc735ab892546d9cad9de9c-1764181800138~hmac=7078c5ca3ba51e4ec4e5e211a22e477beadc655062637ff04007ac62cc96998f|x-playback-session-id=28c6d7e6a0d18085c91503c5359022e0-1764185403504&User-Agent=com.sonyliv/6.22.4 (Android 10; en_GB; BRAVIA 4K VH21; Build/QTG3.200305.006.S362)",
-      "user_agent": "Unknown"
-    },
-    {
-      "id": "1090495984",
-      "name": "UEFA Champions League 2025-26",
-      "logo": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000011524/1763482312836274_UCL2526_MD5_Liverpool_vs_PSV_14nov_landscape_thumb.jpg",
-      "language": "Hindi",
-      "category": "Football",
-      "title": "HIN | Liverpool vs PSV - MD 5 - 27 Nov 2025",
-      "url": "https://sonymtmnew.akamaized.net/hls/live/2022317/DAI13ME-V3/master.m3u8?hdnea=exp=1764225002~acl=/*~id=c2c966612bc735ab892546d9cad9de9c-1764181800138~hmac=7078c5ca3ba51e4ec4e5e211a22e477beadc655062637ff04007ac62cc96998f|x-playback-session-id=28c6d7e6a0d18085c91503c5359022e0-1764185403504&User-Agent=com.sonyliv/6.22.4 (Android 11; en_GB; Android TV; Build/RD2A.211001.002)",
-      "user_agent": "Unknown"
-    },
-    {
-      "id": "1090495984",
-      "name": "UEFA Champions League 2025-26",
-      "logo": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000011524/1763482312836274_UCL2526_MD5_Liverpool_vs_PSV_14nov_landscape_thumb.jpg",
-      "language": "Tamil",
-      "category": "Football",
-      "title": "TAM | Liverpool vs PSV - MD 5 - 27 Nov 2025",
-      "url": "https://sonymtmnew.akamaized.net/hls/live/2022317/DAI13ME-V3/master.m3u8?hdnea=exp=1764225002~acl=/*~id=c2c966612bc735ab892546d9cad9de9c-1764181800138~hmac=7078c5ca3ba51e4ec4e5e211a22e477beadc655062637ff04007ac62cc96998f|x-playback-session-id=28c6d7e6a0d18085c91503c5359022e0-1764185403504&User-Agent=com.sonyliv/6.22.4 (Android 12; en_GB; S5 Pro; Build/QP1A.191105.004)",
-      "user_agent": "Unknown"
-    },
-    {
-      "id": "1090495984",
-      "name": "UEFA Champions League 2025-26",
-      "logo": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000011524/1763482312836274_UCL2526_MD5_Liverpool_vs_PSV_14nov_landscape_thumb.jpg",
-      "language": "Telugu",
-      "category": "Football",
-      "title": "TEL | Liverpool vs PSV - MD 5 - 27 Nov 2025",
-      "url": "https://sonymtmnew.akamaized.net/hls/live/2022317/DAI13ME-V3/master.m3u8?hdnea=exp=1764225002~acl=/*~id=c2c966612bc735ab892546d9cad9de9c-1764181800138~hmac=7078c5ca3ba51e4ec4e5e211a22e477beadc655062637ff04007ac62cc96998f|x-playback-session-id=28c6d7e6a0d18085c91503c5359022e0-1764185403504&User-Agent=com.sonyliv/6.22.4 (Android 14; en_GB; RMX3870; Build/UKQ1.230924.001)",
+      "url": "https://sonymtmnew.akamaized.net/hls/live/2037140/DAI20ME-V3/master.m3u8?hdnea=exp=1764225002~acl=/*~id=c2c966612bc735ab892546d9cad9de9c-1764181800138~hmac=7078c5ca3ba51e4ec4e5e211a22e477beadc655062637ff04007ac62cc96998f|x-playback-session-id=8256afb1df6d2932fad77dfce56b9423-1764185824572&User-Agent=com.sonyliv/6.22.4 (Android 12; en_GB; HY300; Build/PI)",
       "user_agent": "Unknown"
     },
     {
@@ -70,7 +30,7 @@
       "language": "English",
       "category": "Football",
       "title": "ENG | Olympiacos vs Real Madrid - MD 5 - 27 Nov 2025",
-      "url": "https://sonymtmnew.akamaized.net/hls/live/2018457/DAI09ME-V3/master.m3u8?hdnea=exp=1764225002~acl=/*~id=c2c966612bc735ab892546d9cad9de9c-1764181800138~hmac=7078c5ca3ba51e4ec4e5e211a22e477beadc655062637ff04007ac62cc96998f|x-playback-session-id=28c6d7e6a0d18085c91503c5359022e0-1764185403504&User-Agent=com.sonyliv/6.22.4 (Android 15; en_GB; SM-A336B; Build/AP3A.240905.015.A2)",
+      "url": "https://sonymtmnew.akamaized.net/hls/live/2018457/DAI09ME-V3/master.m3u8?hdnea=exp=1764225002~acl=/*~id=c2c966612bc735ab892546d9cad9de9c-1764181800138~hmac=7078c5ca3ba51e4ec4e5e211a22e477beadc655062637ff04007ac62cc96998f|x-playback-session-id=8256afb1df6d2932fad77dfce56b9423-1764185824572&User-Agent=com.sonyliv/6.22.4 (Android 9; en_GB; SM-S9280; Build/PQ3A.190605.09261140)",
       "user_agent": "Unknown"
     },
     {
@@ -80,7 +40,7 @@
       "language": "Hindi",
       "category": "Football",
       "title": "HIN | Olympiacos vs Real Madrid - MD 5 - 27 Nov 2025",
-      "url": "https://sonymtmnew.akamaized.net/hls/live/2018457/DAI09ME-V3/master.m3u8?hdnea=exp=1764225002~acl=/*~id=c2c966612bc735ab892546d9cad9de9c-1764181800138~hmac=7078c5ca3ba51e4ec4e5e211a22e477beadc655062637ff04007ac62cc96998f|x-playback-session-id=28c6d7e6a0d18085c91503c5359022e0-1764185403504&User-Agent=com.sonyliv/6.22.4 (Android 13; en_GB; innova30; Build/TP1A.220624.014)",
+      "url": "https://sonymtmnew.akamaized.net/hls/live/2018457/DAI09ME-V3/master.m3u8?hdnea=exp=1764225002~acl=/*~id=c2c966612bc735ab892546d9cad9de9c-1764181800138~hmac=7078c5ca3ba51e4ec4e5e211a22e477beadc655062637ff04007ac62cc96998f|x-playback-session-id=8256afb1df6d2932fad77dfce56b9423-1764185824572&User-Agent=com.sonyliv/6.22.4 (Android 14; en_GB; V2350; Build/UP1A.231005.007)",
       "user_agent": "Unknown"
     },
     {
@@ -90,7 +50,7 @@
       "language": "Tamil",
       "category": "Football",
       "title": "TAM | Olympiacos vs Real Madrid - MD 5 - 27 Nov 2025",
-      "url": "https://sonymtmnew.akamaized.net/hls/live/2018457/DAI09ME-V3/master.m3u8?hdnea=exp=1764225002~acl=/*~id=c2c966612bc735ab892546d9cad9de9c-1764181800138~hmac=7078c5ca3ba51e4ec4e5e211a22e477beadc655062637ff04007ac62cc96998f|x-playback-session-id=28c6d7e6a0d18085c91503c5359022e0-1764185403504&User-Agent=com.sonyliv/6.22.4 (Android 14; en_GB; LAVA LXX508; Build/UP1A.231005.007)",
+      "url": "https://sonymtmnew.akamaized.net/hls/live/2018457/DAI09ME-V3/master.m3u8?hdnea=exp=1764225002~acl=/*~id=c2c966612bc735ab892546d9cad9de9c-1764181800138~hmac=7078c5ca3ba51e4ec4e5e211a22e477beadc655062637ff04007ac62cc96998f|x-playback-session-id=8256afb1df6d2932fad77dfce56b9423-1764185824572&User-Agent=com.sonyliv/6.22.4 (Android 15; en_GB; A063; Build/AQ3A.240929.001)",
       "user_agent": "Unknown"
     },
     {
@@ -100,7 +60,47 @@
       "language": "Telugu",
       "category": "Football",
       "title": "TEL | Olympiacos vs Real Madrid - MD 5 - 27 Nov 2025",
-      "url": "https://sonymtmnew.akamaized.net/hls/live/2018457/DAI09ME-V3/master.m3u8?hdnea=exp=1764225002~acl=/*~id=c2c966612bc735ab892546d9cad9de9c-1764181800138~hmac=7078c5ca3ba51e4ec4e5e211a22e477beadc655062637ff04007ac62cc96998f|x-playback-session-id=28c6d7e6a0d18085c91503c5359022e0-1764185403504&User-Agent=com.sonyliv/6.22.4 (Android 10; en_GB; RMX2151; Build/QP1A.190711.020)",
+      "url": "https://sonymtmnew.akamaized.net/hls/live/2018457/DAI09ME-V3/master.m3u8?hdnea=exp=1764225002~acl=/*~id=c2c966612bc735ab892546d9cad9de9c-1764181800138~hmac=7078c5ca3ba51e4ec4e5e211a22e477beadc655062637ff04007ac62cc96998f|x-playback-session-id=8256afb1df6d2932fad77dfce56b9423-1764185824572&User-Agent=com.sonyliv/6.22.4 (Android 9; en_GB; SM-S906N; Build/PQ3A.190605.05081124)",
+      "user_agent": "Unknown"
+    },
+    {
+      "id": "1090495984",
+      "name": "UEFA Champions League 2025-26",
+      "logo": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000011524/1763482312836274_UCL2526_MD5_Liverpool_vs_PSV_14nov_landscape_thumb.jpg",
+      "language": "English",
+      "category": "Football",
+      "title": "ENG | Liverpool vs PSV - MD 5 - 27 Nov 2025",
+      "url": "https://sonymtmnew.akamaized.net/hls/live/2022317/DAI13ME-V3/master.m3u8?hdnea=exp=1764225002~acl=/*~id=c2c966612bc735ab892546d9cad9de9c-1764181800138~hmac=7078c5ca3ba51e4ec4e5e211a22e477beadc655062637ff04007ac62cc96998f|x-playback-session-id=8256afb1df6d2932fad77dfce56b9423-1764185824572&User-Agent=com.sonyliv/6.22.4 (Android 11; en_GB; Haier Android TV DVB2K; Build/RTM7.230903.074)",
+      "user_agent": "Unknown"
+    },
+    {
+      "id": "1090495984",
+      "name": "UEFA Champions League 2025-26",
+      "logo": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000011524/1763482312836274_UCL2526_MD5_Liverpool_vs_PSV_14nov_landscape_thumb.jpg",
+      "language": "Hindi",
+      "category": "Football",
+      "title": "HIN | Liverpool vs PSV - MD 5 - 27 Nov 2025",
+      "url": "https://sonymtmnew.akamaized.net/hls/live/2022317/DAI13ME-V3/master.m3u8?hdnea=exp=1764225002~acl=/*~id=c2c966612bc735ab892546d9cad9de9c-1764181800138~hmac=7078c5ca3ba51e4ec4e5e211a22e477beadc655062637ff04007ac62cc96998f|x-playback-session-id=8256afb1df6d2932fad77dfce56b9423-1764185824572&User-Agent=com.sonyliv/6.22.4 (Android 14; en_GB; CLT_Pro; Build/UP1A.231105.003.A1)",
+      "user_agent": "Unknown"
+    },
+    {
+      "id": "1090495984",
+      "name": "UEFA Champions League 2025-26",
+      "logo": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000011524/1763482312836274_UCL2526_MD5_Liverpool_vs_PSV_14nov_landscape_thumb.jpg",
+      "language": "Tamil",
+      "category": "Football",
+      "title": "TAM | Liverpool vs PSV - MD 5 - 27 Nov 2025",
+      "url": "https://sonymtmnew.akamaized.net/hls/live/2022317/DAI13ME-V3/master.m3u8?hdnea=exp=1764225002~acl=/*~id=c2c966612bc735ab892546d9cad9de9c-1764181800138~hmac=7078c5ca3ba51e4ec4e5e211a22e477beadc655062637ff04007ac62cc96998f|x-playback-session-id=8256afb1df6d2932fad77dfce56b9423-1764185824572&User-Agent=com.sonyliv/6.22.4 (Android 10; en_GB; SM-M307F; Build/QP1A.190711.020)",
+      "user_agent": "Unknown"
+    },
+    {
+      "id": "1090495984",
+      "name": "UEFA Champions League 2025-26",
+      "logo": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000011524/1763482312836274_UCL2526_MD5_Liverpool_vs_PSV_14nov_landscape_thumb.jpg",
+      "language": "Telugu",
+      "category": "Football",
+      "title": "TEL | Liverpool vs PSV - MD 5 - 27 Nov 2025",
+      "url": "https://sonymtmnew.akamaized.net/hls/live/2022317/DAI13ME-V3/master.m3u8?hdnea=exp=1764225002~acl=/*~id=c2c966612bc735ab892546d9cad9de9c-1764181800138~hmac=7078c5ca3ba51e4ec4e5e211a22e477beadc655062637ff04007ac62cc96998f|x-playback-session-id=8256afb1df6d2932fad77dfce56b9423-1764185824572&User-Agent=com.sonyliv/6.22.4 (Android 12; en_GB; LAVA LZX408; Build/SP1A.210812.016)",
       "user_agent": "Unknown"
     },
     {
@@ -110,7 +110,7 @@
       "language": "English",
       "category": "Football",
       "title": "ENG | PSG vs Tottenham - MD 5 - 27 Nov 2025",
-      "url": "https://sonymtmnew.akamaized.net/hls/live/2022315/DAI11ME-V3/master.m3u8?hdnea=exp=1764225002~acl=/*~id=c2c966612bc735ab892546d9cad9de9c-1764181800138~hmac=7078c5ca3ba51e4ec4e5e211a22e477beadc655062637ff04007ac62cc96998f|x-playback-session-id=28c6d7e6a0d18085c91503c5359022e0-1764185403504&User-Agent=com.sonyliv/6.22.4 (Android 11; en_GB; 2K NSTV; Build/RTM6.230109.134)",
+      "url": "https://sonymtmnew.akamaized.net/hls/live/2022315/DAI11ME-V3/master.m3u8?hdnea=exp=1764225002~acl=/*~id=c2c966612bc735ab892546d9cad9de9c-1764181800138~hmac=7078c5ca3ba51e4ec4e5e211a22e477beadc655062637ff04007ac62cc96998f|x-playback-session-id=8256afb1df6d2932fad77dfce56b9423-1764185824572&User-Agent=com.sonyliv/6.22.4 (Android 9; en_GB; MiTV-ANSP0; Build/PPR1.180610.011)",
       "user_agent": "Unknown"
     },
     {
@@ -120,7 +120,7 @@
       "language": "Hindi",
       "category": "Football",
       "title": "HIN | PSG vs Tottenham - MD 5 - 27 Nov 2025",
-      "url": "https://sonymtmnew.akamaized.net/hls/live/2022315/DAI11ME-V3/master.m3u8?hdnea=exp=1764225002~acl=/*~id=c2c966612bc735ab892546d9cad9de9c-1764181800138~hmac=7078c5ca3ba51e4ec4e5e211a22e477beadc655062637ff04007ac62cc96998f|x-playback-session-id=28c6d7e6a0d18085c91503c5359022e0-1764185403504&User-Agent=com.sonyliv/6.22.4 (Android 14; en_GB; Tablet; Build/UP1A.231105.003.A1)",
+      "url": "https://sonymtmnew.akamaized.net/hls/live/2022315/DAI11ME-V3/master.m3u8?hdnea=exp=1764225002~acl=/*~id=c2c966612bc735ab892546d9cad9de9c-1764181800138~hmac=7078c5ca3ba51e4ec4e5e211a22e477beadc655062637ff04007ac62cc96998f|x-playback-session-id=8256afb1df6d2932fad77dfce56b9423-1764185824572&User-Agent=com.sonyliv/6.22.4 (Android 7; en_GB; T96 MARS; Build/NHG47L)",
       "user_agent": "Unknown"
     },
     {
@@ -130,7 +130,7 @@
       "language": "Tamil",
       "category": "Football",
       "title": "TAM | PSG vs Tottenham - MD 5 - 27 Nov 2025",
-      "url": "https://sonymtmnew.akamaized.net/hls/live/2022315/DAI11ME-V3/master.m3u8?hdnea=exp=1764225002~acl=/*~id=c2c966612bc735ab892546d9cad9de9c-1764181800138~hmac=7078c5ca3ba51e4ec4e5e211a22e477beadc655062637ff04007ac62cc96998f|x-playback-session-id=28c6d7e6a0d18085c91503c5359022e0-1764185403504&User-Agent=com.sonyliv/6.22.4 (Android 11; en_GB; 4K SMART TV; Build/RTM6.230109.146)",
+      "url": "https://sonymtmnew.akamaized.net/hls/live/2022315/DAI11ME-V3/master.m3u8?hdnea=exp=1764225002~acl=/*~id=c2c966612bc735ab892546d9cad9de9c-1764181800138~hmac=7078c5ca3ba51e4ec4e5e211a22e477beadc655062637ff04007ac62cc96998f|x-playback-session-id=8256afb1df6d2932fad77dfce56b9423-1764185824572&User-Agent=com.sonyliv/6.22.4 (Android 13; en_GB; SM-E146B; Build/TP1A.220624.014)",
       "user_agent": "Unknown"
     },
     {
@@ -140,7 +140,7 @@
       "language": "Telugu",
       "category": "Football",
       "title": "TEL | PSG vs Tottenham - MD 5 - 27 Nov 2025",
-      "url": "https://sonymtmnew.akamaized.net/hls/live/2022315/DAI11ME-V3/master.m3u8?hdnea=exp=1764225002~acl=/*~id=c2c966612bc735ab892546d9cad9de9c-1764181800138~hmac=7078c5ca3ba51e4ec4e5e211a22e477beadc655062637ff04007ac62cc96998f|x-playback-session-id=28c6d7e6a0d18085c91503c5359022e0-1764185403504&User-Agent=com.sonyliv/6.22.4 (Android 14; en_GB; NE2211; Build/UKQ1.230924.001)",
+      "url": "https://sonymtmnew.akamaized.net/hls/live/2022315/DAI11ME-V3/master.m3u8?hdnea=exp=1764225002~acl=/*~id=c2c966612bc735ab892546d9cad9de9c-1764181800138~hmac=7078c5ca3ba51e4ec4e5e211a22e477beadc655062637ff04007ac62cc96998f|x-playback-session-id=8256afb1df6d2932fad77dfce56b9423-1764185824572&User-Agent=com.sonyliv/6.22.4 (Android 6; en_GB; Lenovo A6600d40; Build/MRA58K)",
       "user_agent": "Unknown"
     },
     {
@@ -150,7 +150,7 @@
       "language": "English",
       "category": "Football",
       "title": "ENG | Atletico vs Inter - MD 5 - 27 Nov 2025",
-      "url": "https://sonymtmnew.akamaized.net/hls/live/2094587/DAI03ME-V3/master.m3u8?hdnea=exp=1764225002~acl=/*~id=c2c966612bc735ab892546d9cad9de9c-1764181800138~hmac=7078c5ca3ba51e4ec4e5e211a22e477beadc655062637ff04007ac62cc96998f|x-playback-session-id=28c6d7e6a0d18085c91503c5359022e0-1764185403504&User-Agent=com.sonyliv/6.22.4 (Android 13; en_GB; Pixel 5; Build/TQ3A.230901.001)",
+      "url": "https://sonymtmnew.akamaized.net/hls/live/2094587/DAI03ME-V3/master.m3u8?hdnea=exp=1764225002~acl=/*~id=c2c966612bc735ab892546d9cad9de9c-1764181800138~hmac=7078c5ca3ba51e4ec4e5e211a22e477beadc655062637ff04007ac62cc96998f|x-playback-session-id=8256afb1df6d2932fad77dfce56b9423-1764185824572&User-Agent=com.sonyliv/6.22.4 (Android 11; en_GB; SM-M215G; Build/RP1A.200720.012)",
       "user_agent": "Unknown"
     },
     {
@@ -160,7 +160,7 @@
       "language": "Hindi",
       "category": "Football",
       "title": "HIN | Atletico vs Inter - MD 5 - 27 Nov 2025",
-      "url": "https://sonymtmnew.akamaized.net/hls/live/2094587/DAI03ME-V3/master.m3u8?hdnea=exp=1764225002~acl=/*~id=c2c966612bc735ab892546d9cad9de9c-1764181800138~hmac=7078c5ca3ba51e4ec4e5e211a22e477beadc655062637ff04007ac62cc96998f|x-playback-session-id=28c6d7e6a0d18085c91503c5359022e0-1764185403504&User-Agent=com.sonyliv/6.22.4 (Android 9; en_GB; NL5H00X; Build/PPR1.180610.011)",
+      "url": "https://sonymtmnew.akamaized.net/hls/live/2094587/DAI03ME-V3/master.m3u8?hdnea=exp=1764225002~acl=/*~id=c2c966612bc735ab892546d9cad9de9c-1764181800138~hmac=7078c5ca3ba51e4ec4e5e211a22e477beadc655062637ff04007ac62cc96998f|x-playback-session-id=8256afb1df6d2932fad77dfce56b9423-1764185824572&User-Agent=com.sonyliv/6.22.4 (Android 9; en_GB; Smart TV; Build/PPR1.180610.011)",
       "user_agent": "Unknown"
     },
     {
@@ -170,7 +170,7 @@
       "language": "Tamil",
       "category": "Football",
       "title": "TAM | Atletico vs Inter - MD 5 - 27 Nov 2025",
-      "url": "https://sonymtmnew.akamaized.net/hls/live/2094587/DAI03ME-V3/master.m3u8?hdnea=exp=1764225002~acl=/*~id=c2c966612bc735ab892546d9cad9de9c-1764181800138~hmac=7078c5ca3ba51e4ec4e5e211a22e477beadc655062637ff04007ac62cc96998f|x-playback-session-id=28c6d7e6a0d18085c91503c5359022e0-1764185403504&User-Agent=com.sonyliv/6.22.4 (Android 6; en_GB; SM-C5010; Build/MMB29M)",
+      "url": "https://sonymtmnew.akamaized.net/hls/live/2094587/DAI03ME-V3/master.m3u8?hdnea=exp=1764225002~acl=/*~id=c2c966612bc735ab892546d9cad9de9c-1764181800138~hmac=7078c5ca3ba51e4ec4e5e211a22e477beadc655062637ff04007ac62cc96998f|x-playback-session-id=8256afb1df6d2932fad77dfce56b9423-1764185824572&User-Agent=com.sonyliv/6.22.4 (Android 10; en_GB; SM-A307FN; Build/QP1A.190711.020)",
       "user_agent": "Unknown"
     },
     {
@@ -180,7 +180,7 @@
       "language": "Telugu",
       "category": "Football",
       "title": "TEL | Atletico vs Inter - MD 5 - 27 Nov 2025",
-      "url": "https://sonymtmnew.akamaized.net/hls/live/2094587/DAI03ME-V3/master.m3u8?hdnea=exp=1764225002~acl=/*~id=c2c966612bc735ab892546d9cad9de9c-1764181800138~hmac=7078c5ca3ba51e4ec4e5e211a22e477beadc655062637ff04007ac62cc96998f|x-playback-session-id=28c6d7e6a0d18085c91503c5359022e0-1764185403504&User-Agent=com.sonyliv/6.22.4 (Android 14; en_GB; SM-S901B; Build/UP1A.231005.007)",
+      "url": "https://sonymtmnew.akamaized.net/hls/live/2094587/DAI03ME-V3/master.m3u8?hdnea=exp=1764225002~acl=/*~id=c2c966612bc735ab892546d9cad9de9c-1764181800138~hmac=7078c5ca3ba51e4ec4e5e211a22e477beadc655062637ff04007ac62cc96998f|x-playback-session-id=8256afb1df6d2932fad77dfce56b9423-1764185824572&User-Agent=com.sonyliv/6.22.4 (Android 12; en_GB; SM-A042F; Build/SP1A.210812.016)",
       "user_agent": "Unknown"
     },
     {
@@ -190,7 +190,7 @@
       "language": "English",
       "category": "Football",
       "title": "ENG | Frankfurt vs Atalanta - MD 5 - 27 Nov 2025",
-      "url": "https://sonymtmnew.akamaized.net/hls/live/2005445/DAI06ME-V3/master.m3u8?hdnea=exp=1764225002~acl=/*~id=c2c966612bc735ab892546d9cad9de9c-1764181800138~hmac=7078c5ca3ba51e4ec4e5e211a22e477beadc655062637ff04007ac62cc96998f|x-playback-session-id=28c6d7e6a0d18085c91503c5359022e0-1764185403504&User-Agent=com.sonyliv/6.22.4 (Android 13; en_GB; dedede; Build/R140-16371.65.0)",
+      "url": "https://sonymtmnew.akamaized.net/hls/live/2005445/DAI06ME-V3/master.m3u8?hdnea=exp=1764225002~acl=/*~id=c2c966612bc735ab892546d9cad9de9c-1764181800138~hmac=7078c5ca3ba51e4ec4e5e211a22e477beadc655062637ff04007ac62cc96998f|x-playback-session-id=8256afb1df6d2932fad77dfce56b9423-1764185824572&User-Agent=com.sonyliv/6.22.4 (Android 15; en_GB; Pixel 8a; Build/AP4A.241205.013)",
       "user_agent": "Unknown"
     },
     {
@@ -200,7 +200,7 @@
       "language": "Hindi",
       "category": "Football",
       "title": "HIN | Frankfurt vs Atalanta - MD 5 - 27 Nov 2025",
-      "url": "https://sonymtmnew.akamaized.net/hls/live/2005445/DAI06ME-V3/master.m3u8?hdnea=exp=1764225002~acl=/*~id=c2c966612bc735ab892546d9cad9de9c-1764181800138~hmac=7078c5ca3ba51e4ec4e5e211a22e477beadc655062637ff04007ac62cc96998f|x-playback-session-id=28c6d7e6a0d18085c91503c5359022e0-1764185403504&User-Agent=com.sonyliv/6.22.4 (Android 7; en_GB; 43UHDXSMART; Build/NRD90M)",
+      "url": "https://sonymtmnew.akamaized.net/hls/live/2005445/DAI06ME-V3/master.m3u8?hdnea=exp=1764225002~acl=/*~id=c2c966612bc735ab892546d9cad9de9c-1764181800138~hmac=7078c5ca3ba51e4ec4e5e211a22e477beadc655062637ff04007ac62cc96998f|x-playback-session-id=8256afb1df6d2932fad77dfce56b9423-1764185824572&User-Agent=com.sonyliv/6.22.4 (Android 14; en_GB; moto g85 5G; Build/U3UO34.49-40-1)",
       "user_agent": "Unknown"
     },
     {
@@ -210,7 +210,7 @@
       "language": "Tamil",
       "category": "Football",
       "title": "TAM | Frankfurt vs Atalanta - MD 5 - 27 Nov 2025",
-      "url": "https://sonymtmnew.akamaized.net/hls/live/2005445/DAI06ME-V3/master.m3u8?hdnea=exp=1764225002~acl=/*~id=c2c966612bc735ab892546d9cad9de9c-1764181800138~hmac=7078c5ca3ba51e4ec4e5e211a22e477beadc655062637ff04007ac62cc96998f|x-playback-session-id=28c6d7e6a0d18085c91503c5359022e0-1764185403504&User-Agent=com.sonyliv/6.22.4 (Android 13; en_GB; SM-A528B; Build/TP1A.220624.014)",
+      "url": "https://sonymtmnew.akamaized.net/hls/live/2005445/DAI06ME-V3/master.m3u8?hdnea=exp=1764225002~acl=/*~id=c2c966612bc735ab892546d9cad9de9c-1764181800138~hmac=7078c5ca3ba51e4ec4e5e211a22e477beadc655062637ff04007ac62cc96998f|x-playback-session-id=8256afb1df6d2932fad77dfce56b9423-1764185824572&User-Agent=com.sonyliv/6.22.4 (Android 14; en_GB; 2312DRAABG; Build/UP1A.231005.007)",
       "user_agent": "Unknown"
     },
     {
@@ -220,7 +220,7 @@
       "language": "Telugu",
       "category": "Football",
       "title": "TEL | Frankfurt vs Atalanta - MD 5 - 27 Nov 2025",
-      "url": "https://sonymtmnew.akamaized.net/hls/live/2005445/DAI06ME-V3/master.m3u8?hdnea=exp=1764225002~acl=/*~id=c2c966612bc735ab892546d9cad9de9c-1764181800138~hmac=7078c5ca3ba51e4ec4e5e211a22e477beadc655062637ff04007ac62cc96998f|x-playback-session-id=28c6d7e6a0d18085c91503c5359022e0-1764185403504&User-Agent=com.sonyliv/6.22.4 (Android 11; en_GB; CPH2061; Build/RKQ1.200903.002)",
+      "url": "https://sonymtmnew.akamaized.net/hls/live/2005445/DAI06ME-V3/master.m3u8?hdnea=exp=1764225002~acl=/*~id=c2c966612bc735ab892546d9cad9de9c-1764181800138~hmac=7078c5ca3ba51e4ec4e5e211a22e477beadc655062637ff04007ac62cc96998f|x-playback-session-id=8256afb1df6d2932fad77dfce56b9423-1764185824572&User-Agent=com.sonyliv/6.22.4 (Android 14; en_GB; 2KTV-2TH; Build/UKR1.241015)",
       "user_agent": "Unknown"
     },
     {
@@ -230,7 +230,7 @@
       "language": "English",
       "category": "Football",
       "title": "ENG | Sporting CP vs Club Brugge - MD 5 - 27 Nov 2025",
-      "url": "https://sonymtmnew.akamaized.net/hls/live/2022318/DAI14ME-V3/master.m3u8?hdnea=exp=1764225002~acl=/*~id=c2c966612bc735ab892546d9cad9de9c-1764181800138~hmac=7078c5ca3ba51e4ec4e5e211a22e477beadc655062637ff04007ac62cc96998f|x-playback-session-id=28c6d7e6a0d18085c91503c5359022e0-1764185403504&User-Agent=com.sonyliv/6.22.4 (Android 11; en_GB; HY320Mini; Build/RP1A.201005.006)",
+      "url": "https://sonymtmnew.akamaized.net/hls/live/2022318/DAI14ME-V3/master.m3u8?hdnea=exp=1764225002~acl=/*~id=c2c966612bc735ab892546d9cad9de9c-1764181800138~hmac=7078c5ca3ba51e4ec4e5e211a22e477beadc655062637ff04007ac62cc96998f|x-playback-session-id=8256afb1df6d2932fad77dfce56b9423-1764185824572&User-Agent=com.sonyliv/6.22.4 (Android 15; en_GB; SM-M558B; Build/AP3A.240905.015.A2)",
       "user_agent": "Unknown"
     },
     {
@@ -240,7 +240,7 @@
       "language": "Hindi",
       "category": "Football",
       "title": "HIN | Sporting CP vs Club Brugge - MD 5 - 27 Nov 2025",
-      "url": "https://sonymtmnew.akamaized.net/hls/live/2022318/DAI14ME-V3/master.m3u8?hdnea=exp=1764225002~acl=/*~id=c2c966612bc735ab892546d9cad9de9c-1764181800138~hmac=7078c5ca3ba51e4ec4e5e211a22e477beadc655062637ff04007ac62cc96998f|x-playback-session-id=28c6d7e6a0d18085c91503c5359022e0-1764185403504&User-Agent=com.sonyliv/6.22.4 (Android 9; en_GB; SM-G977N; Build/PQ3A.190605.01111538)",
+      "url": "https://sonymtmnew.akamaized.net/hls/live/2022318/DAI14ME-V3/master.m3u8?hdnea=exp=1764225002~acl=/*~id=c2c966612bc735ab892546d9cad9de9c-1764181800138~hmac=7078c5ca3ba51e4ec4e5e211a22e477beadc655062637ff04007ac62cc96998f|x-playback-session-id=8256afb1df6d2932fad77dfce56b9423-1764185824572&User-Agent=com.sonyliv/6.22.4 (Android 11; en_GB; TV Stick; Build/RTT0.210829.002)",
       "user_agent": "Unknown"
     },
     {
@@ -250,7 +250,7 @@
       "language": "Tamil",
       "category": "Football",
       "title": "TAM | Sporting CP vs Club Brugge - MD 5 - 27 Nov 2025",
-      "url": "https://sonymtmnew.akamaized.net/hls/live/2022318/DAI14ME-V3/master.m3u8?hdnea=exp=1764225002~acl=/*~id=c2c966612bc735ab892546d9cad9de9c-1764181800138~hmac=7078c5ca3ba51e4ec4e5e211a22e477beadc655062637ff04007ac62cc96998f|x-playback-session-id=28c6d7e6a0d18085c91503c5359022e0-1764185403504&User-Agent=com.sonyliv/6.22.4 (Android 11; en_GB; SPPL4K GOOGLE TV; Build/RTK5.250429.005)",
+      "url": "https://sonymtmnew.akamaized.net/hls/live/2022318/DAI14ME-V3/master.m3u8?hdnea=exp=1764225002~acl=/*~id=c2c966612bc735ab892546d9cad9de9c-1764181800138~hmac=7078c5ca3ba51e4ec4e5e211a22e477beadc655062637ff04007ac62cc96998f|x-playback-session-id=8256afb1df6d2932fad77dfce56b9423-1764185824572&User-Agent=com.sonyliv/6.22.4 (Android 11; en_GB; Infinix X6810; Build/RP1A.200720.011)",
       "user_agent": "Unknown"
     },
     {
@@ -260,7 +260,7 @@
       "language": "Telugu",
       "category": "Football",
       "title": "TEL | Sporting CP vs Club Brugge - MD 5 - 27 Nov 2025",
-      "url": "https://sonymtmnew.akamaized.net/hls/live/2022318/DAI14ME-V3/master.m3u8?hdnea=exp=1764225002~acl=/*~id=c2c966612bc735ab892546d9cad9de9c-1764181800138~hmac=7078c5ca3ba51e4ec4e5e211a22e477beadc655062637ff04007ac62cc96998f|x-playback-session-id=28c6d7e6a0d18085c91503c5359022e0-1764185403504&User-Agent=com.sonyliv/6.22.4 (Android 7; en_GB; Percee TV; Build/NTG46)",
+      "url": "https://sonymtmnew.akamaized.net/hls/live/2022318/DAI14ME-V3/master.m3u8?hdnea=exp=1764225002~acl=/*~id=c2c966612bc735ab892546d9cad9de9c-1764181800138~hmac=7078c5ca3ba51e4ec4e5e211a22e477beadc655062637ff04007ac62cc96998f|x-playback-session-id=8256afb1df6d2932fad77dfce56b9423-1764185824572&User-Agent=com.sonyliv/6.22.4 (Android 14; en_GB; V2420; Build/UP1A.231005.007)",
       "user_agent": "Unknown"
     },
     {
@@ -270,7 +270,7 @@
       "language": "English",
       "category": "Football",
       "title": "ENG | Pafos vs Monaco - MD 5 - 26 Nov 2025",
-      "url": "https://sonymtmnew.akamaized.net/hls/live/2105079/DAI08ME-V3/master.m3u8?hdnea=exp=1764225002~acl=/*~id=c2c966612bc735ab892546d9cad9de9c-1764181800138~hmac=7078c5ca3ba51e4ec4e5e211a22e477beadc655062637ff04007ac62cc96998f|x-playback-session-id=28c6d7e6a0d18085c91503c5359022e0-1764185403504&User-Agent=com.sonyliv/6.22.4 (Android 12; en_GB; N.H352.817.253; Build/SP1A.210812.016)",
+      "url": "https://sonymtmnew.akamaized.net/hls/live/2105079/DAI08ME-V3/master.m3u8?hdnea=exp=1764225002~acl=/*~id=c2c966612bc735ab892546d9cad9de9c-1764181800138~hmac=7078c5ca3ba51e4ec4e5e211a22e477beadc655062637ff04007ac62cc96998f|x-playback-session-id=8256afb1df6d2932fad77dfce56b9423-1764185824572&User-Agent=com.sonyliv/6.22.4 (Android 9; en_GB; V2329A; Build/PQ3A.190605.03081104)",
       "user_agent": "Unknown"
     },
     {
@@ -280,7 +280,7 @@
       "language": "Hindi",
       "category": "Football",
       "title": "HIN | Pafos vs Monaco - MD 5 - 26 Nov 2025",
-      "url": "https://sonymtmnew.akamaized.net/hls/live/2094588/DAI04ME-V3/master.m3u8?hdnea=exp=1764225002~acl=/*~id=c2c966612bc735ab892546d9cad9de9c-1764181800138~hmac=7078c5ca3ba51e4ec4e5e211a22e477beadc655062637ff04007ac62cc96998f|x-playback-session-id=28c6d7e6a0d18085c91503c5359022e0-1764185403504&User-Agent=com.sonyliv/6.22.4 (Android 11; en_GB; DAC51U; Build/RTK2.230523.103)",
+      "url": "https://sonymtmnew.akamaized.net/hls/live/2094588/DAI04ME-V3/master.m3u8?hdnea=exp=1764225002~acl=/*~id=c2c966612bc735ab892546d9cad9de9c-1764181800138~hmac=7078c5ca3ba51e4ec4e5e211a22e477beadc655062637ff04007ac62cc96998f|x-playback-session-id=8256afb1df6d2932fad77dfce56b9423-1764185824572&User-Agent=com.sonyliv/6.22.4 (Android 14; en_GB; V2126; Build/UP1A.231005.007)",
       "user_agent": "Unknown"
     },
     {
@@ -290,7 +290,7 @@
       "language": "Tamil",
       "category": "Football",
       "title": "TAM | Pafos vs Monaco - MD 5 - 26 Nov 2025",
-      "url": "https://sonymtmnew.akamaized.net/hls/live/2022319/DAI15ME-V3/master.m3u8?hdnea=exp=1764225002~acl=/*~id=c2c966612bc735ab892546d9cad9de9c-1764181800138~hmac=7078c5ca3ba51e4ec4e5e211a22e477beadc655062637ff04007ac62cc96998f|x-playback-session-id=28c6d7e6a0d18085c91503c5359022e0-1764185403504&User-Agent=com.sonyliv/6.22.4 (Android 14; en_GB; 23129RA5FL; Build/UKQ1.231207.002)",
+      "url": "https://sonymtmnew.akamaized.net/hls/live/2022319/DAI15ME-V3/master.m3u8?hdnea=exp=1764225002~acl=/*~id=c2c966612bc735ab892546d9cad9de9c-1764181800138~hmac=7078c5ca3ba51e4ec4e5e211a22e477beadc655062637ff04007ac62cc96998f|x-playback-session-id=8256afb1df6d2932fad77dfce56b9423-1764185824572&User-Agent=com.sonyliv/6.22.4 (Android 13; en_GB; TECNO CI8n; Build/TP1A.220624.014)",
       "user_agent": "Unknown"
     },
     {
@@ -300,7 +300,7 @@
       "language": "Telugu",
       "category": "Football",
       "title": "TEL | Pafos vs Monaco - MD 5 - 26 Nov 2025",
-      "url": "https://sonymtmnew.akamaized.net/hls/live/2037141/DAI21ME-V3/master.m3u8?hdnea=exp=1764225002~acl=/*~id=c2c966612bc735ab892546d9cad9de9c-1764181800138~hmac=7078c5ca3ba51e4ec4e5e211a22e477beadc655062637ff04007ac62cc96998f|x-playback-session-id=28c6d7e6a0d18085c91503c5359022e0-1764185403504&User-Agent=com.sonyliv/6.22.4 (Android 12; en_GB; BTX6226; Build/SP1A.210812.016)",
+      "url": "https://sonymtmnew.akamaized.net/hls/live/2037141/DAI21ME-V3/master.m3u8?hdnea=exp=1764225002~acl=/*~id=c2c966612bc735ab892546d9cad9de9c-1764181800138~hmac=7078c5ca3ba51e4ec4e5e211a22e477beadc655062637ff04007ac62cc96998f|x-playback-session-id=8256afb1df6d2932fad77dfce56b9423-1764185824572&User-Agent=com.sonyliv/6.22.4 (Android 11; en_GB; LE2111; Build/RKQ1.201105.002)",
       "user_agent": "Unknown"
     },
     {
@@ -310,7 +310,7 @@
       "language": "English",
       "category": "Football",
       "title": "ENG | Copenhagen vs Kairat Almaty - MD 5 - 26 Nov 2025",
-      "url": "https://sonymtmnew.akamaized.net/hls/live/2018458/DAI10ME-V3/master.m3u8?hdnea=exp=1764225002~acl=/*~id=c2c966612bc735ab892546d9cad9de9c-1764181800138~hmac=7078c5ca3ba51e4ec4e5e211a22e477beadc655062637ff04007ac62cc96998f|x-playback-session-id=28c6d7e6a0d18085c91503c5359022e0-1764185403504&User-Agent=com.sonyliv/6.22.4 (Android 11; en_GB; M2101K7AG; Build/RKQ1.201022.002)",
+      "url": "https://sonymtmnew.akamaized.net/hls/live/2018458/DAI10ME-V3/master.m3u8?hdnea=exp=1764225002~acl=/*~id=c2c966612bc735ab892546d9cad9de9c-1764181800138~hmac=7078c5ca3ba51e4ec4e5e211a22e477beadc655062637ff04007ac62cc96998f|x-playback-session-id=8256afb1df6d2932fad77dfce56b9423-1764185824572&User-Agent=com.sonyliv/6.22.4 (Android 15; en_GB; motorola edge 30 ultra; Build/V1SQS35H.58-10-8-3)",
       "user_agent": "Unknown"
     },
     {
@@ -320,7 +320,7 @@
       "language": "Hindi",
       "category": "Football",
       "title": "HIN | Copenhagen vs Kairat Almaty - MD 5 - 26 Nov 2025",
-      "url": "https://sonymtmnew.akamaized.net/hls/live/2018458/DAI10ME-V3/master.m3u8?hdnea=exp=1764225002~acl=/*~id=c2c966612bc735ab892546d9cad9de9c-1764181800138~hmac=7078c5ca3ba51e4ec4e5e211a22e477beadc655062637ff04007ac62cc96998f|x-playback-session-id=28c6d7e6a0d18085c91503c5359022e0-1764185403504&User-Agent=com.sonyliv/6.22.4 (Android 14; en_GB; SM-M536B; Build/UP1A.231005.007)",
+      "url": "https://sonymtmnew.akamaized.net/hls/live/2018458/DAI10ME-V3/master.m3u8?hdnea=exp=1764225002~acl=/*~id=c2c966612bc735ab892546d9cad9de9c-1764181800138~hmac=7078c5ca3ba51e4ec4e5e211a22e477beadc655062637ff04007ac62cc96998f|x-playback-session-id=8256afb1df6d2932fad77dfce56b9423-1764185824572&User-Agent=com.sonyliv/6.22.4 (Android 13; en_GB; SM-N770F; Build/TP1A.220624.014)",
       "user_agent": "Unknown"
     },
     {
@@ -330,7 +330,7 @@
       "language": "Tamil",
       "category": "Football",
       "title": "TAM | Copenhagen vs Kairat Almaty - MD 5 - 26 Nov 2025",
-      "url": "https://sonymtmnew.akamaized.net/hls/live/2018458/DAI10ME-V3/master.m3u8?hdnea=exp=1764225002~acl=/*~id=c2c966612bc735ab892546d9cad9de9c-1764181800138~hmac=7078c5ca3ba51e4ec4e5e211a22e477beadc655062637ff04007ac62cc96998f|x-playback-session-id=28c6d7e6a0d18085c91503c5359022e0-1764185403504&User-Agent=com.sonyliv/6.22.4 (Android 15; en_GB; SM-A175F; Build/AP3A.240905.015.A2)",
+      "url": "https://sonymtmnew.akamaized.net/hls/live/2018458/DAI10ME-V3/master.m3u8?hdnea=exp=1764225002~acl=/*~id=c2c966612bc735ab892546d9cad9de9c-1764181800138~hmac=7078c5ca3ba51e4ec4e5e211a22e477beadc655062637ff04007ac62cc96998f|x-playback-session-id=8256afb1df6d2932fad77dfce56b9423-1764185824572&User-Agent=com.sonyliv/6.22.4 (Android 11; en_GB; ATV R2; Build/RTT7.220308.001)",
       "user_agent": "Unknown"
     },
     {
@@ -340,7 +340,7 @@
       "language": "Telugu",
       "category": "Football",
       "title": "TEL | Copenhagen vs Kairat Almaty - MD 5 - 26 Nov 2025",
-      "url": "https://sonymtmnew.akamaized.net/hls/live/2018458/DAI10ME-V3/master.m3u8?hdnea=exp=1764225002~acl=/*~id=c2c966612bc735ab892546d9cad9de9c-1764181800138~hmac=7078c5ca3ba51e4ec4e5e211a22e477beadc655062637ff04007ac62cc96998f|x-playback-session-id=28c6d7e6a0d18085c91503c5359022e0-1764185403504&User-Agent=com.sonyliv/6.22.4 (Android 8; en_GB; SM-A720F; Build/R16NW)",
+      "url": "https://sonymtmnew.akamaized.net/hls/live/2018458/DAI10ME-V3/master.m3u8?hdnea=exp=1764225002~acl=/*~id=c2c966612bc735ab892546d9cad9de9c-1764181800138~hmac=7078c5ca3ba51e4ec4e5e211a22e477beadc655062637ff04007ac62cc96998f|x-playback-session-id=8256afb1df6d2932fad77dfce56b9423-1764185824572&User-Agent=com.sonyliv/6.22.4 (Android 10; en_GB; TV BOX; Build/NRD91N)",
       "user_agent": "Unknown"
     }
   ]
