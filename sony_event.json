@@ -1,6 +1,6 @@
 {
   "api_made_by": "bd coder boy",
-  "updated": "Wed, 26 Nov 2025 15:34:30 GMT",
+  "updated": "Wed, 26 Nov 2025 15:47:06 GMT",
   "total_events": 2,
   "events": [
     {
@@ -10,7 +10,7 @@
       "language": "Hindi",
       "category": "Game show",
       "title": "HIN | E78. Kaun Banega Crorepati - Season 17",
-      "url": "https://sonymtmnew.akamaized.net/hls/live/2043696/DAI26ME-KBC/master.m3u8?hdnea=exp=1764203402~acl=/*~id=72225b2d8d4096c6175fc8a1b4324bfd-1764160200123~hmac=dda2192d843c7dae63b6ed0c4c0d53ad504805a758cb7920587f50d835ce0316|x-playback-session-id=4099b01d0bc6ebddb029c1ee1a86737f-1764171003631&User-Agent=com.sonyliv/6.22.4 (Android 14; en_GB; CPH2531; Build/SP1A.210812.016)",
+      "url": "https://sonymtmnew.akamaized.net/hls/live/2043696/DAI26ME-KBC/master.m3u8?hdnea=exp=1764203402~acl=/*~id=72225b2d8d4096c6175fc8a1b4324bfd-1764160200123~hmac=dda2192d843c7dae63b6ed0c4c0d53ad504805a758cb7920587f50d835ce0316|x-playback-session-id=5054bdbe432347a0820a69d4d76fef53-1764171843752&User-Agent=com.sonyliv/6.22.4 (Android 11; en_GB; Toshiba TV; Build/RTM8.240401.197)",
       "user_agent": "Unknown"
     },
     {
@@ -20,7 +20,7 @@
       "language": "English",
       "category": "Football",
       "title": "ENG | Frankfurt vs Atalanta - MD 5 - 26 Nov 2025",
-      "url": "https://sonymtmnew.akamaized.net/hls/live/2094589/DAI05ME-V3/master.m3u8?hdnea=exp=1764203402~acl=/*~id=72225b2d8d4096c6175fc8a1b4324bfd-1764160200123~hmac=dda2192d843c7dae63b6ed0c4c0d53ad504805a758cb7920587f50d835ce0316|x-playback-session-id=4099b01d0bc6ebddb029c1ee1a86737f-1764171003631&User-Agent=com.sonyliv/6.22.4 (Android 10; en_GB; PPA-LX2; Build/HUAWEIPPA-LX2)",
+      "url": "https://sonymtmnew.akamaized.net/hls/live/2094589/DAI05ME-V3/master.m3u8?hdnea=exp=1764203402~acl=/*~id=72225b2d8d4096c6175fc8a1b4324bfd-1764160200123~hmac=dda2192d843c7dae63b6ed0c4c0d53ad504805a758cb7920587f50d835ce0316|x-playback-session-id=5054bdbe432347a0820a69d4d76fef53-1764171843752&User-Agent=com.sonyliv/6.22.4 (Android 9; en_GB; AFTSSS; Build/PS7646.3560N)",
       "user_agent": "Unknown"
     }
   ]
