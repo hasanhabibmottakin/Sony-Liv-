@@ -1,6 +1,6 @@
 {
   "api_made_by": "bd coder boy",
-  "updated": "Wed, 26 Nov 2025 20:15:10 GMT",
+  "updated": "Wed, 26 Nov 2025 20:32:46 GMT",
   "total_events": 8,
   "events": [
     {
@@ -10,7 +10,7 @@
       "language": "English",
       "category": "Football",
       "title": "ENG | Arsenal vs Bayern Munich - MD 5 - 27 Nov 2025",
-      "url": "https://sonymtmnew.akamaized.net/hls/live/2022322/DAI18ME-V3/master.m3u8?hdnea=exp=1764225002~acl=/*~id=c2c966612bc735ab892546d9cad9de9c-1764181800138~hmac=7078c5ca3ba51e4ec4e5e211a22e477beadc655062637ff04007ac62cc96998f|x-playback-session-id=178362e68371b7d95540c44ea7648ff3-1764187923258&User-Agent=com.sonyliv/6.22.4 (Android 9; en_GB; itel L6501; Build/PPR1.180610.011)",
+      "url": "https://sonymtmnew.akamaized.net/hls/live/2022322/DAI18ME-V3/master.m3u8?hdnea=exp=1764225002~acl=/*~id=c2c966612bc735ab892546d9cad9de9c-1764181800138~hmac=7078c5ca3ba51e4ec4e5e211a22e477beadc655062637ff04007ac62cc96998f|x-playback-session-id=ba83b68893297c4e7e8193effed8762e-1764189004297&User-Agent=com.sonyliv/6.22.4 (Android 11; en_GB; 40D; Build/RTM5.220609.163)",
       "user_agent": "Unknown"
     },
     {
@@ -20,7 +20,7 @@
       "language": "Hindi",
       "category": "Football",
       "title": "HIN | Arsenal vs Bayern Munich - MD 5 - 27 Nov 2025",
-      "url": "https://sonymtmnew.akamaized.net/hls/live/2037140/DAI20ME-V3/master.m3u8?hdnea=exp=1764225002~acl=/*~id=c2c966612bc735ab892546d9cad9de9c-1764181800138~hmac=7078c5ca3ba51e4ec4e5e211a22e477beadc655062637ff04007ac62cc96998f|x-playback-session-id=178362e68371b7d95540c44ea7648ff3-1764187923258&User-Agent=com.sonyliv/6.22.4 (Android 13; en_GB; SMART2KPJT; Build/TQ1A.230205.002)",
+      "url": "https://sonymtmnew.akamaized.net/hls/live/2037140/DAI20ME-V3/master.m3u8?hdnea=exp=1764225002~acl=/*~id=c2c966612bc735ab892546d9cad9de9c-1764181800138~hmac=7078c5ca3ba51e4ec4e5e211a22e477beadc655062637ff04007ac62cc96998f|x-playback-session-id=ba83b68893297c4e7e8193effed8762e-1764189004297&User-Agent=com.sonyliv/6.22.4 (Android 16; en_GB; Pixel 9 Pro Fold; Build/BP3A.251005.004.B1)",
       "user_agent": "Unknown"
     },
     {
@@ -30,7 +30,7 @@
       "language": "English",
       "category": "Football",
       "title": "ENG | Olympiacos vs Real Madrid - MD 5 - 27 Nov 2025",
-      "url": "https://sonymtmnew.akamaized.net/hls/live/2018457/DAI09ME-V3/master.m3u8?hdnea=exp=1764225002~acl=/*~id=c2c966612bc735ab892546d9cad9de9c-1764181800138~hmac=7078c5ca3ba51e4ec4e5e211a22e477beadc655062637ff04007ac62cc96998f|x-playback-session-id=178362e68371b7d95540c44ea7648ff3-1764187923258&User-Agent=com.sonyliv/6.22.4 (Android 10; en_GB; Andbox_EdgePlus; Build/AndBox_EdgePlus)",
+      "url": "https://sonymtmnew.akamaized.net/hls/live/2018457/DAI09ME-V3/master.m3u8?hdnea=exp=1764225002~acl=/*~id=c2c966612bc735ab892546d9cad9de9c-1764181800138~hmac=7078c5ca3ba51e4ec4e5e211a22e477beadc655062637ff04007ac62cc96998f|x-playback-session-id=ba83b68893297c4e7e8193effed8762e-1764189004297&User-Agent=com.sonyliv/6.22.4 (Android 13; en_GB; Infinix X6528B; Build/TP1A.220624.014)",
       "user_agent": "Unknown"
     },
     {
@@ -40,7 +40,7 @@
       "language": "English",
       "category": "Football",
       "title": "ENG | Liverpool vs PSV - MD 5 - 27 Nov 2025",
-      "url": "https://sonymtmnew.akamaized.net/hls/live/2022317/DAI13ME-V3/master.m3u8?hdnea=exp=1764225002~acl=/*~id=c2c966612bc735ab892546d9cad9de9c-1764181800138~hmac=7078c5ca3ba51e4ec4e5e211a22e477beadc655062637ff04007ac62cc96998f|x-playback-session-id=178362e68371b7d95540c44ea7648ff3-1764187923258&User-Agent=com.sonyliv/6.22.4 (Android 11; en_GB; Apollo Premium2K TV; Build/RTM7.230903.099)",
+      "url": "https://sonymtmnew.akamaized.net/hls/live/2022317/DAI13ME-V3/master.m3u8?hdnea=exp=1764225002~acl=/*~id=c2c966612bc735ab892546d9cad9de9c-1764181800138~hmac=7078c5ca3ba51e4ec4e5e211a22e477beadc655062637ff04007ac62cc96998f|x-playback-session-id=ba83b68893297c4e7e8193effed8762e-1764189004297&User-Agent=com.sonyliv/6.22.4 (Android 14; en_GB; 23124RN87G; Build/UP1A.231005.007)",
       "user_agent": "Unknown"
     },
     {
@@ -50,7 +50,7 @@
       "language": "English",
       "category": "Football",
       "title": "ENG | PSG vs Tottenham - MD 5 - 27 Nov 2025",
-      "url": "https://sonymtmnew.akamaized.net/hls/live/2022315/DAI11ME-V3/master.m3u8?hdnea=exp=1764225002~acl=/*~id=c2c966612bc735ab892546d9cad9de9c-1764181800138~hmac=7078c5ca3ba51e4ec4e5e211a22e477beadc655062637ff04007ac62cc96998f|x-playback-session-id=178362e68371b7d95540c44ea7648ff3-1764187923258&User-Agent=com.sonyliv/6.22.4 (Android 11; en_GB; X4Q; Build/RD2A.211001.002)",
+      "url": "https://sonymtmnew.akamaized.net/hls/live/2022315/DAI11ME-V3/master.m3u8?hdnea=exp=1764225002~acl=/*~id=c2c966612bc735ab892546d9cad9de9c-1764181800138~hmac=7078c5ca3ba51e4ec4e5e211a22e477beadc655062637ff04007ac62cc96998f|x-playback-session-id=ba83b68893297c4e7e8193effed8762e-1764189004297&User-Agent=com.sonyliv/6.22.4 (Android 9; en_GB; Lenovo L38111; Build/PKQ1.190127.001)",
       "user_agent": "Unknown"
     },
     {
@@ -60,7 +60,7 @@
       "language": "English",
       "category": "Football",
       "title": "ENG | Atletico vs Inter - MD 5 - 27 Nov 2025",
-      "url": "https://sonymtmnew.akamaized.net/hls/live/2094587/DAI03ME-V3/master.m3u8?hdnea=exp=1764225002~acl=/*~id=c2c966612bc735ab892546d9cad9de9c-1764181800138~hmac=7078c5ca3ba51e4ec4e5e211a22e477beadc655062637ff04007ac62cc96998f|x-playback-session-id=178362e68371b7d95540c44ea7648ff3-1764187923258&User-Agent=com.sonyliv/6.22.4 (Android 15; en_GB; motorola edge 60 stylus; Build/V2VB35.29-127-3)",
+      "url": "https://sonymtmnew.akamaized.net/hls/live/2094587/DAI03ME-V3/master.m3u8?hdnea=exp=1764225002~acl=/*~id=c2c966612bc735ab892546d9cad9de9c-1764181800138~hmac=7078c5ca3ba51e4ec4e5e211a22e477beadc655062637ff04007ac62cc96998f|x-playback-session-id=ba83b68893297c4e7e8193effed8762e-1764189004297&User-Agent=com.sonyliv/6.22.4 (Android 12; en_GB; SM-M045F; Build/SP1A.210812.016)",
       "user_agent": "Unknown"
     },
     {
@@ -70,7 +70,7 @@
       "language": "English",
       "category": "Football",
       "title": "ENG | Frankfurt vs Atalanta - MD 5 - 27 Nov 2025",
-      "url": "https://sonymtmnew.akamaized.net/hls/live/2005445/DAI06ME-V3/master.m3u8?hdnea=exp=1764225002~acl=/*~id=c2c966612bc735ab892546d9cad9de9c-1764181800138~hmac=7078c5ca3ba51e4ec4e5e211a22e477beadc655062637ff04007ac62cc96998f|x-playback-session-id=178362e68371b7d95540c44ea7648ff3-1764187923258&User-Agent=com.sonyliv/6.22.4 (Android 13; en_GB; V2135; Build/TP1A.220624.014)",
+      "url": "https://sonymtmnew.akamaized.net/hls/live/2005445/DAI06ME-V3/master.m3u8?hdnea=exp=1764225002~acl=/*~id=c2c966612bc735ab892546d9cad9de9c-1764181800138~hmac=7078c5ca3ba51e4ec4e5e211a22e477beadc655062637ff04007ac62cc96998f|x-playback-session-id=ba83b68893297c4e7e8193effed8762e-1764189004297&User-Agent=com.sonyliv/6.22.4 (Android 11; en_GB; RMX2040; Build/RP1A.200720.011)",
       "user_agent": "Unknown"
     },
     {
@@ -80,7 +80,7 @@
       "language": "English",
       "category": "Football",
       "title": "ENG | Sporting CP vs Club Brugge - MD 5 - 27 Nov 2025",
-      "url": "https://sonymtmnew.akamaized.net/hls/live/2022318/DAI14ME-V3/master.m3u8?hdnea=exp=1764225002~acl=/*~id=c2c966612bc735ab892546d9cad9de9c-1764181800138~hmac=7078c5ca3ba51e4ec4e5e211a22e477beadc655062637ff04007ac62cc96998f|x-playback-session-id=178362e68371b7d95540c44ea7648ff3-1764187923258&User-Agent=com.sonyliv/6.22.4 (Android 9; en_GB; AFTGRO001; Build/PS7704.5024N)",
+      "url": "https://sonymtmnew.akamaized.net/hls/live/2022318/DAI14ME-V3/master.m3u8?hdnea=exp=1764225002~acl=/*~id=c2c966612bc735ab892546d9cad9de9c-1764181800138~hmac=7078c5ca3ba51e4ec4e5e211a22e477beadc655062637ff04007ac62cc96998f|x-playback-session-id=ba83b68893297c4e7e8193effed8762e-1764189004297&User-Agent=com.sonyliv/6.22.4 (Android 11; en_GB; Lumio Arc 5; Build/RTMA.250416.128)",
       "user_agent": "Unknown"
     }
   ]
