@@ -1,6 +1,17 @@
 {
   "api_made_by": "bd coder boy",
-  "updated": "Thu, 27 Nov 2025 14:57:46 GMT",
-  "total_events": 0,
-  "events": []
+  "updated": "Thu, 27 Nov 2025 15:20:22 GMT",
+  "total_events": 1,
+  "events": [
+    {
+      "id": "1090486148",
+      "name": "Kaun Banega Crorepati",
+      "logo": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000011753/1763985455347762_kbc25_Live_simulcast_24nov_landscape_thumb.jpg",
+      "language": "Hindi",
+      "category": "Game show",
+      "title": "HIN | Kaun Banega Crorepati - Season 17",
+      "url": "https://sonymtmnew.akamaized.net/hls/live/2022321/DAI17ME-KBC/master.m3u8?hdnea=exp=1764289802~acl=/*~id=b01d189fe09fec3ccfc46013db867661-1764246600124~hmac=418485bf436b792eefd899eeb4808192c48fa66164ab2868190101b68588f2e8|x-playback-session-id=e02cead14a90bf96bf22b3ec6ba2f7f3-1764256745709&User-Agent=com.sonyliv/6.22.4 (Android 15; en_GB; I2404; Build/AP3A.240905.015.A2_V000L1)",
+      "user_agent": "Unknown"
+    }
+  ]
 }
