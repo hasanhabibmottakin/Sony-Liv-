@@ -1,6 +1,6 @@
 {
   "api_made_by": "bd coder boy",
-  "updated": "Thu, 27 Nov 2025 20:53:12 GMT",
+  "updated": "Thu, 27 Nov 2025 21:12:16 GMT",
   "total_events": 1,
   "events": [
     {
@@ -10,7 +10,7 @@
       "language": "English",
       "category": "Football",
       "title": "ENG | Nott'm Forest vs Malmo - MD 5 - 28 Nov 2025",
-      "url": "https://sonymtmnew.akamaized.net/hls/live/2018458/DAI10ME-V3/master.m3u8?hdnea=exp=1764311402~acl=/*~id=b42319daaf7748c3b58f06cc3ab694d8-1764268200183~hmac=5444775cf94683f98cdc301e040ee69754eca3993eefdc8fae5a364fc52eeb1b|x-playback-session-id=76739df9739f0562a8e943032332d519-1764276664654&User-Agent=com.sonyliv/6.22.4 (Android 14; en_GB; SM-A346B; Build/UP1A.231005.007)",
+      "url": "https://sonymtmnew.akamaized.net/hls/live/2018458/DAI10ME-V3/master.m3u8?hdnea=exp=1764311402~acl=/*~id=b42319daaf7748c3b58f06cc3ab694d8-1764268200183~hmac=5444775cf94683f98cdc301e040ee69754eca3993eefdc8fae5a364fc52eeb1b|x-playback-session-id=31748cdc942a996b231fef83363dda6e-1764277923278&User-Agent=com.sonyliv/6.22.4 (Android 12; en_GB; i9100; Build/SQ29M_EN_XX_WE__DS_IN_R02_U_250726_04)",
       "user_agent": "Unknown"
     }
   ]
