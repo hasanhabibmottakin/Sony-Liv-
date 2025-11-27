@@ -1,7 +1,7 @@
 {
   "api_made_by": "bd coder boy",
-  "updated": "Thu, 27 Nov 2025 17:15:17 GMT",
-  "total_events": 1,
+  "updated": "Thu, 27 Nov 2025 17:31:58 GMT",
+  "total_events": 2,
   "events": [
     {
       "id": "1090486148",
@@ -10,7 +10,17 @@
       "language": "Hindi",
       "category": "Game show",
       "title": "HIN | Kaun Banega Crorepati - Season 17",
-      "url": "https://sonymtmnew.akamaized.net/hls/live/2022321/DAI17ME-KBC/master.m3u8?hdnea=exp=1764289802~acl=/*~id=b01d189fe09fec3ccfc46013db867661-1764246600124~hmac=418485bf436b792eefd899eeb4808192c48fa66164ab2868190101b68588f2e8|x-playback-session-id=264c851a4ae3896d2c0a66101bc92dd8-1764263524445&User-Agent=com.sonyliv/6.22.4 (Android 11; en_GB; Android TV; Build/RTM8.240401.091)",
+      "url": "https://sonymtmnew.akamaized.net/hls/live/2022321/DAI17ME-KBC/master.m3u8?hdnea=exp=1764289802~acl=/*~id=b01d189fe09fec3ccfc46013db867661-1764246600124~hmac=418485bf436b792eefd899eeb4808192c48fa66164ab2868190101b68588f2e8|x-playback-session-id=714051093d6e780f8fa1866c741ac624-1764264603452&User-Agent=com.sonyliv/6.22.4 (Android 15; en_GB; RMX3762; Build/AP3A.240905.015.A2)",
+      "user_agent": "Unknown"
+    },
+    {
+      "id": "1090496063",
+      "name": "UEFA Europa League 2025-26",
+      "logo": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000011067/1762617067219622_UEL25_md5_AstonVilla_vs_YoungBoys_landscape_thumb.jpg",
+      "language": "English",
+      "category": "Football",
+      "title": "ENG | Aston Villa vs Young Boys - MD 5 - 27 Nov 2025",
+      "url": "https://sonymtmnew.akamaized.net/hls/live/2105079/DAI08ME-V3/master.m3u8?hdnea=exp=1764289802~acl=/*~id=b01d189fe09fec3ccfc46013db867661-1764246600124~hmac=418485bf436b792eefd899eeb4808192c48fa66164ab2868190101b68588f2e8|x-playback-session-id=714051093d6e780f8fa1866c741ac624-1764264603452&User-Agent=com.sonyliv/6.22.4 (Android 12; en_GB; RMX3151; Build/SP1A.210812.016)",
       "user_agent": "Unknown"
     }
   ]
