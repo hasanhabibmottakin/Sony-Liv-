@@ -1,6 +1,6 @@
 {
   "api_made_by": "bd coder boy",
-  "updated": "Fri, 28 Nov 2025 05:35:59 GMT",
+  "updated": "Fri, 28 Nov 2025 05:47:51 GMT",
   "total_events": 1,
   "events": [
     {
@@ -10,7 +10,7 @@
       "language": "English",
       "category": "Tennis",
       "title": "ENG | Semi-Finals - Asia-Pacific Wildcard Playoff - 28 Nov 2025",
-      "url": "https://sonymtmnew.akamaized.net/hls/live/2022320/DAI16ME-V3/master.m3u8?hdnea=exp=1764333002~acl=/*~id=62588e7f3fa5332b185ae6ef002b578e-1764289800134~hmac=b634a787e046123634c19174ced1011e56194d454b318fc0b760358bf23b2b10|x-playback-session-id=ce3025ce9a5ec41b902950213a85d3a9-1764307803656&User-Agent=com.sonyliv/6.22.4 (Android 6; en_GB; X4-50Pro; Build/V2401RIN12C058049B09061S)",
+      "url": "https://sonymtmnew.akamaized.net/hls/live/2022320/DAI16ME-V3/master.m3u8?hdnea=exp=1764333002~acl=/*~id=62588e7f3fa5332b185ae6ef002b578e-1764289800134~hmac=b634a787e046123634c19174ced1011e56194d454b318fc0b760358bf23b2b10|x-playback-session-id=f670f856d2ba0bcb7b2e82b87c79a35b-1764308643640&User-Agent=com.sonyliv/6.22.4 (Android 16; en_GB; Pixel 9; Build/BP3A.250905.014)",
       "user_agent": "Unknown"
     }
   ]
