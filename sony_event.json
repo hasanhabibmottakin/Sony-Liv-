@@ -1,17 +1,6 @@
 {
   "api_made_by": "bd coder boy",
-  "updated": "Sat, 29 Nov 2025 08:17:56 GMT",
-  "total_events": 1,
-  "events": [
-    {
-      "id": "1090496280",
-      "name": "Australian Open 2026",
-      "logo": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000011860/1764262634730621_AO2026_ASIA_PACIFIC_WILDCARD_PLAYOFF_27nov_finals_landscape_thumb.jpg",
-      "language": "English",
-      "category": "Tennis",
-      "title": "ENG | Finals - Asia-Pacific Wildcard Playoff - 29 Nov 2025",
-      "url": "https://sonymtmnew.akamaized.net/hls/live/2022320/DAI16ME-V3/master.m3u8?hdnea=exp=1764441002~acl=/*~id=1bbb1f56320f40a77ccc2ce44b5ca823-1764397800153~hmac=44ef336a07134b0fb0c5dcb3c8068964727c53834bb031b5a5bff732c9d9b0c8|x-playback-session-id=60039a2ebff26c58e7c3c62c7938ad46-1764403926926&User-Agent=com.sonyliv/6.22.4 (Android 15; en_GB; 2310FPCA4G; Build/AP3A.240905.015.A2)",
-      "user_agent": "Unknown"
-    }
-  ]
+  "updated": "Sat, 29 Nov 2025 08:41:23 GMT",
+  "total_events": 0,
+  "events": []
 }
